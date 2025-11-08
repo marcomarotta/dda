@@ -2117,6 +2117,18 @@ None/proxy?url=https%3A%2F%2Fnew.newkso.ru%2Fwind%2Fpremium66%2Fmono.m3u8
 #EXTINF:-1 tvg-id="Mexico - Liga MX - Cruz Azul vs Pumas UNAM" tvg-name="05:05 Mexico - Liga MX : Cruz Azul vs Pumas UNAM - 08/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events",Univision
 None/proxy?url=https%3A%2F%2Fnew.newkso.ru%2Fnfs%2Fpremium132%2Fmono.m3u8
 
+#EXTINF:-1 tvg-id="ATP - ATHENS - Djokovic N. vs Musetti L." tvg-name="17:00 ATP - ATHENS : Djokovic N. vs Musetti L. - 08/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Athens",Tennis Stream
+None/proxy?url=https%3A%2F%2Fnew.newkso.ru%2Fwikihz%2Fwikiten8%2Fmono.m3u8
+
+#EXTINF:-1 tvg-id="ATP - METZ - Norrie C. vs Tien L." tvg-name="17:30 ATP - METZ : Norrie C. vs Tien L. - 08/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Metz",Tennis Stream
+None/proxy?url=https%3A%2F%2Fnew.newkso.ru%2Fwikihz%2Fwikiten9%2Fmono.m3u8
+
+#EXTINF:-1 tvg-id="WTA FINALS - Sabalenka A. vs Rybakina E." tvg-name="18:00 WTA FINALS : Sabalenka A. vs Rybakina E. - 08/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta Finals",Tennis Stream
+None/proxy?url=https%3A%2F%2Fnew.newkso.ru%2Fwikihz%2Fwikiten1%2Fmono.m3u8
+
+#EXTINF:-1 tvg-id="WTA FINALS - Sabalenka A. vs Rybakina E." tvg-name="18:00 WTA FINALS : Sabalenka A. vs Rybakina E. - 08/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta Finals",Tennis Stream
+None/proxy?url=https%3A%2F%2Fnew.newkso.ru%2Fwikihz%2Fwikiten2%2Fmono.m3u8
+
 #EXTINF:-1 tvg-id="WTA Tour Finals Riyadh - WTA Tour Finals Riyadh" tvg-name="17:00 WTA Tour Finals Riyadh - 08/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis",Tennis Channel
 None/proxy?url=https%3A%2F%2Fnew.newkso.ru%2Fddy6%2Fpremium40%2Fmono.m3u8
 

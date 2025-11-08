@@ -2150,6 +2150,18 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="Mexico - Liga MX - Cruz Azul vs Pumas UNAM" tvg-name="05:05 Mexico - Liga MX : Cruz Azul vs Pumas UNAM - 08/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Univision
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=132
 
+#EXTINF:-1 tvg-id="ATP - ATHENS - Djokovic N. vs Musetti L." tvg-name="17:00 ATP - ATHENS : Djokovic N. vs Musetti L. - 08/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Athens", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1508
+
+#EXTINF:-1 tvg-id="ATP - METZ - Norrie C. vs Tien L." tvg-name="17:30 ATP - METZ : Norrie C. vs Tien L. - 08/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Metz", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1509
+
+#EXTINF:-1 tvg-id="WTA FINALS - Sabalenka A. vs Rybakina E." tvg-name="18:00 WTA FINALS : Sabalenka A. vs Rybakina E. - 08/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta Finals", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1501
+
+#EXTINF:-1 tvg-id="WTA FINALS - Sabalenka A. vs Rybakina E." tvg-name="18:00 WTA FINALS : Sabalenka A. vs Rybakina E. - 08/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta Finals", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1502
+
 #EXTINF:-1 tvg-id="WTA Tour Finals Riyadh - WTA Tour Finals Riyadh" tvg-name="17:00 WTA Tour Finals Riyadh - 08/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=40
 
