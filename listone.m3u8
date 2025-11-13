@@ -30,20 +30,17 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="cine34.it" tvg-name="Cine 34 Mediaset" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Intrattenimento;Mediaset",CINE 34 MEDIASET (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/17686701870faa9fea0a38&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="dazn.it" tvg-name="Dazn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1024px-DAZN_logo.svg.png" group-title="Sport",DAZN (V)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/2745635299ab0cc043a143&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="comedycentral.it" tvg-name="Comedy Central" tvg-logo="https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj" group-title="Sky",COMEDY CENTRAL (V)
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/433893159bf516cde9a97&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="deejaytv.it" tvg-name="Deejay Tv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Altro",DEEJAY TV (V)
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="discoverychannel.it" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari;Discovery",DISCOVERY CHANNEL (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="focustv.it" tvg-name="Discovery Focus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Intrattenimento;Mediaset",DISCOVERY FOCUS (V)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/21132730647ae733a10331&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="k2.it" tvg-name="Discovery K2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini;Discovery",DISCOVERY K2 (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/3037871903561253a95659&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="nove.it" tvg-name="Discovery Nove" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari;Discovery",DISCOVERY NOVE (V)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="disney+film.it" tvg-name="Disney+ Film" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png" group-title="Film",DISNEY+ FILM (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -71,9 +68,6 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 
 #EXTINF:-1 tvg-id="hgtv.it" tvg-name="Hgtv" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Discovery",HGTV (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="history.it" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari;Sky",HISTORY (V)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="k2.it" tvg-name="K2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",K2 (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/11090349bae706bd9ec4&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -105,9 +99,6 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="premiumcrime.it" tvg-name="Premium Crime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/premium-crime-it.png" group-title="Mediaset",PREMIUM CRIME (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/444768053e397c96fc6df&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="rai1.it" tvg-name="Rai 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Intrattenimento;Rai Tv",RAI 1 (V)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/122565375973a967da4f03&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="rai2.it" tvg-name="Rai 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png" group-title="Intrattenimento;Rai Tv",RAI 2 (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/246253359a81d94887441&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -122,9 +113,6 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 
 #EXTINF:-1 tvg-id="raigulp.it" tvg-name="Rai Gulp" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Intrattenimento;Rai Tv",RAI GULP (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="raiitalia.it" tvg-name="Rai Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Intrattenimento;Rai Tv",RAI ITALIA (V)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="Rai Movie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Film;Rai Tv",RAI MOVIE (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/1925964148b9cb23cc2bce&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -147,9 +135,6 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="raistoria.it" tvg-name="Rai Storia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-storia-it.png" group-title="Intrattenimento;Rai Tv",RAI STORIA (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/57338653b83f61385a9f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="raisüdtirol.it" tvg-name="Rai Südtirol" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI SÜDTIROL (V)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/441082840c9ecc6bf454e&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="Rai Yoyo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-yoyo-it.png" group-title="Intrattenimento;Rai Tv",RAI YOYO (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -158,9 +143,6 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 
 #EXTINF:-1 tvg-id="rakutencomedymovies.it" tvg-name="Rakuten Comedy Movies" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film;Rakuten",RAKUTEN COMEDY MOVIES (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="rakutendrama.it" tvg-name="Rakuten Drama" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Rakuten",RAKUTEN DRAMA (V)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/209862439074120bb15132&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="rakutenfamily.it" tvg-name="Rakuten Family" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Rakuten",RAKUTEN FAMILY (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/3902650955a82543dc27a4&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -174,11 +156,11 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="rete4.it" tvg-name="Rete 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rete4-it.png" group-title="Mediaset",RETE 4 (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/22357320045f329c720096&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="la1.it" tvg-name="Rsi La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Altro",RSI LA 1 (V)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/22903950460d6b257bf610&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="la2.it" tvg-name="Rsi La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2 (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/3475299702c52e31a7073f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skyatlantic.it" tvg-name="Sky Atlantic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Sky",SKY ATLANTIC (V)
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/1482866609814ff0b05ac7&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="Sky Cinema Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film;Sky",SKY CINEMA ACTION (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/11441287266db50fc09b62&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -195,17 +177,20 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="skycinemadue+24.it" tvg-name="Sky Cinema Due +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film;Sky",SKY CINEMA DUE +24 (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="Sky Cinema Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film;Sky",SKY CINEMA FAMILY (V)
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/32165161175e13c1d3f56a&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="Sky Cinema Suspense" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film;Sky",SKY CINEMA SUSPENSE (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="Sky Cinema Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film;Sky",SKY CINEMA UNO (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skycinemauno+24.it" tvg-name="Sky Cinema Uno +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film;Sky",SKY CINEMA UNO +24 (V)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/16998765309700e7076450&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skyprimafila1.it" tvg-name="Sky Primafila 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 1 (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/1492183364e2c25c729efa&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skyprimafila10.it" tvg-name="Sky Primafila 10" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 10 (V)
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/2268489342059d1f4882c8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila2.it" tvg-name="Sky Primafila 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 2 (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/525374356eb78c097e6a2&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -270,9 +255,6 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Sky",SKY UNO (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/32202484989ac14421915&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="sportitalia.it" tvg-name="Sport Italia" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport;Mediaset",SPORT ITALIA (V)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/288173992763b00e6fdc82&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-name="Sport Italia (backup)" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport;Mediaset",SPORT ITALIA (BACKUP) (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/3165086929ad0bcbc4fc19&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -290,123 +272,6 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 
 #EXTINF:-1 tvg-id="wwechannel.it" tvg-name="Wwe Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="Discovery",WWE CHANNEL (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/2989824407cb0184041b08&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="unknown" tvg-name="dazn zona" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", dazn zona (D)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://dlhd.dad/watch.php?id=877
-
-#EXTINF:-1 tvg-id="eurosport1.it" tvg-name="eurosport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport", eurosport 1 (D)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="eurosport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport", eurosport 2 (D)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://dlhd.dad/watch.php?id=879
-
-#EXTINF:-1 tvg-id="italia1.it" tvg-name="italia 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset", italia 1 (D)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://dlhd.dad/watch.php?id=854
-
-#EXTINF:-1 tvg-id="la7.it" tvg-name="la7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Tv Italia", la7 (D)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://dlhd.dad/watch.php?id=855
-
-#EXTINF:-1 tvg-id="la7.it" tvg-name="la7d hd+" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Undefined", la7d hd+ (D)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://dlhd.dad/watch.php?id=856
-
-#EXTINF:-1 tvg-id="rai1.it" tvg-name="rai 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai Tv", rai 1 (D)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://dlhd.dad/watch.php?id=850
-
-#EXTINF:-1 tvg-id="rai2.it" tvg-name="rai 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png" group-title="Rai Tv", rai 2 (D)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://dlhd.dad/watch.php?id=851
-
-#EXTINF:-1 tvg-id="rai3.it" tvg-name="rai 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Rai Tv", rai 3 (D)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://dlhd.dad/watch.php?id=852
-
-#EXTINF:-1 tvg-id="unknown" tvg-name="rai 4" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", rai 4 (D)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://dlhd.dad/watch.php?id=853
-
-#EXTINF:-1 tvg-id="raisport.it" tvg-name="rai sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png" group-title="Sport", rai sport (D)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://dlhd.dad/watch.php?id=882
-
-#EXTINF:-1 tvg-id="raipremium.it" tvg-name="rai premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Rai Tv", rai premium (D)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://dlhd.dad/watch.php?id=858
-
-#EXTINF:-1 tvg-id="skysportgolf.it" tvg-name="sky sports golf" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport", sky sports golf (D)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://dlhd.dad/watch.php?id=574
-
-#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="sky sport motogp" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport", sky sport motogp (D)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://dlhd.dad/watch.php?id=575
-
-#EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="sky sport tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport", sky sport tennis (D)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="sky sport f1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport", sky sport f1 (D)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://dlhd.dad/watch.php?id=577
-
-#EXTINF:-1 tvg-id="unknown" tvg-name="sky sport max" tvg-logo="https://play-lh.googleusercontent.com/u7UNH06SU4KsMM4ZGWr7wghkJYN75PNCEMxnIYULpA__VPg8zfEOYMIAhUaIdmZnqw=w480-h960-rw" group-title="Undefined", sky sport max (D)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://dlhd.dad/watch.php?id=460
-
-#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="sky sport uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport", sky sport uno (D)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://dlhd.dad/watch.php?id=461
-
-#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="sky sport arena" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport", sky sport arena (D)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://dlhd.dad/watch.php?id=462
-
-#EXTINF:-1 tvg-id="skyuno.it" tvg-name="sky uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Sky", sky uno (D)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://dlhd.dad/watch.php?id=881
-
-#EXTINF:-1 tvg-id="skycinemacollectionhd.it" tvg-name="sky cinema collection" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Sky", sky cinema collection (D)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://dlhd.dad/watch.php?id=859
-
-#EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="sky cinema uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Sky", sky cinema uno (D)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://dlhd.dad/watch.php?id=860
-
-#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="sky cinema action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Sky", sky cinema action (D)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://dlhd.dad/watch.php?id=861
-
-#EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="sky cinema comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Sky", sky cinema comedy (D)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://dlhd.dad/watch.php?id=862
-
-#EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="sky cinema uno +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Sky", sky cinema uno +24 (D)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://dlhd.dad/watch.php?id=863
-
-#EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="sky cinema romance" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Sky", sky cinema romance (D)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://dlhd.dad/watch.php?id=864
-
-#EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="sky cinema family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Sky", sky cinema family (D)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://dlhd.dad/watch.php?id=865
-
-#EXTINF:-1 tvg-id="skycinemadue+24.it" tvg-name="sky cinema due +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Sky", sky cinema due +24 (D)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://dlhd.dad/watch.php?id=866
-
-#EXTINF:-1 tvg-id="skycinemadrama.it" tvg-name="sky cinema drama" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Sky", sky cinema drama (D)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://dlhd.dad/watch.php?id=867
-
-#EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="sky cinema suspense" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Sky", sky cinema suspense (D)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://dlhd.dad/watch.php?id=868
-
-#EXTINF:-1 tvg-id="skysport24.it" tvg-name="sky sport 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport", sky sport 24 (D)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://dlhd.dad/watch.php?id=869
-
-#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="sky sport calcio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport", sky sport calcio (D)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://dlhd.dad/watch.php?id=870
-
-#EXTINF:-1 tvg-id="skysport251.it" tvg-name="sky calcio 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-select-1-alt-de.png" group-title="Sport", sky calcio 1 (D)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://dlhd.dad/watch.php?id=871
-
-#EXTINF:-1 tvg-id="skysport252.it" tvg-name="sky calcio 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-select-2-alt-de.png" group-title="Sport", sky calcio 2 (D)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://dlhd.dad/watch.php?id=872
-
-#EXTINF:-1 tvg-id="skysport253.it" tvg-name="sky calcio 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-select-3-alt-de.png" group-title="Sport", sky calcio 3 (D)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://dlhd.dad/watch.php?id=873
-
-#EXTINF:-1 tvg-id="skysport254.it" tvg-name="sky calcio 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-select-4-alt-de.png" group-title="Sport", sky calcio 4 (D)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://dlhd.dad/watch.php?id=874
-
-#EXTINF:-1 tvg-id="unknown" tvg-name="sky sport basket" tvg-logo="https://play-lh.googleusercontent.com/u7UNH06SU4KsMM4ZGWr7wghkJYN75PNCEMxnIYULpA__VPg8zfEOYMIAhUaIdmZnqw=w480-h960-rw" group-title="Undefined", sky sport basket (D)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://dlhd.dad/watch.php?id=875
-
-#EXTINF:-1 tvg-id="skyserie.it" tvg-name="sky serie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Sky", sky serie (D)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://dlhd.dad/watch.php?id=880
-
-#EXTINF:-1 tvg-id="20mediasethd.it" tvg-name="20 mediaset" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset", 20 mediaset (D)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://dlhd.dad/watch.php?id=857
 
 #EXTINF:-1 tvg-id="dazn1.it" tvg-name="DAZN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/774px-DAZN_1_Logo.svg.png" group-title="Sport", DAZN 1 (D)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://dlhd.dad/watch.php?id=877
