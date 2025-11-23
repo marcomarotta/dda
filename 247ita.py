@@ -244,16 +244,16 @@ def parse_247_html(html_path: str):
 def search_streams(file_path, keyword):
     matches = []
     try:
-       with open(filePath, 'rb') as file:
-    content = file.read()
+        with open(file_path, 'rb') as file:
+            content = file.read()
 
-    try:
-    text = content.decode("utf-8")
-    except UnicodeDecodeError:
-    text = content.decode("latin-1", errors="ignore")
+        try:
+            text = content.decode("utf-8")
+        except UnicodeDecodeError:
+            text = content.decode("latin-1", errors="ignore")
 
-soup = BeautifulSoup(text, 'html.parser')
-            links = soup.find_all('a', href=True)
+        soup = BeautifulSoup(text, 'html.parser')
+        links = soup.find_all('a', href=True)
 
         for link in links:
             if keyword.lower() in link.text.lower():
