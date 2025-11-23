@@ -244,8 +244,15 @@ def parse_247_html(html_path: str):
 def search_streams(file_path, keyword):
     matches = []
     try:
-        with open(file_path, 'r', encoding='utf-8') as file:
-            soup = BeautifulSoup(file.read(), 'html.parser')
+       with open(filePath, 'rb') as file:
+    content = file.read()
+
+    try:
+    text = content.decode("utf-8")
+    except UnicodeDecodeError:
+    text = content.decode("latin-1", errors="ignore")
+
+soup = BeautifulSoup(text, 'html.parser')
             links = soup.find_all('a', href=True)
 
         for link in links:
