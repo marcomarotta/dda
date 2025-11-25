@@ -1,2 +1,8 @@
 #EXTM3U
 # Playlist generata da Hattrick
+#EXTINF:-1 tvg-id="" tvg-name="calcio3hd " tvg-logo="" group-title="Altro", calcio3hd (Hd)
+https://mfp2.macchetiello.uk/proxy/mpd/manifest.m3u8?api_password=Marco123&d=https%3A//g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1764164679_s~6e26e361-5fe2-4891-94b0-2fa21a5cefa9_u~207a5c3dec51a315bfeb07b8ae2a5320fae95fc289763bb8fecf240acd2497b4_l~57_x~89a9b72021eedaf78f3b89710210b2561fa19eeae0f91023c73e31386dd0a828/nowitlin1/Content/CMAF_CTR_S1/Live/channel%28skysport253%29/master_2hr-aac.mpd&key_id=1115e80ea7d280c76d8f8077f9783f03&key=d0aaf1f68b05e3c94c129320fa7160cf
+
+#EXTINF:-1 tvg-id="" tvg-name="calcio2hd " tvg-logo="" group-title="Altro", calcio2hd (Hd)
+https://mfp2.macchetiello.uk/proxy/mpd/manifest.m3u8?api_password=Marco123&d=https%3A//g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1764164588_s~66aafd2c-a6b7-41b6-ac52-4dc76f3dbcfa_u~207a5c3dec51a315bfeb07b8ae2a5320fae95fc289763bb8fecf240acd2497b4_l~57_x~1cd42553a8fc92017381c9f6adf69337694570d8ab8c7191f3e06c80be526814/nowitlin1/Content/CMAF_CTR_S1/Live/channel%28skysport252%29/master_2hr-aac.mpd&key_id=1115a2dc1dd6038edae1d1baf0246f76&key=c85b98963955f3b45382a8c01541bdc6
+
