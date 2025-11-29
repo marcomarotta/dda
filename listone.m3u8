@@ -33,9 +33,6 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="comedycentral.it" tvg-name="Comedy Central" tvg-logo="https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj" group-title="Sky",COMEDY CENTRAL (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/433893159bf516cde9a97&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="deejaytv.it" tvg-name="Deejay Tv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Altro",DEEJAY TV (V)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="discoverychannel.it" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari;Discovery",DISCOVERY CHANNEL (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -125,6 +122,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 
 #EXTINF:-1 tvg-id="raigulp.it" tvg-name="Rai Gulp" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Intrattenimento;Rai Tv",RAI GULP (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="raiitalia.it" tvg-name="Rai Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Intrattenimento;Rai Tv",RAI ITALIA (V)
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="Rai Movie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Film;Rai Tv",RAI MOVIE (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/1925964148b9cb23cc2bce&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -249,9 +249,6 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24 [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY] (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/344556251909fe0b312736&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (V)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/449990998077a7691828f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -285,26 +282,17 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Sky",SKY UNO (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/32202484989ac14421915&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="sportitalia.it" tvg-name="Sport Italia" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport;Mediaset",SPORT ITALIA (V)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/288173992763b00e6fdc82&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="sportitaliasolocalcio.it" tvg-name="Sport Italia Solo Calcio [live During Events Only]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport;Mediaset",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY] (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/83094948658201829f87a&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="supertennis.it" tvg-name="Super Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/300937751365646200d097&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="super!.it" tvg-name="Super!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/1024px-Super%21_logo_2021.svg.png" group-title="Bambini",SUPER! (V)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/2900362153b8a056cb86c0&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="tgcom24.it" tvg-name="Tg Com 24" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj" group-title="Notizie;Mediaset",TG COM 24 (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/1785098768e3514b1dbecc&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="topcrime.it" tvg-name="Top Crime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/top-crime-it.png" group-title="Discovery",TOP CRIME (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/3420407456fb80f4ceda0b&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="tv8.it" tvg-name="Tv 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/tv8-it.png" group-title="Sky",TV 8 (V)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/2706291008928411daf9bb&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="wwechannel.it" tvg-name="Wwe Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="Discovery",WWE CHANNEL (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/2989824407cb0184041b08&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -1329,6 +1317,33 @@ https://mfp2.macchetiello.uk/proxy/mpd/manifest.m3u8?api_password=Marco123&d=htt
 
 # Playlist generata da ThisNotBusiness
 # Playlist generata da SkyStreaming
+#EXTINF:-1 tvg-id="2025 Turkey Derby at Wall Stadium Speedway - 2025 Turkey Derby at Wall Stadium Speedway" tvg-name="17:45 2025 Turkey Derby at Wall Stadium Speedway - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=198
+
+#EXTINF:-1 tvg-id="Bad Blood PPV - Bad Blood PPV" tvg-name="21:00 Bad Blood PPV - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=167
+
+#EXTINF:-1 tvg-id="Full Contact Contender - FCC 44" tvg-name="21:30 Full Contact Contender : FCC 44 - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", UFC Fight Pass
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=165
+
+#EXTINF:-1 tvg-id="TNT Extreme Wrestling - Cold Day In Hell 2025" tvg-name="21:30 TNT Extreme Wrestling: Cold Day In Hell 2025 - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=164
+
+#EXTINF:-1 tvg-id="Nowhere 2 Hyde - Revolution" tvg-name="22:00 Nowhere 2 Hyde: Revolution - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=163
+
+#EXTINF:-1 tvg-id="2025 USAC Turkey Night Grand Prix at Ventura Raceway - 2025 USAC Turkey Night Grand Prix at Ventura Raceway" tvg-name="01:15 2025 USAC Turkey Night Grand Prix at Ventura Raceway - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=151
+
+#EXTINF:-1 tvg-id="WWE Survivor Series 2025 - WWE Survivor Series 2025" tvg-name="01:30 WWE Survivor Series 2025 - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", PPV Feed I
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=152
+
+#EXTINF:-1 tvg-id="WWE Survivor Series 2025 - WWE Survivor Series 2025" tvg-name="01:30 WWE Survivor Series 2025 - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", PPV Feed II
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=153
+
+#EXTINF:-1 tvg-id="ProBox Fight Night - Fight for Dignity : Justin Pauldo vs. Nike Theran" tvg-name="02:00 ProBox Fight Night: Fight for Dignity : Justin Pauldo vs. Nike Theran - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=154
+
 #EXTINF:-1 tvg-id="England - Championship - Portsmouth vs Bristol City" tvg-name="14:30 England - Championship : Portsmouth vs Bristol City - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - Championship/League One/League Two", Sky Sports+
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=167
 
@@ -3564,6 +3579,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="Miura Boxing - Luna vs. Jardon" tvg-name="04:00 Miura Boxing : Luna vs. Jardon - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Boxe", DAZN PPV
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=105
 
+#EXTINF:-1 tvg-id="ESPN KnockOut - Elijah Pierce vs. Lorenzo Parra" tvg-name="06:00 ESPN KnockOut : Elijah Pierce vs. Lorenzo Parra - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Boxe", PPV Feed
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=155
+
 #EXTINF:-1 tvg-id="ESPN KnockOut - Elijah Pierce vs. Lorenzo Parra" tvg-name="06:00 ESPN KnockOut : Elijah Pierce vs. Lorenzo Parra - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Boxe", ESPN Deportes
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=375
 
@@ -3609,6 +3627,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="World Cup Races at Copper Mountain 2nd run of the women's giant slalom - World Cup Races at Copper Mountain 2nd run of the women's giant slalom" tvg-name="21:45 World Cup Races at Copper Mountain 2nd run of the women's giant slalom - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Alpine Ski", EuroSport 1 Greece
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=41
 
+#EXTINF:-1 tvg-id="NCAAF - Toledo at Central Michigan" tvg-name="19:00 NCAAF : Toledo at Central Michigan - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=199
+
 #EXTINF:-1 tvg-id="NCAAF - No. 5 Texas Tech at West Virginia" tvg-name="19:00 NCAAF : No. 5 Texas Tech at West Virginia - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN USA
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=44
 
@@ -3651,14 +3672,149 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="NCAAF - Clemson at South Carolina" tvg-name="19:00 NCAAF : Clemson at South Carolina - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", SEC Network USA
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=385
 
+#EXTINF:-1 tvg-id="NCAAF - East Carolina at Florida Atlantic" tvg-name="19:00 NCAAF : East Carolina at Florida Atlantic - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=200
+
+#EXTINF:-1 tvg-id="NCAAF - Yale at Youngstown State (FCS First Round)" tvg-name="19:00 NCAAF : Yale at Youngstown State (FCS First Round) - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=201
+
+#EXTINF:-1 tvg-id="NCAAF - Harvard at Villanova (FCS First Round)" tvg-name="19:00 NCAAF : Harvard at Villanova (FCS First Round) - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=202
+
+#EXTINF:-1 tvg-id="NCAAF - Central Connecticut State at Rhode Island (FCS First Round)" tvg-name="19:00 NCAAF : Central Connecticut State at Rhode Island (FCS First Round) - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=203
+
+#EXTINF:-1 tvg-id="NCAAF - Assumption at Kutztown (DII Second Round)" tvg-name="19:00 NCAAF : Assumption at Kutztown (DII Second Round) - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=204
+
+#EXTINF:-1 tvg-id="NCAAF - Randolph-Macon at John Carroll (DIII Second Round)" tvg-name="19:00 NCAAF : Randolph-Macon at John Carroll (DIII Second Round) - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=205
+
+#EXTINF:-1 tvg-id="NCAAF - Wisconsin-La Crosse at Hope (DIII Second Round)" tvg-name="19:00 NCAAF : Wisconsin-La Crosse at Hope (DIII Second Round) - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=206
+
+#EXTINF:-1 tvg-id="NCAAF - Eastern at Franklin & Marshall (DIII Second Round)" tvg-name="19:00 NCAAF : Eastern at Franklin & Marshall (DIII Second Round) - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=207
+
+#EXTINF:-1 tvg-id="NCAAF - Endicott at Salisbury (DIII Second Round)" tvg-name="19:00 NCAAF : Endicott at Salisbury (DIII Second Round) - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=208
+
+#EXTINF:-1 tvg-id="NCAAF - Muhlenberg at Mount Union (DIII Second Round)" tvg-name="19:00 NCAAF : Muhlenberg at Mount Union (DIII Second Round) - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=209
+
+#EXTINF:-1 tvg-id="NCAAF - LaGrange at Berry (DIII Second Round)" tvg-name="19:00 NCAAF : LaGrange at Berry (DIII Second Round) - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=210
+
+#EXTINF:-1 tvg-id="NCAAF - Susquehanna at Christopher Newport (DIII Second Round)" tvg-name="19:00 NCAAF : Susquehanna at Christopher Newport (DIII Second Round) - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=211
+
+#EXTINF:-1 tvg-id="NCAAF - Springfield at Johns Hopkins (DIII Second Round)" tvg-name="19:00 NCAAF : Springfield at Johns Hopkins (DIII Second Round) - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=212
+
+#EXTINF:-1 tvg-id="NCAAF - Frostburg State at California (PA) (DII Second Round)" tvg-name="19:00 NCAAF : Frostburg State at California (PA) (DII Second Round) - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=213
+
 #EXTINF:-1 tvg-id="NCAAF - No. 11 BYU vs. UCF" tvg-name="20:00 NCAAF : No. 11 BYU vs. UCF - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN2 USA
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=45
+
+#EXTINF:-1 tvg-id="NCAAF - UTEP at Delaware" tvg-name="20:00 NCAAF : UTEP at Delaware - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=168
+
+#EXTINF:-1 tvg-id="NCAAF - Florida International at Sam Houston" tvg-name="20:00 NCAAF : Florida International at Sam Houston - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=169
+
+#EXTINF:-1 tvg-id="NCAAF - Lamar at Abilene Christian (FCS First Round)" tvg-name="20:00 NCAAF : Lamar at Abilene Christian (FCS First Round) - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=170
+
+#EXTINF:-1 tvg-id="NCAAF - Illinois State at SE Louisiana (FCS First Round)" tvg-name="20:00 NCAAF : Illinois State at SE Louisiana (FCS First Round) - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=171
+
+#EXTINF:-1 tvg-id="NCAAF - North Dakota at Tennessee Tech (FCS First Round)" tvg-name="20:00 NCAAF : North Dakota at Tennessee Tech (FCS First Round) - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=172
+
+#EXTINF:-1 tvg-id="NCAAF - New Hampshire at South Dakota State (FCS First Round)" tvg-name="20:00 NCAAF : New Hampshire at South Dakota State (FCS First Round) - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=173
+
+#EXTINF:-1 tvg-id="NCAAF - Drake at South Dakota (FCS First Round)" tvg-name="20:00 NCAAF : Drake at South Dakota (FCS First Round) - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=174
+
+#EXTINF:-1 tvg-id="NCAAF - Ashland at Ferris State (DII Second Round)" tvg-name="20:00 NCAAF : Ashland at Ferris State (DII Second Round) - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=175
+
+#EXTINF:-1 tvg-id="NCAAF - Benedict at Albany State (DII Second Round)" tvg-name="20:00 NCAAF : Benedict at Albany State (DII Second Round) - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=176
+
+#EXTINF:-1 tvg-id="NCAAF - Hardin-Simmons at Trinity (TX) (DIII Second Round)" tvg-name="20:00 NCAAF : Hardin-Simmons at Trinity (TX) (DIII Second Round) - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=177
+
+#EXTINF:-1 tvg-id="NCAAF - Alma at Wisconsin-Platteville (DIII Second Round)" tvg-name="20:00 NCAAF : Alma at Wisconsin-Platteville (DIII Second Round) - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=178
+
+#EXTINF:-1 tvg-id="NCAAF - DePauw at Wisconsin-Whitewater (DIII Second Round)" tvg-name="20:00 NCAAF : DePauw at Wisconsin-Whitewater (DIII Second Round) - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=179
+
+#EXTINF:-1 tvg-id="NCAAF - Monmouth (IL) at Saint John's (MN) (DIII Second Round)" tvg-name="20:00 NCAAF : Monmouth (IL) at Saint John's (MN) (DIII Second Round) - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=180
+
+#EXTINF:-1 tvg-id="NCAAF - Wheaton (IL) at Wartburg (DIII Second Round)" tvg-name="20:00 NCAAF : Wheaton (IL) at Wartburg (DIII Second Round) - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=181
+
+#EXTINF:-1 tvg-id="NCAAF - Hanover at North Central (DIII Second Round)" tvg-name="20:00 NCAAF : Hanover at North Central (DIII Second Round) - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=182
+
+#EXTINF:-1 tvg-id="NCAAF - Coe at Bethel (MN) (DIII Second Round)" tvg-name="20:00 NCAAF : Coe at Bethel (MN) (DIII Second Round) - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=183
+
+#EXTINF:-1 tvg-id="NCAAF - Newberry at West Florida (DII Second Round)" tvg-name="20:00 NCAAF : Newberry at West Florida (DII Second Round) - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=184
+
+#EXTINF:-1 tvg-id="NCAAF - Chapman at Wisconsin-River Falls (DIII Second Round)" tvg-name="20:00 NCAAF : Chapman at Wisconsin-River Falls (DIII Second Round) - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=185
+
+#EXTINF:-1 tvg-id="NCAAF - Georgia Southern at Marshall" tvg-name="20:30 NCAAF : Georgia Southern at Marshall - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=186
+
+#EXTINF:-1 tvg-id="NCAAF - Western Kentucky at Jacksonville State" tvg-name="21:00 NCAAF : Western Kentucky at Jacksonville State - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=187
+
+#EXTINF:-1 tvg-id="NCAAF - Louisiana Tech at Missouri State" tvg-name="21:00 NCAAF : Louisiana Tech at Missouri State - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=188
+
+#EXTINF:-1 tvg-id="NCAAF - Georgia State at Old Dominion" tvg-name="21:00 NCAAF : Georgia State at Old Dominion - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=189
 
 #EXTINF:-1 tvg-id="NCAAF - Grambling vs. Southern (in New Orleans)" tvg-name="21:00 NCAAF : Grambling vs. Southern (in New Orleans) - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", NBCNY USA
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=769
 
 #EXTINF:-1 tvg-id="NCAAF - Grambling vs. Southern (in New Orleans)" tvg-name="21:00 NCAAF : Grambling vs. Southern (in New Orleans) - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", NBC USA
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=53
+
+#EXTINF:-1 tvg-id="NCAAF - Pittsburg State at Harding (DII Second Round)" tvg-name="21:00 NCAAF : Pittsburg State at Harding (DII Second Round) - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=190
+
+#EXTINF:-1 tvg-id="NCAAF - Minnesota State at UIndy (DII Second Round)" tvg-name="21:00 NCAAF : Minnesota State at UIndy (DII Second Round) - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=191
+
+#EXTINF:-1 tvg-id="NCAAF - Arkansas State at Appalachian State" tvg-name="21:30 NCAAF : Arkansas State at Appalachian State - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=192
+
+#EXTINF:-1 tvg-id="NCAAF - UL Monroe at Louisiana" tvg-name="22:00 NCAAF : UL Monroe at Louisiana - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=193
+
+#EXTINF:-1 tvg-id="NCAAF - Middle Tennessee at New Mexico State" tvg-name="22:00 NCAAF : Middle Tennessee at New Mexico State - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=194
+
+#EXTINF:-1 tvg-id="NCAAF - South Alabama at Texas State" tvg-name="22:00 NCAAF : South Alabama at Texas State - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=195
+
+#EXTINF:-1 tvg-id="NCAAF - UAB at Tulsa" tvg-name="22:00 NCAAF : UAB at Tulsa - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=196
+
+#EXTINF:-1 tvg-id="NCAAF - Florida A&M at Mississippi Valley State" tvg-name="22:00 NCAAF : Florida A&M at Mississippi Valley State - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", SWAC TV USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=197
+
+#EXTINF:-1 tvg-id="NCAAF - UT Permian Basin at Western Colorado (DII Second Round)" tvg-name="22:00 NCAAF : UT Permian Basin at Western Colorado (DII Second Round) - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=199
 
 #EXTINF:-1 tvg-id="NCAAF - No. 6 Oregon at Washington" tvg-name="22:30 NCAAF : No. 6 Oregon at Washington - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", CBS USA
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=52
@@ -3702,6 +3858,12 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="NCAAF - Cincinnati at TCU" tvg-name="22:30 NCAAF : Cincinnati at TCU - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", FOXNY USA
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=768
 
+#EXTINF:-1 tvg-id="NCAAF - Troy at Southern Miss" tvg-name="22:30 NCAAF : Troy at Southern Miss - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=161
+
+#EXTINF:-1 tvg-id="NCAAF - Army at UTSA" tvg-name="22:30 NCAAF : Army at UTSA - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=162
+
 #EXTINF:-1 tvg-id="NCAAF - James Madison at Coastal Carolina" tvg-name="22:45 NCAAF : James Madison at Coastal Carolina - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPNU USA
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=316
 
@@ -3719,6 +3881,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 
 #EXTINF:-1 tvg-id="NCAAF - Maryland at Michigan State" tvg-name="02:00 NCAAF : Maryland at Michigan State - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", FS1 USA
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=39
+
+#EXTINF:-1 tvg-id="NCAAF - Rice at South Florida" tvg-name="02:00 NCAAF : Rice at South Florida - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=159
 
 #EXTINF:-1 tvg-id="NCAAF - No. 10 Alabama at Auburn" tvg-name="02:30 NCAAF : No. 10 Alabama at Auburn - 29/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ABC USA
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=51
