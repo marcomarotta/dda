@@ -1,4 +1,3 @@
 {
-  "ligatvhd": "https://mfp2.macchetiello.uk/proxy/mpd/manifest.m3u8?api_password=Marco123&d=https%3A//nog-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd&key_id=c88dc6c668cac3b468d4a4c7e176ff3d&key=1aeb739de2c14ed0ad658ca8043208d8",
-  "skysportcalciohd": "https://mfp2.macchetiello.uk/proxy/mpd/manifest.m3u8?api_password=Marco123&d=https%3A//g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1764371395_s~ddd0bb85-1b69-4225-a8be-a11ef3bd6ca0_u~207a5c3dec51a315bfeb07b8ae2a5320fae95fc289763bb8fecf240acd2497b4_l~60_x~c350bb1c03602263693a50bdb855979e6c91418566ee3c5797801229dd6966ec/nowitlin1/Content/CMAF_CTR_S1/Live/channel%28skysportcalcio%29/master_2hr-aac.mpd&key_id=111572ed048652d5f9c2d92edd99d41b&key=4afeae8224fb62348a88b9cd3fbbdaa8"
+  "ligatvhd": "https://mfp2.macchetiello.uk/proxy/mpd/manifest.m3u8?api_password=Marco123&d=https%3A//nog-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd&key_id=c88dc6c668cac3b468d4a4c7e176ff3d&key=1aeb739de2c14ed0ad658ca8043208d8"
 }
