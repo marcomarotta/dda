@@ -4002,6 +4002,10 @@
                     {
                         "channel_name": "RMC Sport 1 France",
                         "channel_id": "119"
+                    },
+                    {
+                        "channel_name": "Polsat Sport Fight Poland",
+                        "channel_id": "23"
                     }
                 ]
             }
