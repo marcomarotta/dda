@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="2025 Snocross National at Mt. Zion - 2025 Snocross National at Mt. Zion" tvg-name="22:00 2025 Snocross National at Mt. Zion - 12/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=109
+
+#EXTINF:-1 tvg-id="Pro Wrestling Revolution - Lucha Libre - San Jose, December 2025 (en Español)" tvg-name="02:00 Pro Wrestling Revolution: Lucha Libre - San Jose, December 2025 (en Español) - 12/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=55
+
 #EXTINF:-1 tvg-id="Australia - A-League - Central Coast Mariners vs Auckland" tvg-name="10:35 Australia - A-League : Central Coast Mariners vs Auckland - 12/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TNT Sports 1 UK
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=31
 
@@ -539,10 +545,13 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="Betsiti. IBA.PRO 13. - Murat Gassiev vs. Kubrat Pulev" tvg-name="18:30 Betsiti. IBA.PRO 13. : Murat Gassiev vs. Kubrat Pulev - 12/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Boxe", Canal+ Sport Poland
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=48
 
-#EXTINF:-1 tvg-id="ESPN KnockOut - Erik Miloc vs. Nahuel Garc?a" tvg-name="02:00 ESPN KnockOut : Erik Miloc vs. Nahuel Garc?a - 12/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Boxe", ESPN2 Argentina
+#EXTINF:-1 tvg-id="ESPN KnockOut - Erik Miloc vs. Nahuel Garc1a" tvg-name="02:00 ESPN KnockOut : Erik Miloc vs. Nahuel Garc1a - 12/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Boxe", PPV Feed
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=69
+
+#EXTINF:-1 tvg-id="ESPN KnockOut - Erik Miloc vs. Nahuel Garc1a" tvg-name="02:00 ESPN KnockOut : Erik Miloc vs. Nahuel Garc1a - 12/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Boxe", ESPN2 Argentina
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=150
 
-#EXTINF:-1 tvg-id="ESPN KnockOut - Erik Miloc vs. Nahuel Garc?a" tvg-name="02:00 ESPN KnockOut : Erik Miloc vs. Nahuel Garc?a - 12/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Boxe", ESPN Deportes
+#EXTINF:-1 tvg-id="ESPN KnockOut - Erik Miloc vs. Nahuel Garc1a" tvg-name="02:00 ESPN KnockOut : Erik Miloc vs. Nahuel Garc1a - 12/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Boxe", ESPN Deportes
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=375
 
 #EXTINF:-1 tvg-id="ONE Friday Fights 136 - ONE Friday Fights 136" tvg-name="14:30 ONE Friday Fights 136 - 12/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", beIN Sports USA
