@@ -2315,8 +2315,20 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="NCAA - Wichita State vs DePaul" tvg-name="19:00 NCAA : Wichita State vs DePaul - 13/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ncaa/Ncaaw Basketball", ESPNU USA
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=316
 
+#EXTINF:-1 tvg-id="NCAAF - Newberry vs. #1 Ferris State" tvg-name="19:00 NCAAF : Newberry vs. #1 Ferris State - 13/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ncaa/Ncaaw Basketball", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=190
+
+#EXTINF:-1 tvg-id="NCAAF - Susquehanna vs. Johns Hopkins" tvg-name="19:00 NCAAF : Susquehanna vs. Johns Hopkins - 13/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ncaa/Ncaaw Basketball", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=191
+
+#EXTINF:-1 tvg-id="NCAAF - John Carroll (OH) vs. Berry" tvg-name="19:00 NCAAF : John Carroll (OH) vs. Berry - 13/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ncaa/Ncaaw Basketball", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=192
+
 #EXTINF:-1 tvg-id="NCAA - George Mason vs Old Dominion" tvg-name="19:30 NCAA : George Mason vs Old Dominion - 13/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ncaa/Ncaaw Basketball", USA Network
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=343
+
+#EXTINF:-1 tvg-id="NCAAF - Bethel (MN) vs. North Central (IL)" tvg-name="20:00 NCAAF : Bethel (MN) vs. North Central (IL) - 13/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ncaa/Ncaaw Basketball", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=161
 
 #EXTINF:-1 tvg-id="NCAA - Oklahoma vs Oklahoma State" tvg-name="20:00 NCAA : Oklahoma vs Oklahoma State - 13/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ncaa/Ncaaw Basketball", FOX USA
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=54
@@ -2369,6 +2381,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="NCAA - Louisville vs Memphis" tvg-name="22:30 NCAA : Louisville vs Memphis - 13/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ncaa/Ncaaw Basketball", Sportklub 3 Croatia
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=103
 
+#EXTINF:-1 tvg-id="NCAAF - #1 Harding vs. #1 Kutztown (PA)" tvg-name="22:30 NCAAF : #1 Harding vs. #1 Kutztown (PA) - 13/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ncaa/Ncaaw Basketball", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=162
+
 #EXTINF:-1 tvg-id="NCAA - Binghamton vs Central Connecticut State" tvg-name="23:00 NCAA : Binghamton vs Central Connecticut State - 13/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ncaa/Ncaaw Basketball", SportsNet New York USA
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=759
 
@@ -2386,6 +2401,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 
 #EXTINF:-1 tvg-id="NCAA - UT Chattanooga vs Auburn" tvg-name="23:30 NCAA : UT Chattanooga vs Auburn - 13/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ncaa/Ncaaw Basketball", SEC Network USA
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=385
+
+#EXTINF:-1 tvg-id="NCAAF - UC Davis vs Illinois State" tvg-name="00:00 NCAAF : UC Davis vs Illinois State - 13/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ncaa/Ncaaw Basketball", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=163
 
 #EXTINF:-1 tvg-id="NCAA - North Carolina State vs Kansas" tvg-name="00:30 NCAA : North Carolina State vs Kansas - 13/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ncaa/Ncaaw Basketball", ESPN USA
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=44
