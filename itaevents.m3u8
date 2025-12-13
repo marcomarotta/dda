@@ -2096,29 +2096,35 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="World Cup Competition in Val dIsere 2nd run of the men's giant slalom - World Cup Competition in Val dIsere 2nd run of the men's giant slalom" tvg-name="13:45 World Cup Competition in Val dIsere 2nd run of the men's giant slalom - 13/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Alpine Ski", EuroSport 1 Greece
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=41
 
+#EXTINF:-1 tvg-id="NCAAF - Newberry vs. #1 Ferris State" tvg-name="19:00 NCAAF : Newberry vs. #1 Ferris State - 13/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=190
+
+#EXTINF:-1 tvg-id="NCAAF - Susquehanna vs. Johns Hopkins" tvg-name="19:00 NCAAF : Susquehanna vs. Johns Hopkins - 13/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=191
+
+#EXTINF:-1 tvg-id="NCAAF - John Carroll (OH) vs. Berry" tvg-name="19:00 NCAAF : John Carroll (OH) vs. Berry - 13/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=192
+
 #EXTINF:-1 tvg-id="NCAA FCS - Tarleton State University vs Villanova Wildcats" tvg-name="19:00 NCAA FCS : Tarleton State University vs Villanova Wildcats - 13/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN USA
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=44
 
-#EXTINF:-1 tvg-id="NCAA FCS - Prairie View A&amp;M vs South Carolina State" tvg-name="19:00 NCAA FCS : Prairie View A&amp;M vs South Carolina State - 13/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ABC USA
+#EXTINF:-1 tvg-id="NCAA FCS - Prairie View A&M vs South Carolina State" tvg-name="19:00 NCAA FCS : Prairie View A&M vs South Carolina State - 13/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ABC USA
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=51
 
-#EXTINF:-1 tvg-id="NCAA FCS - Prairie View A&amp;M vs South Carolina State" tvg-name="19:00 NCAA FCS : Prairie View A&amp;M vs South Carolina State - 13/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ABC NY USA
+#EXTINF:-1 tvg-id="NCAA FCS - Prairie View A&M vs South Carolina State" tvg-name="19:00 NCAA FCS : Prairie View A&M vs South Carolina State - 13/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ABC NY USA
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=766
 
-#EXTINF:-1 tvg-id="NCAA FCS - Prairie View A&amp;M vs South Carolina State" tvg-name="19:00 NCAA FCS : Prairie View A&amp;M vs South Carolina State - 13/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", TSN1
+#EXTINF:-1 tvg-id="NCAA FCS - Prairie View A&M vs South Carolina State" tvg-name="19:00 NCAA FCS : Prairie View A&M vs South Carolina State - 13/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", TSN1
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=111
 
-#EXTINF:-1 tvg-id="NCAA FCS - Prairie View A&amp;M vs South Carolina State" tvg-name="19:00 NCAA FCS : Prairie View A&amp;M vs South Carolina State - 13/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", TSN4
+#EXTINF:-1 tvg-id="NCAA FCS - Prairie View A&M vs South Carolina State" tvg-name="19:00 NCAA FCS : Prairie View A&M vs South Carolina State - 13/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", TSN4
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=114
+
+#EXTINF:-1 tvg-id="NCAAF - Bethel (MN) vs. North Central (IL)" tvg-name="20:00 NCAAF : Bethel (MN) vs. North Central (IL) - 13/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=161
 
 #EXTINF:-1 tvg-id="High School Football State Championship - Division II-A: Sonora vs. Rio Hondo Prep" tvg-name="21:30 High School Football State Championship: Division II-A: Sonora vs. Rio Hondo Prep - 13/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", Spectrum SportsNet USA
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=982
-
-#EXTINF:-1 tvg-id="NCAA FBS - Army vs Navy" tvg-name="22:00 NCAA FBS : Army vs Navy - 13/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", CBS USA
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=52
-
-#EXTINF:-1 tvg-id="NCAA FBS - Army vs Navy" tvg-name="22:00 NCAA FBS : Army vs Navy - 13/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", CBSNY USA
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=767
 
 #EXTINF:-1 tvg-id="NCAA FCS - Montana Grizzlies vs South Dakota Coyotes" tvg-name="22:30 NCAA FCS : Montana Grizzlies vs South Dakota Coyotes - 13/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ABC USA
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=51
@@ -2128,6 +2134,12 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 
 #EXTINF:-1 tvg-id="NCAA FCS - Montana Grizzlies vs South Dakota Coyotes" tvg-name="22:30 NCAA FCS : Montana Grizzlies vs South Dakota Coyotes - 13/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", TSN1
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=111
+
+#EXTINF:-1 tvg-id="NCAAF - #1 Harding vs. #1 Kutztown (PA)" tvg-name="22:30 NCAAF : #1 Harding vs. #1 Kutztown (PA) - 13/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=162
+
+#EXTINF:-1 tvg-id="NCAAF - UC Davis vs Illinois State" tvg-name="00:00 NCAAF : UC Davis vs Illinois State - 13/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=163
 
 #EXTINF:-1 tvg-id="High School Football State Championship, Division I-A - Central East vs Pacifica" tvg-name="01:30 High School Football State Championship, Division I-A: Central East vs Pacifica - 13/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", Spectrum SportsNet USA
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=982
