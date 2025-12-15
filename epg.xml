@@ -65839,9 +65839,6 @@ Justin Bieber- Sorry</desc>
   <channel id="scotlandscottishpremiershiprangersvshibernian">
     <display-name>Scotland - Scottish Premiership : Rangers vs Hibernian</display-name>
   </channel>
-  <channel id="azerbaijanpremierliqamilmuanvskarvan">
-    <display-name>Azerbaijan - Premier Liqa : Mil-Muğan vs Karvan</display-name>
-  </channel>
   <channel id="portugalligarevelaouniodeleiriau23vsfarenseu23">
     <display-name>Portugal - Liga Revelação : União de Leiria U23 vs Farense U23</display-name>
   </channel>
@@ -65938,9 +65935,6 @@ Justin Bieber- Sorry</desc>
   <channel id="internationalleaguet20sharjahwarriorsvsgulfgiants">
     <display-name>International League T20 : Sharjah Warriors vs Gulf Giants</display-name>
   </channel>
-  <channel id="nkosicupihoc25wrsavsnam">
-    <display-name>Nkosi Cup IHOC '25 (W) : RSA vs NAM</display-name>
-  </channel>
   <channel id="nkosicupihoc25mrsavsnam">
     <display-name>Nkosi Cup IHOC '25 (M) : RSA vs NAM</display-name>
   </channel>
@@ -66013,17 +66007,8 @@ Justin Bieber- Sorry</desc>
   <channel id="polandsuperligakprlegionowovsmkskalisz">
     <display-name>Poland, Superliga : KPR Legionowo vs. MKS Kalisz</display-name>
   </channel>
-  <channel id="liveracingfromaroundtheuk">
-    <display-name>Live racing from around the UK</display-name>
-  </channel>
   <channel id="liveracingfromnaas">
     <display-name>Live racing from Naas</display-name>
-  </channel>
-  <channel id="russiamhlhctaifunu20vsdynamokareliyakondopogau20">
-    <display-name>Russia MHL : HC Taifun U20 vs Dynamo-Kareliya Kondopoga U20</display-name>
-  </channel>
-  <channel id="russiamhlamurskietigryu20vsakmjuniornovomoskovsku20">
-    <display-name>Russia MHL : Amurskie Tigry U20 vs AKM-Junior Novomoskovsk U20</display-name>
   </channel>
   <channel id="russiamhldynamomoscowu20vsspartakmoscowu20">
     <display-name>Russia MHL : Dynamo Moscow U20 vs Spartak Moscow U20</display-name>
@@ -66103,16 +66088,6 @@ Justin Bieber- Sorry</desc>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Scotland - Scottish Premiership : Rangers vs Hibernian</desc>
     <category lang="it">Scottish Premiership</category>
-  </programme>
-  <programme start="20251215000000 +0200" stop="20251215120000 +0200" channel="azerbaijanpremierliqamilmuanvskarvan">
-    <title lang="it">Inizia alle 12:00.</title>
-    <desc lang="it">Azerbaijan - Premier Liqa : Mil-Muğan vs Karvan.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251215120000 +0200" stop="20251215140000 +0200" channel="azerbaijanpremierliqamilmuanvskarvan">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Azerbaijan - Premier Liqa : Mil-Muğan vs Karvan</desc>
-    <category lang="it">All Soccer Events</category>
   </programme>
   <programme start="20251215000000 +0200" stop="20251215130000 +0200" channel="portugalligarevelaouniodeleiriau23vsfarenseu23">
     <title lang="it">Inizia alle 13:00.</title>
@@ -67764,16 +67739,6 @@ Justin Bieber- Sorry</desc>
     <desc lang="it">International League T20 : Sharjah Warriors vs Gulf Giants</desc>
     <category lang="it">Cricket</category>
   </programme>
-  <programme start="20251215000000 +0200" stop="20251215113000 +0200" channel="nkosicupihoc25wrsavsnam">
-    <title lang="it">Inizia alle 11:30.</title>
-    <desc lang="it">Nkosi Cup IHOC '25 (W) : RSA vs NAM.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251215113000 +0200" stop="20251215133000 +0200" channel="nkosicupihoc25wrsavsnam">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Nkosi Cup IHOC '25 (W) : RSA vs NAM</desc>
-    <category lang="it">Field Hockey</category>
-  </programme>
   <programme start="20251215000000 +0200" stop="20251215130000 +0200" channel="nkosicupihoc25mrsavsnam">
     <title lang="it">Inizia alle 13:00.</title>
     <desc lang="it">Nkosi Cup IHOC '25 (M) : RSA vs NAM.</desc>
@@ -68214,16 +68179,6 @@ Justin Bieber- Sorry</desc>
     <desc lang="it">Poland, Superliga : KPR Legionowo vs. MKS Kalisz</desc>
     <category lang="it">Handball</category>
   </programme>
-  <programme start="20251215000000 +0200" stop="20251215123000 +0200" channel="liveracingfromaroundtheuk">
-    <title lang="it">Inizia alle 12:30.</title>
-    <desc lang="it">Live racing from around the UK.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251215123000 +0200" stop="20251215143000 +0200" channel="liveracingfromaroundtheuk">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Live racing from around the UK</desc>
-    <category lang="it">Horse Racing</category>
-  </programme>
   <programme start="20251215000000 +0200" stop="20251215143000 +0200" channel="liveracingfromnaas">
     <title lang="it">Inizia alle 14:30.</title>
     <desc lang="it">Live racing from Naas.</desc>
@@ -68233,26 +68188,6 @@ Justin Bieber- Sorry</desc>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Live racing from Naas</desc>
     <category lang="it">Horse Racing</category>
-  </programme>
-  <programme start="20251215000000 +0200" stop="20251215110000 +0200" channel="russiamhlhctaifunu20vsdynamokareliyakondopogau20">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">Russia MHL : HC Taifun U20 vs Dynamo-Kareliya Kondopoga U20.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251215110000 +0200" stop="20251215130000 +0200" channel="russiamhlhctaifunu20vsdynamokareliyakondopogau20">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Russia MHL : HC Taifun U20 vs Dynamo-Kareliya Kondopoga U20</desc>
-    <category lang="it">Ice Hockey</category>
-  </programme>
-  <programme start="20251215000000 +0200" stop="20251215110000 +0200" channel="russiamhlamurskietigryu20vsakmjuniornovomoskovsku20">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">Russia MHL : Amurskie Tigry U20 vs AKM-Junior Novomoskovsk U20.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251215110000 +0200" stop="20251215130000 +0200" channel="russiamhlamurskietigryu20vsakmjuniornovomoskovsku20">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Russia MHL : Amurskie Tigry U20 vs AKM-Junior Novomoskovsk U20</desc>
-    <category lang="it">Ice Hockey</category>
   </programme>
   <programme start="20251215000000 +0200" stop="20251215183000 +0200" channel="russiamhldynamomoscowu20vsspartakmoscowu20">
     <title lang="it">Inizia alle 18:30.</title>
