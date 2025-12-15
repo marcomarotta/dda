@@ -65871,9 +65871,6 @@ Galantis - In My Head</desc>
   <channel id="internationalleaguet20sharjahwarriorsvsgulfgiants">
     <display-name>International League T20 : Sharjah Warriors vs Gulf Giants</display-name>
   </channel>
-  <channel id="nkosicupihoc25wausvsnzl">
-    <display-name>Nkosi Cup IHOC '25 (W) : AUS vs NZL</display-name>
-  </channel>
   <channel id="nkosicupihoc25mausvsusa">
     <display-name>Nkosi Cup IHOC '25 (M) : AUS vs USA</display-name>
   </channel>
@@ -67752,16 +67749,6 @@ Galantis - In My Head</desc>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">International League T20 : Sharjah Warriors vs Gulf Giants</desc>
     <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20251215000000 +0200" stop="20251215090000 +0200" channel="nkosicupihoc25wausvsnzl">
-    <title lang="it">Inizia alle 09:00.</title>
-    <desc lang="it">Nkosi Cup IHOC '25 (W) : AUS vs NZL.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251215090000 +0200" stop="20251215110000 +0200" channel="nkosicupihoc25wausvsnzl">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Nkosi Cup IHOC '25 (W) : AUS vs NZL</desc>
-    <category lang="it">Field Hockey</category>
   </programme>
   <programme start="20251215000000 +0200" stop="20251215101000 +0200" channel="nkosicupihoc25mausvsusa">
     <title lang="it">Inizia alle 10:10.</title>
