@@ -33,9 +33,6 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="comedycentral.it" tvg-name="Comedy Central" tvg-logo="https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj" group-title="Sky",COMEDY CENTRAL (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/433893159bf516cde9a97&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="dazn.it" tvg-name="Dazn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1024px-DAZN_logo.svg.png" group-title="Sport",DAZN (V)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/2745635299ab0cc043a143&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="deejaytv.it" tvg-name="Deejay Tv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Altro",DEEJAY TV (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -125,9 +122,6 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 
 #EXTINF:-1 tvg-id="rai5.it" tvg-name="Rai 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-5-it.png" group-title="Intrattenimento;Rai Tv",RAI 5 (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/31633805432b7c33717323&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="raigulp.it" tvg-name="Rai Gulp" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Intrattenimento;Rai Tv",RAI GULP (V)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="raiitalia.it" tvg-name="Rai Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Intrattenimento;Rai Tv",RAI ITALIA (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -258,14 +252,8 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="skyprimafila9.it" tvg-name="Sky Primafila 9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 9 (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/17532606771304e2497369&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysport.it" tvg-name="Sky Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT (V)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/92466165981ba6f81de20&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24 [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY] (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/344556251909fe0b312736&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (V)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/449990998077a7691828f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
