@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="KSW 113 - Bartosiński vs. Tulshaev" tvg-name="20:00 KSW 113: Bartosiński vs. Tulshaev - 20/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", PPV Feed
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=171
 
+#EXTINF:-1 tvg-id="Misfits Mania - The Fight Before Christmas : Andrew Tate vs. Chase DeMoor" tvg-name="21:00 Misfits Mania: The Fight Before Christmas : Andrew Tate vs. Chase DeMoor - 20/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", PPV Feed
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=172
+
 #EXTINF:-1 tvg-id="Torino Boxing Show - Alessio Lorusso vs. Gerardo Valenzuela" tvg-name="21:00 Torino Boxing Show : Alessio Lorusso vs. Gerardo Valenzuela - 20/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", DAZN PPV
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=167
 
