@@ -1,5 +1,8 @@
 #EXTM3U url-tvg="https://github.com/marcomarotta/dda/raw/branch/main/epg.xml"
 
+#EXTINF:-1 tvg-id="27twentyseven.it" tvg-name="27 Twenty Seven" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/260px-Twentyseven_logo.svg.png" group-title="Mediaset",27 TWENTY SEVEN (V)
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/6087746837741766a74b3&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="animalplanet.it" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Sky",ANIMAL PLANET (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/190887752614ef25f5e1fd&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -32,9 +35,6 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 
 #EXTINF:-1 tvg-id="dazn.it" tvg-name="Dazn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1024px-DAZN_logo.svg.png" group-title="Sport",DAZN (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/2745635299ab0cc043a143&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="deejaytv.it" tvg-name="Deejay Tv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Altro",DEEJAY TV (V)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="discoverychannel.it" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari;Discovery",DISCOVERY CHANNEL (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -138,6 +138,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="raiscuola.it" tvg-name="Rai Scuola" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-scuola-it.png" group-title="Intrattenimento;Rai Tv",RAI SCUOLA (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/1886684667a4cfd0e271d1&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="raisport.it" tvg-name="Rai Sport [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png" group-title="Sport;Rai Tv",RAI SPORT [LIVE DURING EVENTS ONLY] (V)
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/55173022458f32c70e30a&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="raisport+.it" tvg-name="Rai Sport+" tvg-logo="" group-title="Sport;Rai Tv",RAI SPORT+ (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/843891896d79f7a764c19&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -180,17 +183,26 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="la2.it" tvg-name="Rsi La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2 (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/3475299702c52e31a7073f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skyarte.it" tvg-name="Sky Arte" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari;Sky",SKY ARTE (V)
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="skyatlantic.it" tvg-name="Sky Atlantic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Sky",SKY ATLANTIC (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/1482866609814ff0b05ac7&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="Sky Cinema Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film;Sky",SKY CINEMA ACTION (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/11441287266db50fc09b62&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="Sky Cinema Action (backup)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film;Sky",SKY CINEMA ACTION (BACKUP) (V)
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/2242741766a460e21385e6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="skycinemacollectionhd.it" tvg-name="Sky Cinema Collection" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film;Sky",SKY CINEMA COLLECTION (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/352583705711c4cbe44bbb&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="Sky Cinema Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film;Sky",SKY CINEMA COMEDY (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/3131104474771735b548ce&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="Sky Cinema Due" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film;Sky",SKY CINEMA DUE (V)
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemadue+24.it" tvg-name="Sky Cinema Due +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film;Sky",SKY CINEMA DUE +24 (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -203,9 +215,6 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 
 #EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="Sky Cinema Suspense" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film;Sky",SKY CINEMA SUSPENSE (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="Sky Cinema Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film;Sky",SKY CINEMA UNO (V)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemauno+24.it" tvg-name="Sky Cinema Uno +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film;Sky",SKY CINEMA UNO +24 (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/16998765309700e7076450&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -243,6 +252,12 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24 [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY] (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/344556251909fe0b312736&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (V)
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (V)
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/449990998077a7691828f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="Sky Sport Football [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY] (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/198930923100c09085a1ae&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -273,8 +288,8 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Sky",SKY UNO (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/32202484989ac14421915&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="sportitalia.it" tvg-name="Sport Italia" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport;Mediaset",SPORT ITALIA (V)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/288173992763b00e6fdc82&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="sportitalia.it" tvg-name="Sport Italia (backup)" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport;Mediaset",SPORT ITALIA (BACKUP) (V)
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/3165086929ad0bcbc4fc19&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="sportitaliasolocalcio.it" tvg-name="Sport Italia Solo Calcio [live During Events Only]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport;Mediaset",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY] (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/83094948658201829f87a&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -282,14 +297,14 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="supertennis.it" tvg-name="Super Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/300937751365646200d097&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="super!.it" tvg-name="Super!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/1024px-Super%21_logo_2021.svg.png" group-title="Bambini",SUPER! (V)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/2900362153b8a056cb86c0&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="tgcom24.it" tvg-name="Tg Com 24" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj" group-title="Notizie;Mediaset",TG COM 24 (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/1785098768e3514b1dbecc&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="topcrime.it" tvg-name="Top Crime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/top-crime-it.png" group-title="Discovery",TOP CRIME (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/3420407456fb80f4ceda0b&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="tv8.it" tvg-name="Tv 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/tv8-it.png" group-title="Sky",TV 8 (V)
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/2706291008928411daf9bb&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="wwechannel.it" tvg-name="Wwe Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="Discovery",WWE CHANNEL (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/2989824407cb0184041b08&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -1640,6 +1655,459 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 
 #EXTINF:-1 tvg-id="ABA League 2 - Sutjeska vs Jahorina" tvg-name="21:00 ABA League 2 : Sutjeska vs Jahorina - 24/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Arena Sport 1 Serbia
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=429
+
+#EXTINF:-1 tvg-id="Saudi Arabia - Pro League - Al Feiha vs Al Hazm" tvg-name="16:50 Saudi Arabia - Pro League : Al Feiha vs Al Hazm - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Thmanyah
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1
+
+#EXTINF:-1 tvg-id="Saudi Arabia - Pro League - NEOM vs Al Najma" tvg-name="19:30 Saudi Arabia - Pro League : NEOM vs Al Najma - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Thmanyah
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=2
+
+#EXTINF:-1 tvg-id="Saudi Arabia - Pro League - Al Riyadh vs Al Ittifaq" tvg-name="19:30 Saudi Arabia - Pro League : Al Riyadh vs Al Ittifaq - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Thmanyah
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=6
+
+#EXTINF:-1 tvg-id="Israel - Israel State Cup - Hapoel Tel Aviv vs Ashdod" tvg-name="20:00 Israel - Israel State Cup : Hapoel Tel Aviv vs Ashdod - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", 5Sport Israel
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=144
+
+#EXTINF:-1 tvg-id="TNA iMPACT! - TNA iMPACT!" tvg-name="03:00 TNA iMPACT! - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe (Tna)", AXS TV USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=742
+
+#EXTINF:-1 tvg-id="TNA iMPACT! - TNA iMPACT!" tvg-name="03:00 TNA iMPACT! - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe (Tna)", Sportsnet 360
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=409
+
+#EXTINF:-1 tvg-id="NFL - Washington Commanders vs Dallas Cowboys" tvg-name="20:00 NFL : Washington Commanders vs Dallas Cowboys - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", NFL Sunday Ticket
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=9
+
+#EXTINF:-1 tvg-id="NFL - Washington Commanders vs Dallas Cowboys" tvg-name="20:00 NFL : Washington Commanders vs Dallas Cowboys - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", RDS CA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=839
+
+#EXTINF:-1 tvg-id="NFL - Washington Commanders vs Dallas Cowboys" tvg-name="20:00 NFL : Washington Commanders vs Dallas Cowboys - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", TSN1
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=111
+
+#EXTINF:-1 tvg-id="NFL - Washington Commanders vs Dallas Cowboys" tvg-name="20:00 NFL : Washington Commanders vs Dallas Cowboys - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", TSN3
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=113
+
+#EXTINF:-1 tvg-id="NFL - Washington Commanders vs Dallas Cowboys" tvg-name="20:00 NFL : Washington Commanders vs Dallas Cowboys - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", CTV CA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=602
+
+#EXTINF:-1 tvg-id="NFL - Minnesota Vikings vs Detroit Lions" tvg-name="23:30 NFL : Minnesota Vikings vs Detroit Lions - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", NFL Sunday Ticket
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1
+
+#EXTINF:-1 tvg-id="NFL - Minnesota Vikings vs Detroit Lions" tvg-name="23:30 NFL : Minnesota Vikings vs Detroit Lions - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", RDS CA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=839
+
+#EXTINF:-1 tvg-id="NFL - Minnesota Vikings vs Detroit Lions" tvg-name="23:30 NFL : Minnesota Vikings vs Detroit Lions - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", TSN1
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=111
+
+#EXTINF:-1 tvg-id="NFL - Minnesota Vikings vs Detroit Lions" tvg-name="23:30 NFL : Minnesota Vikings vs Detroit Lions - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", TSN3
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=113
+
+#EXTINF:-1 tvg-id="NFL - Minnesota Vikings vs Detroit Lions" tvg-name="23:30 NFL : Minnesota Vikings vs Detroit Lions - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", TSN4
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=114
+
+#EXTINF:-1 tvg-id="NFL - Minnesota Vikings vs Detroit Lions" tvg-name="23:30 NFL : Minnesota Vikings vs Detroit Lions - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", TSN5
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=115
+
+#EXTINF:-1 tvg-id="NFL - Minnesota Vikings vs Detroit Lions" tvg-name="23:30 NFL : Minnesota Vikings vs Detroit Lions - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", CTV CA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=602
+
+#EXTINF:-1 tvg-id="NFL - Kansas City Chiefs vs Denver Broncos" tvg-name="03:15 NFL : Kansas City Chiefs vs Denver Broncos - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", NFL Sunday Ticket
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=2
+
+#EXTINF:-1 tvg-id="NFL - Kansas City Chiefs vs Denver Broncos" tvg-name="03:15 NFL : Kansas City Chiefs vs Denver Broncos - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", RDS CA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=839
+
+#EXTINF:-1 tvg-id="NFL - Kansas City Chiefs vs Denver Broncos" tvg-name="03:15 NFL : Kansas City Chiefs vs Denver Broncos - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", TSN1
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=111
+
+#EXTINF:-1 tvg-id="NFL - Kansas City Chiefs vs Denver Broncos" tvg-name="03:15 NFL : Kansas City Chiefs vs Denver Broncos - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", TSN3
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=113
+
+#EXTINF:-1 tvg-id="NFL - Kansas City Chiefs vs Denver Broncos" tvg-name="03:15 NFL : Kansas City Chiefs vs Denver Broncos - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", TSN4
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=114
+
+#EXTINF:-1 tvg-id="NFL - Kansas City Chiefs vs Denver Broncos" tvg-name="03:15 NFL : Kansas City Chiefs vs Denver Broncos - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", TSN5
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=115
+
+#EXTINF:-1 tvg-id="NFL - Kansas City Chiefs vs Denver Broncos" tvg-name="03:15 NFL : Kansas City Chiefs vs Denver Broncos - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", CTV CA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=602
+
+#EXTINF:-1 tvg-id="NFL - Kansas City Chiefs vs Denver Broncos" tvg-name="03:15 NFL : Kansas City Chiefs vs Denver Broncos - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", Sky Sports NFL UK
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=37
+
+#EXTINF:-1 tvg-id="NFL - Kansas City Chiefs vs Denver Broncos" tvg-name="03:15 NFL : Kansas City Chiefs vs Denver Broncos - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", Sky Sports Main Event
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=38
+
+#EXTINF:-1 tvg-id="NFL - Kansas City Chiefs vs Denver Broncos" tvg-name="03:15 NFL : Kansas City Chiefs vs Denver Broncos - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", beIN Sports 2 France
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=117
+
+#EXTINF:-1 tvg-id="NFL - Kansas City Chiefs vs Denver Broncos" tvg-name="03:15 NFL : Kansas City Chiefs vs Denver Broncos - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", ESPN 2 NL
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=386
+
+#EXTINF:-1 tvg-id="NFL - Kansas City Chiefs vs Denver Broncos" tvg-name="03:15 NFL : Kansas City Chiefs vs Denver Broncos - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", Nova SPORT 2 CZ
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1022
+
+#EXTINF:-1 tvg-id="NFL - Kansas City Chiefs vs Denver Broncos" tvg-name="03:15 NFL : Kansas City Chiefs vs Denver Broncos - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", Arena Premium 2 Serbia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=135
+
+#EXTINF:-1 tvg-id="NFL - Kansas City Chiefs vs Denver Broncos" tvg-name="03:15 NFL : Kansas City Chiefs vs Denver Broncos - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", DAZN Eleven 1 Portugal
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=455
+
+#EXTINF:-1 tvg-id="NFL - Kansas City Chiefs vs Denver Broncos" tvg-name="03:15 NFL : Kansas City Chiefs vs Denver Broncos - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", Arena Sport 1 Croatia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=433
+
+#EXTINF:-1 tvg-id="NFL - Kansas City Chiefs vs Denver Broncos" tvg-name="03:15 NFL : Kansas City Chiefs vs Denver Broncos - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", SporTV Brasil
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=78
+
+#EXTINF:-1 tvg-id="NFL - Kansas City Chiefs vs Denver Broncos" tvg-name="03:15 NFL : Kansas City Chiefs vs Denver Broncos - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", Cosmote Sport 9 Greece
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=630
+
+#EXTINF:-1 tvg-id="Australian League - Sydney vs llawara" tvg-name="11:30 Australian League : Sydney vs llawara - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sportklub 1 Croatia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=101
+
+#EXTINF:-1 tvg-id="Russia United League - Parma Permsky Kray vs Enisey Krasnoyarsk" tvg-name="16:30 Russia United League : Parma Permsky Kray vs Enisey Krasnoyarsk - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Match Igra Russia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=5
+
+#EXTINF:-1 tvg-id="ABA League 2 - Borac vs TFT Skopje" tvg-name="19:00 ABA League 2 : Borac vs TFT Skopje - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Arena Sport 1 Serbia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=429
+
+#EXTINF:-1 tvg-id="United Cup - PBC Lokomotiv-Kuban vs CSKA Moscow" tvg-name="19:00 United Cup : PBC Lokomotiv-Kuban vs CSKA Moscow - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Match Igra Russia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=5
+
+#EXTINF:-1 tvg-id="United Cup - PBC Lokomotiv-Kuban vs CSKA Moscow" tvg-name="19:00 United Cup : PBC Lokomotiv-Kuban vs CSKA Moscow - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Arena 2 Premium Serbia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=135
+
+#EXTINF:-1 tvg-id="NBA - New York Knicks vs Cleveland Cavaliers" tvg-name="19:00 NBA : New York Knicks vs Cleveland Cavaliers - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBA League Pass
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=3
+
+#EXTINF:-1 tvg-id="NBA - New York Knicks vs Cleveland Cavaliers" tvg-name="19:00 NBA : New York Knicks vs Cleveland Cavaliers - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", ABC USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=51
+
+#EXTINF:-1 tvg-id="NBA - New York Knicks vs Cleveland Cavaliers" tvg-name="19:00 NBA : New York Knicks vs Cleveland Cavaliers - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", ABC NY USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=766
+
+#EXTINF:-1 tvg-id="NBA - New York Knicks vs Cleveland Cavaliers" tvg-name="19:00 NBA : New York Knicks vs Cleveland Cavaliers - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", ESPN USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=44
+
+#EXTINF:-1 tvg-id="NBA - New York Knicks vs Cleveland Cavaliers" tvg-name="19:00 NBA : New York Knicks vs Cleveland Cavaliers - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", ESPN2 USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=45
+
+#EXTINF:-1 tvg-id="NBA - New York Knicks vs Cleveland Cavaliers" tvg-name="19:00 NBA : New York Knicks vs Cleveland Cavaliers - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sky Sports+ UK
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=36
+
+#EXTINF:-1 tvg-id="NBA - New York Knicks vs Cleveland Cavaliers" tvg-name="19:00 NBA : New York Knicks vs Cleveland Cavaliers - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sky Sports Main Event UK
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=38
+
+#EXTINF:-1 tvg-id="NBA - New York Knicks vs Cleveland Cavaliers" tvg-name="19:00 NBA : New York Knicks vs Cleveland Cavaliers - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sky Sport Mix DE
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=557
+
+#EXTINF:-1 tvg-id="NBA - New York Knicks vs Cleveland Cavaliers" tvg-name="19:00 NBA : New York Knicks vs Cleveland Cavaliers - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sky Sport Top Event DE
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=556
+
+#EXTINF:-1 tvg-id="NBA - New York Knicks vs Cleveland Cavaliers" tvg-name="19:00 NBA : New York Knicks vs Cleveland Cavaliers - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", TSN5
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=115
+
+#EXTINF:-1 tvg-id="NBA - New York Knicks vs Cleveland Cavaliers" tvg-name="19:00 NBA : New York Knicks vs Cleveland Cavaliers - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", TSN4
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=114
+
+#EXTINF:-1 tvg-id="NBA - New York Knicks vs Cleveland Cavaliers" tvg-name="19:00 NBA : New York Knicks vs Cleveland Cavaliers - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Nova SPORT 1 CZ
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1021
+
+#EXTINF:-1 tvg-id="NBA - New York Knicks vs Cleveland Cavaliers" tvg-name="19:00 NBA : New York Knicks vs Cleveland Cavaliers - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", beIN Sports 1 France
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=116
+
+#EXTINF:-1 tvg-id="NBA - New York Knicks vs Cleveland Cavaliers" tvg-name="19:00 NBA : New York Knicks vs Cleveland Cavaliers - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", ESPN Deportes
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=375
+
+#EXTINF:-1 tvg-id="NBA - New York Knicks vs Cleveland Cavaliers" tvg-name="19:00 NBA : New York Knicks vs Cleveland Cavaliers - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", ESPN 1 NL
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=379
+
+#EXTINF:-1 tvg-id="NBA - New York Knicks vs Cleveland Cavaliers" tvg-name="19:00 NBA : New York Knicks vs Cleveland Cavaliers - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", ESPN 2 Mexico
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=926
+
+#EXTINF:-1 tvg-id="NBA - New York Knicks vs Cleveland Cavaliers" tvg-name="19:00 NBA : New York Knicks vs Cleveland Cavaliers - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Cosmote Sport 4 Greece
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=625
+
+#EXTINF:-1 tvg-id="NBA - New York Knicks vs Cleveland Cavaliers" tvg-name="19:00 NBA : New York Knicks vs Cleveland Cavaliers - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Arena 1 Premium Serbia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=134
+
+#EXTINF:-1 tvg-id="NBA - New York Knicks vs Cleveland Cavaliers" tvg-name="19:00 NBA : New York Knicks vs Cleveland Cavaliers - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", 6 eren Denmark
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=800
+
+#EXTINF:-1 tvg-id="NBA - New York Knicks vs Cleveland Cavaliers" tvg-name="19:00 NBA : New York Knicks vs Cleveland Cavaliers - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", ESPN2 BR
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=82
+
+#EXTINF:-1 tvg-id="NBA - New York Knicks vs Cleveland Cavaliers" tvg-name="19:00 NBA : New York Knicks vs Cleveland Cavaliers - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", ESPN Argentina
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=149
+
+#EXTINF:-1 tvg-id="NBA - New York Knicks vs Cleveland Cavaliers" tvg-name="19:00 NBA : New York Knicks vs Cleveland Cavaliers - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sportklub 1 Croatia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=101
+
+#EXTINF:-1 tvg-id="NBA - New York Knicks vs Cleveland Cavaliers" tvg-name="19:00 NBA : New York Knicks vs Cleveland Cavaliers - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", beIN SPORTS MENA 8
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=98
+
+#EXTINF:-1 tvg-id="NBA - New York Knicks vs Cleveland Cavaliers" tvg-name="19:00 NBA : New York Knicks vs Cleveland Cavaliers - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", beIN SPORTS MENA English 1
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=61
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs San Antonio Spurs" tvg-name="21:30 NBA : Oklahoma City Thunder vs San Antonio Spurs - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBA League Pass
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs San Antonio Spurs" tvg-name="21:30 NBA : Oklahoma City Thunder vs San Antonio Spurs - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", ABC USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=51
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs San Antonio Spurs" tvg-name="21:30 NBA : Oklahoma City Thunder vs San Antonio Spurs - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", ABC NY USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=766
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs San Antonio Spurs" tvg-name="21:30 NBA : Oklahoma City Thunder vs San Antonio Spurs - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", ESPN USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=44
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs San Antonio Spurs" tvg-name="21:30 NBA : Oklahoma City Thunder vs San Antonio Spurs - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sky Sports+ UK
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=36
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs San Antonio Spurs" tvg-name="21:30 NBA : Oklahoma City Thunder vs San Antonio Spurs - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sky Sports Main Event UK
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=38
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs San Antonio Spurs" tvg-name="21:30 NBA : Oklahoma City Thunder vs San Antonio Spurs - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", TSN4
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=114
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs San Antonio Spurs" tvg-name="21:30 NBA : Oklahoma City Thunder vs San Antonio Spurs - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", TSN5
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=115
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs San Antonio Spurs" tvg-name="21:30 NBA : Oklahoma City Thunder vs San Antonio Spurs - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sky Sport Mix DE
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=557
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs San Antonio Spurs" tvg-name="21:30 NBA : Oklahoma City Thunder vs San Antonio Spurs - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sky Sport Top Event DE
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=556
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs San Antonio Spurs" tvg-name="21:30 NBA : Oklahoma City Thunder vs San Antonio Spurs - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Nova SPORT 1 CZ
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1021
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs San Antonio Spurs" tvg-name="21:30 NBA : Oklahoma City Thunder vs San Antonio Spurs - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", beIN Sports 1 France
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=116
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs San Antonio Spurs" tvg-name="21:30 NBA : Oklahoma City Thunder vs San Antonio Spurs - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", ESPN Deportes
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=375
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs San Antonio Spurs" tvg-name="21:30 NBA : Oklahoma City Thunder vs San Antonio Spurs - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", ESPN 1 NL
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=379
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs San Antonio Spurs" tvg-name="21:30 NBA : Oklahoma City Thunder vs San Antonio Spurs - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", ESPN 2 Mexico
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=926
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs San Antonio Spurs" tvg-name="21:30 NBA : Oklahoma City Thunder vs San Antonio Spurs - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Cosmote Sport 7 Greece
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=628
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs San Antonio Spurs" tvg-name="21:30 NBA : Oklahoma City Thunder vs San Antonio Spurs - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", ESPN2 BR
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=82
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs San Antonio Spurs" tvg-name="21:30 NBA : Oklahoma City Thunder vs San Antonio Spurs - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", ESPN Argentina
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=149
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs San Antonio Spurs" tvg-name="21:30 NBA : Oklahoma City Thunder vs San Antonio Spurs - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Arena 1 Premium Serbia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=134
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs San Antonio Spurs" tvg-name="21:30 NBA : Oklahoma City Thunder vs San Antonio Spurs - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sportklub 1 Croatia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=101
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs San Antonio Spurs" tvg-name="21:30 NBA : Oklahoma City Thunder vs San Antonio Spurs - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", beIN SPORTS MENA 8
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=98
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs San Antonio Spurs" tvg-name="21:30 NBA : Oklahoma City Thunder vs San Antonio Spurs - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", beIN SPORTS MENA English 1
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=61
+
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors vs Dallas Mavericks" tvg-name="00:00 NBA : Golden State Warriors vs Dallas Mavericks - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBA League Pass
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=5
+
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors vs Dallas Mavericks" tvg-name="00:00 NBA : Golden State Warriors vs Dallas Mavericks - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", ABC USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=51
+
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors vs Dallas Mavericks" tvg-name="00:00 NBA : Golden State Warriors vs Dallas Mavericks - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", ABC NY USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=766
+
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors vs Dallas Mavericks" tvg-name="00:00 NBA : Golden State Warriors vs Dallas Mavericks - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", ESPN USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=44
+
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors vs Dallas Mavericks" tvg-name="00:00 NBA : Golden State Warriors vs Dallas Mavericks - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sky Sports+ UK
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=36
+
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors vs Dallas Mavericks" tvg-name="00:00 NBA : Golden State Warriors vs Dallas Mavericks - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Nova SPORT 1 CZ
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1021
+
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors vs Dallas Mavericks" tvg-name="00:00 NBA : Golden State Warriors vs Dallas Mavericks - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", ESPN Deportes
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=375
+
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors vs Dallas Mavericks" tvg-name="00:00 NBA : Golden State Warriors vs Dallas Mavericks - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sky Sports Main Event UK
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=38
+
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors vs Dallas Mavericks" tvg-name="00:00 NBA : Golden State Warriors vs Dallas Mavericks - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sky Sport Mix DE
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=557
+
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors vs Dallas Mavericks" tvg-name="00:00 NBA : Golden State Warriors vs Dallas Mavericks - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sportsnet One
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=411
+
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors vs Dallas Mavericks" tvg-name="00:00 NBA : Golden State Warriors vs Dallas Mavericks - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sportsnet West
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=407
+
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors vs Dallas Mavericks" tvg-name="00:00 NBA : Golden State Warriors vs Dallas Mavericks - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sportsnet East
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=408
+
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors vs Dallas Mavericks" tvg-name="00:00 NBA : Golden State Warriors vs Dallas Mavericks - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sportsnet Ontario
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=406
+
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors vs Dallas Mavericks" tvg-name="00:00 NBA : Golden State Warriors vs Dallas Mavericks - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sky Sport Top Event DE
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=556
+
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors vs Dallas Mavericks" tvg-name="00:00 NBA : Golden State Warriors vs Dallas Mavericks - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", beIN Sports 1 France
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=116
+
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors vs Dallas Mavericks" tvg-name="00:00 NBA : Golden State Warriors vs Dallas Mavericks - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", ESPN 1 NL
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=379
+
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors vs Dallas Mavericks" tvg-name="00:00 NBA : Golden State Warriors vs Dallas Mavericks - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", ESPN 2 Mexico
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=926
+
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors vs Dallas Mavericks" tvg-name="00:00 NBA : Golden State Warriors vs Dallas Mavericks - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", ESPN2 BR
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=82
+
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors vs Dallas Mavericks" tvg-name="00:00 NBA : Golden State Warriors vs Dallas Mavericks - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Arena 1 Premium Serbia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=134
+
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors vs Dallas Mavericks" tvg-name="00:00 NBA : Golden State Warriors vs Dallas Mavericks - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", ESPN Argentina
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=149
+
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors vs Dallas Mavericks" tvg-name="00:00 NBA : Golden State Warriors vs Dallas Mavericks - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Cosmote Sport 4 Greece
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=625
+
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors vs Dallas Mavericks" tvg-name="00:00 NBA : Golden State Warriors vs Dallas Mavericks - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sportklub 1 Croatia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=101
+
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors vs Dallas Mavericks" tvg-name="00:00 NBA : Golden State Warriors vs Dallas Mavericks - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", beIN SPORTS MENA 8
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=98
+
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors vs Dallas Mavericks" tvg-name="00:00 NBA : Golden State Warriors vs Dallas Mavericks - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", beIN SPORTS MENA English 1
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=61
+
+#EXTINF:-1 tvg-id="NBA - Los Angeles Lakers vs Houston Rockets" tvg-name="03:00 NBA : Los Angeles Lakers vs Houston Rockets - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBA League Pass
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=6
+
+#EXTINF:-1 tvg-id="NBA - Los Angeles Lakers vs Houston Rockets" tvg-name="03:00 NBA : Los Angeles Lakers vs Houston Rockets - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", ABC USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=51
+
+#EXTINF:-1 tvg-id="NBA - Los Angeles Lakers vs Houston Rockets" tvg-name="03:00 NBA : Los Angeles Lakers vs Houston Rockets - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", ABC NY USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=766
+
+#EXTINF:-1 tvg-id="NBA - Los Angeles Lakers vs Houston Rockets" tvg-name="03:00 NBA : Los Angeles Lakers vs Houston Rockets - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", ESPN USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=44
+
+#EXTINF:-1 tvg-id="NBA - Los Angeles Lakers vs Houston Rockets" tvg-name="03:00 NBA : Los Angeles Lakers vs Houston Rockets - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sportsnet West
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=407
+
+#EXTINF:-1 tvg-id="NBA - Los Angeles Lakers vs Houston Rockets" tvg-name="03:00 NBA : Los Angeles Lakers vs Houston Rockets - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sportsnet East
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=408
+
+#EXTINF:-1 tvg-id="NBA - Los Angeles Lakers vs Houston Rockets" tvg-name="03:00 NBA : Los Angeles Lakers vs Houston Rockets - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sportsnet Ontario
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=406
+
+#EXTINF:-1 tvg-id="NBA - Los Angeles Lakers vs Houston Rockets" tvg-name="03:00 NBA : Los Angeles Lakers vs Houston Rockets - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sportsnet One
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=411
+
+#EXTINF:-1 tvg-id="NBA - Los Angeles Lakers vs Houston Rockets" tvg-name="03:00 NBA : Los Angeles Lakers vs Houston Rockets - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sky Sport Mix DE
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=557
+
+#EXTINF:-1 tvg-id="NBA - Los Angeles Lakers vs Houston Rockets" tvg-name="03:00 NBA : Los Angeles Lakers vs Houston Rockets - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sky Sport Top Event DE
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=556
+
+#EXTINF:-1 tvg-id="NBA - Los Angeles Lakers vs Houston Rockets" tvg-name="03:00 NBA : Los Angeles Lakers vs Houston Rockets - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", beIN Sports 1 France
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=116
+
+#EXTINF:-1 tvg-id="NBA - Los Angeles Lakers vs Houston Rockets" tvg-name="03:00 NBA : Los Angeles Lakers vs Houston Rockets - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", ESPN Deportes
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=375
+
+#EXTINF:-1 tvg-id="NBA - Los Angeles Lakers vs Houston Rockets" tvg-name="03:00 NBA : Los Angeles Lakers vs Houston Rockets - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", ESPN 1 NL
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=379
+
+#EXTINF:-1 tvg-id="NBA - Los Angeles Lakers vs Houston Rockets" tvg-name="03:00 NBA : Los Angeles Lakers vs Houston Rockets - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", ESPN 2 Mexico
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=926
+
+#EXTINF:-1 tvg-id="NBA - Los Angeles Lakers vs Houston Rockets" tvg-name="03:00 NBA : Los Angeles Lakers vs Houston Rockets - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", ESPN2 BR
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=82
+
+#EXTINF:-1 tvg-id="NBA - Los Angeles Lakers vs Houston Rockets" tvg-name="03:00 NBA : Los Angeles Lakers vs Houston Rockets - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Cosmote Sport 7 Greece
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=628
+
+#EXTINF:-1 tvg-id="NBA - Los Angeles Lakers vs Houston Rockets" tvg-name="03:00 NBA : Los Angeles Lakers vs Houston Rockets - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", ESPN Argentina
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=149
+
+#EXTINF:-1 tvg-id="NBA - Los Angeles Lakers vs Houston Rockets" tvg-name="03:00 NBA : Los Angeles Lakers vs Houston Rockets - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sportklub 1 Croatia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=101
+
+#EXTINF:-1 tvg-id="NBA - Los Angeles Lakers vs Houston Rockets" tvg-name="03:00 NBA : Los Angeles Lakers vs Houston Rockets - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Arena 1 Premium Serbia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=134
+
+#EXTINF:-1 tvg-id="NBA - Los Angeles Lakers vs Houston Rockets" tvg-name="03:00 NBA : Los Angeles Lakers vs Houston Rockets - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", beIN SPORTS MENA 8
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=98
+
+#EXTINF:-1 tvg-id="NBA - Los Angeles Lakers vs Houston Rockets" tvg-name="03:00 NBA : Los Angeles Lakers vs Houston Rockets - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", beIN SPORTS MENA English 1
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=61
+
+#EXTINF:-1 tvg-id="NBA - Denver Nuggets vs Minnesota Timberwolves" tvg-name="05:30 NBA : Denver Nuggets vs Minnesota Timberwolves - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBA League Pass
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=7
+
+#EXTINF:-1 tvg-id="NBA - Denver Nuggets vs Minnesota Timberwolves" tvg-name="05:30 NBA : Denver Nuggets vs Minnesota Timberwolves - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", ABC USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=51
+
+#EXTINF:-1 tvg-id="NBA - Denver Nuggets vs Minnesota Timberwolves" tvg-name="05:30 NBA : Denver Nuggets vs Minnesota Timberwolves - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", ABC NY USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=766
+
+#EXTINF:-1 tvg-id="NBA - Denver Nuggets vs Minnesota Timberwolves" tvg-name="05:30 NBA : Denver Nuggets vs Minnesota Timberwolves - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", ESPN USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=44
+
+#EXTINF:-1 tvg-id="NBA - Denver Nuggets vs Minnesota Timberwolves" tvg-name="05:30 NBA : Denver Nuggets vs Minnesota Timberwolves - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sky Sports+ UK
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=36
+
+#EXTINF:-1 tvg-id="NBA - Denver Nuggets vs Minnesota Timberwolves" tvg-name="05:30 NBA : Denver Nuggets vs Minnesota Timberwolves - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sky Sports Main Event UK
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=38
+
+#EXTINF:-1 tvg-id="NBA - Denver Nuggets vs Minnesota Timberwolves" tvg-name="05:30 NBA : Denver Nuggets vs Minnesota Timberwolves - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sportsnet One
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=411
+
+#EXTINF:-1 tvg-id="NBA - Denver Nuggets vs Minnesota Timberwolves" tvg-name="05:30 NBA : Denver Nuggets vs Minnesota Timberwolves - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sportsnet West
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=407
+
+#EXTINF:-1 tvg-id="NBA - Denver Nuggets vs Minnesota Timberwolves" tvg-name="05:30 NBA : Denver Nuggets vs Minnesota Timberwolves - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sportsnet East
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=408
+
+#EXTINF:-1 tvg-id="NBA - Denver Nuggets vs Minnesota Timberwolves" tvg-name="05:30 NBA : Denver Nuggets vs Minnesota Timberwolves - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sportsnet Ontario
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=406
+
+#EXTINF:-1 tvg-id="NBA - Denver Nuggets vs Minnesota Timberwolves" tvg-name="05:30 NBA : Denver Nuggets vs Minnesota Timberwolves - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", ESPN 1 NL
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=379
+
+#EXTINF:-1 tvg-id="NBA - Denver Nuggets vs Minnesota Timberwolves" tvg-name="05:30 NBA : Denver Nuggets vs Minnesota Timberwolves - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", beIN Sports 1 France
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=116
+
+#EXTINF:-1 tvg-id="NBA - Denver Nuggets vs Minnesota Timberwolves" tvg-name="05:30 NBA : Denver Nuggets vs Minnesota Timberwolves - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Arena 1 Premium Serbia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=134
+
+#EXTINF:-1 tvg-id="NBA - Denver Nuggets vs Minnesota Timberwolves" tvg-name="05:30 NBA : Denver Nuggets vs Minnesota Timberwolves - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", ESPN Deportes
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=375
+
+#EXTINF:-1 tvg-id="NBA - Denver Nuggets vs Minnesota Timberwolves" tvg-name="05:30 NBA : Denver Nuggets vs Minnesota Timberwolves - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Cosmote Sport 4 Greece
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=625
+
+#EXTINF:-1 tvg-id="NBA - Denver Nuggets vs Minnesota Timberwolves" tvg-name="05:30 NBA : Denver Nuggets vs Minnesota Timberwolves - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sportklub 1 Croatia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=101
+
+#EXTINF:-1 tvg-id="NBA - Denver Nuggets vs Minnesota Timberwolves" tvg-name="05:30 NBA : Denver Nuggets vs Minnesota Timberwolves - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", beIN SPORTS MENA 8
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=98
+
+#EXTINF:-1 tvg-id="NBA - Denver Nuggets vs Minnesota Timberwolves" tvg-name="05:30 NBA : Denver Nuggets vs Minnesota Timberwolves - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", beIN SPORTS MENA English 1
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=61
+
+#EXTINF:-1 tvg-id="Russian Super Cup - Lokomotiv vs Dynamo" tvg-name="15:00 Russian Super Cup : Lokomotiv vs Dynamo - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Match TV Russia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=127
+
+#EXTINF:-1 tvg-id="Russian Super Cup - Zenit vs Zenit Kazan" tvg-name="18:00 Russian Super Cup : Zenit vs Zenit Kazan - 25/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Match TV Russia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=127
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612e05b885183d0007958101/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
