@@ -1739,6 +1739,18 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="Liga SportZone - FC Famalicao vs. CRC Quinta Lombos" tvg-name="22:00 Liga SportZone : FC Famalicao vs. CRC Quinta Lombos - 27/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Futsal", Canal 11 Portugal
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=540
 
+#EXTINF:-1 tvg-id="Spengler Cup - IFK Helsinki vs Sparta Prague" tvg-name="16:05 Spengler Cup : IFK Helsinki vs Sparta Prague - 27/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Spengler Cup", TSN2
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=112
+
+#EXTINF:-1 tvg-id="Spengler Cup - IFK Helsinki vs Sparta Prague" tvg-name="16:05 Spengler Cup : IFK Helsinki vs Sparta Prague - 27/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Spengler Cup", Polsat Sport 1 Poland
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=47
+
+#EXTINF:-1 tvg-id="Spengler Cup - Davos vs Collegiate Selects" tvg-name="21:15 Spengler Cup : Davos vs Collegiate Selects - 27/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Spengler Cup", TSN2
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=112
+
+#EXTINF:-1 tvg-id="Spengler Cup - Davos vs Collegiate Selects" tvg-name="21:15 Spengler Cup : Davos vs Collegiate Selects - 27/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Spengler Cup", Polsat Sport 1 Poland
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=47
+
 #EXTINF:-1 tvg-id="NHL - New York Rangers vs New York Islanders" tvg-name="01:00 NHL : New York Rangers vs New York Islanders - 27/12/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", NHL Gamecenter
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=14
 
