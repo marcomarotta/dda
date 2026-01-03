@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="2026 Tulsa Shootout - 2026 Tulsa Shootout" tvg-name="18:00 2026 Tulsa Shootout - 03/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=108
+
+#EXTINF:-1 tvg-id="True Grit TV - The Road To The Rumble - Survival Series Match" tvg-name="21:00 True Grit TV: The Road To The Rumble - Survival Series Match - 03/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=109
+
+#EXTINF:-1 tvg-id="Awesome Championship Wrestling (ACW) - Poughkeepsie Rumble 2026" tvg-name="01:30 Awesome Championship Wrestling (ACW): Poughkeepsie Rumble 2026 - 03/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=106
+
+#EXTINF:-1 tvg-id="GCW - One Night Only 2026" tvg-name="03:00 GCW: One Night Only 2026 - 03/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=107
+
 #EXTINF:-1 tvg-id="Scotland - Scottish Premiership - Motherwell vs St. Mirren" tvg-name="17:00 Scotland - Scottish Premiership : Motherwell vs St. Mirren - 03/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Scottish Premiership", SPFL Feed
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=25
 
@@ -710,6 +722,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="Africa Cup of Nations - Senegal vs Sudan" tvg-name="18:00 Africa Cup of Nations : Senegal vs Sudan - 03/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sportdigital FUSSBALL DE
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=571
 
+#EXTINF:-1 tvg-id="Africa Cup of Nations - Senegal vs Sudan" tvg-name="18:00 Africa Cup of Nations : Senegal vs Sudan - 03/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", beIN SPORTS MAX AR
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=597
+
 #EXTINF:-1 tvg-id="Africa Cup of Nations - Senegal vs Sudan" tvg-name="18:00 Africa Cup of Nations : Senegal vs Sudan - 03/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", M+ Liga de Campeones
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=435
 
@@ -1174,6 +1189,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 
 #EXTINF:-1 tvg-id="Africa Cup of Nations - Mali vs Tunisia" tvg-name="21:00 Africa Cup of Nations : Mali vs Tunisia - 03/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", M+ #Vamos ES
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=521
+
+#EXTINF:-1 tvg-id="Africa Cup of Nations - Mali vs Tunisia" tvg-name="21:00 Africa Cup of Nations : Mali vs Tunisia - 03/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", beIN SPORTS MAX AR
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=597
 
 #EXTINF:-1 tvg-id="Africa Cup of Nations - Mali vs Tunisia" tvg-name="21:00 Africa Cup of Nations : Mali vs Tunisia - 03/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sportdigital FUSSBALL DE
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=570
