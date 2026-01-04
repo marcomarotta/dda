@@ -1468,6 +1468,10 @@
                         "channel_id": "2"
                     },
                     {
+                        "channel_name": "Sky Sport+ UK",
+                        "channel_id": "36"
+                    },
+                    {
                         "channel_name": "Peacock Feed",
                         "channel_id": "59"
                     },
