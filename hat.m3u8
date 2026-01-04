@@ -1,2 +1,5 @@
 #EXTM3U
 # Playlist generata da Hattrick
+#EXTINF:-1 tvg-id="dazn1.it" tvg-name="DAZN 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/774px-DAZN_1_Logo.svg.png" group-title="Sport", DAZN 1 (Hd)
+https://mfp2.macchetiello.uk/proxy/mpd/manifest.m3u8?api_password=Marco123&d=https%3A//aca-live-ott.izzigo.tv/6/out/u/dash/ESPNHDH265/default.mpd&key_id=3fb8167957692836eca1464b7f952b45&key=f31042e8167eb4b49ce8117c9e5f1e85
+
