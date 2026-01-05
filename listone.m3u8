@@ -36,9 +36,6 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="dazn.it" tvg-name="Dazn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1024px-DAZN_logo.svg.png" group-title="Sport",DAZN (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/2745635299ab0cc043a143&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="deejaytv.it" tvg-name="Deejay Tv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Altro",DEEJAY TV (V)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="discoverychannel.it" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari;Discovery",DISCOVERY CHANNEL (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -258,14 +255,8 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="skyprimafila9.it" tvg-name="Sky Primafila 9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 9 (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/17532606771304e2497369&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysport.it" tvg-name="Sky Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT (V)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/92466165981ba6f81de20&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24 [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY] (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/344556251909fe0b312736&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (V)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/449990998077a7691828f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -2025,32 +2016,41 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="NBA - Portland Trail Blazers vs Utah Jazz" tvg-name="05:00 NBA : Portland Trail Blazers vs Utah Jazz - 05/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBA League Pass
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=9
 
-#EXTINF:-1 tvg-id="2026 IIHF World Junior Championship Bronze Medal Match - Teams TBA" tvg-name="23:30 2026 IIHF World Junior Championship Bronze Medal Match: Teams TBA - 05/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Iihf U20", NHL Network USA
+#EXTINF:-1 tvg-id="2026 IIHF World Junior Championship Bronze Medal - Canada U20 vs Finland U20" tvg-name="23:30 2026 IIHF World Junior Championship Bronze Medal : Canada U20 vs Finland U20 - 05/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Iihf U20", NHL Network USA
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=663
 
-#EXTINF:-1 tvg-id="2026 IIHF World Junior Championship Bronze Medal Match - Teams TBA" tvg-name="23:30 2026 IIHF World Junior Championship Bronze Medal Match: Teams TBA - 05/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Iihf U20", RDS
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=839
-
-#EXTINF:-1 tvg-id="2026 IIHF World Junior Championship Bronze Medal Match - Teams TBA" tvg-name="23:30 2026 IIHF World Junior Championship Bronze Medal Match: Teams TBA - 05/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Iihf U20", TSN1
+#EXTINF:-1 tvg-id="2026 IIHF World Junior Championship Bronze Medal - Canada U20 vs Finland U20" tvg-name="23:30 2026 IIHF World Junior Championship Bronze Medal : Canada U20 vs Finland U20 - 05/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Iihf U20", TSN1
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=111
 
-#EXTINF:-1 tvg-id="2026 IIHF World Junior Championship Bronze Medal Match - Teams TBA" tvg-name="23:30 2026 IIHF World Junior Championship Bronze Medal Match: Teams TBA - 05/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Iihf U20", TSN4
+#EXTINF:-1 tvg-id="2026 IIHF World Junior Championship Bronze Medal - Canada U20 vs Finland U20" tvg-name="23:30 2026 IIHF World Junior Championship Bronze Medal : Canada U20 vs Finland U20 - 05/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Iihf U20", TSN4
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=114
 
-#EXTINF:-1 tvg-id="2026 IIHF World Junior Championship Gold Medal Match Final - Teams TBA" tvg-name="03:30 2026 IIHF World Junior Championship Gold Medal Match Final: Teams TBA - 05/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Iihf U20", NHL Network USA
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=663
-
-#EXTINF:-1 tvg-id="2026 IIHF World Junior Championship Gold Medal Match Final - Teams TBA" tvg-name="03:30 2026 IIHF World Junior Championship Gold Medal Match Final: Teams TBA - 05/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Iihf U20", RDS
+#EXTINF:-1 tvg-id="2026 IIHF World Junior Championship Bronze Medal - Canada U20 vs Finland U20" tvg-name="23:30 2026 IIHF World Junior Championship Bronze Medal : Canada U20 vs Finland U20 - 05/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Iihf U20", RDS CA
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=839
 
-#EXTINF:-1 tvg-id="2026 IIHF World Junior Championship Gold Medal Match Final - Teams TBA" tvg-name="03:30 2026 IIHF World Junior Championship Gold Medal Match Final: Teams TBA - 05/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Iihf U20", TSN1
+#EXTINF:-1 tvg-id="2026 IIHF World Junior Championship Bronze Medal - Canada U20 vs Finland U20" tvg-name="23:30 2026 IIHF World Junior Championship Bronze Medal : Canada U20 vs Finland U20 - 05/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Iihf U20", Magenta Sport 318
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=17
+
+#EXTINF:-1 tvg-id="2026 IIHF World Junior Championship Gold Medal - Sweden U20 vs Czech Republic U20" tvg-name="03:30 2026 IIHF World Junior Championship Gold Medal : Sweden U20 vs Czech Republic U20 - 05/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Iihf U20", NHL Network USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=663
+
+#EXTINF:-1 tvg-id="2026 IIHF World Junior Championship Gold Medal - Sweden U20 vs Czech Republic U20" tvg-name="03:30 2026 IIHF World Junior Championship Gold Medal : Sweden U20 vs Czech Republic U20 - 05/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Iihf U20", TSN1
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=111
 
-#EXTINF:-1 tvg-id="2026 IIHF World Junior Championship Gold Medal Match Final - Teams TBA" tvg-name="03:30 2026 IIHF World Junior Championship Gold Medal Match Final: Teams TBA - 05/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Iihf U20", TSN3
+#EXTINF:-1 tvg-id="2026 IIHF World Junior Championship Gold Medal - Sweden U20 vs Czech Republic U20" tvg-name="03:30 2026 IIHF World Junior Championship Gold Medal : Sweden U20 vs Czech Republic U20 - 05/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Iihf U20", TSN3
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=113
 
-#EXTINF:-1 tvg-id="2026 IIHF World Junior Championship Gold Medal Match Final - Teams TBA" tvg-name="03:30 2026 IIHF World Junior Championship Gold Medal Match Final: Teams TBA - 05/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Iihf U20", TSN4
+#EXTINF:-1 tvg-id="2026 IIHF World Junior Championship Gold Medal - Sweden U20 vs Czech Republic U20" tvg-name="03:30 2026 IIHF World Junior Championship Gold Medal : Sweden U20 vs Czech Republic U20 - 05/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Iihf U20", TSN4
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=114
+
+#EXTINF:-1 tvg-id="2026 IIHF World Junior Championship Gold Medal - Sweden U20 vs Czech Republic U20" tvg-name="03:30 2026 IIHF World Junior Championship Gold Medal : Sweden U20 vs Czech Republic U20 - 05/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Iihf U20", TSN5
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=115
+
+#EXTINF:-1 tvg-id="2026 IIHF World Junior Championship Gold Medal - Sweden U20 vs Czech Republic U20" tvg-name="03:30 2026 IIHF World Junior Championship Gold Medal : Sweden U20 vs Czech Republic U20 - 05/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Iihf U20", RDS CA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=839
+
+#EXTINF:-1 tvg-id="2026 IIHF World Junior Championship Gold Medal - Sweden U20 vs Czech Republic U20" tvg-name="03:30 2026 IIHF World Junior Championship Gold Medal : Sweden U20 vs Czech Republic U20 - 05/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Iihf U20", Magenta Sport 318
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=17
 
 #EXTINF:-1 tvg-id="NHL - Utah Mammoth vs New York Rangers" tvg-name="02:00 NHL : Utah Mammoth vs New York Rangers - 05/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", NHL Gamecenter
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=10
