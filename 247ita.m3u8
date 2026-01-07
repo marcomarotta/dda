@@ -80,9 +80,6 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="sky cinema family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Sky", sky cinema family (D)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://dlhd.dad/watch.php?id=865
 
-#EXTINF:-1 tvg-id="skycinemadue+24.it" tvg-name="sky cinema due +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Sky", sky cinema due +24 (D)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://dlhd.dad/watch.php?id=866
-
 #EXTINF:-1 tvg-id="skycinemadrama.it" tvg-name="sky cinema drama" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Sky", sky cinema drama (D)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://dlhd.dad/watch.php?id=867
 
