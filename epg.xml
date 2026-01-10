@@ -55932,48 +55932,6 @@ Il sogno del Re Sole</title>
   <channel id="scotlandscottishpremiershipcelticvsdundeeunited">
     <display-name>Scotland - Scottish Premiership : Celtic vs Dundee United</display-name>
   </channel>
-  <channel id="portugalcampeonatonacionalfemininovguimaresvsscscbraga">
-    <display-name>Portugal - Campeonato Nacional Feminino : V. Guimarães vs SC SC Braga</display-name>
-  </channel>
-  <channel id="portugalligarevelaomartimou23vsestorilu23">
-    <display-name>Portugal - Liga Revelação : Marítimo U23 vs Estoril U23</display-name>
-  </channel>
-  <channel id="englandu18premierleagueliverpoolu18vsstokecityu18">
-    <display-name>England - U18 Premier League : Liverpool U18 vs Stoke City U18</display-name>
-  </channel>
-  <channel id="spainprimeradivisinfemeninaatleticomadridvsrealsociedad">
-    <display-name>Spain - Primera División Femenina : Atletico Madrid vs Real Sociedad</display-name>
-  </channel>
-  <channel id="spainprimeradivisinfemeninaalhamavseibar">
-    <display-name>Spain - Primera División Femenina : Alhama vs Eibar</display-name>
-  </channel>
-  <channel id="asiaafcu23asiancupuaeu23vsjapanu23">
-    <display-name>Asia - AFC U-23 Asian Cup : UAE U23 vs Japan U23</display-name>
-  </channel>
-  <channel id="asiaafcu23asiancuplebanonu23vskorearepublicu23">
-    <display-name>Asia - AFC U-23 Asian Cup : Lebanon U23 vs Korea Republic U23</display-name>
-  </channel>
-  <channel id="indonesiasuperleaguemaduraunitedvspsimyogyakarta">
-    <display-name>Indonesia - Super League : Madura United vs PSIM Yogyakarta</display-name>
-  </channel>
-  <channel id="clubfriendlygamesfkcrvenazvezdavsfcaarau">
-    <display-name>Club Friendly Games : FK Crvena zvezda vs FC Aarau</display-name>
-  </channel>
-  <channel id="iraqipremierleaguealkarkhvsalnajaf">
-    <display-name>Iraqi Premier League : Al Karkh vs Al Najaf</display-name>
-  </channel>
-  <channel id="englandfacupevertonvssunderland">
-    <display-name>England - FA Cup : Everton vs Sunderland</display-name>
-  </channel>
-  <channel id="englandfacupcheltenhamtownvsleicestercity">
-    <display-name>England - FA Cup : Cheltenham Town vs Leicester City</display-name>
-  </channel>
-  <channel id="englandfacupwolverhamptonwanderersvsshrewsburytown">
-    <display-name>England - FA Cup : Wolverhampton Wanderers vs Shrewsbury Town</display-name>
-  </channel>
-  <channel id="englandfacupmacclesfieldvscrystalpalace">
-    <display-name>England - FA Cup : Macclesfield vs Crystal Palace</display-name>
-  </channel>
   <channel id="englandleagueonelutontownvsstevenage">
     <display-name>England - League One : Luton Town vs Stevenage</display-name>
   </channel>
@@ -56268,9 +56226,6 @@ Il sogno del Re Sole</title>
   <channel id="mexicoligamxguadalajaravspachuca">
     <display-name>Mexico - Liga MX : Guadalajara vs Pachuca</display-name>
   </channel>
-  <channel id="sa20paarlroyalsvspretoriacapitals">
-    <display-name>SA20 : Paarl Royals vs Pretoria Capitals</display-name>
-  </channel>
   <channel id="womenspremierleaguemumbaiindianswvsdelhicapitalsw">
     <display-name>Womens Premier League : Mumbai Indians W vs. Delhi Capitals W</display-name>
   </channel>
@@ -56316,9 +56271,6 @@ Il sogno del Re Sole</title>
   <channel id="livgolfpromotionsround3">
     <display-name>LIV Golf Promotions Round 3</display-name>
   </channel>
-  <channel id="worldcupcompetitioninadelboden2ndrunofmensgiantslalom">
-    <display-name>World Cup Competition in Adelboden 2nd run of men's giant slalom</display-name>
-  </channel>
   <channel id="collegefootballhulabowlallstargame">
     <display-name>College Football Hula Bowl All-Star Game</display-name>
   </channel>
@@ -56336,9 +56288,6 @@ Il sogno del Re Sole</title>
   </channel>
   <channel id="athleticsworldchampionshipsintrackandfield">
     <display-name>Athletics World Championships in Track and Field</display-name>
-  </channel>
-  <channel id="russiaunitedleagueparinizhnynovgorodvsuralmashyekaterinburg">
-    <display-name>Russia United League : Pari Nizhny Novgorod vs Uralmash Yekaterinburg</display-name>
   </channel>
   <channel id="sperligiturktelekomvsmanisa">
     <display-name>Süper Ligi : Turk Telekom vs Manisa</display-name>
@@ -56565,12 +56514,6 @@ Il sogno del Re Sole</title>
   <channel id="parisinternationalfencingchallenge2026">
     <display-name>Paris International Fencing Challenge 2026</display-name>
   </channel>
-  <channel id="okleaguewbembibrevsvoltreg">
-    <display-name>OK League (W) : Bembibre vs Voltregà</display-name>
-  </channel>
-  <channel id="mensindoorhockeyeuropeanchampionshipgermanyvsspain">
-    <display-name>Men's Indoor Hockey European Championship : Germany vs Spain</display-name>
-  </channel>
   <channel id="mensindoorhockeyeuropeanchampionshipsemifinal">
     <display-name>Men's Indoor Hockey European Championship : Semi-final</display-name>
   </channel>
@@ -56613,9 +56556,6 @@ Il sogno del Re Sole</title>
   <channel id="championsleaguewomendvscschaefflerwvsstorhamarw">
     <display-name>Champions League Women : DVSC Schaeffler W vs Storhamar W</display-name>
   </channel>
-  <channel id="liveracingfromwarwickwetherbykemptonandfairyhouse">
-    <display-name>Live racing from Warwick, Wetherby, Kempton and Fairyhouse</display-name>
-  </channel>
   <channel id="liveracingfromaroundtheuk">
     <display-name>Live racing from around the UK</display-name>
   </channel>
@@ -56624,9 +56564,6 @@ Il sogno del Re Sole</title>
   </channel>
   <channel id="americasdayattheraces">
     <display-name>America's Day At the Races</display-name>
-  </channel>
-  <channel id="russiakhlsalavatyulaevufavsbarysastana">
-    <display-name>Russia KHL : Salavat Yulaev Ufa vs Barys Astana</display-name>
   </channel>
   <channel id="russiakhlseverstalcherepovetsvstorpedonizhny">
     <display-name>Russia KHL : Severstal Cherepovets vs Torpedo Nizhny</display-name>
@@ -56727,12 +56664,6 @@ Il sogno del Re Sole</title>
   <channel id="zakopanemenssuperteamhs140worldcup">
     <display-name>Zakopane | Men's Super Team HS 140 World Cup</display-name>
   </channel>
-  <channel id="division1womenthywvsfenerbahcew">
-    <display-name>Division 1 Women : Thy W vs Fenerbahce W</display-name>
-  </channel>
-  <channel id="orlenligawomenchemikpolicewvsnowydwormazowieckiw">
-    <display-name>Orlen Liga Women : Chemik Police W vs Nowy Dwor Mazowiecki W</display-name>
-  </channel>
   <channel id="tauronpolishcupsemifinalbogdankaluklublinvsindykpolazsolsztyn">
     <display-name>TAURON Polish Cup Semi-final : Bogdanka LUK Lublin vs. Indykpol AZS Olsztyn</display-name>
   </channel>
@@ -56757,9 +56688,6 @@ Il sogno del Re Sole</title>
   <channel id="italyseriea1womenmarignanovsmacerata">
     <display-name>Italy Serie A1 Women : Marignano vs Macerata</display-name>
   </channel>
-  <channel id="europeanwaterpolochampionshipsisraelvsspain">
-    <display-name>European Water Polo Championships : Israel vs Spain</display-name>
-  </channel>
   <channel id="europeanwaterpolochampionshipsfrancevshungary">
     <display-name>European Water Polo Championships : France vs Hungary</display-name>
   </channel>
@@ -56768,9 +56696,6 @@ Il sogno del Re Sole</title>
   </channel>
   <channel id="europeanwaterpolochampionshipsnetherlandsvsserbia">
     <display-name>European Water Polo Championships : Netherlands vs Serbia</display-name>
-  </channel>
-  <channel id="saintmoritztwomanbobsleighworldcupheat1">
-    <display-name>Saint Moritz | Two-Man Bobsleigh World Cup | Heat 1</display-name>
   </channel>
   <channel id="winterbergmenssinglesworldcuprun1">
     <display-name>Winterberg | Men's Singles World Cup | Run 1</display-name>
@@ -56990,436 +56915,6 @@ Il sogno del Re Sole</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Scotland - Scottish Premiership : Celtic vs Dundee United</desc>
     <category lang="it">Scottish Premiership</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110125500 +0200" channel="portugalcampeonatonacionalfemininovguimaresvsscscbraga">
-    <title lang="it">Inizia alle 12:55.</title>
-    <desc lang="it">Portugal - Campeonato Nacional Feminino : V. Guimarães vs SC SC Braga.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110125500 +0200" stop="20260110145500 +0200" channel="portugalcampeonatonacionalfemininovguimaresvsscscbraga">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Portugal - Campeonato Nacional Feminino : V. Guimarães vs SC SC Braga</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110130000 +0200" channel="portugalligarevelaomartimou23vsestorilu23">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Portugal - Liga Revelação : Marítimo U23 vs Estoril U23.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110130000 +0200" stop="20260110150000 +0200" channel="portugalligarevelaomartimou23vsestorilu23">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Portugal - Liga Revelação : Marítimo U23 vs Estoril U23</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110130000 +0200" channel="englandu18premierleagueliverpoolu18vsstokecityu18">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">England - U18 Premier League : Liverpool U18 vs Stoke City U18.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110130000 +0200" stop="20260110150000 +0200" channel="englandu18premierleagueliverpoolu18vsstokecityu18">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - U18 Premier League : Liverpool U18 vs Stoke City U18</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110130000 +0200" channel="spainprimeradivisinfemeninaatleticomadridvsrealsociedad">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Spain - Primera División Femenina : Atletico Madrid vs Real Sociedad.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110130000 +0200" stop="20260110150000 +0200" channel="spainprimeradivisinfemeninaatleticomadridvsrealsociedad">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Spain - Primera División Femenina : Atletico Madrid vs Real Sociedad</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110130000 +0200" channel="spainprimeradivisinfemeninaatleticomadridvsrealsociedad">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Spain - Primera División Femenina : Atletico Madrid vs Real Sociedad.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110130000 +0200" stop="20260110150000 +0200" channel="spainprimeradivisinfemeninaatleticomadridvsrealsociedad">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Spain - Primera División Femenina : Atletico Madrid vs Real Sociedad</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110130000 +0200" channel="spainprimeradivisinfemeninaalhamavseibar">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Spain - Primera División Femenina : Alhama vs Eibar.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110130000 +0200" stop="20260110150000 +0200" channel="spainprimeradivisinfemeninaalhamavseibar">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Spain - Primera División Femenina : Alhama vs Eibar</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110133000 +0200" channel="asiaafcu23asiancupuaeu23vsjapanu23">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Asia - AFC U-23 Asian Cup : UAE U23 vs Japan U23.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110133000 +0200" stop="20260110153000 +0200" channel="asiaafcu23asiancupuaeu23vsjapanu23">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Asia - AFC U-23 Asian Cup : UAE U23 vs Japan U23</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110133000 +0200" channel="asiaafcu23asiancuplebanonu23vskorearepublicu23">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Asia - AFC U-23 Asian Cup : Lebanon U23 vs Korea Republic U23.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110133000 +0200" stop="20260110153000 +0200" channel="asiaafcu23asiancuplebanonu23vskorearepublicu23">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Asia - AFC U-23 Asian Cup : Lebanon U23 vs Korea Republic U23</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110140000 +0200" channel="indonesiasuperleaguemaduraunitedvspsimyogyakarta">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Indonesia - Super League : Madura United vs PSIM Yogyakarta.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110140000 +0200" stop="20260110160000 +0200" channel="indonesiasuperleaguemaduraunitedvspsimyogyakarta">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Indonesia - Super League : Madura United vs PSIM Yogyakarta</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110140000 +0200" channel="clubfriendlygamesfkcrvenazvezdavsfcaarau">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Club Friendly Games : FK Crvena zvezda vs FC Aarau.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110140000 +0200" stop="20260110160000 +0200" channel="clubfriendlygamesfkcrvenazvezdavsfcaarau">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Club Friendly Games : FK Crvena zvezda vs FC Aarau</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110140000 +0200" channel="iraqipremierleaguealkarkhvsalnajaf">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Iraqi Premier League : Al Karkh vs Al Najaf.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110140000 +0200" stop="20260110160000 +0200" channel="iraqipremierleaguealkarkhvsalnajaf">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Iraqi Premier League : Al Karkh vs Al Najaf</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110141500 +0200" channel="englandfacupevertonvssunderland">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">England - FA Cup : Everton vs Sunderland.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110141500 +0200" stop="20260110161500 +0200" channel="englandfacupevertonvssunderland">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Everton vs Sunderland</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110141500 +0200" channel="englandfacupevertonvssunderland">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">England - FA Cup : Everton vs Sunderland.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110141500 +0200" stop="20260110161500 +0200" channel="englandfacupevertonvssunderland">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Everton vs Sunderland</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110141500 +0200" channel="englandfacupevertonvssunderland">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">England - FA Cup : Everton vs Sunderland.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110141500 +0200" stop="20260110161500 +0200" channel="englandfacupevertonvssunderland">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Everton vs Sunderland</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110141500 +0200" channel="englandfacupevertonvssunderland">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">England - FA Cup : Everton vs Sunderland.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110141500 +0200" stop="20260110161500 +0200" channel="englandfacupevertonvssunderland">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Everton vs Sunderland</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110141500 +0200" channel="englandfacupevertonvssunderland">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">England - FA Cup : Everton vs Sunderland.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110141500 +0200" stop="20260110161500 +0200" channel="englandfacupevertonvssunderland">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Everton vs Sunderland</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110141500 +0200" channel="englandfacupevertonvssunderland">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">England - FA Cup : Everton vs Sunderland.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110141500 +0200" stop="20260110161500 +0200" channel="englandfacupevertonvssunderland">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Everton vs Sunderland</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110141500 +0200" channel="englandfacupevertonvssunderland">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">England - FA Cup : Everton vs Sunderland.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110141500 +0200" stop="20260110161500 +0200" channel="englandfacupevertonvssunderland">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Everton vs Sunderland</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110141500 +0200" channel="englandfacupevertonvssunderland">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">England - FA Cup : Everton vs Sunderland.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110141500 +0200" stop="20260110161500 +0200" channel="englandfacupevertonvssunderland">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Everton vs Sunderland</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110141500 +0200" channel="englandfacupevertonvssunderland">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">England - FA Cup : Everton vs Sunderland.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110141500 +0200" stop="20260110161500 +0200" channel="englandfacupevertonvssunderland">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Everton vs Sunderland</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110141500 +0200" channel="englandfacupevertonvssunderland">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">England - FA Cup : Everton vs Sunderland.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110141500 +0200" stop="20260110161500 +0200" channel="englandfacupevertonvssunderland">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Everton vs Sunderland</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110141500 +0200" channel="englandfacupevertonvssunderland">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">England - FA Cup : Everton vs Sunderland.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110141500 +0200" stop="20260110161500 +0200" channel="englandfacupevertonvssunderland">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Everton vs Sunderland</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110141500 +0200" channel="englandfacupevertonvssunderland">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">England - FA Cup : Everton vs Sunderland.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110141500 +0200" stop="20260110161500 +0200" channel="englandfacupevertonvssunderland">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Everton vs Sunderland</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110141500 +0200" channel="englandfacupevertonvssunderland">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">England - FA Cup : Everton vs Sunderland.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110141500 +0200" stop="20260110161500 +0200" channel="englandfacupevertonvssunderland">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Everton vs Sunderland</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110141500 +0200" channel="englandfacupcheltenhamtownvsleicestercity">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">England - FA Cup : Cheltenham Town vs Leicester City.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110141500 +0200" stop="20260110161500 +0200" channel="englandfacupcheltenhamtownvsleicestercity">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Cheltenham Town vs Leicester City</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110141500 +0200" channel="englandfacupwolverhamptonwanderersvsshrewsburytown">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">England - FA Cup : Wolverhampton Wanderers vs Shrewsbury Town.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110141500 +0200" stop="20260110161500 +0200" channel="englandfacupwolverhamptonwanderersvsshrewsburytown">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Wolverhampton Wanderers vs Shrewsbury Town</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110141500 +0200" channel="englandfacupmacclesfieldvscrystalpalace">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">England - FA Cup : Macclesfield vs Crystal Palace.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110141500 +0200" stop="20260110161500 +0200" channel="englandfacupmacclesfieldvscrystalpalace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Macclesfield vs Crystal Palace</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110141500 +0200" channel="englandfacupmacclesfieldvscrystalpalace">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">England - FA Cup : Macclesfield vs Crystal Palace.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110141500 +0200" stop="20260110161500 +0200" channel="englandfacupmacclesfieldvscrystalpalace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Macclesfield vs Crystal Palace</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110141500 +0200" channel="englandfacupmacclesfieldvscrystalpalace">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">England - FA Cup : Macclesfield vs Crystal Palace.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110141500 +0200" stop="20260110161500 +0200" channel="englandfacupmacclesfieldvscrystalpalace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Macclesfield vs Crystal Palace</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110141500 +0200" channel="englandfacupmacclesfieldvscrystalpalace">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">England - FA Cup : Macclesfield vs Crystal Palace.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110141500 +0200" stop="20260110161500 +0200" channel="englandfacupmacclesfieldvscrystalpalace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Macclesfield vs Crystal Palace</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110141500 +0200" channel="englandfacupmacclesfieldvscrystalpalace">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">England - FA Cup : Macclesfield vs Crystal Palace.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110141500 +0200" stop="20260110161500 +0200" channel="englandfacupmacclesfieldvscrystalpalace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Macclesfield vs Crystal Palace</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110141500 +0200" channel="englandfacupmacclesfieldvscrystalpalace">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">England - FA Cup : Macclesfield vs Crystal Palace.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110141500 +0200" stop="20260110161500 +0200" channel="englandfacupmacclesfieldvscrystalpalace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Macclesfield vs Crystal Palace</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110141500 +0200" channel="englandfacupmacclesfieldvscrystalpalace">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">England - FA Cup : Macclesfield vs Crystal Palace.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110141500 +0200" stop="20260110161500 +0200" channel="englandfacupmacclesfieldvscrystalpalace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Macclesfield vs Crystal Palace</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110141500 +0200" channel="englandfacupmacclesfieldvscrystalpalace">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">England - FA Cup : Macclesfield vs Crystal Palace.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110141500 +0200" stop="20260110161500 +0200" channel="englandfacupmacclesfieldvscrystalpalace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Macclesfield vs Crystal Palace</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110141500 +0200" channel="englandfacupmacclesfieldvscrystalpalace">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">England - FA Cup : Macclesfield vs Crystal Palace.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110141500 +0200" stop="20260110161500 +0200" channel="englandfacupmacclesfieldvscrystalpalace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Macclesfield vs Crystal Palace</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110141500 +0200" channel="englandfacupmacclesfieldvscrystalpalace">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">England - FA Cup : Macclesfield vs Crystal Palace.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110141500 +0200" stop="20260110161500 +0200" channel="englandfacupmacclesfieldvscrystalpalace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Macclesfield vs Crystal Palace</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110141500 +0200" channel="englandfacupmacclesfieldvscrystalpalace">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">England - FA Cup : Macclesfield vs Crystal Palace.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110141500 +0200" stop="20260110161500 +0200" channel="englandfacupmacclesfieldvscrystalpalace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Macclesfield vs Crystal Palace</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110141500 +0200" channel="englandfacupmacclesfieldvscrystalpalace">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">England - FA Cup : Macclesfield vs Crystal Palace.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110141500 +0200" stop="20260110161500 +0200" channel="englandfacupmacclesfieldvscrystalpalace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Macclesfield vs Crystal Palace</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110141500 +0200" channel="englandfacupmacclesfieldvscrystalpalace">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">England - FA Cup : Macclesfield vs Crystal Palace.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110141500 +0200" stop="20260110161500 +0200" channel="englandfacupmacclesfieldvscrystalpalace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Macclesfield vs Crystal Palace</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110141500 +0200" channel="englandfacupmacclesfieldvscrystalpalace">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">England - FA Cup : Macclesfield vs Crystal Palace.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110141500 +0200" stop="20260110161500 +0200" channel="englandfacupmacclesfieldvscrystalpalace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Macclesfield vs Crystal Palace</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110141500 +0200" channel="englandfacupmacclesfieldvscrystalpalace">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">England - FA Cup : Macclesfield vs Crystal Palace.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110141500 +0200" stop="20260110161500 +0200" channel="englandfacupmacclesfieldvscrystalpalace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Macclesfield vs Crystal Palace</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110141500 +0200" channel="englandfacupmacclesfieldvscrystalpalace">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">England - FA Cup : Macclesfield vs Crystal Palace.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110141500 +0200" stop="20260110161500 +0200" channel="englandfacupmacclesfieldvscrystalpalace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Macclesfield vs Crystal Palace</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110141500 +0200" channel="englandfacupmacclesfieldvscrystalpalace">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">England - FA Cup : Macclesfield vs Crystal Palace.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110141500 +0200" stop="20260110161500 +0200" channel="englandfacupmacclesfieldvscrystalpalace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Macclesfield vs Crystal Palace</desc>
-    <category lang="it">All Soccer Events</category>
   </programme>
   <programme start="20260110000000 +0200" stop="20260110143000 +0200" channel="englandleagueonelutontownvsstevenage">
     <title lang="it">Inizia alle 14:30.</title>
@@ -61771,46 +61266,6 @@ Il sogno del Re Sole</title>
     <desc lang="it">Mexico - Liga MX : Guadalajara vs Pachuca</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <programme start="20260110000000 +0200" stop="20260110130000 +0200" channel="sa20paarlroyalsvspretoriacapitals">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">SA20 : Paarl Royals vs Pretoria Capitals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110130000 +0200" stop="20260110150000 +0200" channel="sa20paarlroyalsvspretoriacapitals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">SA20 : Paarl Royals vs Pretoria Capitals</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110130000 +0200" channel="sa20paarlroyalsvspretoriacapitals">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">SA20 : Paarl Royals vs Pretoria Capitals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110130000 +0200" stop="20260110150000 +0200" channel="sa20paarlroyalsvspretoriacapitals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">SA20 : Paarl Royals vs Pretoria Capitals</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110130000 +0200" channel="sa20paarlroyalsvspretoriacapitals">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">SA20 : Paarl Royals vs Pretoria Capitals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110130000 +0200" stop="20260110150000 +0200" channel="sa20paarlroyalsvspretoriacapitals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">SA20 : Paarl Royals vs Pretoria Capitals</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110130000 +0200" channel="sa20paarlroyalsvspretoriacapitals">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">SA20 : Paarl Royals vs Pretoria Capitals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110130000 +0200" stop="20260110150000 +0200" channel="sa20paarlroyalsvspretoriacapitals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">SA20 : Paarl Royals vs Pretoria Capitals</desc>
-    <category lang="it">Cricket</category>
-  </programme>
   <programme start="20260110000000 +0200" stop="20260110160000 +0200" channel="womenspremierleaguemumbaiindianswvsdelhicapitalsw">
     <title lang="it">Inizia alle 16:00.</title>
     <desc lang="it">Womens Premier League : Mumbai Indians W vs. Delhi Capitals W.</desc>
@@ -62151,76 +61606,6 @@ Il sogno del Re Sole</title>
     <desc lang="it">LIV Golf Promotions Round 3</desc>
     <category lang="it">Golf</category>
   </programme>
-  <programme start="20260110000000 +0200" stop="20260110141500 +0200" channel="worldcupcompetitioninadelboden2ndrunofmensgiantslalom">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">World Cup Competition in Adelboden 2nd run of men's giant slalom.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110141500 +0200" stop="20260110161500 +0200" channel="worldcupcompetitioninadelboden2ndrunofmensgiantslalom">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup Competition in Adelboden 2nd run of men's giant slalom</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110141500 +0200" channel="worldcupcompetitioninadelboden2ndrunofmensgiantslalom">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">World Cup Competition in Adelboden 2nd run of men's giant slalom.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110141500 +0200" stop="20260110161500 +0200" channel="worldcupcompetitioninadelboden2ndrunofmensgiantslalom">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup Competition in Adelboden 2nd run of men's giant slalom</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110141500 +0200" channel="worldcupcompetitioninadelboden2ndrunofmensgiantslalom">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">World Cup Competition in Adelboden 2nd run of men's giant slalom.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110141500 +0200" stop="20260110161500 +0200" channel="worldcupcompetitioninadelboden2ndrunofmensgiantslalom">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup Competition in Adelboden 2nd run of men's giant slalom</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110141500 +0200" channel="worldcupcompetitioninadelboden2ndrunofmensgiantslalom">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">World Cup Competition in Adelboden 2nd run of men's giant slalom.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110141500 +0200" stop="20260110161500 +0200" channel="worldcupcompetitioninadelboden2ndrunofmensgiantslalom">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup Competition in Adelboden 2nd run of men's giant slalom</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110141500 +0200" channel="worldcupcompetitioninadelboden2ndrunofmensgiantslalom">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">World Cup Competition in Adelboden 2nd run of men's giant slalom.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110141500 +0200" stop="20260110161500 +0200" channel="worldcupcompetitioninadelboden2ndrunofmensgiantslalom">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup Competition in Adelboden 2nd run of men's giant slalom</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110141500 +0200" channel="worldcupcompetitioninadelboden2ndrunofmensgiantslalom">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">World Cup Competition in Adelboden 2nd run of men's giant slalom.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110141500 +0200" stop="20260110161500 +0200" channel="worldcupcompetitioninadelboden2ndrunofmensgiantslalom">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup Competition in Adelboden 2nd run of men's giant slalom</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110141500 +0200" channel="worldcupcompetitioninadelboden2ndrunofmensgiantslalom">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">World Cup Competition in Adelboden 2nd run of men's giant slalom.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110141500 +0200" stop="20260110161500 +0200" channel="worldcupcompetitioninadelboden2ndrunofmensgiantslalom">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup Competition in Adelboden 2nd run of men's giant slalom</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
   <programme start="20260110000000 +0200" stop="20260110190000 +0200" channel="collegefootballhulabowlallstargame">
     <title lang="it">Inizia alle 19:00.</title>
     <desc lang="it">College Football Hula Bowl All-Star Game.</desc>
@@ -62490,16 +61875,6 @@ Il sogno del Re Sole</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Athletics World Championships in Track and Field</desc>
     <category lang="it">Athletics</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110130000 +0200" channel="russiaunitedleagueparinizhnynovgorodvsuralmashyekaterinburg">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Russia United League : Pari Nizhny Novgorod vs Uralmash Yekaterinburg.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110130000 +0200" stop="20260110150000 +0200" channel="russiaunitedleagueparinizhnynovgorodvsuralmashyekaterinburg">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Russia United League : Pari Nizhny Novgorod vs Uralmash Yekaterinburg</desc>
-    <category lang="it">Basketball</category>
   </programme>
   <programme start="20260110000000 +0200" stop="20260110143000 +0200" channel="sperligiturktelekomvsmanisa">
     <title lang="it">Inizia alle 14:30.</title>
@@ -63541,26 +62916,6 @@ Il sogno del Re Sole</title>
     <desc lang="it">Paris International Fencing Challenge 2026</desc>
     <category lang="it">Fencing</category>
   </programme>
-  <programme start="20260110000000 +0200" stop="20260110135500 +0200" channel="okleaguewbembibrevsvoltreg">
-    <title lang="it">Inizia alle 13:55.</title>
-    <desc lang="it">OK League (W) : Bembibre vs Voltregà.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110135500 +0200" stop="20260110155500 +0200" channel="okleaguewbembibrevsvoltreg">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">OK League (W) : Bembibre vs Voltregà</desc>
-    <category lang="it">Floorball</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110140500 +0200" channel="mensindoorhockeyeuropeanchampionshipgermanyvsspain">
-    <title lang="it">Inizia alle 14:05.</title>
-    <desc lang="it">Men's Indoor Hockey European Championship : Germany vs Spain.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110140500 +0200" stop="20260110160500 +0200" channel="mensindoorhockeyeuropeanchampionshipgermanyvsspain">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Men's Indoor Hockey European Championship : Germany vs Spain</desc>
-    <category lang="it">Floorball</category>
-  </programme>
   <programme start="20260110000000 +0200" stop="20260110201000 +0200" channel="mensindoorhockeyeuropeanchampionshipsemifinal">
     <title lang="it">Inizia alle 20:10.</title>
     <desc lang="it">Men's Indoor Hockey European Championship : Semi-final.</desc>
@@ -63781,16 +63136,6 @@ Il sogno del Re Sole</title>
     <desc lang="it">Champions League Women : DVSC Schaeffler W vs Storhamar W</desc>
     <category lang="it">Handball</category>
   </programme>
-  <programme start="20260110000000 +0200" stop="20260110133000 +0200" channel="liveracingfromwarwickwetherbykemptonandfairyhouse">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Live racing from Warwick, Wetherby, Kempton and Fairyhouse.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110133000 +0200" stop="20260110153000 +0200" channel="liveracingfromwarwickwetherbykemptonandfairyhouse">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Live racing from Warwick, Wetherby, Kempton and Fairyhouse</desc>
-    <category lang="it">Horse Racing</category>
-  </programme>
   <programme start="20260110000000 +0200" stop="20260110150000 +0200" channel="liveracingfromaroundtheuk">
     <title lang="it">Inizia alle 15:00.</title>
     <desc lang="it">Live racing from around the UK.</desc>
@@ -63820,16 +63165,6 @@ Il sogno del Re Sole</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">America's Day At the Races</desc>
     <category lang="it">Horse Racing</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110133000 +0200" channel="russiakhlsalavatyulaevufavsbarysastana">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Russia KHL : Salavat Yulaev Ufa vs Barys Astana.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110133000 +0200" stop="20260110153000 +0200" channel="russiakhlsalavatyulaevufavsbarysastana">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Russia KHL : Salavat Yulaev Ufa vs Barys Astana</desc>
-    <category lang="it">Ice Hockey</category>
   </programme>
   <programme start="20260110000000 +0200" stop="20260110160000 +0200" channel="russiakhlseverstalcherepovetsvstorpedonizhny">
     <title lang="it">Inizia alle 16:00.</title>
@@ -64691,36 +64026,6 @@ Il sogno del Re Sole</title>
     <desc lang="it">Zakopane | Men's Super Team HS 140 World Cup</desc>
     <category lang="it">Ski Jumping</category>
   </programme>
-  <programme start="20260110000000 +0200" stop="20260110130000 +0200" channel="division1womenthywvsfenerbahcew">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Division 1 Women : Thy W vs Fenerbahce W.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110130000 +0200" stop="20260110150000 +0200" channel="division1womenthywvsfenerbahcew">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Division 1 Women : Thy W vs Fenerbahce W</desc>
-    <category lang="it">Volleyball</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110133000 +0200" channel="orlenligawomenchemikpolicewvsnowydwormazowieckiw">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Orlen Liga Women : Chemik Police W vs Nowy Dwor Mazowiecki W.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110133000 +0200" stop="20260110153000 +0200" channel="orlenligawomenchemikpolicewvsnowydwormazowieckiw">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Orlen Liga Women : Chemik Police W vs Nowy Dwor Mazowiecki W</desc>
-    <category lang="it">Volleyball</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110133000 +0200" channel="orlenligawomenchemikpolicewvsnowydwormazowieckiw">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Orlen Liga Women : Chemik Police W vs Nowy Dwor Mazowiecki W.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110133000 +0200" stop="20260110153000 +0200" channel="orlenligawomenchemikpolicewvsnowydwormazowieckiw">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Orlen Liga Women : Chemik Police W vs Nowy Dwor Mazowiecki W</desc>
-    <category lang="it">Volleyball</category>
-  </programme>
   <programme start="20260110000000 +0200" stop="20260110154500 +0200" channel="tauronpolishcupsemifinalbogdankaluklublinvsindykpolazsolsztyn">
     <title lang="it">Inizia alle 15:45.</title>
     <desc lang="it">TAURON Polish Cup Semi-final : Bogdanka LUK Lublin vs. Indykpol AZS Olsztyn.</desc>
@@ -64811,36 +64116,6 @@ Il sogno del Re Sole</title>
     <desc lang="it">Italy Serie A1 Women : Marignano vs Macerata</desc>
     <category lang="it">Volleyball</category>
   </programme>
-  <programme start="20260110000000 +0200" stop="20260110134500 +0200" channel="europeanwaterpolochampionshipsisraelvsspain">
-    <title lang="it">Inizia alle 13:45.</title>
-    <desc lang="it">European Water Polo Championships : Israel vs Spain.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110134500 +0200" stop="20260110154500 +0200" channel="europeanwaterpolochampionshipsisraelvsspain">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">European Water Polo Championships : Israel vs Spain</desc>
-    <category lang="it">Water polo</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110134500 +0200" channel="europeanwaterpolochampionshipsisraelvsspain">
-    <title lang="it">Inizia alle 13:45.</title>
-    <desc lang="it">European Water Polo Championships : Israel vs Spain.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110134500 +0200" stop="20260110154500 +0200" channel="europeanwaterpolochampionshipsisraelvsspain">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">European Water Polo Championships : Israel vs Spain</desc>
-    <category lang="it">Water polo</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110134500 +0200" channel="europeanwaterpolochampionshipsisraelvsspain">
-    <title lang="it">Inizia alle 13:45.</title>
-    <desc lang="it">European Water Polo Championships : Israel vs Spain.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110134500 +0200" stop="20260110154500 +0200" channel="europeanwaterpolochampionshipsisraelvsspain">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">European Water Polo Championships : Israel vs Spain</desc>
-    <category lang="it">Water polo</category>
-  </programme>
   <programme start="20260110000000 +0200" stop="20260110161500 +0200" channel="europeanwaterpolochampionshipsfrancevshungary">
     <title lang="it">Inizia alle 16:15.</title>
     <desc lang="it">European Water Polo Championships : France vs Hungary.</desc>
@@ -64900,16 +64175,6 @@ Il sogno del Re Sole</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">European Water Polo Championships : Netherlands vs Serbia</desc>
     <category lang="it">Water polo</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110140000 +0200" channel="saintmoritztwomanbobsleighworldcupheat1">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Saint Moritz | Two-Man Bobsleigh World Cup | Heat 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110140000 +0200" stop="20260110160000 +0200" channel="saintmoritztwomanbobsleighworldcupheat1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Saint Moritz | Two-Man Bobsleigh World Cup | Heat 1</desc>
-    <category lang="it">Winter Sports</category>
   </programme>
   <programme start="20260110000000 +0200" stop="20260110152300 +0200" channel="winterbergmenssinglesworldcuprun1">
     <title lang="it">Inizia alle 15:23.</title>
