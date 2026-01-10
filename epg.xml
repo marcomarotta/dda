@@ -56816,9 +56816,6 @@ Il sogno del Re Sole</title>
   <channel id="mexicoligamxguadalajaravspachuca">
     <display-name>Mexico - Liga MX : Guadalajara vs Pachuca</display-name>
   </channel>
-  <channel id="bigbashleaguemelbournerenegadesvsmelbournestars">
-    <display-name>Big Bash League : Melbourne Renegades vs Melbourne Stars</display-name>
-  </channel>
   <channel id="womenspremierleagueupwarriorzwvsgujaratgiantsw">
     <display-name>Womens Premier League : UP Warriorz W vs. Gujarat Giants W</display-name>
   </channel>
@@ -56834,9 +56831,6 @@ Il sogno del Re Sole</title>
   <channel id="supersmashwomenwellingtonblazewvsnorthernbravew">
     <display-name>Super Smash Women : Wellington Blaze W vs Northern Brave W</display-name>
   </channel>
-  <channel id="unitedcupgauffcvsswiateki">
-    <display-name>UNITED CUP : Gauff C. vs Swiatek I.</display-name>
-  </channel>
   <channel id="unitedcupgauffcharrisoncvsswiatekihurkaczh">
     <display-name>UNITED CUP : Gauff C./Harrison C. vs Swiatek I./Hurkacz H.</display-name>
   </channel>
@@ -56845,9 +56839,6 @@ Il sogno del Re Sole</title>
   </channel>
   <channel id="atpbrisbanemedvedevdvsmichelsena">
     <display-name>ATP - BRISBANE : Medvedev D. vs Michelsen A.</display-name>
-  </channel>
-  <channel id="atphongkongmusettilvsrubleva">
-    <display-name>ATP - HONG KONG : Musetti L. vs Rublev A.</display-name>
   </channel>
   <channel id="atphongkonggironmvsbublika">
     <display-name>ATP - HONG KONG : Giron M. vs Bublik A.</display-name>
@@ -57355,12 +57346,6 @@ Il sogno del Re Sole</title>
   </channel>
   <channel id="europeanwaterpolochampionshipsnetherlandsvsserbia">
     <display-name>European Water Polo Championships : Netherlands vs Serbia</display-name>
-  </channel>
-  <channel id="saintmoritzwomensmonobobworldcupheat1">
-    <display-name>Saint Moritz | Women's Monobob World Cup | Heat 1</display-name>
-  </channel>
-  <channel id="otepaamenshs97worldcupday2">
-    <display-name>Otepaa | Men's HS97 World Cup | Day 2</display-name>
   </channel>
   <channel id="saintmoritzwomensmonobobworldcupheat2">
     <display-name>Saint Moritz | Women's Monobob World Cup | Heat 2</display-name>
@@ -62440,66 +62425,6 @@ Il sogno del Re Sole</title>
     <desc lang="it">Mexico - Liga MX : Guadalajara vs Pachuca</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <programme start="20260110000000 +0200" stop="20260110101500 +0200" channel="bigbashleaguemelbournerenegadesvsmelbournestars">
-    <title lang="it">Inizia alle 10:15.</title>
-    <desc lang="it">Big Bash League : Melbourne Renegades vs Melbourne Stars.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110101500 +0200" stop="20260110121500 +0200" channel="bigbashleaguemelbournerenegadesvsmelbournestars">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Big Bash League : Melbourne Renegades vs Melbourne Stars</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110101500 +0200" channel="bigbashleaguemelbournerenegadesvsmelbournestars">
-    <title lang="it">Inizia alle 10:15.</title>
-    <desc lang="it">Big Bash League : Melbourne Renegades vs Melbourne Stars.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110101500 +0200" stop="20260110121500 +0200" channel="bigbashleaguemelbournerenegadesvsmelbournestars">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Big Bash League : Melbourne Renegades vs Melbourne Stars</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110101500 +0200" channel="bigbashleaguemelbournerenegadesvsmelbournestars">
-    <title lang="it">Inizia alle 10:15.</title>
-    <desc lang="it">Big Bash League : Melbourne Renegades vs Melbourne Stars.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110101500 +0200" stop="20260110121500 +0200" channel="bigbashleaguemelbournerenegadesvsmelbournestars">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Big Bash League : Melbourne Renegades vs Melbourne Stars</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110101500 +0200" channel="bigbashleaguemelbournerenegadesvsmelbournestars">
-    <title lang="it">Inizia alle 10:15.</title>
-    <desc lang="it">Big Bash League : Melbourne Renegades vs Melbourne Stars.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110101500 +0200" stop="20260110121500 +0200" channel="bigbashleaguemelbournerenegadesvsmelbournestars">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Big Bash League : Melbourne Renegades vs Melbourne Stars</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110101500 +0200" channel="bigbashleaguemelbournerenegadesvsmelbournestars">
-    <title lang="it">Inizia alle 10:15.</title>
-    <desc lang="it">Big Bash League : Melbourne Renegades vs Melbourne Stars.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110101500 +0200" stop="20260110121500 +0200" channel="bigbashleaguemelbournerenegadesvsmelbournestars">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Big Bash League : Melbourne Renegades vs Melbourne Stars</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110101500 +0200" channel="bigbashleaguemelbournerenegadesvsmelbournestars">
-    <title lang="it">Inizia alle 10:15.</title>
-    <desc lang="it">Big Bash League : Melbourne Renegades vs Melbourne Stars.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110101500 +0200" stop="20260110121500 +0200" channel="bigbashleaguemelbournerenegadesvsmelbournestars">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Big Bash League : Melbourne Renegades vs Melbourne Stars</desc>
-    <category lang="it">Cricket</category>
-  </programme>
   <programme start="20260110000000 +0200" stop="20260110113000 +0200" channel="womenspremierleagueupwarriorzwvsgujaratgiantsw">
     <title lang="it">Inizia alle 11:30.</title>
     <desc lang="it">Womens Premier League : UP Warriorz W vs. Gujarat Giants W.</desc>
@@ -62669,16 +62594,6 @@ Il sogno del Re Sole</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Super Smash Women : Wellington Blaze W vs Northern Brave W</desc>
     <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110100000 +0200" channel="unitedcupgauffcvsswiateki">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">UNITED CUP : Gauff C. vs Swiatek I..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110100000 +0200" stop="20260110120000 +0200" channel="unitedcupgauffcvsswiateki">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UNITED CUP : Gauff C. vs Swiatek I.</desc>
-    <category lang="it">Tennis UNITED CUP</category>
   </programme>
   <programme start="20260110000000 +0200" stop="20260110123000 +0200" channel="unitedcupgauffcharrisoncvsswiatekihurkaczh">
     <title lang="it">Inizia alle 12:30.</title>
@@ -62709,16 +62624,6 @@ Il sogno del Re Sole</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">ATP - BRISBANE : Medvedev D. vs Michelsen A.</desc>
     <category lang="it">Tennis ATP - BRISBANE</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110093000 +0200" channel="atphongkongmusettilvsrubleva">
-    <title lang="it">Inizia alle 09:30.</title>
-    <desc lang="it">ATP - HONG KONG : Musetti L. vs Rublev A..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110093000 +0200" stop="20260110113000 +0200" channel="atphongkongmusettilvsrubleva">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - HONG KONG : Musetti L. vs Rublev A.</desc>
-    <category lang="it">Tennis ATP - HONG KONG</category>
   </programme>
   <programme start="20260110000000 +0200" stop="20260110110000 +0200" channel="atphongkonggironmvsbublika">
     <title lang="it">Inizia alle 11:00.</title>
@@ -65919,96 +65824,6 @@ Il sogno del Re Sole</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">European Water Polo Championships : Netherlands vs Serbia</desc>
     <category lang="it">Water polo</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110100000 +0200" channel="saintmoritzwomensmonobobworldcupheat1">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">Saint Moritz | Women's Monobob World Cup | Heat 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110100000 +0200" stop="20260110120000 +0200" channel="saintmoritzwomensmonobobworldcupheat1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Saint Moritz | Women's Monobob World Cup | Heat 1</desc>
-    <category lang="it">Winter Sports</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110101500 +0200" channel="otepaamenshs97worldcupday2">
-    <title lang="it">Inizia alle 10:15.</title>
-    <desc lang="it">Otepaa | Men's HS97 World Cup | Day 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110101500 +0200" stop="20260110121500 +0200" channel="otepaamenshs97worldcupday2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Otepaa | Men's HS97 World Cup | Day 2</desc>
-    <category lang="it">Winter Sports</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110101500 +0200" channel="otepaamenshs97worldcupday2">
-    <title lang="it">Inizia alle 10:15.</title>
-    <desc lang="it">Otepaa | Men's HS97 World Cup | Day 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110101500 +0200" stop="20260110121500 +0200" channel="otepaamenshs97worldcupday2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Otepaa | Men's HS97 World Cup | Day 2</desc>
-    <category lang="it">Winter Sports</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110101500 +0200" channel="otepaamenshs97worldcupday2">
-    <title lang="it">Inizia alle 10:15.</title>
-    <desc lang="it">Otepaa | Men's HS97 World Cup | Day 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110101500 +0200" stop="20260110121500 +0200" channel="otepaamenshs97worldcupday2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Otepaa | Men's HS97 World Cup | Day 2</desc>
-    <category lang="it">Winter Sports</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110101500 +0200" channel="otepaamenshs97worldcupday2">
-    <title lang="it">Inizia alle 10:15.</title>
-    <desc lang="it">Otepaa | Men's HS97 World Cup | Day 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110101500 +0200" stop="20260110121500 +0200" channel="otepaamenshs97worldcupday2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Otepaa | Men's HS97 World Cup | Day 2</desc>
-    <category lang="it">Winter Sports</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110101500 +0200" channel="otepaamenshs97worldcupday2">
-    <title lang="it">Inizia alle 10:15.</title>
-    <desc lang="it">Otepaa | Men's HS97 World Cup | Day 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110101500 +0200" stop="20260110121500 +0200" channel="otepaamenshs97worldcupday2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Otepaa | Men's HS97 World Cup | Day 2</desc>
-    <category lang="it">Winter Sports</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110101500 +0200" channel="otepaamenshs97worldcupday2">
-    <title lang="it">Inizia alle 10:15.</title>
-    <desc lang="it">Otepaa | Men's HS97 World Cup | Day 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110101500 +0200" stop="20260110121500 +0200" channel="otepaamenshs97worldcupday2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Otepaa | Men's HS97 World Cup | Day 2</desc>
-    <category lang="it">Winter Sports</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110101500 +0200" channel="otepaamenshs97worldcupday2">
-    <title lang="it">Inizia alle 10:15.</title>
-    <desc lang="it">Otepaa | Men's HS97 World Cup | Day 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110101500 +0200" stop="20260110121500 +0200" channel="otepaamenshs97worldcupday2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Otepaa | Men's HS97 World Cup | Day 2</desc>
-    <category lang="it">Winter Sports</category>
-  </programme>
-  <programme start="20260110000000 +0200" stop="20260110101500 +0200" channel="otepaamenshs97worldcupday2">
-    <title lang="it">Inizia alle 10:15.</title>
-    <desc lang="it">Otepaa | Men's HS97 World Cup | Day 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260110101500 +0200" stop="20260110121500 +0200" channel="otepaamenshs97worldcupday2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Otepaa | Men's HS97 World Cup | Day 2</desc>
-    <category lang="it">Winter Sports</category>
   </programme>
   <programme start="20260110000000 +0200" stop="20260110113000 +0200" channel="saintmoritzwomensmonobobworldcupheat2">
     <title lang="it">Inizia alle 11:30.</title>
