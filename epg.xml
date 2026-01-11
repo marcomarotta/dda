@@ -58906,63 +58906,6 @@ L'Aquila E Il Leone</title>
   <channel id="snappedseason36episode2">
     <display-name>Snapped Season 36, Episode 2</display-name>
   </channel>
-  <channel id="portugalcampeonatonacionalfemininoracingpowervssporting">
-    <display-name>Portugal - Campeonato Nacional Feminino : Racing Power vs Sporting</display-name>
-  </channel>
-  <channel id="portugalsegundaligaportimonensevsfelgueiras1932">
-    <display-name>Portugal - Segunda liga : Portimonense vs Felgueiras 1932</display-name>
-  </channel>
-  <channel id="spainprimeradivisinfemeninaespanyolvsgranada">
-    <display-name>Spain - Primera División Femenina : Espanyol vs Granada</display-name>
-  </channel>
-  <channel id="spainprimeradivisinfemeninadeportivodelacoruavsudtenerife">
-    <display-name>Spain - Primera División Femenina : Deportivo de La Coruña vs UD Tenerife</display-name>
-  </channel>
-  <channel id="spainprimeradivisinfemeninalogroovslevante">
-    <display-name>Spain - Primera División Femenina : Logroño vs Levante</display-name>
-  </channel>
-  <channel id="spainprimerafederacingimnstictarragonavsteruel">
-    <display-name>Spain - Primera Federación : Gimnàstic Tarragona vs Teruel</display-name>
-  </channel>
-  <channel id="netherlandseerstedivisierodajcvsvvv">
-    <display-name>Netherlands - Eerste Divisie : Roda JC vs VVV</display-name>
-  </channel>
-  <channel id="netherlandseredivisieheerenveenvsfeyenoord">
-    <display-name>Netherlands - Eredivisie : Heerenveen vs Feyenoord</display-name>
-  </channel>
-  <channel id="asiaafcu23asiancupchinapru23vsaustraliau23">
-    <display-name>Asia - AFC U-23 Asian Cup : China PR U23 vs Australia U23</display-name>
-  </channel>
-  <channel id="italyseriealeccevsparma">
-    <display-name>Italy - Serie A : Lecce vs Parma</display-name>
-  </channel>
-  <channel id="italyserieclivornovsjuventusii">
-    <display-name>Italy - Serie C : Livorno vs Juventus II</display-name>
-  </channel>
-  <channel id="italyseriecvirtuscasaranovsatalantaii">
-    <display-name>Italy - Serie C : Virtus Casarano vs Atalanta II</display-name>
-  </channel>
-  <channel id="englandfacupderbycountyvsleedsunited">
-    <display-name>England - FA Cup : Derby County vs Leeds United</display-name>
-  </channel>
-  <channel id="englandwomenssuperleaguemutiview">
-    <display-name>England - Women's Super League : Mutiview</display-name>
-  </channel>
-  <channel id="englandwomenssuperleaguechelseafcvswesthamunited">
-    <display-name>England - Women's Super League : Chelsea FC vs West Ham United</display-name>
-  </channel>
-  <channel id="englandwomenssuperleaguetottenhamhotspurvsleicestercitywfc">
-    <display-name>England - Women's Super League : Tottenham Hotspur vs Leicester City WFC</display-name>
-  </channel>
-  <channel id="englandwomenssuperleaguemanchestercityvseverton">
-    <display-name>England - Women's Super League : Manchester City vs Everton</display-name>
-  </channel>
-  <channel id="englandwomenssuperleagueastonvillavsbrightonamphovealbion">
-    <display-name>England - Women's Super League : Aston Villa vs Brighton &amp; Hove Albion</display-name>
-  </channel>
-  <channel id="cyprus2divisionlatsionvsdoxa">
-    <display-name>Cyprus - 2. Division : Latsion vs Doxa</display-name>
-  </channel>
   <channel id="coupedefrancesochauxvslens">
     <display-name>Coupe de France : Sochaux vs Lens</display-name>
   </channel>
@@ -59191,9 +59134,6 @@ L'Aquila E Il Leone</title>
   <channel id="mexicoligapremierrealapodacavsciervos">
     <display-name>Mexico - Liga Premier : Real Apodaca vs Ciervos</display-name>
   </channel>
-  <channel id="bplchittagongvsdhakacapitals">
-    <display-name>BPL : Chittagong vs Dhaka Capitals</display-name>
-  </channel>
   <channel id="3rdt20srilankavspakistan">
     <display-name>3rd T20: Sri Lanka vs Pakistan</display-name>
   </channel>
@@ -59227,29 +59167,11 @@ L'Aquila E Il Leone</title>
   <channel id="londonmastersmarkselbyvsxiaoguodong">
     <display-name>London Masters : Mark Selby vs Xiao Guodong</display-name>
   </channel>
-  <channel id="worldcupcompetitioninaltenmarktzauchenseewomenssuperg">
-    <display-name>World Cup Competition in Altenmarkt-Zauchensee women's super-G</display-name>
-  </channel>
-  <channel id="worldcupcompetitioninadelboden2ndrunofthemensslalom">
-    <display-name>World Cup Competition in Adelboden 2nd run of the men's slalom</display-name>
-  </channel>
   <channel id="nfljacksonvillejaguarsvsbuffalobills">
     <display-name>NFL : Jacksonville Jaguars vs Buffalo Bills</display-name>
   </channel>
   <channel id="nflphiladelphiaeaglesvssanfrancisco49ers">
     <display-name>NFL : Philadelphia Eagles vs San Francisco 49ers</display-name>
-  </channel>
-  <channel id="basketleagueaskarditsasvsolympiakos">
-    <display-name>Basket League : AS Karditsas vs Olympiakos</display-name>
-  </channel>
-  <channel id="bulgarianblbcberoeszvsbcspartakpleven">
-    <display-name>Bulgaria NBL : BC Beroe SZ vs BC Spartak Pleven</display-name>
-  </channel>
-  <channel id="acbsanpabloburgosvsjoventutbadalona">
-    <display-name>ACB : San Pablo Burgos vs Joventut Badalona</display-name>
-  </channel>
-  <channel id="polishbasketballleagueszczecinvslegia">
-    <display-name>Polish Basketball League : Szczecin vs Legia</display-name>
   </channel>
   <channel id="sbleaguelausannebasketvsregiobasel">
     <display-name>SB League : Lausanne Basket vs Regio Basel</display-name>
@@ -59434,9 +59356,6 @@ L'Aquila E Il Leone</title>
   <channel id="frenchchampionshipseliteracementroyes">
     <display-name>French Championships | Elite Race (Men) Troyes</display-name>
   </channel>
-  <channel id="theracest2026doshermanasracetrack">
-    <display-name>The Races (T2026): Dos Hermanas Racetrack</display-name>
-  </channel>
   <channel id="parisinternationalfencingchallenge2026">
     <display-name>Paris International Fencing Challenge 2026</display-name>
   </channel>
@@ -59473,17 +59392,11 @@ L'Aquila E Il Leone</title>
   <channel id="ehfeuropeanleaguewomennykbingfalsterhkwvsmolesztergomkcw">
     <display-name>EHF European League Women : Nykøbing Falster HK W vs MOL Esztergom KC W</display-name>
   </channel>
-  <channel id="liveracingfromkelsoandpunchestown">
-    <display-name>Live racing from Kelso and Punchestown</display-name>
-  </channel>
   <channel id="liveracingfromaroundtheuk">
     <display-name>Live racing from around the UK</display-name>
   </channel>
   <channel id="americasdayattheraces">
     <display-name>America's Day At the Races</display-name>
-  </channel>
-  <channel id="khltraktorchelyabinskvssibirnovosibirsk">
-    <display-name>KHL : Traktor Chelyabinsk vs Sibir Novosibirsk</display-name>
   </channel>
   <channel id="delgrizzlywolfsburgvsfrankfurtlowen">
     <display-name>DEL : Grizzly Wolfsburg vs Frankfurt Lowen</display-name>
@@ -59533,9 +59446,6 @@ L'Aquila E Il Leone</title>
   <channel id="2026usfigureskatingchampionshipsmakingtheteam">
     <display-name>2026 U.S. Figure Skating Championships Making the Team</display-name>
   </channel>
-  <channel id="divisiondehonoruesantboianavscrlavila">
-    <display-name>Division de Honor : UE Santboiana vs Cr La Vila</display-name>
-  </channel>
   <channel id="europeanrugbychampionscuptoulonvsmunster">
     <display-name>European Rugby Champions Cup : Toulon vs Munster</display-name>
   </channel>
@@ -59553,12 +59463,6 @@ L'Aquila E Il Leone</title>
   </channel>
   <channel id="europeanrugbychampionscupsaracensvsstadetoulousain">
     <display-name>European Rugby Champions Cup : Saracens vs Stade Toulousain</display-name>
-  </channel>
-  <channel id="division1womenbesiktaswvsvakifbankw">
-    <display-name>Division 1 Women : Besiktas W vs Vakifbank W</display-name>
-  </channel>
-  <channel id="superleaguefakelyamalnovyiurengoyvsdynamomoscow">
-    <display-name>Superleague : Fakel Yamal Novyi Urengoy vs Dynamo Moscow</display-name>
   </channel>
   <channel id="russiasuperligawomentulitsatulavsdinamokazan">
     <display-name>Russia Superliga, Women : Tulitsa Tula vs Dinamo Kazan</display-name>
@@ -59587,9 +59491,6 @@ L'Aquila E Il Leone</title>
   <channel id="womensvolleyballsuperleaguesescrjflamengovsfluminense">
     <display-name>Women's Volleyball Super League : Sesc-RJ Flamengo vs. Fluminense</display-name>
   </channel>
-  <channel id="europeanwaterpolochampionshipsturkeyvsitaly">
-    <display-name>European Water Polo Championships : Turkey vs Italy</display-name>
-  </channel>
   <channel id="europeanwaterpolochampionshipsromaniavsslovakia">
     <display-name>European Water Polo Championships : Romania vs Slovakia</display-name>
   </channel>
@@ -59598,9 +59499,6 @@ L'Aquila E Il Leone</title>
   </channel>
   <channel id="europeanwaterpolochampionshipsgreecevsgeorgia">
     <display-name>European Water Polo Championships : Greece vs Georgia</display-name>
-  </channel>
-  <channel id="winterbergmensdoublesworldcuprun2">
-    <display-name>Winterberg | Men's Doubles World Cup | Run 2</display-name>
   </channel>
   <channel id="otepaawomenscompact5kmworldcup">
     <display-name>Otepaa | Women's Compact 5km World Cup</display-name>
@@ -59693,796 +59591,6 @@ L'Aquila E Il Leone</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Snapped Season 36, Episode 2</desc>
     <category lang="it">TV Shows</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111125500 +0200" channel="portugalcampeonatonacionalfemininoracingpowervssporting">
-    <title lang="it">Inizia alle 12:55.</title>
-    <desc lang="it">Portugal - Campeonato Nacional Feminino : Racing Power vs Sporting.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111125500 +0200" stop="20260111145500 +0200" channel="portugalcampeonatonacionalfemininoracingpowervssporting">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Portugal - Campeonato Nacional Feminino : Racing Power vs Sporting</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111130000 +0200" channel="portugalsegundaligaportimonensevsfelgueiras1932">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Portugal - Segunda liga : Portimonense vs Felgueiras 1932.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111130000 +0200" stop="20260111150000 +0200" channel="portugalsegundaligaportimonensevsfelgueiras1932">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Portugal - Segunda liga : Portimonense vs Felgueiras 1932</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111130000 +0200" channel="spainprimeradivisinfemeninaespanyolvsgranada">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Spain - Primera División Femenina : Espanyol vs Granada.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111130000 +0200" stop="20260111150000 +0200" channel="spainprimeradivisinfemeninaespanyolvsgranada">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Spain - Primera División Femenina : Espanyol vs Granada</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111130000 +0200" channel="spainprimeradivisinfemeninadeportivodelacoruavsudtenerife">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Spain - Primera División Femenina : Deportivo de La Coruña vs UD Tenerife.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111130000 +0200" stop="20260111150000 +0200" channel="spainprimeradivisinfemeninadeportivodelacoruavsudtenerife">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Spain - Primera División Femenina : Deportivo de La Coruña vs UD Tenerife</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111130000 +0200" channel="spainprimeradivisinfemeninalogroovslevante">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Spain - Primera División Femenina : Logroño vs Levante.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111130000 +0200" stop="20260111150000 +0200" channel="spainprimeradivisinfemeninalogroovslevante">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Spain - Primera División Femenina : Logroño vs Levante</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111130000 +0200" channel="spainprimerafederacingimnstictarragonavsteruel">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Spain - Primera Federación : Gimnàstic Tarragona vs Teruel.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111130000 +0200" stop="20260111150000 +0200" channel="spainprimerafederacingimnstictarragonavsteruel">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Spain - Primera Federación : Gimnàstic Tarragona vs Teruel</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111131500 +0200" channel="netherlandseerstedivisierodajcvsvvv">
-    <title lang="it">Inizia alle 13:15.</title>
-    <desc lang="it">Netherlands - Eerste Divisie : Roda JC vs VVV.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111131500 +0200" stop="20260111151500 +0200" channel="netherlandseerstedivisierodajcvsvvv">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Netherlands - Eerste Divisie : Roda JC vs VVV</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111131500 +0200" channel="netherlandseredivisieheerenveenvsfeyenoord">
-    <title lang="it">Inizia alle 13:15.</title>
-    <desc lang="it">Netherlands - Eredivisie : Heerenveen vs Feyenoord.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111131500 +0200" stop="20260111151500 +0200" channel="netherlandseredivisieheerenveenvsfeyenoord">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Netherlands - Eredivisie : Heerenveen vs Feyenoord</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111131500 +0200" channel="netherlandseredivisieheerenveenvsfeyenoord">
-    <title lang="it">Inizia alle 13:15.</title>
-    <desc lang="it">Netherlands - Eredivisie : Heerenveen vs Feyenoord.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111131500 +0200" stop="20260111151500 +0200" channel="netherlandseredivisieheerenveenvsfeyenoord">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Netherlands - Eredivisie : Heerenveen vs Feyenoord</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111131500 +0200" channel="netherlandseredivisieheerenveenvsfeyenoord">
-    <title lang="it">Inizia alle 13:15.</title>
-    <desc lang="it">Netherlands - Eredivisie : Heerenveen vs Feyenoord.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111131500 +0200" stop="20260111151500 +0200" channel="netherlandseredivisieheerenveenvsfeyenoord">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Netherlands - Eredivisie : Heerenveen vs Feyenoord</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111131500 +0200" channel="netherlandseredivisieheerenveenvsfeyenoord">
-    <title lang="it">Inizia alle 13:15.</title>
-    <desc lang="it">Netherlands - Eredivisie : Heerenveen vs Feyenoord.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111131500 +0200" stop="20260111151500 +0200" channel="netherlandseredivisieheerenveenvsfeyenoord">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Netherlands - Eredivisie : Heerenveen vs Feyenoord</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111131500 +0200" channel="netherlandseredivisieheerenveenvsfeyenoord">
-    <title lang="it">Inizia alle 13:15.</title>
-    <desc lang="it">Netherlands - Eredivisie : Heerenveen vs Feyenoord.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111131500 +0200" stop="20260111151500 +0200" channel="netherlandseredivisieheerenveenvsfeyenoord">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Netherlands - Eredivisie : Heerenveen vs Feyenoord</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111131500 +0200" channel="netherlandseredivisieheerenveenvsfeyenoord">
-    <title lang="it">Inizia alle 13:15.</title>
-    <desc lang="it">Netherlands - Eredivisie : Heerenveen vs Feyenoord.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111131500 +0200" stop="20260111151500 +0200" channel="netherlandseredivisieheerenveenvsfeyenoord">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Netherlands - Eredivisie : Heerenveen vs Feyenoord</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111131500 +0200" channel="netherlandseredivisieheerenveenvsfeyenoord">
-    <title lang="it">Inizia alle 13:15.</title>
-    <desc lang="it">Netherlands - Eredivisie : Heerenveen vs Feyenoord.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111131500 +0200" stop="20260111151500 +0200" channel="netherlandseredivisieheerenveenvsfeyenoord">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Netherlands - Eredivisie : Heerenveen vs Feyenoord</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111131500 +0200" channel="netherlandseredivisieheerenveenvsfeyenoord">
-    <title lang="it">Inizia alle 13:15.</title>
-    <desc lang="it">Netherlands - Eredivisie : Heerenveen vs Feyenoord.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111131500 +0200" stop="20260111151500 +0200" channel="netherlandseredivisieheerenveenvsfeyenoord">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Netherlands - Eredivisie : Heerenveen vs Feyenoord</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111131500 +0200" channel="netherlandseredivisieheerenveenvsfeyenoord">
-    <title lang="it">Inizia alle 13:15.</title>
-    <desc lang="it">Netherlands - Eredivisie : Heerenveen vs Feyenoord.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111131500 +0200" stop="20260111151500 +0200" channel="netherlandseredivisieheerenveenvsfeyenoord">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Netherlands - Eredivisie : Heerenveen vs Feyenoord</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111131500 +0200" channel="netherlandseredivisieheerenveenvsfeyenoord">
-    <title lang="it">Inizia alle 13:15.</title>
-    <desc lang="it">Netherlands - Eredivisie : Heerenveen vs Feyenoord.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111131500 +0200" stop="20260111151500 +0200" channel="netherlandseredivisieheerenveenvsfeyenoord">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Netherlands - Eredivisie : Heerenveen vs Feyenoord</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111131500 +0200" channel="netherlandseredivisieheerenveenvsfeyenoord">
-    <title lang="it">Inizia alle 13:15.</title>
-    <desc lang="it">Netherlands - Eredivisie : Heerenveen vs Feyenoord.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111131500 +0200" stop="20260111151500 +0200" channel="netherlandseredivisieheerenveenvsfeyenoord">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Netherlands - Eredivisie : Heerenveen vs Feyenoord</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111133000 +0200" channel="asiaafcu23asiancupchinapru23vsaustraliau23">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Asia - AFC U-23 Asian Cup : China PR U23 vs Australia U23.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111133000 +0200" stop="20260111153000 +0200" channel="asiaafcu23asiancupchinapru23vsaustraliau23">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Asia - AFC U-23 Asian Cup : China PR U23 vs Australia U23</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111133000 +0200" channel="asiaafcu23asiancupchinapru23vsaustraliau23">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Asia - AFC U-23 Asian Cup : China PR U23 vs Australia U23.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111133000 +0200" stop="20260111153000 +0200" channel="asiaafcu23asiancupchinapru23vsaustraliau23">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Asia - AFC U-23 Asian Cup : China PR U23 vs Australia U23</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111133000 +0200" channel="italyseriealeccevsparma">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Parma.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111133000 +0200" stop="20260111153000 +0200" channel="italyseriealeccevsparma">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Parma</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111133000 +0200" channel="italyseriealeccevsparma">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Parma.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111133000 +0200" stop="20260111153000 +0200" channel="italyseriealeccevsparma">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Parma</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111133000 +0200" channel="italyseriealeccevsparma">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Parma.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111133000 +0200" stop="20260111153000 +0200" channel="italyseriealeccevsparma">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Parma</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111133000 +0200" channel="italyseriealeccevsparma">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Parma.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111133000 +0200" stop="20260111153000 +0200" channel="italyseriealeccevsparma">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Parma</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111133000 +0200" channel="italyseriealeccevsparma">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Parma.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111133000 +0200" stop="20260111153000 +0200" channel="italyseriealeccevsparma">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Parma</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111133000 +0200" channel="italyseriealeccevsparma">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Parma.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111133000 +0200" stop="20260111153000 +0200" channel="italyseriealeccevsparma">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Parma</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111133000 +0200" channel="italyseriealeccevsparma">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Parma.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111133000 +0200" stop="20260111153000 +0200" channel="italyseriealeccevsparma">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Parma</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111133000 +0200" channel="italyseriealeccevsparma">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Parma.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111133000 +0200" stop="20260111153000 +0200" channel="italyseriealeccevsparma">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Parma</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111133000 +0200" channel="italyseriealeccevsparma">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Parma.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111133000 +0200" stop="20260111153000 +0200" channel="italyseriealeccevsparma">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Parma</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111133000 +0200" channel="italyseriealeccevsparma">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Parma.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111133000 +0200" stop="20260111153000 +0200" channel="italyseriealeccevsparma">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Parma</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111133000 +0200" channel="italyseriealeccevsparma">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Parma.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111133000 +0200" stop="20260111153000 +0200" channel="italyseriealeccevsparma">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Parma</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111133000 +0200" channel="italyseriealeccevsparma">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Parma.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111133000 +0200" stop="20260111153000 +0200" channel="italyseriealeccevsparma">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Parma</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111133000 +0200" channel="italyseriealeccevsparma">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Parma.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111133000 +0200" stop="20260111153000 +0200" channel="italyseriealeccevsparma">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Parma</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111133000 +0200" channel="italyseriealeccevsparma">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Parma.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111133000 +0200" stop="20260111153000 +0200" channel="italyseriealeccevsparma">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Parma</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111133000 +0200" channel="italyseriealeccevsparma">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Parma.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111133000 +0200" stop="20260111153000 +0200" channel="italyseriealeccevsparma">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Parma</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111133000 +0200" channel="italyseriealeccevsparma">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Parma.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111133000 +0200" stop="20260111153000 +0200" channel="italyseriealeccevsparma">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Parma</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111133000 +0200" channel="italyseriealeccevsparma">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Parma.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111133000 +0200" stop="20260111153000 +0200" channel="italyseriealeccevsparma">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Parma</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111133000 +0200" channel="italyseriealeccevsparma">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Parma.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111133000 +0200" stop="20260111153000 +0200" channel="italyseriealeccevsparma">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Parma</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111133000 +0200" channel="italyserieclivornovsjuventusii">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie C : Livorno vs Juventus II.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111133000 +0200" stop="20260111153000 +0200" channel="italyserieclivornovsjuventusii">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Livorno vs Juventus II</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111133000 +0200" channel="italyseriecvirtuscasaranovsatalantaii">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie C : Virtus Casarano vs Atalanta II.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111133000 +0200" stop="20260111153000 +0200" channel="italyseriecvirtuscasaranovsatalantaii">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Virtus Casarano vs Atalanta II</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111133000 +0200" channel="italyseriecvirtuscasaranovsatalantaii">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie C : Virtus Casarano vs Atalanta II.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111133000 +0200" stop="20260111153000 +0200" channel="italyseriecvirtuscasaranovsatalantaii">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Virtus Casarano vs Atalanta II</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111140000 +0200" channel="englandfacupderbycountyvsleedsunited">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">England - FA Cup : Derby County vs Leeds United.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111140000 +0200" stop="20260111160000 +0200" channel="englandfacupderbycountyvsleedsunited">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Derby County vs Leeds United</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111140000 +0200" channel="englandfacupderbycountyvsleedsunited">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">England - FA Cup : Derby County vs Leeds United.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111140000 +0200" stop="20260111160000 +0200" channel="englandfacupderbycountyvsleedsunited">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Derby County vs Leeds United</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111140000 +0200" channel="englandfacupderbycountyvsleedsunited">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">England - FA Cup : Derby County vs Leeds United.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111140000 +0200" stop="20260111160000 +0200" channel="englandfacupderbycountyvsleedsunited">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Derby County vs Leeds United</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111140000 +0200" channel="englandfacupderbycountyvsleedsunited">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">England - FA Cup : Derby County vs Leeds United.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111140000 +0200" stop="20260111160000 +0200" channel="englandfacupderbycountyvsleedsunited">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Derby County vs Leeds United</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111140000 +0200" channel="englandfacupderbycountyvsleedsunited">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">England - FA Cup : Derby County vs Leeds United.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111140000 +0200" stop="20260111160000 +0200" channel="englandfacupderbycountyvsleedsunited">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Derby County vs Leeds United</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111140000 +0200" channel="englandfacupderbycountyvsleedsunited">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">England - FA Cup : Derby County vs Leeds United.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111140000 +0200" stop="20260111160000 +0200" channel="englandfacupderbycountyvsleedsunited">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Derby County vs Leeds United</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111140000 +0200" channel="englandfacupderbycountyvsleedsunited">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">England - FA Cup : Derby County vs Leeds United.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111140000 +0200" stop="20260111160000 +0200" channel="englandfacupderbycountyvsleedsunited">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Derby County vs Leeds United</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111140000 +0200" channel="englandfacupderbycountyvsleedsunited">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">England - FA Cup : Derby County vs Leeds United.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111140000 +0200" stop="20260111160000 +0200" channel="englandfacupderbycountyvsleedsunited">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Derby County vs Leeds United</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111140000 +0200" channel="englandfacupderbycountyvsleedsunited">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">England - FA Cup : Derby County vs Leeds United.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111140000 +0200" stop="20260111160000 +0200" channel="englandfacupderbycountyvsleedsunited">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Derby County vs Leeds United</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111140000 +0200" channel="englandfacupderbycountyvsleedsunited">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">England - FA Cup : Derby County vs Leeds United.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111140000 +0200" stop="20260111160000 +0200" channel="englandfacupderbycountyvsleedsunited">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Derby County vs Leeds United</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111140000 +0200" channel="englandfacupderbycountyvsleedsunited">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">England - FA Cup : Derby County vs Leeds United.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111140000 +0200" stop="20260111160000 +0200" channel="englandfacupderbycountyvsleedsunited">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Derby County vs Leeds United</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111140000 +0200" channel="englandfacupderbycountyvsleedsunited">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">England - FA Cup : Derby County vs Leeds United.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111140000 +0200" stop="20260111160000 +0200" channel="englandfacupderbycountyvsleedsunited">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Derby County vs Leeds United</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111140000 +0200" channel="englandfacupderbycountyvsleedsunited">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">England - FA Cup : Derby County vs Leeds United.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111140000 +0200" stop="20260111160000 +0200" channel="englandfacupderbycountyvsleedsunited">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Derby County vs Leeds United</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111140000 +0200" channel="englandfacupderbycountyvsleedsunited">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">England - FA Cup : Derby County vs Leeds United.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111140000 +0200" stop="20260111160000 +0200" channel="englandfacupderbycountyvsleedsunited">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Derby County vs Leeds United</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111140000 +0200" channel="englandfacupderbycountyvsleedsunited">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">England - FA Cup : Derby County vs Leeds United.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111140000 +0200" stop="20260111160000 +0200" channel="englandfacupderbycountyvsleedsunited">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Derby County vs Leeds United</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111140000 +0200" channel="englandfacupderbycountyvsleedsunited">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">England - FA Cup : Derby County vs Leeds United.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111140000 +0200" stop="20260111160000 +0200" channel="englandfacupderbycountyvsleedsunited">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Derby County vs Leeds United</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111140000 +0200" channel="englandfacupderbycountyvsleedsunited">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">England - FA Cup : Derby County vs Leeds United.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111140000 +0200" stop="20260111160000 +0200" channel="englandfacupderbycountyvsleedsunited">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Derby County vs Leeds United</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111140000 +0200" channel="englandfacupderbycountyvsleedsunited">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">England - FA Cup : Derby County vs Leeds United.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111140000 +0200" stop="20260111160000 +0200" channel="englandfacupderbycountyvsleedsunited">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Derby County vs Leeds United</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111140000 +0200" channel="englandfacupderbycountyvsleedsunited">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">England - FA Cup : Derby County vs Leeds United.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111140000 +0200" stop="20260111160000 +0200" channel="englandfacupderbycountyvsleedsunited">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Derby County vs Leeds United</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111140000 +0200" channel="englandfacupderbycountyvsleedsunited">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">England - FA Cup : Derby County vs Leeds United.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111140000 +0200" stop="20260111160000 +0200" channel="englandfacupderbycountyvsleedsunited">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - FA Cup : Derby County vs Leeds United</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111140000 +0200" channel="englandwomenssuperleaguemutiview">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">England - Women's Super League : Mutiview.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111140000 +0200" stop="20260111160000 +0200" channel="englandwomenssuperleaguemutiview">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Women's Super League : Mutiview</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111140000 +0200" channel="englandwomenssuperleaguechelseafcvswesthamunited">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">England - Women's Super League : Chelsea FC vs West Ham United.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111140000 +0200" stop="20260111160000 +0200" channel="englandwomenssuperleaguechelseafcvswesthamunited">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Women's Super League : Chelsea FC vs West Ham United</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111140000 +0200" channel="englandwomenssuperleaguechelseafcvswesthamunited">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">England - Women's Super League : Chelsea FC vs West Ham United.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111140000 +0200" stop="20260111160000 +0200" channel="englandwomenssuperleaguechelseafcvswesthamunited">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Women's Super League : Chelsea FC vs West Ham United</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111140000 +0200" channel="englandwomenssuperleaguechelseafcvswesthamunited">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">England - Women's Super League : Chelsea FC vs West Ham United.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111140000 +0200" stop="20260111160000 +0200" channel="englandwomenssuperleaguechelseafcvswesthamunited">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Women's Super League : Chelsea FC vs West Ham United</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111140000 +0200" channel="englandwomenssuperleaguechelseafcvswesthamunited">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">England - Women's Super League : Chelsea FC vs West Ham United.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111140000 +0200" stop="20260111160000 +0200" channel="englandwomenssuperleaguechelseafcvswesthamunited">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Women's Super League : Chelsea FC vs West Ham United</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111140000 +0200" channel="englandwomenssuperleaguechelseafcvswesthamunited">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">England - Women's Super League : Chelsea FC vs West Ham United.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111140000 +0200" stop="20260111160000 +0200" channel="englandwomenssuperleaguechelseafcvswesthamunited">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Women's Super League : Chelsea FC vs West Ham United</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111140000 +0200" channel="englandwomenssuperleaguetottenhamhotspurvsleicestercitywfc">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">England - Women's Super League : Tottenham Hotspur vs Leicester City WFC.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111140000 +0200" stop="20260111160000 +0200" channel="englandwomenssuperleaguetottenhamhotspurvsleicestercitywfc">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Women's Super League : Tottenham Hotspur vs Leicester City WFC</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111140000 +0200" channel="englandwomenssuperleaguemanchestercityvseverton">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">England - Women's Super League : Manchester City vs Everton.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111140000 +0200" stop="20260111160000 +0200" channel="englandwomenssuperleaguemanchestercityvseverton">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Women's Super League : Manchester City vs Everton</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111140000 +0200" channel="englandwomenssuperleaguemanchestercityvseverton">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">England - Women's Super League : Manchester City vs Everton.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111140000 +0200" stop="20260111160000 +0200" channel="englandwomenssuperleaguemanchestercityvseverton">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Women's Super League : Manchester City vs Everton</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111140000 +0200" channel="englandwomenssuperleaguemanchestercityvseverton">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">England - Women's Super League : Manchester City vs Everton.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111140000 +0200" stop="20260111160000 +0200" channel="englandwomenssuperleaguemanchestercityvseverton">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Women's Super League : Manchester City vs Everton</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111140000 +0200" channel="englandwomenssuperleaguemanchestercityvseverton">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">England - Women's Super League : Manchester City vs Everton.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111140000 +0200" stop="20260111160000 +0200" channel="englandwomenssuperleaguemanchestercityvseverton">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Women's Super League : Manchester City vs Everton</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111140000 +0200" channel="englandwomenssuperleaguemanchestercityvseverton">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">England - Women's Super League : Manchester City vs Everton.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111140000 +0200" stop="20260111160000 +0200" channel="englandwomenssuperleaguemanchestercityvseverton">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Women's Super League : Manchester City vs Everton</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111140000 +0200" channel="englandwomenssuperleaguemanchestercityvseverton">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">England - Women's Super League : Manchester City vs Everton.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111140000 +0200" stop="20260111160000 +0200" channel="englandwomenssuperleaguemanchestercityvseverton">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Women's Super League : Manchester City vs Everton</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111140000 +0200" channel="englandwomenssuperleaguemanchestercityvseverton">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">England - Women's Super League : Manchester City vs Everton.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111140000 +0200" stop="20260111160000 +0200" channel="englandwomenssuperleaguemanchestercityvseverton">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Women's Super League : Manchester City vs Everton</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111140000 +0200" channel="englandwomenssuperleaguemanchestercityvseverton">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">England - Women's Super League : Manchester City vs Everton.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111140000 +0200" stop="20260111160000 +0200" channel="englandwomenssuperleaguemanchestercityvseverton">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Women's Super League : Manchester City vs Everton</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111140000 +0200" channel="englandwomenssuperleagueastonvillavsbrightonamphovealbion">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">England - Women's Super League : Aston Villa vs Brighton &amp; Hove Albion.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111140000 +0200" stop="20260111160000 +0200" channel="englandwomenssuperleagueastonvillavsbrightonamphovealbion">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Women's Super League : Aston Villa vs Brighton &amp; Hove Albion</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111140000 +0200" channel="englandwomenssuperleagueastonvillavsbrightonamphovealbion">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">England - Women's Super League : Aston Villa vs Brighton &amp; Hove Albion.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111140000 +0200" stop="20260111160000 +0200" channel="englandwomenssuperleagueastonvillavsbrightonamphovealbion">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Women's Super League : Aston Villa vs Brighton &amp; Hove Albion</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111143000 +0200" channel="cyprus2divisionlatsionvsdoxa">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">Cyprus - 2. Division : Latsion vs Doxa.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111143000 +0200" stop="20260111163000 +0200" channel="cyprus2divisionlatsionvsdoxa">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Cyprus - 2. Division : Latsion vs Doxa</desc>
-    <category lang="it">Soccer</category>
   </programme>
   <programme start="20260111000000 +0200" stop="20260111150000 +0200" channel="coupedefrancesochauxvslens">
     <title lang="it">Inizia alle 15:00.</title>
@@ -63764,16 +62872,6 @@ L'Aquila E Il Leone</title>
     <desc lang="it">Mexico - Liga Premier : Real Apodaca vs Ciervos</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <programme start="20260111000000 +0200" stop="20260111140000 +0200" channel="bplchittagongvsdhakacapitals">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">BPL : Chittagong vs Dhaka Capitals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111140000 +0200" stop="20260111160000 +0200" channel="bplchittagongvsdhakacapitals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">BPL : Chittagong vs Dhaka Capitals</desc>
-    <category lang="it">Cricket</category>
-  </programme>
   <programme start="20260111000000 +0200" stop="20260111153000 +0200" channel="3rdt20srilankavspakistan">
     <title lang="it">Inizia alle 15:30.</title>
     <desc lang="it">3rd T20: Sri Lanka vs Pakistan.</desc>
@@ -64274,146 +63372,6 @@ L'Aquila E Il Leone</title>
     <desc lang="it">London Masters : Mark Selby vs Xiao Guodong</desc>
     <category lang="it">Snooker</category>
   </programme>
-  <programme start="20260111000000 +0200" stop="20260111124500 +0200" channel="worldcupcompetitioninaltenmarktzauchenseewomenssuperg">
-    <title lang="it">Inizia alle 12:45.</title>
-    <desc lang="it">World Cup Competition in Altenmarkt-Zauchensee women's super-G.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111124500 +0200" stop="20260111144500 +0200" channel="worldcupcompetitioninaltenmarktzauchenseewomenssuperg">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup Competition in Altenmarkt-Zauchensee women's super-G</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111124500 +0200" channel="worldcupcompetitioninaltenmarktzauchenseewomenssuperg">
-    <title lang="it">Inizia alle 12:45.</title>
-    <desc lang="it">World Cup Competition in Altenmarkt-Zauchensee women's super-G.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111124500 +0200" stop="20260111144500 +0200" channel="worldcupcompetitioninaltenmarktzauchenseewomenssuperg">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup Competition in Altenmarkt-Zauchensee women's super-G</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111124500 +0200" channel="worldcupcompetitioninaltenmarktzauchenseewomenssuperg">
-    <title lang="it">Inizia alle 12:45.</title>
-    <desc lang="it">World Cup Competition in Altenmarkt-Zauchensee women's super-G.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111124500 +0200" stop="20260111144500 +0200" channel="worldcupcompetitioninaltenmarktzauchenseewomenssuperg">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup Competition in Altenmarkt-Zauchensee women's super-G</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111124500 +0200" channel="worldcupcompetitioninaltenmarktzauchenseewomenssuperg">
-    <title lang="it">Inizia alle 12:45.</title>
-    <desc lang="it">World Cup Competition in Altenmarkt-Zauchensee women's super-G.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111124500 +0200" stop="20260111144500 +0200" channel="worldcupcompetitioninaltenmarktzauchenseewomenssuperg">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup Competition in Altenmarkt-Zauchensee women's super-G</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111124500 +0200" channel="worldcupcompetitioninaltenmarktzauchenseewomenssuperg">
-    <title lang="it">Inizia alle 12:45.</title>
-    <desc lang="it">World Cup Competition in Altenmarkt-Zauchensee women's super-G.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111124500 +0200" stop="20260111144500 +0200" channel="worldcupcompetitioninaltenmarktzauchenseewomenssuperg">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup Competition in Altenmarkt-Zauchensee women's super-G</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111124500 +0200" channel="worldcupcompetitioninaltenmarktzauchenseewomenssuperg">
-    <title lang="it">Inizia alle 12:45.</title>
-    <desc lang="it">World Cup Competition in Altenmarkt-Zauchensee women's super-G.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111124500 +0200" stop="20260111144500 +0200" channel="worldcupcompetitioninaltenmarktzauchenseewomenssuperg">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup Competition in Altenmarkt-Zauchensee women's super-G</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111124500 +0200" channel="worldcupcompetitioninaltenmarktzauchenseewomenssuperg">
-    <title lang="it">Inizia alle 12:45.</title>
-    <desc lang="it">World Cup Competition in Altenmarkt-Zauchensee women's super-G.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111124500 +0200" stop="20260111144500 +0200" channel="worldcupcompetitioninaltenmarktzauchenseewomenssuperg">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup Competition in Altenmarkt-Zauchensee women's super-G</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111141500 +0200" channel="worldcupcompetitioninadelboden2ndrunofthemensslalom">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">World Cup Competition in Adelboden 2nd run of the men's slalom.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111141500 +0200" stop="20260111161500 +0200" channel="worldcupcompetitioninadelboden2ndrunofthemensslalom">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup Competition in Adelboden 2nd run of the men's slalom</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111141500 +0200" channel="worldcupcompetitioninadelboden2ndrunofthemensslalom">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">World Cup Competition in Adelboden 2nd run of the men's slalom.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111141500 +0200" stop="20260111161500 +0200" channel="worldcupcompetitioninadelboden2ndrunofthemensslalom">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup Competition in Adelboden 2nd run of the men's slalom</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111141500 +0200" channel="worldcupcompetitioninadelboden2ndrunofthemensslalom">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">World Cup Competition in Adelboden 2nd run of the men's slalom.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111141500 +0200" stop="20260111161500 +0200" channel="worldcupcompetitioninadelboden2ndrunofthemensslalom">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup Competition in Adelboden 2nd run of the men's slalom</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111141500 +0200" channel="worldcupcompetitioninadelboden2ndrunofthemensslalom">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">World Cup Competition in Adelboden 2nd run of the men's slalom.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111141500 +0200" stop="20260111161500 +0200" channel="worldcupcompetitioninadelboden2ndrunofthemensslalom">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup Competition in Adelboden 2nd run of the men's slalom</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111141500 +0200" channel="worldcupcompetitioninadelboden2ndrunofthemensslalom">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">World Cup Competition in Adelboden 2nd run of the men's slalom.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111141500 +0200" stop="20260111161500 +0200" channel="worldcupcompetitioninadelboden2ndrunofthemensslalom">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup Competition in Adelboden 2nd run of the men's slalom</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111141500 +0200" channel="worldcupcompetitioninadelboden2ndrunofthemensslalom">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">World Cup Competition in Adelboden 2nd run of the men's slalom.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111141500 +0200" stop="20260111161500 +0200" channel="worldcupcompetitioninadelboden2ndrunofthemensslalom">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup Competition in Adelboden 2nd run of the men's slalom</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111141500 +0200" channel="worldcupcompetitioninadelboden2ndrunofthemensslalom">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">World Cup Competition in Adelboden 2nd run of the men's slalom.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111141500 +0200" stop="20260111161500 +0200" channel="worldcupcompetitioninadelboden2ndrunofthemensslalom">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup Competition in Adelboden 2nd run of the men's slalom</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
   <programme start="20260111000000 +0200" stop="20260111200000 +0200" channel="nfljacksonvillejaguarsvsbuffalobills">
     <title lang="it">Inizia alle 20:00.</title>
     <desc lang="it">NFL : Jacksonville Jaguars vs Buffalo Bills.</desc>
@@ -64903,56 +63861,6 @@ L'Aquila E Il Leone</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">NFL : Philadelphia Eagles vs San Francisco 49ers</desc>
     <category lang="it">Am. Football (NFL)</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111130000 +0200" channel="basketleagueaskarditsasvsolympiakos">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Basket League : AS Karditsas vs Olympiakos.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111130000 +0200" stop="20260111150000 +0200" channel="basketleagueaskarditsasvsolympiakos">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Basket League : AS Karditsas vs Olympiakos</desc>
-    <category lang="it">Basketball</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111130000 +0200" channel="bulgarianblbcberoeszvsbcspartakpleven">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Bulgaria NBL : BC Beroe SZ vs BC Spartak Pleven.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111130000 +0200" stop="20260111150000 +0200" channel="bulgarianblbcberoeszvsbcspartakpleven">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Bulgaria NBL : BC Beroe SZ vs BC Spartak Pleven</desc>
-    <category lang="it">Basketball</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111130000 +0200" channel="acbsanpabloburgosvsjoventutbadalona">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">ACB : San Pablo Burgos vs Joventut Badalona.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111130000 +0200" stop="20260111150000 +0200" channel="acbsanpabloburgosvsjoventutbadalona">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ACB : San Pablo Burgos vs Joventut Badalona</desc>
-    <category lang="it">Basketball</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111130000 +0200" channel="acbsanpabloburgosvsjoventutbadalona">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">ACB : San Pablo Burgos vs Joventut Badalona.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111130000 +0200" stop="20260111150000 +0200" channel="acbsanpabloburgosvsjoventutbadalona">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ACB : San Pablo Burgos vs Joventut Badalona</desc>
-    <category lang="it">Basketball</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111133000 +0200" channel="polishbasketballleagueszczecinvslegia">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Polish Basketball League : Szczecin vs Legia.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111133000 +0200" stop="20260111153000 +0200" channel="polishbasketballleagueszczecinvslegia">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Polish Basketball League : Szczecin vs Legia</desc>
-    <category lang="it">Basketball</category>
   </programme>
   <programme start="20260111000000 +0200" stop="20260111160000 +0200" channel="sbleaguelausannebasketvsregiobasel">
     <title lang="it">Inizia alle 16:00.</title>
@@ -66154,16 +65062,6 @@ L'Aquila E Il Leone</title>
     <desc lang="it">French Championships | Elite Race (Men) Troyes</desc>
     <category lang="it">Cycling</category>
   </programme>
-  <programme start="20260111000000 +0200" stop="20260111130000 +0200" channel="theracest2026doshermanasracetrack">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">The Races (T2026): Dos Hermanas Racetrack.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111130000 +0200" stop="20260111150000 +0200" channel="theracest2026doshermanasracetrack">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">The Races (T2026): Dos Hermanas Racetrack</desc>
-    <category lang="it">Equestrian</category>
-  </programme>
   <programme start="20260111000000 +0200" stop="20260111183000 +0200" channel="parisinternationalfencingchallenge2026">
     <title lang="it">Inizia alle 18:30.</title>
     <desc lang="it">Paris International Fencing Challenge 2026.</desc>
@@ -66364,16 +65262,6 @@ L'Aquila E Il Leone</title>
     <desc lang="it">EHF European League Women : Nykøbing Falster HK W vs MOL Esztergom KC W</desc>
     <category lang="it">Handball</category>
   </programme>
-  <programme start="20260111000000 +0200" stop="20260111131500 +0200" channel="liveracingfromkelsoandpunchestown">
-    <title lang="it">Inizia alle 13:15.</title>
-    <desc lang="it">Live racing from Kelso and Punchestown.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111131500 +0200" stop="20260111151500 +0200" channel="liveracingfromkelsoandpunchestown">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Live racing from Kelso and Punchestown</desc>
-    <category lang="it">Horse Racing</category>
-  </programme>
   <programme start="20260111000000 +0200" stop="20260111150000 +0200" channel="liveracingfromaroundtheuk">
     <title lang="it">Inizia alle 15:00.</title>
     <desc lang="it">Live racing from around the UK.</desc>
@@ -66403,16 +65291,6 @@ L'Aquila E Il Leone</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">America's Day At the Races</desc>
     <category lang="it">Horse Racing</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111130000 +0200" channel="khltraktorchelyabinskvssibirnovosibirsk">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">KHL : Traktor Chelyabinsk vs Sibir Novosibirsk.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111130000 +0200" stop="20260111150000 +0200" channel="khltraktorchelyabinskvssibirnovosibirsk">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">KHL : Traktor Chelyabinsk vs Sibir Novosibirsk</desc>
-    <category lang="it">Ice Hockey</category>
   </programme>
   <programme start="20260111000000 +0200" stop="20260111150000 +0200" channel="delgrizzlywolfsburgvsfrankfurtlowen">
     <title lang="it">Inizia alle 15:00.</title>
@@ -66864,16 +65742,6 @@ L'Aquila E Il Leone</title>
     <desc lang="it">2026 U.S. Figure Skating Championships Making the Team</desc>
     <category lang="it">Ice Skating</category>
   </programme>
-  <programme start="20260111000000 +0200" stop="20260111130000 +0200" channel="divisiondehonoruesantboianavscrlavila">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Division de Honor : UE Santboiana vs Cr La Vila.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111130000 +0200" stop="20260111150000 +0200" channel="divisiondehonoruesantboianavscrlavila">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Division de Honor : UE Santboiana vs Cr La Vila</desc>
-    <category lang="it">Rugby Union</category>
-  </programme>
   <programme start="20260111000000 +0200" stop="20260111150000 +0200" channel="europeanrugbychampionscuptoulonvsmunster">
     <title lang="it">Inizia alle 15:00.</title>
     <desc lang="it">European Rugby Champions Cup : Toulon vs Munster.</desc>
@@ -67044,26 +65912,6 @@ L'Aquila E Il Leone</title>
     <desc lang="it">European Rugby Champions Cup : Saracens vs Stade Toulousain</desc>
     <category lang="it">Rugby Union</category>
   </programme>
-  <programme start="20260111000000 +0200" stop="20260111130000 +0200" channel="division1womenbesiktaswvsvakifbankw">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Division 1 Women : Besiktas W vs Vakifbank W.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111130000 +0200" stop="20260111150000 +0200" channel="division1womenbesiktaswvsvakifbankw">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Division 1 Women : Besiktas W vs Vakifbank W</desc>
-    <category lang="it">Volleyball</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111140000 +0200" channel="superleaguefakelyamalnovyiurengoyvsdynamomoscow">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Superleague : Fakel Yamal Novyi Urengoy vs Dynamo Moscow.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111140000 +0200" stop="20260111160000 +0200" channel="superleaguefakelyamalnovyiurengoyvsdynamomoscow">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Superleague : Fakel Yamal Novyi Urengoy vs Dynamo Moscow</desc>
-    <category lang="it">Volleyball</category>
-  </programme>
   <programme start="20260111000000 +0200" stop="20260111153000 +0200" channel="russiasuperligawomentulitsatulavsdinamokazan">
     <title lang="it">Inizia alle 15:30.</title>
     <desc lang="it">Russia Superliga, Women : Tulitsa Tula vs Dinamo Kazan.</desc>
@@ -67174,16 +66022,6 @@ L'Aquila E Il Leone</title>
     <desc lang="it">Women's Volleyball Super League : Sesc-RJ Flamengo vs. Fluminense</desc>
     <category lang="it">Volleyball</category>
   </programme>
-  <programme start="20260111000000 +0200" stop="20260111134500 +0200" channel="europeanwaterpolochampionshipsturkeyvsitaly">
-    <title lang="it">Inizia alle 13:45.</title>
-    <desc lang="it">European Water Polo Championships : Turkey vs Italy.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111134500 +0200" stop="20260111154500 +0200" channel="europeanwaterpolochampionshipsturkeyvsitaly">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">European Water Polo Championships : Turkey vs Italy</desc>
-    <category lang="it">Water polo</category>
-  </programme>
   <programme start="20260111000000 +0200" stop="20260111161500 +0200" channel="europeanwaterpolochampionshipsromaniavsslovakia">
     <title lang="it">Inizia alle 16:15.</title>
     <desc lang="it">European Water Polo Championships : Romania vs Slovakia.</desc>
@@ -67243,16 +66081,6 @@ L'Aquila E Il Leone</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">European Water Polo Championships : Greece vs Georgia</desc>
     <category lang="it">Water polo</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111131500 +0200" channel="winterbergmensdoublesworldcuprun2">
-    <title lang="it">Inizia alle 13:15.</title>
-    <desc lang="it">Winterberg | Men's Doubles World Cup | Run 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111131500 +0200" stop="20260111151500 +0200" channel="winterbergmensdoublesworldcuprun2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Winterberg | Men's Doubles World Cup | Run 2</desc>
-    <category lang="it">Winter Sports</category>
   </programme>
   <programme start="20260111000000 +0200" stop="20260111160000 +0200" channel="otepaawomenscompact5kmworldcup">
     <title lang="it">Inizia alle 16:00.</title>
