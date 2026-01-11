@@ -56042,12 +56042,6 @@ L'Aquila E Il Leone</title>
   <channel id="mexicoligapremierrealapodacavsciervos">
     <display-name>Mexico - Liga Premier : Real Apodaca vs Ciervos</display-name>
   </channel>
-  <channel id="1stodiindiavsnewzealand">
-    <display-name>1st ODI : India vs New Zealand</display-name>
-  </channel>
-  <channel id="bigbashleagueadelaidestrikersvsperthscorchers">
-    <display-name>Big Bash League : Adelaide Strikers vs Perth Scorchers</display-name>
-  </channel>
   <channel id="bplchittagongvsdhakacapitals">
     <display-name>BPL : Chittagong vs Dhaka Capitals</display-name>
   </channel>
@@ -56062,9 +56056,6 @@ L'Aquila E Il Leone</title>
   </channel>
   <channel id="supersmashwomenotagosparkswvsaucklandheartsw">
     <display-name>Super Smash Women : Otago Sparks W vs Auckland Hearts W</display-name>
-  </channel>
-  <channel id="unitedcuphurkaczhvswawrinkas">
-    <display-name>UNITED CUP : Hurkacz H. vs Wawrinka S.</display-name>
   </channel>
   <channel id="unitedcupswiatekihurkaczhvsbencicbwawrinkas">
     <display-name>UNITED CUP : Swiatek I./Hurkacz H. vs Bencic B./Wawrinka S.</display-name>
@@ -56479,9 +56470,6 @@ L'Aquila E Il Leone</title>
   </channel>
   <channel id="europeanwaterpolochampionshipsgreecevsgeorgia">
     <display-name>European Water Polo Championships : Greece vs Georgia</display-name>
-  </channel>
-  <channel id="saintmoritztwowomanbobsleighworldcupheat1">
-    <display-name>Saint Moritz | Two-Woman Bobsleigh World Cup | Heat 1</display-name>
   </channel>
   <channel id="saintmoritztwowomanbobsleighworldcupheat2">
     <display-name>Saint Moritz | Two-Woman Bobsleigh World Cup | Heat 2</display-name>
@@ -60697,96 +60685,6 @@ L'Aquila E Il Leone</title>
     <desc lang="it">Mexico - Liga Premier : Real Apodaca vs Ciervos</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <programme start="20260111000000 +0200" stop="20260111100000 +0200" channel="1stodiindiavsnewzealand">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">1st ODI : India vs New Zealand.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111100000 +0200" stop="20260111120000 +0200" channel="1stodiindiavsnewzealand">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">1st ODI : India vs New Zealand</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111100000 +0200" channel="1stodiindiavsnewzealand">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">1st ODI : India vs New Zealand.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111100000 +0200" stop="20260111120000 +0200" channel="1stodiindiavsnewzealand">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">1st ODI : India vs New Zealand</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111100000 +0200" channel="1stodiindiavsnewzealand">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">1st ODI : India vs New Zealand.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111100000 +0200" stop="20260111120000 +0200" channel="1stodiindiavsnewzealand">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">1st ODI : India vs New Zealand</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111100000 +0200" channel="1stodiindiavsnewzealand">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">1st ODI : India vs New Zealand.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111100000 +0200" stop="20260111120000 +0200" channel="1stodiindiavsnewzealand">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">1st ODI : India vs New Zealand</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111100000 +0200" channel="1stodiindiavsnewzealand">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">1st ODI : India vs New Zealand.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111100000 +0200" stop="20260111120000 +0200" channel="1stodiindiavsnewzealand">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">1st ODI : India vs New Zealand</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111101500 +0200" channel="bigbashleagueadelaidestrikersvsperthscorchers">
-    <title lang="it">Inizia alle 10:15.</title>
-    <desc lang="it">Big Bash League : Adelaide Strikers vs Perth Scorchers.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111101500 +0200" stop="20260111121500 +0200" channel="bigbashleagueadelaidestrikersvsperthscorchers">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Big Bash League : Adelaide Strikers vs Perth Scorchers</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111101500 +0200" channel="bigbashleagueadelaidestrikersvsperthscorchers">
-    <title lang="it">Inizia alle 10:15.</title>
-    <desc lang="it">Big Bash League : Adelaide Strikers vs Perth Scorchers.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111101500 +0200" stop="20260111121500 +0200" channel="bigbashleagueadelaidestrikersvsperthscorchers">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Big Bash League : Adelaide Strikers vs Perth Scorchers</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111101500 +0200" channel="bigbashleagueadelaidestrikersvsperthscorchers">
-    <title lang="it">Inizia alle 10:15.</title>
-    <desc lang="it">Big Bash League : Adelaide Strikers vs Perth Scorchers.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111101500 +0200" stop="20260111121500 +0200" channel="bigbashleagueadelaidestrikersvsperthscorchers">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Big Bash League : Adelaide Strikers vs Perth Scorchers</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111101500 +0200" channel="bigbashleagueadelaidestrikersvsperthscorchers">
-    <title lang="it">Inizia alle 10:15.</title>
-    <desc lang="it">Big Bash League : Adelaide Strikers vs Perth Scorchers.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111101500 +0200" stop="20260111121500 +0200" channel="bigbashleagueadelaidestrikersvsperthscorchers">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Big Bash League : Adelaide Strikers vs Perth Scorchers</desc>
-    <category lang="it">Cricket</category>
-  </programme>
   <programme start="20260111000000 +0200" stop="20260111140000 +0200" channel="bplchittagongvsdhakacapitals">
     <title lang="it">Inizia alle 14:00.</title>
     <desc lang="it">BPL : Chittagong vs Dhaka Capitals.</desc>
@@ -60906,16 +60804,6 @@ L'Aquila E Il Leone</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Super Smash Women : Otago Sparks W vs Auckland Hearts W</desc>
     <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111100000 +0200" channel="unitedcuphurkaczhvswawrinkas">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">UNITED CUP : Hurkacz H. vs Wawrinka S..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111100000 +0200" stop="20260111120000 +0200" channel="unitedcuphurkaczhvswawrinkas">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UNITED CUP : Hurkacz H. vs Wawrinka S.</desc>
-    <category lang="it">Tennis UNITED CUP</category>
   </programme>
   <programme start="20260111000000 +0200" stop="20260111120000 +0200" channel="unitedcupswiatekihurkaczhvsbencicbwawrinkas">
     <title lang="it">Inizia alle 12:00.</title>
@@ -64576,16 +64464,6 @@ L'Aquila E Il Leone</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">European Water Polo Championships : Greece vs Georgia</desc>
     <category lang="it">Water polo</category>
-  </programme>
-  <programme start="20260111000000 +0200" stop="20260111100000 +0200" channel="saintmoritztwowomanbobsleighworldcupheat1">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">Saint Moritz | Two-Woman Bobsleigh World Cup | Heat 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260111100000 +0200" stop="20260111120000 +0200" channel="saintmoritztwowomanbobsleighworldcupheat1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Saint Moritz | Two-Woman Bobsleigh World Cup | Heat 1</desc>
-    <category lang="it">Winter Sports</category>
   </programme>
   <programme start="20260111000000 +0200" stop="20260111113000 +0200" channel="saintmoritztwowomanbobsleighworldcupheat2">
     <title lang="it">Inizia alle 11:30.</title>
