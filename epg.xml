@@ -58822,9 +58822,6 @@ I Misteri Del Templo Solare</title>
   <channel id="coupedefrancepsgvsparis">
     <display-name>Coupe de France : PSG vs Paris</display-name>
   </channel>
-  <channel id="bigbashleaguesydneythundervsmelbournerenegades">
-    <display-name>Big Bash League : Sydney Thunder vs Melbourne Renegades</display-name>
-  </channel>
   <channel id="bplrajshahiwarriorsvsdhakacapitals">
     <display-name>BPL : Rajshahi Warriors vs Dhaka Capitals</display-name>
   </channel>
@@ -58876,17 +58873,11 @@ I Misteri Del Templo Solare</title>
   <channel id="australianopencourt17">
     <display-name>AUSTRALIAN OPEN : Court 17</display-name>
   </channel>
-  <channel id="atpadelaidehumbertuvsatmanet">
-    <display-name>ATP - ADELAIDE : Humbert U. vs Atmane T.</display-name>
-  </channel>
   <channel id="atpadelaidekokkinakistvskordas">
     <display-name>ATP - ADELAIDE : Kokkinakis T. vs Korda S.</display-name>
   </channel>
   <channel id="atpaucklandmannarinoavsspizzirrie">
     <display-name>ATP - AUCKLAND : Mannarino A. vs Spizzirri E.</display-name>
-  </channel>
-  <channel id="wtaadelaidekasatkinadvssakkarim">
-    <display-name>WTA - ADELAIDE : Kasatkina D. vs Sakkari M.</display-name>
   </channel>
   <channel id="wtahobartarangoevsruzica">
     <display-name>WTA - HOBART : Arango E. vs Ruzic A.</display-name>
@@ -60341,66 +60332,6 @@ I Misteri Del Templo Solare</title>
     <desc lang="it">Coupe de France : PSG vs Paris</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <programme start="20260112000000 +0200" stop="20260112101500 +0200" channel="bigbashleaguesydneythundervsmelbournerenegades">
-    <title lang="it">Inizia alle 10:15.</title>
-    <desc lang="it">Big Bash League : Sydney Thunder vs Melbourne Renegades.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260112101500 +0200" stop="20260112121500 +0200" channel="bigbashleaguesydneythundervsmelbournerenegades">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Big Bash League : Sydney Thunder vs Melbourne Renegades</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260112000000 +0200" stop="20260112101500 +0200" channel="bigbashleaguesydneythundervsmelbournerenegades">
-    <title lang="it">Inizia alle 10:15.</title>
-    <desc lang="it">Big Bash League : Sydney Thunder vs Melbourne Renegades.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260112101500 +0200" stop="20260112121500 +0200" channel="bigbashleaguesydneythundervsmelbournerenegades">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Big Bash League : Sydney Thunder vs Melbourne Renegades</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260112000000 +0200" stop="20260112101500 +0200" channel="bigbashleaguesydneythundervsmelbournerenegades">
-    <title lang="it">Inizia alle 10:15.</title>
-    <desc lang="it">Big Bash League : Sydney Thunder vs Melbourne Renegades.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260112101500 +0200" stop="20260112121500 +0200" channel="bigbashleaguesydneythundervsmelbournerenegades">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Big Bash League : Sydney Thunder vs Melbourne Renegades</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260112000000 +0200" stop="20260112101500 +0200" channel="bigbashleaguesydneythundervsmelbournerenegades">
-    <title lang="it">Inizia alle 10:15.</title>
-    <desc lang="it">Big Bash League : Sydney Thunder vs Melbourne Renegades.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260112101500 +0200" stop="20260112121500 +0200" channel="bigbashleaguesydneythundervsmelbournerenegades">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Big Bash League : Sydney Thunder vs Melbourne Renegades</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260112000000 +0200" stop="20260112101500 +0200" channel="bigbashleaguesydneythundervsmelbournerenegades">
-    <title lang="it">Inizia alle 10:15.</title>
-    <desc lang="it">Big Bash League : Sydney Thunder vs Melbourne Renegades.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260112101500 +0200" stop="20260112121500 +0200" channel="bigbashleaguesydneythundervsmelbournerenegades">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Big Bash League : Sydney Thunder vs Melbourne Renegades</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260112000000 +0200" stop="20260112101500 +0200" channel="bigbashleaguesydneythundervsmelbournerenegades">
-    <title lang="it">Inizia alle 10:15.</title>
-    <desc lang="it">Big Bash League : Sydney Thunder vs Melbourne Renegades.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260112101500 +0200" stop="20260112121500 +0200" channel="bigbashleaguesydneythundervsmelbournerenegades">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Big Bash League : Sydney Thunder vs Melbourne Renegades</desc>
-    <category lang="it">Cricket</category>
-  </programme>
   <programme start="20260112000000 +0200" stop="20260112140000 +0200" channel="bplrajshahiwarriorsvsdhakacapitals">
     <title lang="it">Inizia alle 14:00.</title>
     <desc lang="it">BPL : Rajshahi Warriors vs Dhaka Capitals.</desc>
@@ -60621,16 +60552,6 @@ I Misteri Del Templo Solare</title>
     <desc lang="it">AUSTRALIAN OPEN : Court 17</desc>
     <category lang="it">Tennis AUSTRALIAN OPEN - QUALIFYING</category>
   </programme>
-  <programme start="20260112000000 +0200" stop="20260112100000 +0200" channel="atpadelaidehumbertuvsatmanet">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">ATP - ADELAIDE : Humbert U. vs Atmane T..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260112100000 +0200" stop="20260112120000 +0200" channel="atpadelaidehumbertuvsatmanet">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - ADELAIDE : Humbert U. vs Atmane T.</desc>
-    <category lang="it">Tennis ATP - ADELAIDE</category>
-  </programme>
   <programme start="20260112000000 +0200" stop="20260112113000 +0200" channel="atpadelaidekokkinakistvskordas">
     <title lang="it">Inizia alle 11:30.</title>
     <desc lang="it">ATP - ADELAIDE : Kokkinakis T. vs Korda S..</desc>
@@ -60650,16 +60571,6 @@ I Misteri Del Templo Solare</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">ATP - AUCKLAND : Mannarino A. vs Spizzirri E.</desc>
     <category lang="it">Tennis ATP - AUCKLAND</category>
-  </programme>
-  <programme start="20260112000000 +0200" stop="20260112100000 +0200" channel="wtaadelaidekasatkinadvssakkarim">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">WTA - ADELAIDE : Kasatkina D. vs Sakkari M..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260112100000 +0200" stop="20260112120000 +0200" channel="wtaadelaidekasatkinadvssakkarim">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - ADELAIDE : Kasatkina D. vs Sakkari M.</desc>
-    <category lang="it">Tennis WTA - ADELAIDE</category>
   </programme>
   <programme start="20260112000000 +0200" stop="20260112110000 +0200" channel="wtahobartarangoevsruzica">
     <title lang="it">Inizia alle 11:00.</title>
