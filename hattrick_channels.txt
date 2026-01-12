@@ -1,0 +1,1 @@
+espnhd: https://mfp2.macchetiello.uk/proxy/mpd/manifest.m3u8?api_password=Marco123&d=https%3A//aca-live-ott.izzigo.tv/7/out/u/dash/ESPN2HDH265/default.mpd&key_id=faa2d2197cc44dc154650bbacb0dc238&key=9859d70c856660e20bbe6896f9cd3048
