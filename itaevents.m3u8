@@ -1,4 +1,34 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="2026 Chili Bowl Nationals - 2026 Chili Bowl Nationals" tvg-name="17:00 2026 Chili Bowl Nationals - 17/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=206
+
+#EXTINF:-1 tvg-id="AMA Supercross Championship San Diego - AMA Supercross Championship San Diego" tvg-name="20:00 AMA Supercross Championship San Diego - 17/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Peacock
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=207
+
+#EXTINF:-1 tvg-id="Gorilla Promotions - Luke Dyson vs LEE Chadwick" tvg-name="20:00 Gorilla Promotions : Luke Dyson vs LEE Chadwick - 17/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", DAZN PPV
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=208
+
+#EXTINF:-1 tvg-id="2026 Wild West Shootout - 2026 Wild West Shootout" tvg-name="00:00 2026 Wild West Shootout - 17/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=197
+
+#EXTINF:-1 tvg-id="Ring Wars XXI - Dainier Pero vs. Mario Aguilar" tvg-name="01:00 Ring Wars XXI : Dainier Pero vs. Mario Aguilar - 17/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=160
+
+#EXTINF:-1 tvg-id="WV Toughman Contest - WV Toughman Contest" tvg-name="02:00 WV Toughman Contest - 17/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=151
+
+#EXTINF:-1 tvg-id="2026 Chilly Willy at Tucson Speedway - 2026 Chilly Willy at Tucson Speedway" tvg-name="02:45 2026 Chilly Willy at Tucson Speedway - 17/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=156
+
+#EXTINF:-1 tvg-id="TNA - Genesis 2026" tvg-name="03:00 TNA: Genesis 2026 - 17/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=157
+
+#EXTINF:-1 tvg-id="GCW - Code of the Streets 2026" tvg-name="04:00 GCW: Code of the Streets 2026 - 17/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=158
+
+#EXTINF:-1 tvg-id="Boxing - Daniel Sanchez Bivieseca vs Gabriel Jimenez" tvg-name="05:00 Boxing : Daniel Sanchez Bivieseca vs Gabriel Jimenez - 17/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=159
+
 #EXTINF:-1 tvg-id="England - Championship - Ipswich Town vs Blackburn Rovers" tvg-name="14:30 England - Championship : Ipswich Town vs Blackburn Rovers - 17/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - Championship/League One/League Two", Sky Sports+
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=151
 
