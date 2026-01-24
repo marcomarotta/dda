@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="US Street Nationals Bradenton - US Street Nationals Bradenton" tvg-name="16:00 US Street Nationals Bradenton - 24/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=206
+
+#EXTINF:-1 tvg-id="2026 Snocross National at Canterbury - 2026 Snocross National at Canterbury" tvg-name="19:00 2026 Snocross National at Canterbury - 24/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=217
+
+#EXTINF:-1 tvg-id="Volusia Late Models - Volusia Late Models" tvg-name="22:45 Volusia Late Models - 24/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=228
+
+#EXTINF:-1 tvg-id="Skyscraper Live - No Ropes. No Fear" tvg-name="03:00 Skyscraper Live : No Ropes. No Fear - 24/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Netflix PPV
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=229
+
+#EXTINF:-1 tvg-id="WWE Saturday Nights Main Event - WWE Saturday Nights Main Event" tvg-name="03:00 WWE Saturday Nights Main Event - 24/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Peacock
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=230
+
+#EXTINF:-1 tvg-id="PBR - Unleash The Beast: Season 2026" tvg-name="03:00 PBR: Unleash The Beast: Season 2026 - 24/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=237
+
 #EXTINF:-1 tvg-id="England - League One - Cardiff City vs Stockport County" tvg-name="14:30 England - League One : Cardiff City vs Stockport County - 24/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sports+
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=106
 
