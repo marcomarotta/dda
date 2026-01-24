@@ -8,6 +8,12 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="Volusia Late Models - Volusia Late Models" tvg-name="22:45 Volusia Late Models - 24/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=228
 
+#EXTINF:-1 tvg-id="CSE Combat - The Gauntlet Tournament" tvg-name="01:00 CSE Combat: The Gauntlet Tournament - 24/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller TV
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=238
+
+#EXTINF:-1 tvg-id="Toughman PPV - Toughman PPV" tvg-name="02:00 Toughman PPV - 24/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=239
+
 #EXTINF:-1 tvg-id="Skyscraper Live - No Ropes. No Fear" tvg-name="03:00 Skyscraper Live : No Ropes. No Fear - 24/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Netflix PPV
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=229
 

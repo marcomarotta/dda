@@ -32,6 +32,26 @@
                 ]
             },
             {
+                "time": "23:00",
+                "event": "CSE Combat: The Gauntlet Tournament",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "238"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Toughman PPV",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "239"
+                    }
+                ]
+            },
+            {
                 "time": "01:00",
                 "event": "Skyscraper Live : No Ropes. No Fear",
                 "channels": [
