@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="2026 US Street Nationals at Bradenton Motorsports Park - 2026 US Street Nationals at Bradenton Motorsports Park" tvg-name="16:00 2026 US Street Nationals at Bradenton Motorsports Park - 25/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", FloRacing
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=200
+
 #EXTINF:-1 tvg-id="Scotland - Scottish Premiership - Rangers vs Dundee" tvg-name="17:00 Scotland - Scottish Premiership : Rangers vs Dundee - 25/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SPFL Feed
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=158
 
@@ -590,8 +593,8 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="England - Premier League - Crystal Palace vs Chelsea" tvg-name="16:00 England - Premier League : Crystal Palace vs Chelsea - 25/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports 3 Turkey
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=64
 
-#EXTINF:-1 tvg-id="England - Premier League - Crystal Palace vs Chelsea" tvg-name="16:00 England - Premier League : Crystal Palace vs Chelsea - 25/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Canal+ Extra 1 Poland
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=983
+#EXTINF:-1 tvg-id="England - Premier League - Crystal Palace vs Chelsea" tvg-name="16:00 England - Premier League : Crystal Palace vs Chelsea - 25/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Canal+ Extra 3 Poland
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=985
 
 #EXTINF:-1 tvg-id="England - Premier League - Crystal Palace vs Chelsea" tvg-name="16:00 England - Premier League : Crystal Palace vs Chelsea - 25/01/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Canal+ France
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=121
