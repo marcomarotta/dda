@@ -1,5 +1,57 @@
 {
     "Friday 30th Jan 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "22:15",
+                "event": "American Sprint Car Series | Volusia Speedway Park",
+                "channels": [
+                    {
+                        "channel_name": "Dirtvision",
+                        "channel_id": "16"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "2026 Hartford Snocross Rounds 7 & 8",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "17"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "DBX 5 : Jessica-Rose Clark vs. Paula Cristina",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "18"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "CMLL: International Weekend",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "19"
+                    }
+                ]
+            },
+            {
+                "time": "04:00",
+                "event": "House of Glory: City of Angels 2026",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "20"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "time": "20:00",
@@ -2423,7 +2475,7 @@
             },
             {
                 "time": "03:00",
-                "event": "URIJAH FABER'S A-1 COMBAT 33",
+                "event": "Urijah Faber's A1 Combat 33 : Faber vs. Rivera",
                 "channels": [
                     {
                         "channel_name": "UFC Fight Pass",
