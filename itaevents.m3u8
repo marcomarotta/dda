@@ -848,6 +848,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="Hungary - NB1 - Paksi SE vs Ferencváros" tvg-name="16:15 Hungary - NB1 : Paksi SE vs Ferencváros - 01/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", M4 Sports Hungary
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=265
 
+#EXTINF:-1 tvg-id="Germany - Bundesliga - Stuttgart vs Freiburg" tvg-name="16:30 Germany - Bundesliga : Stuttgart vs Freiburg - 01/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN2 DE
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=427
+
 #EXTINF:-1 tvg-id="Germany - Bundesliga - Stuttgart vs Freiburg" tvg-name="16:30 Germany - Bundesliga : Stuttgart vs Freiburg - 01/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN+ USA
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=151
 
