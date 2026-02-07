@@ -72,9 +72,6 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="deejaytv.it" tvg-name="Deejay Tv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Altro",DEEJAY TV (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/963607327f90ada131395&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="deejaytv.it" tvg-name="Deejay Tv (2)" tvg-logo="" group-title="Altro",DEEJAY TV (V) (2)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="discoverychannel.it" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari;Discovery",DISCOVERY CHANNEL (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/1955739367e1de6e90adc1&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -103,6 +100,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/3803638765756268d23edc&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="eurosport1.it" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (V)
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/34813468571b25fb16646d&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="eurosport1.it" tvg-name="Eurosport 1 (2)" tvg-logo="" group-title="Sport",EUROSPORT 1 (V) (2)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/34480753177564a146da63&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="eurosport2.it" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (V)
@@ -155,6 +155,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 
 #EXTINF:-1 tvg-id="history.it" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari;Sky",HISTORY (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="history.it" tvg-name="History (2)" tvg-logo="" group-title="Documentari;Sky",HISTORY (V) (2)
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="iris.it" tvg-name="Iris" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/576490047036ac0227958&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -1629,95 +1632,122 @@ https://hls.kangal.icu/hls/skynba/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhon
 # Playlist generata da Hattrick
 # Playlist generata da ThisNotBusiness
 # Playlist generata da SkyStreaming
-#EXTINF:-1 tvg-id=" - " tvg-name="12:38  - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", BBC One UK
+#EXTINF:-1 tvg-id="Winter Olympics 2026 Live Stream - Winter Olympics 2026 Live Stream" tvg-name="13:03 Winter Olympics 2026 Live Stream - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", BBC One UK
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=356
 
-#EXTINF:-1 tvg-id=" - " tvg-name="12:38  - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", BBC Two UK
+#EXTINF:-1 tvg-id="Winter Olympics 2026 Live Stream - Winter Olympics 2026 Live Stream" tvg-name="13:03 Winter Olympics 2026 Live Stream - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", BBC Two UK
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=357
 
-#EXTINF:-1 tvg-id=" - " tvg-name="12:38  - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", NBC USA
+#EXTINF:-1 tvg-id="Winter Olympics 2026 Live Stream - Winter Olympics 2026 Live Stream" tvg-name="13:03 Winter Olympics 2026 Live Stream - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", NBC USA
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=53
 
-#EXTINF:-1 tvg-id=" - " tvg-name="12:38  - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", USA Network
+#EXTINF:-1 tvg-id="Winter Olympics 2026 Live Stream - Winter Olympics 2026 Live Stream" tvg-name="13:03 Winter Olympics 2026 Live Stream - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", USA Network
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=343
 
-#EXTINF:-1 tvg-id=" - " tvg-name="12:38  - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", TSN5
+#EXTINF:-1 tvg-id="Winter Olympics 2026 Live Stream - Winter Olympics 2026 Live Stream" tvg-name="13:03 Winter Olympics 2026 Live Stream - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", TSN5
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=115
 
-#EXTINF:-1 tvg-id=" - " tvg-name="12:38  - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", TNT Sports 2 UK
+#EXTINF:-1 tvg-id="Winter Olympics 2026 Live Stream - Winter Olympics 2026 Live Stream" tvg-name="13:03 Winter Olympics 2026 Live Stream - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", TNT Sports 2 UK
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=32
 
-#EXTINF:-1 tvg-id=" - " tvg-name="12:38  - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", TNT Sports 3 UK
+#EXTINF:-1 tvg-id="Winter Olympics 2026 Live Stream - Winter Olympics 2026 Live Stream" tvg-name="13:03 Winter Olympics 2026 Live Stream - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", TNT Sports 3 UK
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=33
 
-#EXTINF:-1 tvg-id=" - " tvg-name="12:38  - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", TNT Sports 4 UK
+#EXTINF:-1 tvg-id="Winter Olympics 2026 Live Stream - Winter Olympics 2026 Live Stream" tvg-name="13:03 Winter Olympics 2026 Live Stream - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", TNT Sports 4 UK
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=34
 
-#EXTINF:-1 tvg-id=" - " tvg-name="12:38  - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", France 2
+#EXTINF:-1 tvg-id="Winter Olympics 2026 Live Stream - Winter Olympics 2026 Live Stream" tvg-name="13:03 Winter Olympics 2026 Live Stream - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", France 2
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=950
 
-#EXTINF:-1 tvg-id=" - " tvg-name="12:38  - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", France 3
+#EXTINF:-1 tvg-id="Winter Olympics 2026 Live Stream - Winter Olympics 2026 Live Stream" tvg-name="13:03 Winter Olympics 2026 Live Stream - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", France 3
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=951
 
-#EXTINF:-1 tvg-id=" - " tvg-name="12:38  - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", Sportv2 Brazil
+#EXTINF:-1 tvg-id="Winter Olympics 2026 Live Stream - Winter Olympics 2026 Live Stream" tvg-name="13:03 Winter Olympics 2026 Live Stream - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", Sportv2 Brazil
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=79
 
-#EXTINF:-1 tvg-id=" - " tvg-name="12:38  - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", TVP1 Poland
+#EXTINF:-1 tvg-id="Winter Olympics 2026 Live Stream - Winter Olympics 2026 Live Stream" tvg-name="13:03 Winter Olympics 2026 Live Stream - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", TVP1 Poland
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=560
 
-#EXTINF:-1 tvg-id=" - " tvg-name="12:38  - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", TVP2 Poland
+#EXTINF:-1 tvg-id="Winter Olympics 2026 Live Stream - Winter Olympics 2026 Live Stream" tvg-name="13:03 Winter Olympics 2026 Live Stream - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", TVP2 Poland
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=561
 
-#EXTINF:-1 tvg-id=" - " tvg-name="12:38  - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", Sky Sport 3 NZ
+#EXTINF:-1 tvg-id="Winter Olympics 2026 Live Stream - Winter Olympics 2026 Live Stream" tvg-name="13:03 Winter Olympics 2026 Live Stream - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", Sky Sport 3 NZ
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=590
 
-#EXTINF:-1 tvg-id=" - " tvg-name="12:38  - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", Sky Sport 4 NZ
+#EXTINF:-1 tvg-id="Winter Olympics 2026 Live Stream - Winter Olympics 2026 Live Stream" tvg-name="13:03 Winter Olympics 2026 Live Stream - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", Sky Sport 4 NZ
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=591
 
-#EXTINF:-1 tvg-id=" - " tvg-name="12:38  - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", Sky Sport 5 NZ
+#EXTINF:-1 tvg-id="Winter Olympics 2026 Live Stream - Winter Olympics 2026 Live Stream" tvg-name="13:03 Winter Olympics 2026 Live Stream - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", Sky Sport 5 NZ
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=592
 
-#EXTINF:-1 tvg-id=" - " tvg-name="12:38  - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", Sky Sport 6 NZ
+#EXTINF:-1 tvg-id="Winter Olympics 2026 Live Stream - Winter Olympics 2026 Live Stream" tvg-name="13:03 Winter Olympics 2026 Live Stream - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", Sky Sport 6 NZ
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=593
 
-#EXTINF:-1 tvg-id=" - " tvg-name="12:38  - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", EuroSport 1 Poland
+#EXTINF:-1 tvg-id="Winter Olympics 2026 Live Stream - Winter Olympics 2026 Live Stream" tvg-name="13:03 Winter Olympics 2026 Live Stream - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", EuroSport 1 Poland
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=57
 
-#EXTINF:-1 tvg-id=" - " tvg-name="12:38  - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", EuroSport 1 Spain
+#EXTINF:-1 tvg-id="Winter Olympics 2026 Live Stream - Winter Olympics 2026 Live Stream" tvg-name="13:03 Winter Olympics 2026 Live Stream - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", EuroSport 1 Spain
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=524
 
-#EXTINF:-1 tvg-id=" - " tvg-name="12:38  - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", EuroSport 1 France
+#EXTINF:-1 tvg-id="Winter Olympics 2026 Live Stream - Winter Olympics 2026 Live Stream" tvg-name="13:03 Winter Olympics 2026 Live Stream - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", EuroSport 1 France
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=772
 
-#EXTINF:-1 tvg-id=" - " tvg-name="12:38  - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", Eurosport 1 SE
+#EXTINF:-1 tvg-id="Winter Olympics 2026 Live Stream - Winter Olympics 2026 Live Stream" tvg-name="13:03 Winter Olympics 2026 Live Stream - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", Eurosport 1 SE
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=231
 
-#EXTINF:-1 tvg-id=" - " tvg-name="12:38  - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", EuroSport 1 Italy
+#EXTINF:-1 tvg-id="Winter Olympics 2026 Live Stream - Winter Olympics 2026 Live Stream" tvg-name="13:03 Winter Olympics 2026 Live Stream - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", EuroSport 1 Italy
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id=" - " tvg-name="12:38  - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", EuroSport 1 Greece
+#EXTINF:-1 tvg-id="Winter Olympics 2026 Live Stream - Winter Olympics 2026 Live Stream" tvg-name="13:03 Winter Olympics 2026 Live Stream - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", EuroSport 1 Greece
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=41
 
-#EXTINF:-1 tvg-id=" - " tvg-name="12:38  - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", EuroSport 2 Poland
+#EXTINF:-1 tvg-id="Winter Olympics 2026 Live Stream - Winter Olympics 2026 Live Stream" tvg-name="13:03 Winter Olympics 2026 Live Stream - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", EuroSport 2 Poland
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=58
 
-#EXTINF:-1 tvg-id=" - " tvg-name="12:38  - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", EuroSport 2 Spain
+#EXTINF:-1 tvg-id="Winter Olympics 2026 Live Stream - Winter Olympics 2026 Live Stream" tvg-name="13:03 Winter Olympics 2026 Live Stream - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", EuroSport 2 Spain
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=525
 
-#EXTINF:-1 tvg-id=" - " tvg-name="12:38  - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", EuroSport 2 France
+#EXTINF:-1 tvg-id="Winter Olympics 2026 Live Stream - Winter Olympics 2026 Live Stream" tvg-name="13:03 Winter Olympics 2026 Live Stream - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", EuroSport 2 France
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=773
 
-#EXTINF:-1 tvg-id=" - " tvg-name="12:38  - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", Eurosport 2 SE
+#EXTINF:-1 tvg-id="Winter Olympics 2026 Live Stream - Winter Olympics 2026 Live Stream" tvg-name="13:03 Winter Olympics 2026 Live Stream - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", Eurosport 2 SE
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=232
 
-#EXTINF:-1 tvg-id=" - " tvg-name="12:38  - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", EuroSport 2 Italy
+#EXTINF:-1 tvg-id="Winter Olympics 2026 Live Stream - Winter Olympics 2026 Live Stream" tvg-name="13:03 Winter Olympics 2026 Live Stream - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", EuroSport 2 Italy
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id=" - " tvg-name="12:38  - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", EuroSport 2 Greece
+#EXTINF:-1 tvg-id="Winter Olympics 2026 Live Stream - Winter Olympics 2026 Live Stream" tvg-name="13:03 Winter Olympics 2026 Live Stream - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", EuroSport 2 Greece
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=42
 
-#EXTINF:-1 tvg-id=" - " tvg-name="12:38  - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", Eurosport 2 SE
+#EXTINF:-1 tvg-id="Winter Olympics 2026 Live Stream - Winter Olympics 2026 Live Stream" tvg-name="13:03 Winter Olympics 2026 Live Stream - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Olympics 2026", Eurosport 2 SE
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=232
+
+#EXTINF:-1 tvg-id="Main Character Jiu Jitsu Side Quest 2 - Main Character Jiu Jitsu Side Quest 2" tvg-name="21:00 Main Character Jiu Jitsu Side Quest 2 - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Flotv
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=23
+
+#EXTINF:-1 tvg-id="2026 LIJJN Team Series NYC - 2026 LIJJN Team Series NYC" tvg-name="23:00 2026 LIJJN Team Series NYC - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Flotv
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=19
+
+#EXTINF:-1 tvg-id="2026 Winter Freeze at Screven Motor Speedway - 2026 Winter Freeze at Screven Motor Speedway" tvg-name="23:00 2026 Winter Freeze at Screven Motor Speedway - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=21
+
+#EXTINF:-1 tvg-id="World of Outlaws Sprint Cars - World of Outlaws Sprint Cars" tvg-name="00:15 World of Outlaws Sprint Cars - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=20
+
+#EXTINF:-1 tvg-id="2026 World Series of Asphalt at New Smyrna Speedway - 2026 World Series of Asphalt at New Smyrna Speedway" tvg-name="01:00 2026 World Series of Asphalt at New Smyrna Speedway - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=22
+
+#EXTINF:-1 tvg-id="wXw - Back to the Roots 2026" tvg-name="02:00 wXw: Back to the Roots 2026 - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=24
+
+#EXTINF:-1 tvg-id="WV Toughman Contest - WV Toughman Contest" tvg-name="02:00 WV Toughman Contest - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=25
+
+#EXTINF:-1 tvg-id="Showdown in the Sunshine State - Showdown in the Sunshine State" tvg-name="02:00 Showdown in the Sunshine State - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=26
+
+#EXTINF:-1 tvg-id="Redneck Brawl 12 - Redneck Brawl 12" tvg-name="03:00 Redneck Brawl 12 - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=27
 
 #EXTINF:-1 tvg-id="England - Championship - Norwich City vs Blackburn Rovers" tvg-name="14:31 England - Championship : Norwich City vs Blackburn Rovers - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - Championship", Sky Sports+
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=153
@@ -3978,10 +4008,10 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="Glory Kickboxing 105 - Superfight Series" tvg-name="18:00 Glory Kickboxing 105 : Superfight Series - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", Triller Tv
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=109
 
-#EXTINF:-1 tvg-id="Professional Fighters League WT '26 - Nurmagomedov vs Davis" tvg-name="19:00 Professional Fighters League WT '26 : Nurmagomedov vs Davis - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", PPV Feed
+#EXTINF:-1 tvg-id="PFL Road to Dubai 26 - Nurmagomedov vs Davis" tvg-name="19:00 PFL Road to Dubai 26 : Nurmagomedov vs Davis - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", PPV Feed
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=110
 
-#EXTINF:-1 tvg-id="Professional Fighters League WT '26 - Nurmagomedov vs Davis" tvg-name="19:00 Professional Fighters League WT '26 : Nurmagomedov vs Davis - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", SuperSport Action
+#EXTINF:-1 tvg-id="PFL Road to Dubai 26 - Nurmagomedov vs Davis" tvg-name="19:00 PFL Road to Dubai 26 : Nurmagomedov vs Davis - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", SuperSport Action
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=420
 
 #EXTINF:-1 tvg-id="Fight Club Rush 27 - Fight Club Rush 27" tvg-name="19:00 Fight Club Rush 27 - 07/02/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", UFC Fight Pass
