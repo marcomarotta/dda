@@ -57687,9 +57687,6 @@ L'Aquila E Il Leone</title>
   <channel id="acapulcoatpdubaiatpaustinwtasantiagoatpampmeridawtaearlyrounds">
     <display-name>Acapulco-ATP, Dubai-ATP, Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds</display-name>
   </channel>
-  <channel id="moto2thailandsgprace">
-    <display-name>Moto2 : Thailands GP Race</display-name>
-  </channel>
   <channel id="motogpthailandsgprace">
     <display-name>MotoGP : Thailands GP Race</display-name>
   </channel>
@@ -57746,9 +57743,6 @@ L'Aquila E Il Leone</title>
   </channel>
   <channel id="usindoorchampionshipsusatfindoorchamps">
     <display-name>U.S. Indoor Championships : USATF Indoor Champs</display-name>
-  </channel>
-  <channel id="aflwestcoasteaglesvsportadelaidepower">
-    <display-name>AFL : West Coast Eagles vs Port Adelaide Power</display-name>
   </channel>
   <channel id="mlbbaltimoreoriolesvsbostonredsox">
     <display-name>MLB : Baltimore Orioles vs Boston Red Sox</display-name>
@@ -58383,9 +58377,6 @@ L'Aquila E Il Leone</title>
   <channel id="nbaorlandomagicvsdetroitpistons">
     <display-name>NBA : Orlando Magic vs Detroit Pistons</display-name>
   </channel>
-  <channel id="rolexsailgpchampionshipkpmgsydneygrandprixday2">
-    <display-name>Rolex SailGP Championship | KPMG Sydney Grand Prix Day 2</display-name>
-  </channel>
   <channel id="worldcupfalunmensskiathlon">
     <display-name>World Cup Falun | Men's Skiathlon</display-name>
   </channel>
@@ -58517,12 +58508,6 @@ L'Aquila E Il Leone</title>
   </channel>
   <channel id="hockeyallsvenskanifbjorklovenvsmora">
     <display-name>HockeyAllsvenskan : IF Bjorkloven vs Mora</display-name>
-  </channel>
-  <channel id="russiakhladmiralvladivostokvssalavatyulaevufa">
-    <display-name>Russia KHL : Admiral Vladivostok vs Salavat Yulaev Ufa</display-name>
-  </channel>
-  <channel id="russiakhlamurkhabarovskvsneftekhimiknizhnekamsk">
-    <display-name>Russia KHL : Amur Khabarovsk vs Neftekhimik Nizhnekamsk</display-name>
   </channel>
   <channel id="russiakhltraktorchelyabinskvsakbarskazan">
     <display-name>Russia KHL : Traktor Chelyabinsk vs Ak Bars Kazan</display-name>
@@ -65840,146 +65825,6 @@ L'Aquila E Il Leone</title>
     <desc lang="it">Acapulco-ATP, Dubai-ATP, Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <programme start="20260301000000 +0200" stop="20260301080000 +0200" channel="moto2thailandsgprace">
-    <title lang="it">Inizia alle 08:00.</title>
-    <desc lang="it">Moto2 : Thailands GP Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260301080000 +0200" stop="20260301100000 +0200" channel="moto2thailandsgprace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Thailands GP Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260301000000 +0200" stop="20260301080000 +0200" channel="moto2thailandsgprace">
-    <title lang="it">Inizia alle 08:00.</title>
-    <desc lang="it">Moto2 : Thailands GP Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260301080000 +0200" stop="20260301100000 +0200" channel="moto2thailandsgprace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Thailands GP Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260301000000 +0200" stop="20260301080000 +0200" channel="moto2thailandsgprace">
-    <title lang="it">Inizia alle 08:00.</title>
-    <desc lang="it">Moto2 : Thailands GP Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260301080000 +0200" stop="20260301100000 +0200" channel="moto2thailandsgprace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Thailands GP Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260301000000 +0200" stop="20260301080000 +0200" channel="moto2thailandsgprace">
-    <title lang="it">Inizia alle 08:00.</title>
-    <desc lang="it">Moto2 : Thailands GP Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260301080000 +0200" stop="20260301100000 +0200" channel="moto2thailandsgprace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Thailands GP Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260301000000 +0200" stop="20260301080000 +0200" channel="moto2thailandsgprace">
-    <title lang="it">Inizia alle 08:00.</title>
-    <desc lang="it">Moto2 : Thailands GP Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260301080000 +0200" stop="20260301100000 +0200" channel="moto2thailandsgprace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Thailands GP Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260301000000 +0200" stop="20260301080000 +0200" channel="moto2thailandsgprace">
-    <title lang="it">Inizia alle 08:00.</title>
-    <desc lang="it">Moto2 : Thailands GP Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260301080000 +0200" stop="20260301100000 +0200" channel="moto2thailandsgprace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Thailands GP Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260301000000 +0200" stop="20260301080000 +0200" channel="moto2thailandsgprace">
-    <title lang="it">Inizia alle 08:00.</title>
-    <desc lang="it">Moto2 : Thailands GP Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260301080000 +0200" stop="20260301100000 +0200" channel="moto2thailandsgprace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Thailands GP Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260301000000 +0200" stop="20260301080000 +0200" channel="moto2thailandsgprace">
-    <title lang="it">Inizia alle 08:00.</title>
-    <desc lang="it">Moto2 : Thailands GP Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260301080000 +0200" stop="20260301100000 +0200" channel="moto2thailandsgprace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Thailands GP Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260301000000 +0200" stop="20260301080000 +0200" channel="moto2thailandsgprace">
-    <title lang="it">Inizia alle 08:00.</title>
-    <desc lang="it">Moto2 : Thailands GP Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260301080000 +0200" stop="20260301100000 +0200" channel="moto2thailandsgprace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Thailands GP Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260301000000 +0200" stop="20260301080000 +0200" channel="moto2thailandsgprace">
-    <title lang="it">Inizia alle 08:00.</title>
-    <desc lang="it">Moto2 : Thailands GP Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260301080000 +0200" stop="20260301100000 +0200" channel="moto2thailandsgprace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Thailands GP Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260301000000 +0200" stop="20260301080000 +0200" channel="moto2thailandsgprace">
-    <title lang="it">Inizia alle 08:00.</title>
-    <desc lang="it">Moto2 : Thailands GP Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260301080000 +0200" stop="20260301100000 +0200" channel="moto2thailandsgprace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Thailands GP Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260301000000 +0200" stop="20260301080000 +0200" channel="moto2thailandsgprace">
-    <title lang="it">Inizia alle 08:00.</title>
-    <desc lang="it">Moto2 : Thailands GP Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260301080000 +0200" stop="20260301100000 +0200" channel="moto2thailandsgprace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Thailands GP Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260301000000 +0200" stop="20260301080000 +0200" channel="moto2thailandsgprace">
-    <title lang="it">Inizia alle 08:00.</title>
-    <desc lang="it">Moto2 : Thailands GP Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260301080000 +0200" stop="20260301100000 +0200" channel="moto2thailandsgprace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Thailands GP Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260301000000 +0200" stop="20260301080000 +0200" channel="moto2thailandsgprace">
-    <title lang="it">Inizia alle 08:00.</title>
-    <desc lang="it">Moto2 : Thailands GP Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260301080000 +0200" stop="20260301100000 +0200" channel="moto2thailandsgprace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Thailands GP Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <programme start="20260301000000 +0200" stop="20260301100000 +0200" channel="motogpthailandsgprace">
     <title lang="it">Inizia alle 10:00.</title>
     <desc lang="it">MotoGP : Thailands GP Race.</desc>
@@ -67079,26 +66924,6 @@ L'Aquila E Il Leone</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">U.S. Indoor Championships : USATF Indoor Champs</desc>
     <category lang="it">Athletics</category>
-  </programme>
-  <programme start="20260301000000 +0200" stop="20260301090000 +0200" channel="aflwestcoasteaglesvsportadelaidepower">
-    <title lang="it">Inizia alle 09:00.</title>
-    <desc lang="it">AFL : West Coast Eagles vs Port Adelaide Power.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260301090000 +0200" stop="20260301110000 +0200" channel="aflwestcoasteaglesvsportadelaidepower">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">AFL : West Coast Eagles vs Port Adelaide Power</desc>
-    <category lang="it">Aussie rules (AFL)</category>
-  </programme>
-  <programme start="20260301000000 +0200" stop="20260301090000 +0200" channel="aflwestcoasteaglesvsportadelaidepower">
-    <title lang="it">Inizia alle 09:00.</title>
-    <desc lang="it">AFL : West Coast Eagles vs Port Adelaide Power.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260301090000 +0200" stop="20260301110000 +0200" channel="aflwestcoasteaglesvsportadelaidepower">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">AFL : West Coast Eagles vs Port Adelaide Power</desc>
-    <category lang="it">Aussie rules (AFL)</category>
   </programme>
   <programme start="20260301000000 +0200" stop="20260301200500 +0200" channel="mlbbaltimoreoriolesvsbostonredsox">
     <title lang="it">Inizia alle 20:05.</title>
@@ -69700,106 +69525,6 @@ L'Aquila E Il Leone</title>
     <desc lang="it">NBA : Orlando Magic vs Detroit Pistons</desc>
     <category lang="it">NBA</category>
   </programme>
-  <programme start="20260301000000 +0200" stop="20260301083000 +0200" channel="rolexsailgpchampionshipkpmgsydneygrandprixday2">
-    <title lang="it">Inizia alle 08:30.</title>
-    <desc lang="it">Rolex SailGP Championship | KPMG Sydney Grand Prix Day 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260301083000 +0200" stop="20260301103000 +0200" channel="rolexsailgpchampionshipkpmgsydneygrandprixday2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Rolex SailGP Championship | KPMG Sydney Grand Prix Day 2</desc>
-    <category lang="it">Sailing / Boating</category>
-  </programme>
-  <programme start="20260301000000 +0200" stop="20260301083000 +0200" channel="rolexsailgpchampionshipkpmgsydneygrandprixday2">
-    <title lang="it">Inizia alle 08:30.</title>
-    <desc lang="it">Rolex SailGP Championship | KPMG Sydney Grand Prix Day 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260301083000 +0200" stop="20260301103000 +0200" channel="rolexsailgpchampionshipkpmgsydneygrandprixday2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Rolex SailGP Championship | KPMG Sydney Grand Prix Day 2</desc>
-    <category lang="it">Sailing / Boating</category>
-  </programme>
-  <programme start="20260301000000 +0200" stop="20260301083000 +0200" channel="rolexsailgpchampionshipkpmgsydneygrandprixday2">
-    <title lang="it">Inizia alle 08:30.</title>
-    <desc lang="it">Rolex SailGP Championship | KPMG Sydney Grand Prix Day 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260301083000 +0200" stop="20260301103000 +0200" channel="rolexsailgpchampionshipkpmgsydneygrandprixday2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Rolex SailGP Championship | KPMG Sydney Grand Prix Day 2</desc>
-    <category lang="it">Sailing / Boating</category>
-  </programme>
-  <programme start="20260301000000 +0200" stop="20260301083000 +0200" channel="rolexsailgpchampionshipkpmgsydneygrandprixday2">
-    <title lang="it">Inizia alle 08:30.</title>
-    <desc lang="it">Rolex SailGP Championship | KPMG Sydney Grand Prix Day 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260301083000 +0200" stop="20260301103000 +0200" channel="rolexsailgpchampionshipkpmgsydneygrandprixday2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Rolex SailGP Championship | KPMG Sydney Grand Prix Day 2</desc>
-    <category lang="it">Sailing / Boating</category>
-  </programme>
-  <programme start="20260301000000 +0200" stop="20260301083000 +0200" channel="rolexsailgpchampionshipkpmgsydneygrandprixday2">
-    <title lang="it">Inizia alle 08:30.</title>
-    <desc lang="it">Rolex SailGP Championship | KPMG Sydney Grand Prix Day 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260301083000 +0200" stop="20260301103000 +0200" channel="rolexsailgpchampionshipkpmgsydneygrandprixday2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Rolex SailGP Championship | KPMG Sydney Grand Prix Day 2</desc>
-    <category lang="it">Sailing / Boating</category>
-  </programme>
-  <programme start="20260301000000 +0200" stop="20260301083000 +0200" channel="rolexsailgpchampionshipkpmgsydneygrandprixday2">
-    <title lang="it">Inizia alle 08:30.</title>
-    <desc lang="it">Rolex SailGP Championship | KPMG Sydney Grand Prix Day 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260301083000 +0200" stop="20260301103000 +0200" channel="rolexsailgpchampionshipkpmgsydneygrandprixday2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Rolex SailGP Championship | KPMG Sydney Grand Prix Day 2</desc>
-    <category lang="it">Sailing / Boating</category>
-  </programme>
-  <programme start="20260301000000 +0200" stop="20260301083000 +0200" channel="rolexsailgpchampionshipkpmgsydneygrandprixday2">
-    <title lang="it">Inizia alle 08:30.</title>
-    <desc lang="it">Rolex SailGP Championship | KPMG Sydney Grand Prix Day 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260301083000 +0200" stop="20260301103000 +0200" channel="rolexsailgpchampionshipkpmgsydneygrandprixday2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Rolex SailGP Championship | KPMG Sydney Grand Prix Day 2</desc>
-    <category lang="it">Sailing / Boating</category>
-  </programme>
-  <programme start="20260301000000 +0200" stop="20260301083000 +0200" channel="rolexsailgpchampionshipkpmgsydneygrandprixday2">
-    <title lang="it">Inizia alle 08:30.</title>
-    <desc lang="it">Rolex SailGP Championship | KPMG Sydney Grand Prix Day 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260301083000 +0200" stop="20260301103000 +0200" channel="rolexsailgpchampionshipkpmgsydneygrandprixday2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Rolex SailGP Championship | KPMG Sydney Grand Prix Day 2</desc>
-    <category lang="it">Sailing / Boating</category>
-  </programme>
-  <programme start="20260301000000 +0200" stop="20260301083000 +0200" channel="rolexsailgpchampionshipkpmgsydneygrandprixday2">
-    <title lang="it">Inizia alle 08:30.</title>
-    <desc lang="it">Rolex SailGP Championship | KPMG Sydney Grand Prix Day 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260301083000 +0200" stop="20260301103000 +0200" channel="rolexsailgpchampionshipkpmgsydneygrandprixday2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Rolex SailGP Championship | KPMG Sydney Grand Prix Day 2</desc>
-    <category lang="it">Sailing / Boating</category>
-  </programme>
-  <programme start="20260301000000 +0200" stop="20260301083000 +0200" channel="rolexsailgpchampionshipkpmgsydneygrandprixday2">
-    <title lang="it">Inizia alle 08:30.</title>
-    <desc lang="it">Rolex SailGP Championship | KPMG Sydney Grand Prix Day 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260301083000 +0200" stop="20260301103000 +0200" channel="rolexsailgpchampionshipkpmgsydneygrandprixday2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Rolex SailGP Championship | KPMG Sydney Grand Prix Day 2</desc>
-    <category lang="it">Sailing / Boating</category>
-  </programme>
   <programme start="20260301000000 +0200" stop="20260301131500 +0200" channel="worldcupfalunmensskiathlon">
     <title lang="it">Inizia alle 13:15.</title>
     <desc lang="it">World Cup Falun | Men's Skiathlon.</desc>
@@ -70709,26 +70434,6 @@ L'Aquila E Il Leone</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">HockeyAllsvenskan : IF Bjorkloven vs Mora</desc>
     <category lang="it">HockeyAllsvenskan</category>
-  </programme>
-  <programme start="20260301000000 +0200" stop="20260301090000 +0200" channel="russiakhladmiralvladivostokvssalavatyulaevufa">
-    <title lang="it">Inizia alle 09:00.</title>
-    <desc lang="it">Russia KHL : Admiral Vladivostok vs Salavat Yulaev Ufa.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260301090000 +0200" stop="20260301110000 +0200" channel="russiakhladmiralvladivostokvssalavatyulaevufa">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Russia KHL : Admiral Vladivostok vs Salavat Yulaev Ufa</desc>
-    <category lang="it">Ice Hockey (KHL)</category>
-  </programme>
-  <programme start="20260301000000 +0200" stop="20260301090000 +0200" channel="russiakhlamurkhabarovskvsneftekhimiknizhnekamsk">
-    <title lang="it">Inizia alle 09:00.</title>
-    <desc lang="it">Russia KHL : Amur Khabarovsk vs Neftekhimik Nizhnekamsk.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260301090000 +0200" stop="20260301110000 +0200" channel="russiakhlamurkhabarovskvsneftekhimiknizhnekamsk">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Russia KHL : Amur Khabarovsk vs Neftekhimik Nizhnekamsk</desc>
-    <category lang="it">Ice Hockey (KHL)</category>
   </programme>
   <programme start="20260301000000 +0200" stop="20260301130000 +0200" channel="russiakhltraktorchelyabinskvsakbarskazan">
     <title lang="it">Inizia alle 13:00.</title>
