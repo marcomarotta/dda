@@ -2223,6 +2223,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="England - Premier League - Fulham vs Tottenham Hotspur" tvg-name="16:00 England - Premier League : Fulham vs Tottenham Hotspur - 01/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Backup Stream
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4002
 
+#EXTINF:-1 tvg-id="England - Premier League - Fulham vs Tottenham Hotspur" tvg-name="16:00 England - Premier League : Fulham vs Tottenham Hotspur - 01/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Backup Stream 2
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=5002
+
 #EXTINF:-1 tvg-id="England - Premier League - Brighton &amp; Hove Albion vs Nottingham Forest" tvg-name="16:00 England - Premier League : Brighton &amp; Hove Albion vs Nottingham Forest - 01/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Hub Premier 3
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=24
 
@@ -2276,6 +2279,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 
 #EXTINF:-1 tvg-id="England - Premier League - Brighton &amp; Hove Albion vs Nottingham Forest" tvg-name="16:00 England - Premier League : Brighton &amp; Hove Albion vs Nottingham Forest - 01/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Backup Stream
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4003
+
+#EXTINF:-1 tvg-id="England - Premier League - Brighton &amp; Hove Albion vs Nottingham Forest" tvg-name="16:00 England - Premier League : Brighton &amp; Hove Albion vs Nottingham Forest - 01/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Backup Stream 2
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=5003
 
 #EXTINF:-1 tvg-id="England - Premier League - Manchester United vs Crystal Palace" tvg-name="16:00 England - Premier League : Manchester United vs Crystal Palace - 01/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Hub Premier 4
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=25
@@ -2372,6 +2378,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 
 #EXTINF:-1 tvg-id="England - Premier League - Manchester United vs Crystal Palace" tvg-name="16:00 England - Premier League : Manchester United vs Crystal Palace - 01/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Backup Stream
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4001
+
+#EXTINF:-1 tvg-id="England - Premier League - Manchester United vs Crystal Palace" tvg-name="16:00 England - Premier League : Manchester United vs Crystal Palace - 01/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Backup Stream 2
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=5001
 
 #EXTINF:-1 tvg-id="France - Ligue 1 - Paris vs Nice" tvg-name="16:00 France - Ligue 1 : Paris vs Nice - 01/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN 1 France
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=77
