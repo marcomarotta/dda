@@ -320,6 +320,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="England - Premier League - Tottenham Hotspur vs Crystal Palace" tvg-name="22:00 England - Premier League : Tottenham Hotspur vs Crystal Palace - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Backup Stream
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4001
 
+#EXTINF:-1 tvg-id="England - Premier League - Tottenham Hotspur vs Crystal Palace" tvg-name="22:00 England - Premier League : Tottenham Hotspur vs Crystal Palace - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=5002
+
 #EXTINF:-1 tvg-id="France - Coupe de France - Olympique Lyonnais vs Lens" tvg-name="22:10 France - Coupe de France : Olympique Lyonnais vs Lens - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", France 2
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=950
 
@@ -421,6 +424,114 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 
 #EXTINF:-1 tvg-id="Major Arena Soccer League - Empire Strykers vs San Diego Sockers" tvg-name="04:35 Major Arena Soccer League : Empire Strykers vs San Diego Sockers - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Sports Mexico
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=929
+
+#EXTINF:-1 tvg-id="ATP - INDIAN WELLS - Atmane T. vs Dimitrov G." tvg-name="21:00 ATP - INDIAN WELLS : Atmane T. vs Dimitrov G. - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1507
+
+#EXTINF:-1 tvg-id="ATP - INDIAN WELLS - Majchrzak K. vs Mpetshi Perricard G." tvg-name="21:00 ATP - INDIAN WELLS : Majchrzak K. vs Mpetshi Perricard G. - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1510
+
+#EXTINF:-1 tvg-id="ATP - INDIAN WELLS - Shevchenko A. vs Shimabukuro S." tvg-name="21:00 ATP - INDIAN WELLS : Shevchenko A. vs Shimabukuro S. - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1511
+
+#EXTINF:-1 tvg-id="ATP - INDIAN WELLS - Fearnley J. vs Dzumhur D." tvg-name="22:30 ATP - INDIAN WELLS : Fearnley J. vs Dzumhur D. - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1510
+
+#EXTINF:-1 tvg-id="ATP - INDIAN WELLS - Tseng C. H. vs Baez S." tvg-name="22:30 ATP - INDIAN WELLS : Tseng C. H. vs Baez S. - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1511
+
+#EXTINF:-1 tvg-id="ATP - INDIAN WELLS - Hurkacz H. vs Kovacevic A." tvg-name="23:00 ATP - INDIAN WELLS : Hurkacz H. vs Kovacevic A. - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1508
+
+#EXTINF:-1 tvg-id="ATP - INDIAN WELLS - Marozsan F. vs Bautista-Agut R." tvg-name="00:00 ATP - INDIAN WELLS : Marozsan F. vs Bautista-Agut R. - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1510
+
+#EXTINF:-1 tvg-id="ATP - INDIAN WELLS - Royer V. vs Bonzi B." tvg-name="00:30 ATP - INDIAN WELLS : Royer V. vs Bonzi B. - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1511
+
+#EXTINF:-1 tvg-id="ATP - INDIAN WELLS - Merida Aguilar D. vs Michelsen A." tvg-name="00:30 ATP - INDIAN WELLS : Merida Aguilar D. vs Michelsen A. - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1508
+
+#EXTINF:-1 tvg-id="ATP - INDIAN WELLS - Borges N. vs Nava E." tvg-name="01:30 ATP - INDIAN WELLS : Borges N. vs Nava E. - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1509
+
+#EXTINF:-1 tvg-id="ATP - INDIAN WELLS - Cerundolo J. M. vs Van De Zandschulp B." tvg-name="00:00 ATP - INDIAN WELLS : Cerundolo J. M. vs Van De Zandschulp B. - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1511
+
+#EXTINF:-1 tvg-id="ATP - INDIAN WELLS - Tabilo A. vs Jodar R." tvg-name="01:30 ATP - INDIAN WELLS : Tabilo A. vs Jodar R. - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1512
+
+#EXTINF:-1 tvg-id="ATP - INDIAN WELLS - Arnaldi M. vs McDonald M." tvg-name="03:00 ATP - INDIAN WELLS : Arnaldi M. vs McDonald M. - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1509
+
+#EXTINF:-1 tvg-id="ATP - INDIAN WELLS - Maestrelli F. vs Hijikata R." tvg-name="03:00 ATP - INDIAN WELLS : Maestrelli F. vs Hijikata R. - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1511
+
+#EXTINF:-1 tvg-id="ATP - INDIAN WELLS - Korda S. vs Comesana F." tvg-name="04:00 ATP - INDIAN WELLS : Korda S. vs Comesana F. - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1507
+
+#EXTINF:-1 tvg-id="ATP - INDIAN WELLS - Zheng M. vs Kopriva V." tvg-name="05:30 ATP - INDIAN WELLS : Zheng M. vs Kopriva V. - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1508
+
+#EXTINF:-1 tvg-id="WTA - INDIAN WELLS - Bouzkova M. vs Townsend T." tvg-name="21:00 WTA - INDIAN WELLS : Bouzkova M. vs Townsend T. - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1503
+
+#EXTINF:-1 tvg-id="WTA - INDIAN WELLS - Linette M. vs Krueger A." tvg-name="21:00 WTA - INDIAN WELLS : Linette M. vs Krueger A. - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1502
+
+#EXTINF:-1 tvg-id="WTA - INDIAN WELLS - Siegemund L. vs Marcinko P." tvg-name="21:00 WTA - INDIAN WELLS : Siegemund L. vs Marcinko P. - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1506
+
+#EXTINF:-1 tvg-id="WTA - INDIAN WELLS - Tararudee L. vs Kartal S." tvg-name="21:00 WTA - INDIAN WELLS : Tararudee L. vs Kartal S. - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1505
+
+#EXTINF:-1 tvg-id="WTA - INDIAN WELLS - Guo H./Mladenovic K. vs Noskova L./Shnaider D." tvg-name="21:00 WTA - INDIAN WELLS : Guo H./Mladenovic K. vs Noskova L./Shnaider D. - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1513
+
+#EXTINF:-1 tvg-id="WTA - INDIAN WELLS - Jacquemot E. vs Bondar A." tvg-name="22:30 WTA - INDIAN WELLS : Jacquemot E. vs Bondar A. - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1506
+
+#EXTINF:-1 tvg-id="WTA - INDIAN WELLS - Jones F. vs Day K." tvg-name="22:30 WTA - INDIAN WELLS : Jones F. vs Day K. - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1505
+
+#EXTINF:-1 tvg-id="WTA - INDIAN WELLS - Vekic D. vs Valentova T." tvg-name="22:30 WTA - INDIAN WELLS : Vekic D. vs Valentova T. - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1503
+
+#EXTINF:-1 tvg-id="WTA - INDIAN WELLS - Errani S./Paolini J. vs Cristian J./Tauson C." tvg-name="21:00 WTA - INDIAN WELLS : Errani S./Paolini J. vs Cristian J./Tauson C. - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1513
+
+#EXTINF:-1 tvg-id="WTA - INDIAN WELLS - Parry D. vs Williams V." tvg-name="23:00 WTA - INDIAN WELLS : Parry D. vs Williams V. - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1501
+
+#EXTINF:-1 tvg-id="WTA - INDIAN WELLS - Bucsa C. vs Vidmanova D." tvg-name="00:00 WTA - INDIAN WELLS : Bucsa C. vs Vidmanova D. - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1505
+
+#EXTINF:-1 tvg-id="WTA - INDIAN WELLS - Gracheva V. vs Tagger L." tvg-name="00:00 WTA - INDIAN WELLS : Gracheva V. vs Tagger L. - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1503
+
+#EXTINF:-1 tvg-id="WTA - INDIAN WELLS - Hunter S. vs Frech M." tvg-name="00:00 WTA - INDIAN WELLS : Hunter S. vs Frech M. - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1506
+
+#EXTINF:-1 tvg-id="WTA - INDIAN WELLS - Kessler M./Pegula J. vs Hozumi E./Wu F." tvg-name="00:00 WTA - INDIAN WELLS : Kessler M./Pegula J. vs Hozumi E./Wu F. - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1513
+
+#EXTINF:-1 tvg-id="WTA - INDIAN WELLS - Siniakova K. vs Kenin S." tvg-name="00:30 WTA - INDIAN WELLS : Siniakova K. vs Kenin S. - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1501
+
+#EXTINF:-1 tvg-id="WTA - INDIAN WELLS - Volynets K. vs Sramkova R." tvg-name="01:30 WTA - INDIAN WELLS : Volynets K. vs Sramkova R. - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1504
+
+#EXTINF:-1 tvg-id="WTA - INDIAN WELLS - Kichenok L./Krawczyk D. vs Mihalikova T./Nicholls O." tvg-name="01:30 WTA - INDIAN WELLS : Kichenok L./Krawczyk D. vs Mihalikova T./Nicholls O. - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1505
+
+#EXTINF:-1 tvg-id="WTA - INDIAN WELLS - Arango E. vs Baptiste H." tvg-name="03:00 WTA - INDIAN WELLS : Arango E. vs Baptiste H. - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1504
+
+#EXTINF:-1 tvg-id="WTA - INDIAN WELLS - Ruzic A. vs Brady J." tvg-name="04:00 WTA - INDIAN WELLS : Ruzic A. vs Brady J. - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1502
+
+#EXTINF:-1 tvg-id="WTA - INDIAN WELLS - Stearns P. vs Sierra S." tvg-name="05:30 WTA - INDIAN WELLS : Stearns P. vs Sierra S. - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1501
 
 #EXTINF:-1 tvg-id="2026 BNP Paribas Open Tennis ATP/WTA First Round - 2026 BNP Paribas Open Tennis ATP/WTA First Round" tvg-name="05:00 2026 BNP Paribas Open Tennis ATP/WTA First Round - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=40
@@ -914,11 +1025,17 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="NBA - Orlando Magic vs Dallas Mavericks" tvg-name="02:00 NBA : Orlando Magic vs Dallas Mavericks - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", FanDuel Sports Network Florida
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=892
 
+#EXTINF:-1 tvg-id="NBA - Orlando Magic vs Dallas Mavericks" tvg-name="02:00 NBA : Orlando Magic vs Dallas Mavericks - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4065
+
 #EXTINF:-1 tvg-id="NBA - Washington Wizards vs Utah Jazz" tvg-name="02:00 NBA : Washington Wizards vs Utah Jazz - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBA League Pass
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=3
 
 #EXTINF:-1 tvg-id="NBA - Washington Wizards vs Utah Jazz" tvg-name="02:00 NBA : Washington Wizards vs Utah Jazz - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Monumental Sports Network
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=778
+
+#EXTINF:-1 tvg-id="NBA - Washington Wizards vs Utah Jazz" tvg-name="02:00 NBA : Washington Wizards vs Utah Jazz - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4066
 
 #EXTINF:-1 tvg-id="NBA - Houston Rockets vs Golden State Warriors" tvg-name="02:30 NBA : Houston Rockets vs Golden State Warriors - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBA League Pass
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4
@@ -935,6 +1052,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="NBA - Houston Rockets vs Golden State Warriors" tvg-name="02:30 NBA : Houston Rockets vs Golden State Warriors - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sport 5 Israel
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=144
 
+#EXTINF:-1 tvg-id="NBA - Houston Rockets vs Golden State Warriors" tvg-name="02:30 NBA : Houston Rockets vs Golden State Warriors - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4068
+
 #EXTINF:-1 tvg-id="NBA - Miami Heat vs Brooklyn Nets" tvg-name="02:30 NBA : Miami Heat vs Brooklyn Nets - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBA League Pass
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=5
 
@@ -947,6 +1067,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="NBA - Miami Heat vs Brooklyn Nets" tvg-name="02:30 NBA : Miami Heat vs Brooklyn Nets - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sport 5 Stars Israel
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=147
 
+#EXTINF:-1 tvg-id="NBA - Miami Heat vs Brooklyn Nets" tvg-name="02:30 NBA : Miami Heat vs Brooklyn Nets - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4067
+
 #EXTINF:-1 tvg-id="NBA - Minnesota Timberwolves vs Toronto Raptors" tvg-name="03:00 NBA : Minnesota Timberwolves vs Toronto Raptors - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBA League Pass
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=6
 
@@ -956,17 +1079,26 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="NBA - Minnesota Timberwolves vs Toronto Raptors" tvg-name="03:00 NBA : Minnesota Timberwolves vs Toronto Raptors - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", FanDuel Sports Network North
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=898
 
+#EXTINF:-1 tvg-id="NBA - Minnesota Timberwolves vs Toronto Raptors" tvg-name="03:00 NBA : Minnesota Timberwolves vs Toronto Raptors - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4069
+
 #EXTINF:-1 tvg-id="NBA - San Antonio Spurs vs Detroit Pistons" tvg-name="03:00 NBA : San Antonio Spurs vs Detroit Pistons - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBA League Pass
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=7
 
 #EXTINF:-1 tvg-id="NBA - San Antonio Spurs vs Detroit Pistons" tvg-name="03:00 NBA : San Antonio Spurs vs Detroit Pistons - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", FanDuel Sports Network Detroit
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=891
 
+#EXTINF:-1 tvg-id="NBA - San Antonio Spurs vs Detroit Pistons" tvg-name="03:00 NBA : San Antonio Spurs vs Detroit Pistons - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4070
+
 #EXTINF:-1 tvg-id="NBA - Phoenix Suns vs Chicago Bulls" tvg-name="04:00 NBA : Phoenix Suns vs Chicago Bulls - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBA League Pass
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=8
 
 #EXTINF:-1 tvg-id="NBA - Phoenix Suns vs Chicago Bulls" tvg-name="04:00 NBA : Phoenix Suns vs Chicago Bulls - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Chicago Sports Network
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=776
+
+#EXTINF:-1 tvg-id="NBA - Phoenix Suns vs Chicago Bulls" tvg-name="04:00 NBA : Phoenix Suns vs Chicago Bulls - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4071
 
 #EXTINF:-1 tvg-id="NBA - Denver Nuggets vs Los Angeles Lakers" tvg-name="05:00 NBA : Denver Nuggets vs Los Angeles Lakers - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBA League Pass
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=9
@@ -977,11 +1109,17 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="NBA - Denver Nuggets vs Los Angeles Lakers" tvg-name="05:00 NBA : Denver Nuggets vs Los Angeles Lakers - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", TSN2
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=112
 
+#EXTINF:-1 tvg-id="NBA - Denver Nuggets vs Los Angeles Lakers" tvg-name="05:00 NBA : Denver Nuggets vs Los Angeles Lakers - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4072
+
 #EXTINF:-1 tvg-id="NBA - Sacramento Kings vs New Orleans Pelicans" tvg-name="05:00 NBA : Sacramento Kings vs New Orleans Pelicans - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBA League Pass
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=10
 
 #EXTINF:-1 tvg-id="NBA - Sacramento Kings vs New Orleans Pelicans" tvg-name="05:00 NBA : Sacramento Kings vs New Orleans Pelicans - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBCS California USA
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=755
+
+#EXTINF:-1 tvg-id="NBA - Sacramento Kings vs New Orleans Pelicans" tvg-name="05:00 NBA : Sacramento Kings vs New Orleans Pelicans - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4073
 
 #EXTINF:-1 tvg-id="Old town Champions League Final - Old town Champions League Final" tvg-name="11:00 Old town Champions League Final - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Futsal", Arena 1 Premium Serbia
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=134
@@ -1010,11 +1148,17 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="NHL - Utah Mammoth vs Philadelphia Flyers" tvg-name="02:00 NHL : Utah Mammoth vs Philadelphia Flyers - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ice Hockey (Nhl)", Sport 5 Live Israel
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=146
 
+#EXTINF:-1 tvg-id="NHL - Utah Mammoth vs Philadelphia Flyers" tvg-name="02:00 NHL : Utah Mammoth vs Philadelphia Flyers - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ice Hockey (Nhl)", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4037
+
 #EXTINF:-1 tvg-id="NHL - Florida Panthers vs Columbus Blue Jackets" tvg-name="02:00 NHL : Florida Panthers vs Columbus Blue Jackets - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ice Hockey (Nhl)", NHL Gamecenter
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=12
 
 #EXTINF:-1 tvg-id="NHL - Florida Panthers vs Columbus Blue Jackets" tvg-name="02:00 NHL : Florida Panthers vs Columbus Blue Jackets - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ice Hockey (Nhl)", FanDuel Sports Network Ohio
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=899
+
+#EXTINF:-1 tvg-id="NHL - Florida Panthers vs Columbus Blue Jackets" tvg-name="02:00 NHL : Florida Panthers vs Columbus Blue Jackets - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ice Hockey (Nhl)", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4039
 
 #EXTINF:-1 tvg-id="NHL - Toronto Maple Leafs vs New York Rangers" tvg-name="02:00 NHL : Toronto Maple Leafs vs New York Rangers - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ice Hockey (Nhl)", NHL Gamecenter
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=13
@@ -1027,6 +1171,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 
 #EXTINF:-1 tvg-id="NHL - Toronto Maple Leafs vs New York Rangers" tvg-name="02:00 NHL : Toronto Maple Leafs vs New York Rangers - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ice Hockey (Nhl)", Viasat Vinter
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=19
+
+#EXTINF:-1 tvg-id="NHL - Toronto Maple Leafs vs New York Rangers" tvg-name="02:00 NHL : Toronto Maple Leafs vs New York Rangers - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ice Hockey (Nhl)", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4036
 
 #EXTINF:-1 tvg-id="NHL - Buffalo Sabres vs Pittsburgh Penguins" tvg-name="02:00 NHL : Buffalo Sabres vs Pittsburgh Penguins - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ice Hockey (Nhl)", NHL Gamecenter
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=14
@@ -1049,11 +1196,17 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="NHL - Buffalo Sabres vs Pittsburgh Penguins" tvg-name="02:00 NHL : Buffalo Sabres vs Pittsburgh Penguins - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ice Hockey (Nhl)", V Sport Premium
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=28
 
+#EXTINF:-1 tvg-id="NHL - Buffalo Sabres vs Pittsburgh Penguins" tvg-name="02:00 NHL : Buffalo Sabres vs Pittsburgh Penguins - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ice Hockey (Nhl)", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4038
+
 #EXTINF:-1 tvg-id="NHL - Tampa Bay Lightning vs Winnipeg Jets" tvg-name="03:00 NHL : Tampa Bay Lightning vs Winnipeg Jets - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ice Hockey (Nhl)", NHL Gamecenter
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=15
 
 #EXTINF:-1 tvg-id="NHL - Tampa Bay Lightning vs Winnipeg Jets" tvg-name="03:00 NHL : Tampa Bay Lightning vs Winnipeg Jets - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ice Hockey (Nhl)", TSN3
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=113
+
+#EXTINF:-1 tvg-id="NHL - Tampa Bay Lightning vs Winnipeg Jets" tvg-name="03:00 NHL : Tampa Bay Lightning vs Winnipeg Jets - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ice Hockey (Nhl)", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4041
 
 #EXTINF:-1 tvg-id="NHL - Boston Bruins vs Nashville Predators" tvg-name="03:00 NHL : Boston Bruins vs Nashville Predators - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ice Hockey (Nhl)", NHL Gamecenter
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=16
@@ -1063,6 +1216,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 
 #EXTINF:-1 tvg-id="NHL - Boston Bruins vs Nashville Predators" tvg-name="03:00 NHL : Boston Bruins vs Nashville Predators - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ice Hockey (Nhl)", NESN USA
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=762
+
+#EXTINF:-1 tvg-id="NHL - Boston Bruins vs Nashville Predators" tvg-name="03:00 NHL : Boston Bruins vs Nashville Predators - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ice Hockey (Nhl)", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4040
 
 #EXTINF:-1 tvg-id="NHL - Ottawa Senators vs Calgary Flames" tvg-name="04:00 NHL : Ottawa Senators vs Calgary Flames - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ice Hockey (Nhl)", NHL Gamecenter
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=17
@@ -1078,6 +1234,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 
 #EXTINF:-1 tvg-id="NHL - Ottawa Senators vs Calgary Flames" tvg-name="04:00 NHL : Ottawa Senators vs Calgary Flames - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ice Hockey (Nhl)", RDS 2 CA
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=840
+
+#EXTINF:-1 tvg-id="NHL - Ottawa Senators vs Calgary Flames" tvg-name="04:00 NHL : Ottawa Senators vs Calgary Flames - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ice Hockey (Nhl)", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4042
 
 #EXTINF:-1 tvg-id="NHL - New York Islanders vs Los Angeles Kings" tvg-name="04:30 NHL : New York Islanders vs Los Angeles Kings - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ice Hockey (Nhl)", NHL Gamecenter
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=18
@@ -1099,6 +1258,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 
 #EXTINF:-1 tvg-id="NHL - New York Islanders vs Los Angeles Kings" tvg-name="04:30 NHL : New York Islanders vs Los Angeles Kings - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ice Hockey (Nhl)", Sport 5 Stars Israel
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=147
+
+#EXTINF:-1 tvg-id="NHL - New York Islanders vs Los Angeles Kings" tvg-name="04:30 NHL : New York Islanders vs Los Angeles Kings - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ice Hockey (Nhl)", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4043
 
 #EXTINF:-1 tvg-id="Russia KHL - Amur Khabarovsk vs Salavat Yulaev Ufa" tvg-name="11:00 Russia KHL : Amur Khabarovsk vs Salavat Yulaev Ufa - 05/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Khl Ice Hockey", KHL Prime
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=7
