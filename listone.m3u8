@@ -1974,6 +1974,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="Germany - Bundesliga - Bayern München vs Borussia M'gladbach" tvg-name="21:30 Germany - Bundesliga : Bayern München vs Borussia M'gladbach - 06/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sport 1 Israel
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=140
 
+#EXTINF:-1 tvg-id="Germany - Bundesliga - Bayern München vs Borussia M'gladbach" tvg-name="21:30 Germany - Bundesliga : Bayern München vs Borussia M'gladbach - 06/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4001
+
 #EXTINF:-1 tvg-id="Poland - Ekstraklasa - Lechia Gdańsk vs Jagiellonia Białystok" tvg-name="21:30 Poland - Ekstraklasa : Lechia Gdańsk vs Jagiellonia Białystok - 06/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Canal+ Sport 3 Poland
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=259
 
@@ -2067,6 +2070,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="France - Ligue 1 - PSG vs Monaco" tvg-name="21:45 France - Ligue 1 : PSG vs Monaco - 06/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", 5Sport Israel
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=144
 
+#EXTINF:-1 tvg-id="France - Ligue 1 - PSG vs Monaco" tvg-name="21:45 France - Ligue 1 : PSG vs Monaco - 06/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4007
+
 #EXTINF:-1 tvg-id="Italy - Serie A - Napoli vs Torino" tvg-name="21:45 Italy - Serie A : Napoli vs Torino - 06/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Paramount+
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=5
 
@@ -2105,6 +2111,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 
 #EXTINF:-1 tvg-id="Italy - Serie A - Napoli vs Torino" tvg-name="21:45 Italy - Serie A : Napoli vs Torino - 06/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", SuperSport Football
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=56
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Napoli vs Torino" tvg-name="21:45 Italy - Serie A : Napoli vs Torino - 06/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4009
 
 #EXTINF:-1 tvg-id="Scotland - Scottish Cup - Falkirk vs Dundee United" tvg-name="21:45 Scotland - Scottish Cup : Falkirk vs Dundee United - 06/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", ESPN+ USA
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=181
@@ -2168,6 +2177,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 
 #EXTINF:-1 tvg-id="England - FA Cup - Wolverhampton Wanderers vs Liverpool" tvg-name="22:00 England - FA Cup : Wolverhampton Wanderers vs Liverpool - 06/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sport 2 Israel
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=141
+
+#EXTINF:-1 tvg-id="England - FA Cup - Wolverhampton Wanderers vs Liverpool" tvg-name="22:00 England - FA Cup : Wolverhampton Wanderers vs Liverpool - 06/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4001
 
 #EXTINF:-1 tvg-id="Spain - La Liga - Celta de Vigo vs Real Madrid" tvg-name="22:00 Spain - La Liga : Celta de Vigo vs Real Madrid - 06/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", M+ LALIGA TV
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=84
@@ -2253,6 +2265,12 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="Spain - La Liga - Celta de Vigo vs Real Madrid" tvg-name="22:00 Spain - La Liga : Celta de Vigo vs Real Madrid - 06/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", beIN Sports MENA 2
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=92
 
+#EXTINF:-1 tvg-id="Spain - La Liga - Celta de Vigo vs Real Madrid" tvg-name="22:00 Spain - La Liga : Celta de Vigo vs Real Madrid - 06/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4006
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Celta de Vigo vs Real Madrid" tvg-name="22:00 Spain - La Liga : Celta de Vigo vs Real Madrid - 06/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4010
+
 #EXTINF:-1 tvg-id="England - Championship - Preston North End vs Oxford United" tvg-name="22:00 England - Championship : Preston North End vs Oxford United - 06/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sports Football UK
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=35
 
@@ -2273,6 +2291,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 
 #EXTINF:-1 tvg-id="England - Championship - Preston North End vs Oxford United" tvg-name="22:00 England - Championship : Preston North End vs Oxford United - 06/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", beIN SPORTS MENA 4
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=94
+
+#EXTINF:-1 tvg-id="England - Championship - Preston North End vs Oxford United" tvg-name="22:00 England - Championship : Preston North End vs Oxford United - 06/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4002
 
 #EXTINF:-1 tvg-id="Portugal - Primeira Liga - Famalicão vs Arouca" tvg-name="22:15 Portugal - Primeira Liga : Famalicão vs Arouca - 06/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sport TV1 Portugal
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=49
