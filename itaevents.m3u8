@@ -419,6 +419,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="Scotland - Scottish Cup - Rangers vs Celtic" tvg-name="15:00 Scotland - Scottish Cup : Rangers vs Celtic - 08/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", 5 PLUS Israel
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=145
 
+#EXTINF:-1 tvg-id="Scotland - Scottish Cup - Rangers vs Celtic" tvg-name="15:00 Scotland - Scottish Cup : Rangers vs Celtic - 08/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=5000
+
 #EXTINF:-1 tvg-id="Spain - Segunda Division - Las Palmas vs Ceuta" tvg-name="15:00 Spain - Segunda Division : Las Palmas vs Ceuta - 08/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", LALIGA TV Hypermotion
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=539
 
