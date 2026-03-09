@@ -446,6 +446,78 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="Peru - Primera Division - Alianza Lima vs Melgar" tvg-name="03:30 Peru - Primera Division : Alianza Lima vs Melgar - 09/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Liga 1 Max Peru
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1
 
+#EXTINF:-1 tvg-id="ATP - INDIAN WELLS - Djokovic N. vs Kovacevic A." tvg-name="20:00 ATP - INDIAN WELLS : Djokovic N. vs Kovacevic A. - 09/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1507
+
+#EXTINF:-1 tvg-id="ATP - INDIAN WELLS - Norrie C. vs De Minaur A." tvg-name="20:00 ATP - INDIAN WELLS : Norrie C. vs De Minaur A. - 09/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1509
+
+#EXTINF:-1 tvg-id="ATP - INDIAN WELLS - Bublik A. vs Hijikata R." tvg-name="21:30 ATP - INDIAN WELLS : Bublik A. vs Hijikata R. - 09/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1509
+
+#EXTINF:-1 tvg-id="ATP - INDIAN WELLS - Cerundolo F. vs Draper J." tvg-name="21:30 ATP - INDIAN WELLS : Cerundolo F. vs Draper J. - 09/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1508
+
+#EXTINF:-1 tvg-id="ATP - INDIAN WELLS - Granollers M./Zeballos H. vs Opelka R./Sinner J." tvg-name="21:30 ATP - INDIAN WELLS : Granollers M./Zeballos H. vs Opelka R./Sinner J. - 09/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1510
+
+#EXTINF:-1 tvg-id="ATP - INDIAN WELLS - Melo M./Zverev A. vs Auger-Aliassime F./Korda S." tvg-name="22:00 ATP - INDIAN WELLS : Melo M./Zverev A. vs Auger-Aliassime F./Korda S. - 09/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1512
+
+#EXTINF:-1 tvg-id="ATP - INDIAN WELLS - Michelsen A. vs Fritz T." tvg-name="23:00 ATP - INDIAN WELLS : Michelsen A. vs Fritz T. - 09/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1508
+
+#EXTINF:-1 tvg-id="ATP - INDIAN WELLS - Vacherot V. vs Ruud C." tvg-name="23:00 ATP - INDIAN WELLS : Vacherot V. vs Ruud C. - 09/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1509
+
+#EXTINF:-1 tvg-id="ATP - INDIAN WELLS - Nakashima B./Tiafoe F. vs Krawietz K./Puetz T." tvg-name="23:30 ATP - INDIAN WELLS : Nakashima B./Tiafoe F. vs Krawietz K./Puetz T. - 09/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1512
+
+#EXTINF:-1 tvg-id="ATP - INDIAN WELLS - Djokovic N./Tsitsipas S. vs Arevalo M./Pavic M." tvg-name="00:30 ATP - INDIAN WELLS : Djokovic N./Tsitsipas S. vs Arevalo M./Pavic M. - 09/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1511
+
+#EXTINF:-1 tvg-id="ATP - INDIAN WELLS - Nys H./Roger-Vasselin E. vs Khachanov K./Rublev A." tvg-name="02:00 ATP - INDIAN WELLS : Nys H./Roger-Vasselin E. vs Khachanov K./Rublev A. - 09/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1510
+
+#EXTINF:-1 tvg-id="ATP - INDIAN WELLS - Alcaraz C. vs Rinderknech A." tvg-name="03:00 ATP - INDIAN WELLS : Alcaraz C. vs Rinderknech A. - 09/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1507
+
+#EXTINF:-1 tvg-id="ATP - INDIAN WELLS - Medvedev D. vs Baez S." tvg-name="04:30 ATP - INDIAN WELLS : Medvedev D. vs Baez S. - 09/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1507
+
+#EXTINF:-1 tvg-id="WTA - INDIAN WELLS - Muchova K. vs Ruzic A." tvg-name="20:00 WTA - INDIAN WELLS : Muchova K. vs Ruzic A. - 09/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1507
+
+#EXTINF:-1 tvg-id="WTA - INDIAN WELLS - Pegula J. vs Ostapenko J." tvg-name="20:00 WTA - INDIAN WELLS : Pegula J. vs Ostapenko J. - 09/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1502
+
+#EXTINF:-1 tvg-id="WTA - INDIAN WELLS - Andreeva M. vs Siniakova K." tvg-name="22:00 WTA - INDIAN WELLS : Andreeva M. vs Siniakova K. - 09/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1511
+
+#EXTINF:-1 tvg-id="WTA - INDIAN WELLS - Mertens E. vs Bencic B." tvg-name="23:00 WTA - INDIAN WELLS : Mertens E. vs Bencic B. - 09/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1503
+
+#EXTINF:-1 tvg-id="WTA - INDIAN WELLS - Sakkari M. vs Swiatek I." tvg-name="23:30 WTA - INDIAN WELLS : Sakkari M. vs Swiatek I. - 09/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1501
+
+#EXTINF:-1 tvg-id="WTA - INDIAN WELLS - Krueger A. vs Svitolina E." tvg-name="00:30 WTA - INDIAN WELLS : Krueger A. vs Svitolina E. - 09/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1503
+
+#EXTINF:-1 tvg-id="WTA - INDIAN WELLS - Errani S./Paolini J. vs Xu Y./Yang Z." tvg-name="00:30 WTA - INDIAN WELLS : Errani S./Paolini J. vs Xu Y./Yang Z. - 09/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1504
+
+#EXTINF:-1 tvg-id="WTA - INDIAN WELLS - Baptiste H./Ostapenko J. vs Andreeva M./Mboko V." tvg-name="01:00 WTA - INDIAN WELLS : Baptiste H./Ostapenko J. vs Andreeva M./Mboko V. - 09/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1505
+
+#EXTINF:-1 tvg-id="WTA - INDIAN WELLS - Neel I./Stearns P. vs Dabrowski G./Stefani L." tvg-name="02:00 WTA - INDIAN WELLS : Neel I./Stearns P. vs Dabrowski G./Stefani L. - 09/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1511
+
+#EXTINF:-1 tvg-id="WTA - INDIAN WELLS - Keys M. vs Kartal S." tvg-name="03:00 WTA - INDIAN WELLS : Keys M. vs Kartal S. - 09/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1502
+
+#EXTINF:-1 tvg-id="WTA - INDIAN WELLS - Kostyuk M. vs Rybakina E." tvg-name="05:00 WTA - INDIAN WELLS : Kostyuk M. vs Rybakina E. - 09/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Indian Wells", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1501
+
 #EXTINF:-1 tvg-id="ATP/WTA 1000 - Indian Wells" tvg-name="05:00 ATP/WTA 1000: Indian Wells - 09/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=40
 
