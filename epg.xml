@@ -55848,17 +55848,11 @@ Il sogno del Re Sole</title>
   <channel id="indycarstreetsofarlingtonpractice1">
     <display-name>Indycar Streets of Arlington: Practice 1</display-name>
   </channel>
-  <channel id="onefridayfights146">
-    <display-name>ONE Friday Fights 146</display-name>
-  </channel>
   <channel id="cagewarriors201unpligged">
     <display-name>Cage Warriors 201 Unpligged</display-name>
   </channel>
   <channel id="mmacontenderseries">
     <display-name>MMA : Contender Series</display-name>
-  </channel>
-  <channel id="pgatourtheplayerschampionship">
-    <display-name>PGA Tour The Players Championship</display-name>
   </channel>
   <channel id="2026worldbaseballclassicquarterfinalrepublicofkoreavsdominicanrepublic">
     <display-name>2026 World Baseball Classic Quarterfinal: Republic of Korea vs Dominican Republic</display-name>
@@ -56088,9 +56082,6 @@ Il sogno del Re Sole</title>
   <channel id="bowlsnewzealandnationalintercentre">
     <display-name>Bowls New Zealand: National Intercentre</display-name>
   </channel>
-  <channel id="tyrrhenianadriaticstage5menmarottamondolfomonbaroccio184km">
-    <display-name>Tyrrhenian-Adriatic | Stage 5 Men | Marotta-Mondolfo – Monbaroccio (184km)</display-name>
-  </channel>
   <channel id="parisnicestage6menbarbentaneapt1793km">
     <display-name>Paris-Nice | Stage 6 Men | Barbentane – Apt (179.3km)</display-name>
   </channel>
@@ -56102,9 +56093,6 @@ Il sogno del Re Sole</title>
   </channel>
   <channel id="placardfutsalleaguecupsemifinal">
     <display-name>Placard Futsal League Cup - Semi-Final</display-name>
-  </channel>
-  <channel id="gymnasticstrampolinesworldcup">
-    <display-name>Gymnastics: Trampolines - World Cup</display-name>
   </channel>
   <channel id="womenscollegegymnasticswestvirginiavsncstate">
     <display-name>Women's College Gymnastics : West Virginia vs NC State</display-name>
@@ -56153,15 +56141,6 @@ Il sogno del Re Sole</title>
   </channel>
   <channel id="starliguetremblayvsnimes">
     <display-name>Starligue : Tremblay vs Nimes</display-name>
-  </channel>
-  <channel id="liveracingfromcheltenhamandfakenham">
-    <display-name>Live racing from Cheltenham and Fakenham</display-name>
-  </channel>
-  <channel id="liveracingfromaroundtheuk">
-    <display-name>Live racing from around the UK</display-name>
-  </channel>
-  <channel id="liveracingfromcheltenhamfestival">
-    <display-name>Live racing from Cheltenham Festival</display-name>
   </channel>
   <channel id="liveracingfromdundalk">
     <display-name>Live racing from Dundalk</display-name>
@@ -56363,9 +56342,6 @@ Il sogno del Re Sole</title>
   </channel>
   <channel id="2026milancortinaparalympicsparabiathlonmensandwomens75kmpursuitfinals">
     <display-name>2026 Milan Cortina Paralympics Para Biathlon: Men's and Women's 7.5km Pursuit, Finals</display-name>
-  </channel>
-  <channel id="2026milancortinaparalympicsparaalpineskiingmensgiantslalomrun2">
-    <display-name>2026 Milan Cortina Paralympics Para Alpine Skiing: Men's Giant Slalom, Run 2</display-name>
   </channel>
   <channel id="2026milancortinaparalympicsparahockeyunitedstatesvsczechia">
     <display-name>2026 Milan Cortina Paralympics Para Hockey: United States vs. Czechia</display-name>
@@ -58980,106 +58956,6 @@ Il sogno del Re Sole</title>
     <desc lang="it">Indycar Streets of Arlington: Practice 1</desc>
     <category lang="it">Motorsport</category>
   </programme>
-  <programme start="20260313000000 +0200" stop="20260313143000 +0200" channel="onefridayfights146">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">ONE Friday Fights 146.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260313143000 +0200" stop="20260313163000 +0200" channel="onefridayfights146">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ONE Friday Fights 146</desc>
-    <category lang="it">MMA</category>
-  </programme>
-  <programme start="20260313000000 +0200" stop="20260313143000 +0200" channel="onefridayfights146">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">ONE Friday Fights 146.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260313143000 +0200" stop="20260313163000 +0200" channel="onefridayfights146">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ONE Friday Fights 146</desc>
-    <category lang="it">MMA</category>
-  </programme>
-  <programme start="20260313000000 +0200" stop="20260313143000 +0200" channel="onefridayfights146">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">ONE Friday Fights 146.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260313143000 +0200" stop="20260313163000 +0200" channel="onefridayfights146">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ONE Friday Fights 146</desc>
-    <category lang="it">MMA</category>
-  </programme>
-  <programme start="20260313000000 +0200" stop="20260313143000 +0200" channel="onefridayfights146">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">ONE Friday Fights 146.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260313143000 +0200" stop="20260313163000 +0200" channel="onefridayfights146">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ONE Friday Fights 146</desc>
-    <category lang="it">MMA</category>
-  </programme>
-  <programme start="20260313000000 +0200" stop="20260313143000 +0200" channel="onefridayfights146">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">ONE Friday Fights 146.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260313143000 +0200" stop="20260313163000 +0200" channel="onefridayfights146">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ONE Friday Fights 146</desc>
-    <category lang="it">MMA</category>
-  </programme>
-  <programme start="20260313000000 +0200" stop="20260313143000 +0200" channel="onefridayfights146">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">ONE Friday Fights 146.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260313143000 +0200" stop="20260313163000 +0200" channel="onefridayfights146">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ONE Friday Fights 146</desc>
-    <category lang="it">MMA</category>
-  </programme>
-  <programme start="20260313000000 +0200" stop="20260313143000 +0200" channel="onefridayfights146">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">ONE Friday Fights 146.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260313143000 +0200" stop="20260313163000 +0200" channel="onefridayfights146">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ONE Friday Fights 146</desc>
-    <category lang="it">MMA</category>
-  </programme>
-  <programme start="20260313000000 +0200" stop="20260313143000 +0200" channel="onefridayfights146">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">ONE Friday Fights 146.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260313143000 +0200" stop="20260313163000 +0200" channel="onefridayfights146">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ONE Friday Fights 146</desc>
-    <category lang="it">MMA</category>
-  </programme>
-  <programme start="20260313000000 +0200" stop="20260313143000 +0200" channel="onefridayfights146">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">ONE Friday Fights 146.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260313143000 +0200" stop="20260313163000 +0200" channel="onefridayfights146">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ONE Friday Fights 146</desc>
-    <category lang="it">MMA</category>
-  </programme>
-  <programme start="20260313000000 +0200" stop="20260313143000 +0200" channel="onefridayfights146">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">ONE Friday Fights 146.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260313143000 +0200" stop="20260313163000 +0200" channel="onefridayfights146">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ONE Friday Fights 146</desc>
-    <category lang="it">MMA</category>
-  </programme>
   <programme start="20260313000000 +0200" stop="20260313223000 +0200" channel="cagewarriors201unpligged">
     <title lang="it">Inizia alle 22:30.</title>
     <desc lang="it">Cage Warriors 201 Unpligged.</desc>
@@ -59119,96 +58995,6 @@ Il sogno del Re Sole</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">MMA : Contender Series</desc>
     <category lang="it">MMA</category>
-  </programme>
-  <programme start="20260313000000 +0200" stop="20260313133000 +0200" channel="pgatourtheplayerschampionship">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">PGA Tour The Players Championship.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260313133000 +0200" stop="20260313153000 +0200" channel="pgatourtheplayerschampionship">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">PGA Tour The Players Championship</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260313000000 +0200" stop="20260313133000 +0200" channel="pgatourtheplayerschampionship">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">PGA Tour The Players Championship.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260313133000 +0200" stop="20260313153000 +0200" channel="pgatourtheplayerschampionship">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">PGA Tour The Players Championship</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260313000000 +0200" stop="20260313133000 +0200" channel="pgatourtheplayerschampionship">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">PGA Tour The Players Championship.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260313133000 +0200" stop="20260313153000 +0200" channel="pgatourtheplayerschampionship">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">PGA Tour The Players Championship</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260313000000 +0200" stop="20260313133000 +0200" channel="pgatourtheplayerschampionship">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">PGA Tour The Players Championship.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260313133000 +0200" stop="20260313153000 +0200" channel="pgatourtheplayerschampionship">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">PGA Tour The Players Championship</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260313000000 +0200" stop="20260313133000 +0200" channel="pgatourtheplayerschampionship">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">PGA Tour The Players Championship.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260313133000 +0200" stop="20260313153000 +0200" channel="pgatourtheplayerschampionship">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">PGA Tour The Players Championship</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260313000000 +0200" stop="20260313133000 +0200" channel="pgatourtheplayerschampionship">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">PGA Tour The Players Championship.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260313133000 +0200" stop="20260313153000 +0200" channel="pgatourtheplayerschampionship">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">PGA Tour The Players Championship</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260313000000 +0200" stop="20260313133000 +0200" channel="pgatourtheplayerschampionship">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">PGA Tour The Players Championship.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260313133000 +0200" stop="20260313153000 +0200" channel="pgatourtheplayerschampionship">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">PGA Tour The Players Championship</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260313000000 +0200" stop="20260313133000 +0200" channel="pgatourtheplayerschampionship">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">PGA Tour The Players Championship.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260313133000 +0200" stop="20260313153000 +0200" channel="pgatourtheplayerschampionship">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">PGA Tour The Players Championship</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260313000000 +0200" stop="20260313133000 +0200" channel="pgatourtheplayerschampionship">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">PGA Tour The Players Championship.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260313133000 +0200" stop="20260313153000 +0200" channel="pgatourtheplayerschampionship">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">PGA Tour The Players Championship</desc>
-    <category lang="it">Golf</category>
   </programme>
   <programme start="20260313000000 +0200" stop="20260314003000 +0200" channel="2026worldbaseballclassicquarterfinalrepublicofkoreavsdominicanrepublic">
     <title lang="it">Inizia alle 00:30.</title>
@@ -60410,86 +60196,6 @@ Il sogno del Re Sole</title>
     <desc lang="it">Bowls New Zealand: National Intercentre</desc>
     <category lang="it">Bowling</category>
   </programme>
-  <programme start="20260313000000 +0200" stop="20260313140000 +0200" channel="tyrrhenianadriaticstage5menmarottamondolfomonbaroccio184km">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Tyrrhenian-Adriatic | Stage 5 Men | Marotta-Mondolfo – Monbaroccio (184km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260313140000 +0200" stop="20260313160000 +0200" channel="tyrrhenianadriaticstage5menmarottamondolfomonbaroccio184km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tyrrhenian-Adriatic | Stage 5 Men | Marotta-Mondolfo – Monbaroccio (184km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260313000000 +0200" stop="20260313140000 +0200" channel="tyrrhenianadriaticstage5menmarottamondolfomonbaroccio184km">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Tyrrhenian-Adriatic | Stage 5 Men | Marotta-Mondolfo – Monbaroccio (184km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260313140000 +0200" stop="20260313160000 +0200" channel="tyrrhenianadriaticstage5menmarottamondolfomonbaroccio184km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tyrrhenian-Adriatic | Stage 5 Men | Marotta-Mondolfo – Monbaroccio (184km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260313000000 +0200" stop="20260313140000 +0200" channel="tyrrhenianadriaticstage5menmarottamondolfomonbaroccio184km">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Tyrrhenian-Adriatic | Stage 5 Men | Marotta-Mondolfo – Monbaroccio (184km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260313140000 +0200" stop="20260313160000 +0200" channel="tyrrhenianadriaticstage5menmarottamondolfomonbaroccio184km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tyrrhenian-Adriatic | Stage 5 Men | Marotta-Mondolfo – Monbaroccio (184km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260313000000 +0200" stop="20260313140000 +0200" channel="tyrrhenianadriaticstage5menmarottamondolfomonbaroccio184km">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Tyrrhenian-Adriatic | Stage 5 Men | Marotta-Mondolfo – Monbaroccio (184km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260313140000 +0200" stop="20260313160000 +0200" channel="tyrrhenianadriaticstage5menmarottamondolfomonbaroccio184km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tyrrhenian-Adriatic | Stage 5 Men | Marotta-Mondolfo – Monbaroccio (184km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260313000000 +0200" stop="20260313140000 +0200" channel="tyrrhenianadriaticstage5menmarottamondolfomonbaroccio184km">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Tyrrhenian-Adriatic | Stage 5 Men | Marotta-Mondolfo – Monbaroccio (184km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260313140000 +0200" stop="20260313160000 +0200" channel="tyrrhenianadriaticstage5menmarottamondolfomonbaroccio184km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tyrrhenian-Adriatic | Stage 5 Men | Marotta-Mondolfo – Monbaroccio (184km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260313000000 +0200" stop="20260313140000 +0200" channel="tyrrhenianadriaticstage5menmarottamondolfomonbaroccio184km">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Tyrrhenian-Adriatic | Stage 5 Men | Marotta-Mondolfo – Monbaroccio (184km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260313140000 +0200" stop="20260313160000 +0200" channel="tyrrhenianadriaticstage5menmarottamondolfomonbaroccio184km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tyrrhenian-Adriatic | Stage 5 Men | Marotta-Mondolfo – Monbaroccio (184km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260313000000 +0200" stop="20260313140000 +0200" channel="tyrrhenianadriaticstage5menmarottamondolfomonbaroccio184km">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Tyrrhenian-Adriatic | Stage 5 Men | Marotta-Mondolfo – Monbaroccio (184km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260313140000 +0200" stop="20260313160000 +0200" channel="tyrrhenianadriaticstage5menmarottamondolfomonbaroccio184km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tyrrhenian-Adriatic | Stage 5 Men | Marotta-Mondolfo – Monbaroccio (184km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260313000000 +0200" stop="20260313140000 +0200" channel="tyrrhenianadriaticstage5menmarottamondolfomonbaroccio184km">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Tyrrhenian-Adriatic | Stage 5 Men | Marotta-Mondolfo – Monbaroccio (184km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260313140000 +0200" stop="20260313160000 +0200" channel="tyrrhenianadriaticstage5menmarottamondolfomonbaroccio184km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tyrrhenian-Adriatic | Stage 5 Men | Marotta-Mondolfo – Monbaroccio (184km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
   <programme start="20260313000000 +0200" stop="20260313161000 +0200" channel="parisnicestage6menbarbentaneapt1793km">
     <title lang="it">Inizia alle 16:10.</title>
     <desc lang="it">Paris-Nice | Stage 6 Men | Barbentane – Apt (179.3km).</desc>
@@ -60529,46 +60235,6 @@ Il sogno del Re Sole</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Paris-Nice | Stage 6 Men | Barbentane – Apt (179.3km)</desc>
     <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260313000000 +0200" stop="20260313140000 +0200" channel="pdcdartseltensafetyshoeseuropeandartstrophylokhallegottingen">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">PDC Darts Elten Safety Shoes European Darts Trophy - Lokhalle, Gottingen.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260313140000 +0200" stop="20260313160000 +0200" channel="pdcdartseltensafetyshoeseuropeandartstrophylokhallegottingen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">PDC Darts Elten Safety Shoes European Darts Trophy - Lokhalle, Gottingen</desc>
-    <category lang="it">Darts</category>
-  </programme>
-  <programme start="20260313000000 +0200" stop="20260313140000 +0200" channel="pdcdartseltensafetyshoeseuropeandartstrophylokhallegottingen">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">PDC Darts Elten Safety Shoes European Darts Trophy - Lokhalle, Gottingen.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260313140000 +0200" stop="20260313160000 +0200" channel="pdcdartseltensafetyshoeseuropeandartstrophylokhallegottingen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">PDC Darts Elten Safety Shoes European Darts Trophy - Lokhalle, Gottingen</desc>
-    <category lang="it">Darts</category>
-  </programme>
-  <programme start="20260313000000 +0200" stop="20260313140000 +0200" channel="pdcdartseltensafetyshoeseuropeandartstrophylokhallegottingen">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">PDC Darts Elten Safety Shoes European Darts Trophy - Lokhalle, Gottingen.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260313140000 +0200" stop="20260313160000 +0200" channel="pdcdartseltensafetyshoeseuropeandartstrophylokhallegottingen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">PDC Darts Elten Safety Shoes European Darts Trophy - Lokhalle, Gottingen</desc>
-    <category lang="it">Darts</category>
-  </programme>
-  <programme start="20260313000000 +0200" stop="20260313140000 +0200" channel="pdcdartseltensafetyshoeseuropeandartstrophylokhallegottingen">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">PDC Darts Elten Safety Shoes European Darts Trophy - Lokhalle, Gottingen.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260313140000 +0200" stop="20260313160000 +0200" channel="pdcdartseltensafetyshoeseuropeandartstrophylokhallegottingen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">PDC Darts Elten Safety Shoes European Darts Trophy - Lokhalle, Gottingen</desc>
-    <category lang="it">Darts</category>
   </programme>
   <programme start="20260313000000 +0200" stop="20260313200000 +0200" channel="pdcdartseltensafetyshoeseuropeandartstrophylokhallegottingen">
     <title lang="it">Inizia alle 20:00.</title>
@@ -60629,16 +60295,6 @@ Il sogno del Re Sole</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Placard Futsal League Cup - Semi-Final</desc>
     <category lang="it">Futsal</category>
-  </programme>
-  <programme start="20260313000000 +0200" stop="20260313133000 +0200" channel="gymnasticstrampolinesworldcup">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Gymnastics: Trampolines - World Cup.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260313133000 +0200" stop="20260313153000 +0200" channel="gymnasticstrampolinesworldcup">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Gymnastics: Trampolines - World Cup</desc>
-    <category lang="it">Gymnastics</category>
   </programme>
   <programme start="20260313000000 +0200" stop="20260313233000 +0200" channel="womenscollegegymnasticswestvirginiavsncstate">
     <title lang="it">Inizia alle 23:30.</title>
@@ -60819,36 +60475,6 @@ Il sogno del Re Sole</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Starligue : Tremblay vs Nimes</desc>
     <category lang="it">Handball</category>
-  </programme>
-  <programme start="20260313000000 +0200" stop="20260313143000 +0200" channel="liveracingfromcheltenhamandfakenham">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">Live racing from Cheltenham and Fakenham.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260313143000 +0200" stop="20260313163000 +0200" channel="liveracingfromcheltenhamandfakenham">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Live racing from Cheltenham and Fakenham</desc>
-    <category lang="it">Horse Racing</category>
-  </programme>
-  <programme start="20260313000000 +0200" stop="20260313143000 +0200" channel="liveracingfromaroundtheuk">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">Live racing from around the UK.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260313143000 +0200" stop="20260313163000 +0200" channel="liveracingfromaroundtheuk">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Live racing from around the UK</desc>
-    <category lang="it">Horse Racing</category>
-  </programme>
-  <programme start="20260313000000 +0200" stop="20260313144500 +0200" channel="liveracingfromcheltenhamfestival">
-    <title lang="it">Inizia alle 14:45.</title>
-    <desc lang="it">Live racing from Cheltenham Festival.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260313144500 +0200" stop="20260313164500 +0200" channel="liveracingfromcheltenhamfestival">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Live racing from Cheltenham Festival</desc>
-    <category lang="it">Horse Racing</category>
   </programme>
   <programme start="20260313000000 +0200" stop="20260313183000 +0200" channel="liveracingfromdundalk">
     <title lang="it">Inizia alle 18:30.</title>
@@ -61689,26 +61315,6 @@ Il sogno del Re Sole</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">College Volleyball : Queens vs Loyola-Chicago</desc>
     <category lang="it">College Volleyball</category>
-  </programme>
-  <programme start="20260313000000 +0200" stop="20260313133000 +0200" channel="2026milancortinaparalympicsparabiathlonmensandwomens75kmpursuitfinals">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">2026 Milan Cortina Paralympics Para Biathlon: Men's and Women's 7.5km Pursuit, Finals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260313133000 +0200" stop="20260313153000 +0200" channel="2026milancortinaparalympicsparabiathlonmensandwomens75kmpursuitfinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2026 Milan Cortina Paralympics Para Biathlon: Men's and Women's 7.5km Pursuit, Finals</desc>
-    <category lang="it">Winter Sports</category>
-  </programme>
-  <programme start="20260313000000 +0200" stop="20260313143000 +0200" channel="2026milancortinaparalympicsparaalpineskiingmensgiantslalomrun2">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">2026 Milan Cortina Paralympics Para Alpine Skiing: Men's Giant Slalom, Run 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260313143000 +0200" stop="20260313163000 +0200" channel="2026milancortinaparalympicsparaalpineskiingmensgiantslalomrun2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2026 Milan Cortina Paralympics Para Alpine Skiing: Men's Giant Slalom, Run 2</desc>
-    <category lang="it">Winter Sports</category>
   </programme>
   <programme start="20260313000000 +0200" stop="20260313151000 +0200" channel="2026milancortinaparalympicsparabiathlonmensandwomens75kmpursuitfinals">
     <title lang="it">Inizia alle 15:10.</title>
