@@ -14,6 +14,24 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="The 2026 Miami Open Tennis tournament - Monday, March 16 to March 29 - The 2026 Miami Open Tennis tournament - Monday, March 16 to March 29" tvg-name="06:30 The 2026 Miami Open Tennis tournament - Monday, March 16 to March 29 - 14/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Upcoming Events", Tennis channel USA
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=40
 
+#EXTINF:-1 tvg-id="Snocross National at World Derby Complex - Snocross National at World Derby Complex" tvg-name="18:00 Snocross National at World Derby Complex - 14/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", FloRacing
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1124
+
+#EXTINF:-1 tvg-id="Zenith Racing Series Sonoma - Zenith Racing Series Sonoma" tvg-name="22:30 Zenith Racing Series Sonoma - 14/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", FloRacing
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=28
+
+#EXTINF:-1 tvg-id="World of Outlaws Sprint Cars Kennedale - World of Outlaws Sprint Cars Kennedale" tvg-name="02:15 World of Outlaws Sprint Cars Kennedale - 14/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=8
+
+#EXTINF:-1 tvg-id="World of Outlaws Late Models Volunteer - World of Outlaws Late Models Volunteer" tvg-name="02:15 World of Outlaws Late Models Volunteer - 14/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=23
+
+#EXTINF:-1 tvg-id="2026 High Limit Racing Season Opener at Las Vegas Motor Speedway - 2026 High Limit Racing Season Opener at Las Vegas Motor Speedway" tvg-name="02:30 2026 High Limit Racing Season Opener at Las Vegas Motor Speedway - 14/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", FloRacing
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=27
+
+#EXTINF:-1 tvg-id="2026 USAC Avanti CRA/WS Midgets at Imperial Valley Raceway - 2026 USAC Avanti CRA/WS Midgets at Imperial Valley Raceway" tvg-name="03:00 2026 USAC Avanti CRA/WS Midgets at Imperial Valley Raceway - 14/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", FloRacing
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=29
+
 #EXTINF:-1 tvg-id="England - League Two - Notts County vs Chesterfield" tvg-name="14:30 England - League Two : Notts County vs Chesterfield - 14/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - League One/Two", Sky Sports+
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=155
 
@@ -962,7 +980,7 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="Frauen-Bundesliga - RB Leipzig vs Union Berlin" tvg-name="17:00 Frauen-Bundesliga : RB Leipzig vs Union Berlin - 14/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Magenta Sport 309
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=25
 
-#EXTINF:-1 tvg-id="Greece - Super League - OFI vs Olympiakos Piraeus" tvg-name="17:00 Greece - Super League : OFI vs Olympiakos Piraeus - 14/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", osmote Sport 1 Greece
+#EXTINF:-1 tvg-id="Greece - Super League - OFI vs Olympiakos Piraeus" tvg-name="17:00 Greece - Super League : OFI vs Olympiakos Piraeus - 14/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Cosmote Sport 1 Greece
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=622
 
 #EXTINF:-1 tvg-id="Greece - Super League - OFI vs Olympiakos Piraeus" tvg-name="17:00 Greece - Super League : OFI vs Olympiakos Piraeus - 14/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Arena Sport 8 Serbia
@@ -3212,7 +3230,7 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="NCAA - Big East Championship : TBD vs TBD" tvg-name="00:30 NCAA : Big East Championship : TBD vs TBD - 14/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ncaa Basketball", FOX USA
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=54
 
-#EXTINF:-1 tvg-id="NCAA - Big East Championship : TBD vs TBD" tvg-name="00:30 NCAA : Big East Championship : TBD vs TBD - 14/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ncaa Basketball", FOxNY USA
+#EXTINF:-1 tvg-id="NCAA - Big East Championship : TBD vs TBD" tvg-name="00:30 NCAA : Big East Championship : TBD vs TBD - 14/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ncaa Basketball", FOXNY USA
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=768
 
 #EXTINF:-1 tvg-id="NCAA - SWAC Championship : Prairie View A&M vs TBA" tvg-name="01:30 NCAA : SWAC Championship : Prairie View A&M vs TBA - 14/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ncaa Basketball", ESPNU USA
