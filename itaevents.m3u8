@@ -1445,6 +1445,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="England - Premier League - Liverpool vs Tottenham Hotspur" tvg-name="18:30 England - Premier League : Liverpool vs Tottenham Hotspur - 15/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Backup Stream
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4003
 
+#EXTINF:-1 tvg-id="England - Premier League - Liverpool vs Tottenham Hotspur" tvg-name="18:30 England - Premier League : Liverpool vs Tottenham Hotspur - 15/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=5006
+
 #EXTINF:-1 tvg-id="Germany - Bundesliga - Freiburg vs Union Berlin" tvg-name="18:30 Germany - Bundesliga : Freiburg vs Union Berlin - 15/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN2 DE
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=427
 
