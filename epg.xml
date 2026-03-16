@@ -55636,9 +55636,6 @@ Moderna?</sub-title>
   <channel id="irelandrepublicpremierdivisiongalwayunitedvswaterfordunited">
     <display-name>Ireland Republic - Premier Division : Galway United vs Waterford United</display-name>
   </channel>
-  <channel id="turkey1ligorumbelediyesporvserokspor">
-    <display-name>Turkey - 1. Lig : Çorum Belediyespor vs Erokspor</display-name>
-  </channel>
   <channel id="indiaindiansuperleagueroundglasspunjabvsgoa">
     <display-name>India - Indian Super League : RoundGlass Punjab vs Goa</display-name>
   </channel>
@@ -55753,9 +55750,6 @@ Moderna?</sub-title>
   <channel id="pgatourthedroplive">
     <display-name>PGA TOUR -- The Drop Live</display-name>
   </channel>
-  <channel id="worldopenjuddtrumpvsmarklloyd">
-    <display-name>World Open : Judd Trump vs Mark Lloyd</display-name>
-  </channel>
   <channel id="ultimatepoolwomenschampionsleaguefinal">
     <display-name>Ultimate Pool Women's Champions League | Final</display-name>
   </channel>
@@ -55836,9 +55830,6 @@ Moderna?</sub-title>
   </channel>
   <channel id="nhllosangeleskingsvsnewyorkrangers">
     <display-name>NHL : Los Angeles Kings vs New York Rangers</display-name>
-  </channel>
-  <channel id="khlsibirnovosibirskvscskamoscow">
-    <display-name>KHL : Sibir Novosibirsk vs CSKA Moscow</display-name>
   </channel>
   <channel id="khlmetallurgmagnitogorskvsavtomobilistyekaterinburg">
     <display-name>KHL : Metallurg Magnitogorsk vs Avtomobilist Yekaterinburg</display-name>
@@ -55979,26 +55970,6 @@ Moderna?</sub-title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Ireland Republic - Premier Division : Galway United vs Waterford United</desc>
     <category lang="it">Ireland Republic</category>
-  </programme>
-  <programme start="20260316000000 +0200" stop="20260316150000 +0200" channel="turkey1ligorumbelediyesporvserokspor">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">Turkey - 1. Lig : Çorum Belediyespor vs Erokspor.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260316150000 +0200" stop="20260316170000 +0200" channel="turkey1ligorumbelediyesporvserokspor">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Turkey - 1. Lig : Çorum Belediyespor vs Erokspor</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260316000000 +0200" stop="20260316150000 +0200" channel="turkey1ligorumbelediyesporvserokspor">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">Turkey - 1. Lig : Çorum Belediyespor vs Erokspor.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260316150000 +0200" stop="20260316170000 +0200" channel="turkey1ligorumbelediyesporvserokspor">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Turkey - 1. Lig : Çorum Belediyespor vs Erokspor</desc>
-    <category lang="it">All Soccer Events</category>
   </programme>
   <programme start="20260316000000 +0200" stop="20260316160000 +0200" channel="indiaindiansuperleagueroundglasspunjabvsgoa">
     <title lang="it">Inizia alle 16:00.</title>
@@ -57620,76 +57591,6 @@ Moderna?</sub-title>
     <desc lang="it">PGA TOUR -- The Drop Live</desc>
     <category lang="it">Golf</category>
   </programme>
-  <programme start="20260316000000 +0200" stop="20260316133000 +0200" channel="worldopenjuddtrumpvsmarklloyd">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">World Open : Judd Trump vs Mark Lloyd.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260316133000 +0200" stop="20260316153000 +0200" channel="worldopenjuddtrumpvsmarklloyd">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Open : Judd Trump vs Mark Lloyd</desc>
-    <category lang="it">Snooker</category>
-  </programme>
-  <programme start="20260316000000 +0200" stop="20260316133000 +0200" channel="worldopenjuddtrumpvsmarklloyd">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">World Open : Judd Trump vs Mark Lloyd.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260316133000 +0200" stop="20260316153000 +0200" channel="worldopenjuddtrumpvsmarklloyd">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Open : Judd Trump vs Mark Lloyd</desc>
-    <category lang="it">Snooker</category>
-  </programme>
-  <programme start="20260316000000 +0200" stop="20260316133000 +0200" channel="worldopenjuddtrumpvsmarklloyd">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">World Open : Judd Trump vs Mark Lloyd.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260316133000 +0200" stop="20260316153000 +0200" channel="worldopenjuddtrumpvsmarklloyd">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Open : Judd Trump vs Mark Lloyd</desc>
-    <category lang="it">Snooker</category>
-  </programme>
-  <programme start="20260316000000 +0200" stop="20260316133000 +0200" channel="worldopenjuddtrumpvsmarklloyd">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">World Open : Judd Trump vs Mark Lloyd.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260316133000 +0200" stop="20260316153000 +0200" channel="worldopenjuddtrumpvsmarklloyd">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Open : Judd Trump vs Mark Lloyd</desc>
-    <category lang="it">Snooker</category>
-  </programme>
-  <programme start="20260316000000 +0200" stop="20260316133000 +0200" channel="worldopenjuddtrumpvsmarklloyd">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">World Open : Judd Trump vs Mark Lloyd.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260316133000 +0200" stop="20260316153000 +0200" channel="worldopenjuddtrumpvsmarklloyd">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Open : Judd Trump vs Mark Lloyd</desc>
-    <category lang="it">Snooker</category>
-  </programme>
-  <programme start="20260316000000 +0200" stop="20260316133000 +0200" channel="worldopenjuddtrumpvsmarklloyd">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">World Open : Judd Trump vs Mark Lloyd.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260316133000 +0200" stop="20260316153000 +0200" channel="worldopenjuddtrumpvsmarklloyd">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Open : Judd Trump vs Mark Lloyd</desc>
-    <category lang="it">Snooker</category>
-  </programme>
-  <programme start="20260316000000 +0200" stop="20260316133000 +0200" channel="worldopenjuddtrumpvsmarklloyd">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">World Open : Judd Trump vs Mark Lloyd.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260316133000 +0200" stop="20260316153000 +0200" channel="worldopenjuddtrumpvsmarklloyd">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Open : Judd Trump vs Mark Lloyd</desc>
-    <category lang="it">Snooker</category>
-  </programme>
   <programme start="20260316000000 +0200" stop="20260316200000 +0200" channel="ultimatepoolwomenschampionsleaguefinal">
     <title lang="it">Inizia alle 20:00.</title>
     <desc lang="it">Ultimate Pool Women's Champions League | Final.</desc>
@@ -58279,16 +58180,6 @@ Moderna?</sub-title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">NHL : Los Angeles Kings vs New York Rangers</desc>
     <category lang="it">Ice Hockey (NHL)</category>
-  </programme>
-  <programme start="20260316000000 +0200" stop="20260316143000 +0200" channel="khlsibirnovosibirskvscskamoscow">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">KHL : Sibir Novosibirsk vs CSKA Moscow.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260316143000 +0200" stop="20260316163000 +0200" channel="khlsibirnovosibirskvscskamoscow">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">KHL : Sibir Novosibirsk vs CSKA Moscow</desc>
-    <category lang="it">KHL Ice Hockey</category>
   </programme>
   <programme start="20260316000000 +0200" stop="20260316160000 +0200" channel="khlmetallurgmagnitogorskvsavtomobilistyekaterinburg">
     <title lang="it">Inizia alle 16:00.</title>
