@@ -73,9 +73,6 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="discoverychannel.it" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari;Discovery",DISCOVERY CHANNEL (V)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/1955739367e1de6e90adc1&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="discoverychannel.it" tvg-name="Discovery Channel (2)" tvg-logo="" group-title="Documentari;Discovery",DISCOVERY CHANNEL (V) (2)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="focustv.it" tvg-name="Discovery Focus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Intrattenimento;Mediaset",DISCOVERY FOCUS (V)
@@ -222,9 +219,6 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="nickjr.it" tvg-name="Nick Jr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nick-jr-it.png" group-title="Bambini",NICK JR (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="nickelodeon.it" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Bambini",NICKELODEON (V)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="premiumcrime.it" tvg-name="Premium Crime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/premium-crime-it.png" group-title="Mediaset",PREMIUM CRIME (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/444768053e397c96fc6df&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -370,9 +364,6 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/352583705711c4cbe44bbb&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="Sky Cinema Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film;Sky",SKY CINEMA COMEDY (V)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/500203271d58941028e95&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="Sky Cinema Comedy (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA COMEDY (V) (2)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/3131104474771735b548ce&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemadrama.it" tvg-name="Sky Cinema Drama" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Film;Sky",SKY CINEMA DRAMA (V)
@@ -2459,6 +2450,114 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 
 #EXTINF:-1 tvg-id="United States - USL Super League - Dallas Trinity vs Lexington" tvg-name="02:30 United States - USL Super League : Dallas Trinity vs Lexington - 18/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Usl Super League", ESPN+ USA
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=59
+
+#EXTINF:-1 tvg-id="ΑΤΡ - ΜΙΑMI - Mpetshi Perricard G. vs Ugo Carabelli C." tvg-name="17:00 ΑΤΡ - ΜΙΑMI : Mpetshi Perricard G. vs Ugo Carabelli C. - 18/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ατρ - Μιαmi", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1511
+
+#EXTINF:-1 tvg-id="ΑΤΡ - ΜΙΑMI - Shapovalov D. vs Van De Zandschulp B." tvg-name="17:00 ΑΤΡ - ΜΙΑMI : Shapovalov D. vs Van De Zandschulp B. - 18/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ατρ - Μιαmi", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1508
+
+#EXTINF:-1 tvg-id="ΑΤΡ - ΜΙΑMI - Zhang Z. vs Mannarino A." tvg-name="17:00 ΑΤΡ - ΜΙΑMI : Zhang Z. vs Mannarino A. - 18/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ατρ - Μιαmi", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1512
+
+#EXTINF:-1 tvg-id="ΑΤΡ - ΜΙΑMI - Opelka R. vs Borges N." tvg-name="18:30 ΑΤΡ - ΜΙΑMI : Opelka R. vs Borges N. - 18/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ατρ - Μιαmi", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1509
+
+#EXTINF:-1 tvg-id="ΑΤΡ - ΜΙΑMI - Collignon R. vs Dimitrov G." tvg-name="19:30 ΑΤΡ - ΜΙΑMI : Collignon R. vs Dimitrov G. - 18/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ατρ - Μιαmi", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1507
+
+#EXTINF:-1 tvg-id="ΑΤΡ - ΜΙΑMI - Bergs Z. vs Brooksby J." tvg-name="20:00 ΑΤΡ - ΜΙΑMI : Bergs Z. vs Brooksby J. - 18/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ατρ - Μιαmi", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1510
+
+#EXTINF:-1 tvg-id="ΑΤΡ - ΜΙΑMI - Duckworth J. vs Bautista-Agut R." tvg-name="20:00 ΑΤΡ - ΜΙΑMI : Duckworth J. vs Bautista-Agut R. - 18/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ατρ - Μιαmi", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1511
+
+#EXTINF:-1 tvg-id="ΑΤΡ - ΜΙΑMI - Quinn E. vs Hurkacz H." tvg-name="21:00 ΑΤΡ - ΜΙΑMI : Quinn E. vs Hurkacz H. - 18/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ατρ - Μιαmi", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1507
+
+#EXTINF:-1 tvg-id="ΑΤΡ - ΜΙΑMI - Basilashvili N. vs Navone M." tvg-name="21:30 ΑΤΡ - ΜΙΑMI : Basilashvili N. vs Navone M. - 18/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ατρ - Μιαmi", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1511
+
+#EXTINF:-1 tvg-id="ΑΤΡ - ΜΙΑMI - Giron M. vs Landaluce M." tvg-name="21:30 ΑΤΡ - ΜΙΑMI : Giron M. vs Landaluce M. - 18/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ατρ - Μιαmi", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1509
+
+#EXTINF:-1 tvg-id="ΑΤΡ - ΜΙΑMI - Jodar R. vs Hanfmann Y." tvg-name="21:30 ΑΤΡ - ΜΙΑMI : Jodar R. vs Hanfmann Y. - 18/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ατρ - Μιαmi", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1512
+
+#EXTINF:-1 tvg-id="ΑΤΡ - ΜΙΑMI - Blanch Dar. vs Struff J-L." tvg-name="00:00 ΑΤΡ - ΜΙΑMI : Blanch Dar. vs Struff J-L. - 18/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ατρ - Μιαmi", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1509
+
+#EXTINF:-1 tvg-id="ΑΤΡ - ΜΙΑMI - Tsitsipas S. vs Fery A" tvg-name="01:00 ΑΤΡ - ΜΙΑMI : Tsitsipas S. vs Fery A - 18/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ατρ - Μιαmi", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1508
+
+#EXTINF:-1 tvg-id="ΑΤΡ - ΜΙΑMI - Muller A. vs Berrettini M." tvg-name="02:30 ΑΤΡ - ΜΙΑMI : Muller A. vs Berrettini M. - 18/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ατρ - Μιαmi", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1507
+
+#EXTINF:-1 tvg-id="WTA - ΜΙΑMI - Arango E. vs Selekhmeteva 0." tvg-name="17:00 WTA - ΜΙΑMI : Arango E. vs Selekhmeteva 0. - 18/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Μιαmi", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1504
+
+#EXTINF:-1 tvg-id="WTA - ΜΙΑMI - Ruse G. vs Ruzic A." tvg-name="17:00 WTA - ΜΙΑMI : Ruse G. vs Ruzic A. - 18/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Μιαmi", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1513
+
+#EXTINF:-1 tvg-id="WTA - ΜΙΑMI - Tjen J. vs Putintseva Y." tvg-name="17:00 WTA - ΜΙΑMI : Tjen J. vs Putintseva Y. - 18/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Μιαmi", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1505
+
+#EXTINF:-1 tvg-id="WTA - ΜΙΑMI - Yastremska D. vs Krueger A." tvg-name="17:00 WTA - ΜΙΑMI : Yastremska D. vs Krueger A. - 18/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Μιαmi", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1503
+
+#EXTINF:-1 tvg-id="WTA - ΜΙΑMI - Brady J. vs Stephens S." tvg-name="18:00 WTA - ΜΙΑMI : Brady J. vs Stephens S. - 18/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Μιαmi", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1501
+
+#EXTINF:-1 tvg-id="WTA - ΜΙΑMI - Baptiste H. vs Maria T." tvg-name="18:30 WTA - ΜΙΑMI : Baptiste H. vs Maria T. - 18/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Μιαmi", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1502
+
+#EXTINF:-1 tvg-id="WTA - ΜΙΑMI - Galfi D. vs Kalieva E." tvg-name="18:30 WTA - ΜΙΑMI : Galfi D. vs Kalieva E. - 18/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Μιαmi", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1505
+
+#EXTINF:-1 tvg-id="WTA - ΜΙΑMI - Parks A. vs Kraus S." tvg-name="18:30 WTA - ΜΙΑMI : Parks A. vs Kraus S. - 18/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Μιαmi", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1504
+
+#EXTINF:-1 tvg-id="WTA - ΜΙΑMI - Semenistaja D. vs Cocciaretto E." tvg-name="18:30 WTA - ΜΙΑMI : Semenistaja D. vs Cocciaretto E. - 18/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Μιαmi", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1514
+
+#EXTINF:-1 tvg-id="WTA - ΜΙΑMI - Valentova T. vs Volynets K." tvg-name="18:30 WTA - ΜΙΑMI : Valentova T. vs Volynets K. - 18/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Μιαmi", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1513
+
+#EXTINF:-1 tvg-id="WTA - ΜΙΑMI - Zakharova A. vs Bondar A." tvg-name="18:30 WTA - ΜΙΑMI : Zakharova A. vs Bondar A. - 18/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Μιαmi", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1506
+
+#EXTINF:-1 tvg-id="WTA - ΜΙΑMI - Badosa P. vs Sasnovich A." tvg-name="20:00 WTA - ΜΙΑMI : Badosa P. vs Sasnovich A. - 18/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Μιαmi", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1502
+
+#EXTINF:-1 tvg-id="WTA - ΜΙΑMI - Jones E. vs Fruhvirtova L." tvg-name="20:00 WTA - ΜΙΑMI : Jones E. vs Fruhvirtova L. - 18/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Μιαmi", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1513
+
+#EXTINF:-1 tvg-id="WTA - ΜΙΑMI - Li A. vs Birrell K." tvg-name="20:00 WTA - ΜΙΑMI : Li A. vs Birrell K. - 18/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Μιαmi", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1505
+
+#EXTINF:-1 tvg-id="WTA - ΜΙΑMI - Lys E. vs Starodubtseva Y." tvg-name="20:00 WTA - ΜΙΑMI : Lys E. vs Starodubtseva Y. - 18/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Μιαmi", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1503
+
+#EXTINF:-1 tvg-id="WTA - ΜΙΑMI - Sierra S. vs Rakhimova K." tvg-name="20:00 WTA - ΜΙΑMI : Sierra S. vs Rakhimova K. - 18/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Μιαmi", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1506
+
+#EXTINF:-1 tvg-id="WTA - ΜΙΑMI - McNally C. vs Masarova R." tvg-name="21:30 WTA - ΜΙΑMI : McNally C. vs Masarova R. - 18/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Μιαmi", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1505
+
+#EXTINF:-1 tvg-id="WTA - ΜΙΑMI - Sun L. vs Townsend T." tvg-name="21:30 WTA - ΜΙΑMI : Sun L. vs Townsend T. - 18/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Μιαmi", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1502
+
+#EXTINF:-1 tvg-id="WTA - ΜΙΑMI - Tagger L. vs Seidel E." tvg-name="21:30 WTA - ΜΙΑMI : Tagger L. vs Seidel E. - 18/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Μιαmi", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1504
+
+#EXTINF:-1 tvg-id="WTA - ΜΙΑMI - Bejlek S. vs Gibson T." tvg-name="23:00 WTA - ΜΙΑMI : Bejlek S. vs Gibson T. - 18/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Μιαmi", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1505
+
+#EXTINF:-1 tvg-id="WTA - ΜΙΑMI - Golubic V. vs Stearns P." tvg-name="23:00 WTA - ΜΙΑMI : Golubic V. vs Stearns P. - 18/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Μιαmi", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1504
+
+#EXTINF:-1 tvg-id="WTA - ΜΙΑMI - Jones F. vs Williams V." tvg-name="01:00 WTA - ΜΙΑMI : Jones F. vs Williams V. - 18/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Μιαmi", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1501
 
 #EXTINF:-1 tvg-id="2026 Miami Open Tennis WTA First Round - 2026 Miami Open Tennis WTA First Round" tvg-name="17:00 2026 Miami Open Tennis WTA First Round - 18/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=40
