@@ -56335,11 +56335,11 @@ La Resa Del Giappone?</sub-title>
   <channel id="glgolflosangelesgolfclubvsjupiterlinksgc">
     <display-name>GL Golf : Los Angeles Golf Club vs Jupiter Links GC</display-name>
   </channel>
-  <channel id="worldcupcompetitioninlillehammer1strunofwomensslalom">
-    <display-name>World Cup Competition in Lillehammer 1st run of women's slalom</display-name>
-  </channel>
   <channel id="worldcupcompetitioninlillehammer1strunofthemensgiantslalom">
     <display-name>World Cup Competition in Lillehammer 1st run of the men's giant slalom</display-name>
+  </channel>
+  <channel id="worldcupcompetitioninlillehammer1strunofwomensslalom">
+    <display-name>World Cup Competition in Lillehammer 1st run of women's slalom</display-name>
   </channel>
   <channel id="mlbbostonredsoxvsminnesotatwins">
     <display-name>MLB : Boston Red Sox vs Minnesota Twins</display-name>
@@ -56529,9 +56529,6 @@ La Resa Del Giappone?</sub-title>
   </channel>
   <channel id="womenscollegelacrosseholycrossvsharvard">
     <display-name>Women's College Lacrosse : Holy Cross vs Harvard</display-name>
-  </channel>
-  <channel id="championsleaguefinalnewbelgrade">
-    <display-name>Champions League Final New Belgrade</display-name>
   </channel>
   <channel id="888ligaenribeesbjergvsfredericia">
     <display-name>888ligaen : Ribe-Esbjerg vs Fredericia</display-name>
@@ -57441,96 +57438,6 @@ La Resa Del Giappone?</sub-title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">GL Golf : Los Angeles Golf Club vs Jupiter Links GC</desc>
     <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260324000000 +0200" stop="20260324122000 +0200" channel="worldcupcompetitioninlillehammer1strunofwomensslalom">
-    <title lang="it">Inizia alle 12:20.</title>
-    <desc lang="it">World Cup Competition in Lillehammer 1st run of women's slalom.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260324122000 +0200" stop="20260324142000 +0200" channel="worldcupcompetitioninlillehammer1strunofwomensslalom">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup Competition in Lillehammer 1st run of women's slalom</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
-  <programme start="20260324000000 +0200" stop="20260324122000 +0200" channel="worldcupcompetitioninlillehammer1strunofwomensslalom">
-    <title lang="it">Inizia alle 12:20.</title>
-    <desc lang="it">World Cup Competition in Lillehammer 1st run of women's slalom.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260324122000 +0200" stop="20260324142000 +0200" channel="worldcupcompetitioninlillehammer1strunofwomensslalom">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup Competition in Lillehammer 1st run of women's slalom</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
-  <programme start="20260324000000 +0200" stop="20260324122000 +0200" channel="worldcupcompetitioninlillehammer1strunofwomensslalom">
-    <title lang="it">Inizia alle 12:20.</title>
-    <desc lang="it">World Cup Competition in Lillehammer 1st run of women's slalom.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260324122000 +0200" stop="20260324142000 +0200" channel="worldcupcompetitioninlillehammer1strunofwomensslalom">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup Competition in Lillehammer 1st run of women's slalom</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
-  <programme start="20260324000000 +0200" stop="20260324122000 +0200" channel="worldcupcompetitioninlillehammer1strunofwomensslalom">
-    <title lang="it">Inizia alle 12:20.</title>
-    <desc lang="it">World Cup Competition in Lillehammer 1st run of women's slalom.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260324122000 +0200" stop="20260324142000 +0200" channel="worldcupcompetitioninlillehammer1strunofwomensslalom">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup Competition in Lillehammer 1st run of women's slalom</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
-  <programme start="20260324000000 +0200" stop="20260324122000 +0200" channel="worldcupcompetitioninlillehammer1strunofwomensslalom">
-    <title lang="it">Inizia alle 12:20.</title>
-    <desc lang="it">World Cup Competition in Lillehammer 1st run of women's slalom.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260324122000 +0200" stop="20260324142000 +0200" channel="worldcupcompetitioninlillehammer1strunofwomensslalom">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup Competition in Lillehammer 1st run of women's slalom</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
-  <programme start="20260324000000 +0200" stop="20260324122000 +0200" channel="worldcupcompetitioninlillehammer1strunofwomensslalom">
-    <title lang="it">Inizia alle 12:20.</title>
-    <desc lang="it">World Cup Competition in Lillehammer 1st run of women's slalom.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260324122000 +0200" stop="20260324142000 +0200" channel="worldcupcompetitioninlillehammer1strunofwomensslalom">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup Competition in Lillehammer 1st run of women's slalom</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
-  <programme start="20260324000000 +0200" stop="20260324122000 +0200" channel="worldcupcompetitioninlillehammer1strunofwomensslalom">
-    <title lang="it">Inizia alle 12:20.</title>
-    <desc lang="it">World Cup Competition in Lillehammer 1st run of women's slalom.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260324122000 +0200" stop="20260324142000 +0200" channel="worldcupcompetitioninlillehammer1strunofwomensslalom">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup Competition in Lillehammer 1st run of women's slalom</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
-  <programme start="20260324000000 +0200" stop="20260324122000 +0200" channel="worldcupcompetitioninlillehammer1strunofwomensslalom">
-    <title lang="it">Inizia alle 12:20.</title>
-    <desc lang="it">World Cup Competition in Lillehammer 1st run of women's slalom.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260324122000 +0200" stop="20260324142000 +0200" channel="worldcupcompetitioninlillehammer1strunofwomensslalom">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup Competition in Lillehammer 1st run of women's slalom</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
-  <programme start="20260324000000 +0200" stop="20260324122000 +0200" channel="worldcupcompetitioninlillehammer1strunofwomensslalom">
-    <title lang="it">Inizia alle 12:20.</title>
-    <desc lang="it">World Cup Competition in Lillehammer 1st run of women's slalom.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260324122000 +0200" stop="20260324142000 +0200" channel="worldcupcompetitioninlillehammer1strunofwomensslalom">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup Competition in Lillehammer 1st run of women's slalom</desc>
-    <category lang="it">Alpine Ski</category>
   </programme>
   <programme start="20260324000000 +0200" stop="20260324131500 +0200" channel="worldcupcompetitioninlillehammer1strunofthemensgiantslalom">
     <title lang="it">Inizia alle 13:15.</title>
@@ -58881,16 +58788,6 @@ La Resa Del Giappone?</sub-title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Women's College Lacrosse : Holy Cross vs Harvard</desc>
     <category lang="it">Women's College Lacrosse</category>
-  </programme>
-  <programme start="20260324000000 +0200" stop="20260324110000 +0200" channel="championsleaguefinalnewbelgrade">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">Champions League Final New Belgrade.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260324110000 +0200" stop="20260324130000 +0200" channel="championsleaguefinalnewbelgrade">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Champions League Final New Belgrade</desc>
-    <category lang="it">Futsal</category>
   </programme>
   <programme start="20260324000000 +0200" stop="20260324210000 +0200" channel="888ligaenribeesbjergvsfredericia">
     <title lang="it">Inizia alle 21:00.</title>
