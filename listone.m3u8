@@ -481,9 +481,6 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/39395136840a7593b75855&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila7.it" tvg-name="Sky Primafila 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 7 (V)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/4238969402e69feff53112&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyprimafila7.it" tvg-name="Sky Primafila 7 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 7 (V) (2)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/3618643172a26b31eba4b4&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila8.it" tvg-name="Sky Primafila 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 8 (V)
@@ -1829,6 +1826,90 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 
 #EXTINF:-1 tvg-id="United States - NWSL - San Diego Wave vs Portland Thorns" tvg-name="04:00 United States - NWSL : San Diego Wave vs Portland Thorns - 25/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nwsl Soccer", CBS Sports Network USA
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=308
+
+#EXTINF:-1 tvg-id="ATP - MIAMI - Landaluce M. vs Lehecka J." tvg-name="21:00 ATP - MIAMI : Landaluce M. vs Lehecka J. - 25/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Miami", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1507
+
+#EXTINF:-1 tvg-id="ATP - MIAMI - Landaluce M. vs Lehecka J." tvg-name="21:00 ATP - MIAMI : Landaluce M. vs Lehecka J. - 25/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Miami", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1557
+
+#EXTINF:-1 tvg-id="ATP - MIAMI - Landaluce M. vs Lehecka J." tvg-name="21:00 ATP - MIAMI : Landaluce M. vs Lehecka J. - 25/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Miami", Tennis Channel
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=40
+
+#EXTINF:-1 tvg-id="ATP - MIAMI - Landaluce M. vs Lehecka J." tvg-name="21:00 ATP - MIAMI : Landaluce M. vs Lehecka J. - 25/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Miami", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1520
+
+#EXTINF:-1 tvg-id="ATP - MIAMI - Landaluce M. vs Lehecka J." tvg-name="21:00 ATP - MIAMI : Landaluce M. vs Lehecka J. - 25/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Miami", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1570
+
+#EXTINF:-1 tvg-id="ATP - MIAMI - Paul T. vs Fils A." tvg-name="02:30 ATP - MIAMI : Paul T. vs Fils A. - 25/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Miami", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1507
+
+#EXTINF:-1 tvg-id="ATP - MIAMI - Paul T. vs Fils A." tvg-name="02:30 ATP - MIAMI : Paul T. vs Fils A. - 25/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Miami", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1557
+
+#EXTINF:-1 tvg-id="ATP - MIAMI - Paul T. vs Fils A." tvg-name="02:30 ATP - MIAMI : Paul T. vs Fils A. - 25/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Miami", Tennis Channel
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=40
+
+#EXTINF:-1 tvg-id="ATP - MIAMI - Paul T. vs Fils A." tvg-name="02:30 ATP - MIAMI : Paul T. vs Fils A. - 25/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Miami", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1520
+
+#EXTINF:-1 tvg-id="ATP - MIAMI - Paul T. vs Fils A." tvg-name="02:30 ATP - MIAMI : Paul T. vs Fils A. - 25/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Miami", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1570
+
+#EXTINF:-1 tvg-id="WTA - MIAMI - Rybakina E. vs Pegula J." tvg-name="19:00 WTA - MIAMI : Rybakina E. vs Pegula J. - 25/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Miami", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1501
+
+#EXTINF:-1 tvg-id="WTA - MIAMI - Rybakina E. vs Pegula J." tvg-name="19:00 WTA - MIAMI : Rybakina E. vs Pegula J. - 25/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Miami", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1551
+
+#EXTINF:-1 tvg-id="WTA - MIAMI - Rybakina E. vs Pegula J." tvg-name="19:00 WTA - MIAMI : Rybakina E. vs Pegula J. - 25/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Miami", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1524
+
+#EXTINF:-1 tvg-id="WTA - MIAMI - Rybakina E. vs Pegula J." tvg-name="19:00 WTA - MIAMI : Rybakina E. vs Pegula J. - 25/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Miami", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1574
+
+#EXTINF:-1 tvg-id="WTA - MIAMI - Rybakina E. vs Pegula J." tvg-name="19:00 WTA - MIAMI : Rybakina E. vs Pegula J. - 25/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Miami", Tennis Channel
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=40
+
+#EXTINF:-1 tvg-id="WTA - MIAMI - Rybakina E. vs Pegula J." tvg-name="19:00 WTA - MIAMI : Rybakina E. vs Pegula J. - 25/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Miami", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1520
+
+#EXTINF:-1 tvg-id="WTA - MIAMI - Rybakina E. vs Pegula J." tvg-name="19:00 WTA - MIAMI : Rybakina E. vs Pegula J. - 25/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Miami", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1570
+
+#EXTINF:-1 tvg-id="WTA - MIAMI - Errani S./Paolini J. vs Muhammad A./Routliffe E." tvg-name="19:00 WTA - MIAMI : Errani S./Paolini J. vs Muhammad A./Routliffe E. - 25/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Miami", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1502
+
+#EXTINF:-1 tvg-id="WTA - MIAMI - Errani S./Paolini J. vs Muhammad A./Routliffe E." tvg-name="19:00 WTA - MIAMI : Errani S./Paolini J. vs Muhammad A./Routliffe E. - 25/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Miami", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1552
+
+#EXTINF:-1 tvg-id="WTA - MIAMI - Mertens E./Zhang S. vs Hunter S./Pegula J." tvg-name="22:00 WTA - MIAMI : Mertens E./Zhang S. vs Hunter S./Pegula J. - 25/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Miami", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1502
+
+#EXTINF:-1 tvg-id="WTA - MIAMI - Mertens E./Zhang S. vs Hunter S./Pegula J." tvg-name="22:00 WTA - MIAMI : Mertens E./Zhang S. vs Hunter S./Pegula J. - 25/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Miami", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1552
+
+#EXTINF:-1 tvg-id="WTA - MIAMI - Sabalenka A. vs Baptiste H." tvg-name="01:00 WTA - MIAMI : Sabalenka A. vs Baptiste H. - 25/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Miami", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1501
+
+#EXTINF:-1 tvg-id="WTA - MIAMI - Sabalenka A. vs Baptiste H." tvg-name="01:00 WTA - MIAMI : Sabalenka A. vs Baptiste H. - 25/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Miami", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1551
+
+#EXTINF:-1 tvg-id="WTA - MIAMI - Sabalenka A. vs Baptiste H." tvg-name="01:00 WTA - MIAMI : Sabalenka A. vs Baptiste H. - 25/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Miami", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1524
+
+#EXTINF:-1 tvg-id="WTA - MIAMI - Sabalenka A. vs Baptiste H." tvg-name="01:00 WTA - MIAMI : Sabalenka A. vs Baptiste H. - 25/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Miami", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1574
+
+#EXTINF:-1 tvg-id="WTA - MIAMI - Sabalenka A. vs Baptiste H." tvg-name="01:00 WTA - MIAMI : Sabalenka A. vs Baptiste H. - 25/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Miami", Tennis Channel
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=40
+
+#EXTINF:-1 tvg-id="WTA - MIAMI - Sabalenka A. vs Baptiste H." tvg-name="01:00 WTA - MIAMI : Sabalenka A. vs Baptiste H. - 25/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Miami", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1520
+
+#EXTINF:-1 tvg-id="WTA - MIAMI - Sabalenka A. vs Baptiste H." tvg-name="01:00 WTA - MIAMI : Sabalenka A. vs Baptiste H. - 25/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Miami", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1570
 
 #EXTINF:-1 tvg-id="Miami Masters 1000 | Quarter-final - Miami Masters 1000 | Quarter-final" tvg-name="17:00 Miami Masters 1000 | Quarter-final - 25/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=40
