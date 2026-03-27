@@ -206,6 +206,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="Friendly - Austria vs Ghana" tvg-name="19:00 Friendly : Austria vs Ghana - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 1
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=91
 
+#EXTINF:-1 tvg-id="Friendly - Austria vs Ghana" tvg-name="19:00 Friendly : Austria vs Ghana - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4002
+
 #EXTINF:-1 tvg-id="Friendly - Jordan vs Costa Rica" tvg-name="15:00 Friendly : Jordan vs Costa Rica - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Jordan TV Sport
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=15
 
@@ -287,6 +290,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="Friendly - Greece vs Paraguay" tvg-name="21:00 Friendly : Greece vs Paraguay - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 5
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=95
 
+#EXTINF:-1 tvg-id="Friendly - Greece vs Paraguay" tvg-name="21:00 Friendly : Greece vs Paraguay - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4005
+
 #EXTINF:-1 tvg-id="Friendly - Algeria vs Guatemala" tvg-name="21:30 Friendly : Algeria vs Guatemala - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", FOX Deportes
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=643
 
@@ -337,6 +343,12 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 
 #EXTINF:-1 tvg-id="Friendly - Switzerland vs Germany" tvg-name="21:45 Friendly : Switzerland vs Germany - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 3 Israel
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=142
+
+#EXTINF:-1 tvg-id="Friendly - Switzerland vs Germany" tvg-name="21:45 Friendly : Switzerland vs Germany - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=5008
+
+#EXTINF:-1 tvg-id="Friendly - Switzerland vs Germany" tvg-name="21:45 Friendly : Switzerland vs Germany - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4003
 
 #EXTINF:-1 tvg-id="Friendly - England vs Uruguay" tvg-name="21:45 Friendly : England vs Uruguay - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ITV 1 UK
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=350
@@ -395,6 +407,12 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="Friendly - England vs Uruguay" tvg-name="21:45 Friendly : England vs Uruguay - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 2 Israel
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=141
 
+#EXTINF:-1 tvg-id="Friendly - England vs Uruguay" tvg-name="21:45 Friendly : England vs Uruguay - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=5007
+
+#EXTINF:-1 tvg-id="Friendly - England vs Uruguay" tvg-name="21:45 Friendly : England vs Uruguay - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4001
+
 #EXTINF:-1 tvg-id="Friendly - Netherlands vs Norway" tvg-name="21:45 Friendly : Netherlands vs Norway - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Soccer Plus
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=756
 
@@ -446,6 +464,12 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="Friendly - Netherlands vs Norway" tvg-name="21:45 Friendly : Netherlands vs Norway - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 4 Israel
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=143
 
+#EXTINF:-1 tvg-id="Friendly - Netherlands vs Norway" tvg-name="21:45 Friendly : Netherlands vs Norway - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=5009
+
+#EXTINF:-1 tvg-id="Friendly - Netherlands vs Norway" tvg-name="21:45 Friendly : Netherlands vs Norway - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4002
+
 #EXTINF:-1 tvg-id="Scottish League One - Inverness CT vs Queen of the South" tvg-name="21:45 Scottish League One : Inverness CT vs Queen of the South - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", BBC Alba
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=17
 
@@ -488,6 +512,12 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="Friendly - Spain vs Serbia" tvg-name="22:00 Friendly : Spain vs Serbia - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Laliga
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=415
 
+#EXTINF:-1 tvg-id="Friendly - Spain vs Serbia" tvg-name="22:00 Friendly : Spain vs Serbia - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=5010
+
+#EXTINF:-1 tvg-id="Friendly - Spain vs Serbia" tvg-name="22:00 Friendly : Spain vs Serbia - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4004
+
 #EXTINF:-1 tvg-id="Friendly - Morocco vs Ecuador" tvg-name="22:15 Friendly : Morocco vs Ecuador - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arryadia
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=20
 
@@ -499,6 +529,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 
 #EXTINF:-1 tvg-id="Friendly - Morocco vs Ecuador" tvg-name="22:15 Friendly : Morocco vs Ecuador - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Repretel Canal 6
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=19
+
+#EXTINF:-1 tvg-id="Friendly - Morocco vs Ecuador" tvg-name="22:15 Friendly : Morocco vs Ecuador - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=5011
 
 #EXTINF:-1 tvg-id="Colombia - Primera A - Rionegro Águilas vs Alianza" tvg-name="23:00 Colombia - Primera A : Rionegro Águilas vs Alianza - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Win+ Futbol Colombia
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=392
@@ -521,6 +554,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="Friendly - Argentina vs Mauritania" tvg-name="01:15 Friendly : Argentina vs Mauritania - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS en Español
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=372
 
+#EXTINF:-1 tvg-id="Friendly - Argentina vs Mauritania" tvg-name="01:15 Friendly : Argentina vs Mauritania - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4006
+
 #EXTINF:-1 tvg-id="USL League One - Charlotte Independence vs Spokane Velocity" tvg-name="01:30 USL League One : Charlotte Independence vs Spokane Velocity - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN+ USA
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=59
 
@@ -538,6 +574,60 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 
 #EXTINF:-1 tvg-id="NWSL - Angel City vs Houston Dash" tvg-name="04:00 NWSL : Angel City vs Houston Dash - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN+ USA
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=86
+
+#EXTINF:-1 tvg-id="ATP - MIAMI - Granollers M/Zeballos H. vs Heliovaara H./Patten H." tvg-name="19:00 ATP - MIAMI : Granollers M/Zeballos H. vs Heliovaara H./Patten H. - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Miami", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1508
+
+#EXTINF:-1 tvg-id="ATP - MIAMI - Granollers M/Zeballos H. vs Heliovaara H./Patten H." tvg-name="19:00 ATP - MIAMI : Granollers M/Zeballos H. vs Heliovaara H./Patten H. - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Miami", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1558
+
+#EXTINF:-1 tvg-id="ATP - MIAMI - Bolelli S./Vavassori A. vs Arends S./Smith J. P." tvg-name="20:30 ATP - MIAMI : Bolelli S./Vavassori A. vs Arends S./Smith J. P. - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Miami", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1508
+
+#EXTINF:-1 tvg-id="ATP - MIAMI - Bolelli S./Vavassori A. vs Arends S./Smith J. P." tvg-name="20:30 ATP - MIAMI : Bolelli S./Vavassori A. vs Arends S./Smith J. P. - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Miami", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1558
+
+#EXTINF:-1 tvg-id="ATP - MIAMI - Lehecka J. vs Fils A." tvg-name="21:00 ATP - MIAMI : Lehecka J. vs Fils A. - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Miami", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1507
+
+#EXTINF:-1 tvg-id="ATP - MIAMI - Lehecka J. vs Fils A." tvg-name="21:00 ATP - MIAMI : Lehecka J. vs Fils A. - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Miami", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1557
+
+#EXTINF:-1 tvg-id="ATP - MIAMI - Lehecka J. vs Fils A." tvg-name="21:00 ATP - MIAMI : Lehecka J. vs Fils A. - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Miami", Tennis Channel
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=40
+
+#EXTINF:-1 tvg-id="ATP - MIAMI - Lehecka J. vs Fils A." tvg-name="21:00 ATP - MIAMI : Lehecka J. vs Fils A. - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Miami", Tennis Channel
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1520
+
+#EXTINF:-1 tvg-id="ATP - MIAMI - Lehecka J. vs Fils A." tvg-name="21:00 ATP - MIAMI : Lehecka J. vs Fils A. - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Miami", Tennis Channel
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1570
+
+#EXTINF:-1 tvg-id="ATP - MIAMI - Zverev A. vs Sinner J." tvg-name="01:00 ATP - MIAMI : Zverev A. vs Sinner J. - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Miami", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1507
+
+#EXTINF:-1 tvg-id="ATP - MIAMI - Zverev A. vs Sinner J." tvg-name="01:00 ATP - MIAMI : Zverev A. vs Sinner J. - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Miami", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1557
+
+#EXTINF:-1 tvg-id="ATP - MIAMI - Zverev A. vs Sinner J." tvg-name="01:00 ATP - MIAMI : Zverev A. vs Sinner J. - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Miami", Tennis Channel
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=40
+
+#EXTINF:-1 tvg-id="ATP - MIAMI - Zverev A. vs Sinner J." tvg-name="01:00 ATP - MIAMI : Zverev A. vs Sinner J. - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Miami", Tennis Channel
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1520
+
+#EXTINF:-1 tvg-id="ATP - MIAMI - Zverev A. vs Sinner J." tvg-name="01:00 ATP - MIAMI : Zverev A. vs Sinner J. - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Miami", Tennis Channel
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1570
+
+#EXTINF:-1 tvg-id="WTA - MIAMI - Dabrowski G./Stefani L. vs Siniakova K./Townsend T." tvg-name="19:00 WTA - MIAMI : Dabrowski G./Stefani L. vs Siniakova K./Townsend T. - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Miami", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1501
+
+#EXTINF:-1 tvg-id="WTA - MIAMI - Dabrowski G./Stefani L. vs Siniakova K./Townsend T." tvg-name="19:00 WTA - MIAMI : Dabrowski G./Stefani L. vs Siniakova K./Townsend T. - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Miami", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1551
+
+#EXTINF:-1 tvg-id="WTA - MIAMI - Errani S./Paolini J. vs Mertens E./Zhang S." tvg-name="02:30 WTA - MIAMI : Errani S./Paolini J. vs Mertens E./Zhang S. - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Miami", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1501
+
+#EXTINF:-1 tvg-id="WTA - MIAMI - Errani S./Paolini J. vs Mertens E./Zhang S." tvg-name="02:30 WTA - MIAMI : Errani S./Paolini J. vs Mertens E./Zhang S. - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Miami", Tennis Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1551
 
 #EXTINF:-1 tvg-id="Miami Open 2026 ATP Semifinal 1; WTA Doubles Semifinal 1 - Miami Open 2026 ATP Semifinal 1; WTA Doubles Semifinal 1" tvg-name="19:00 Miami Open 2026 ATP Semifinal 1; WTA Doubles Semifinal 1 - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=40
@@ -1144,6 +1234,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 
 #EXTINF:-1 tvg-id="MLB - New York Yankees vs San Francisco Giants" tvg-name="22:35 MLB : New York Yankees vs San Francisco Giants - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mlb", beIN Sports 6 Max France
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=496
+
+#EXTINF:-1 tvg-id="MLB - New York Yankees vs San Francisco Giants" tvg-name="22:35 MLB : New York Yankees vs San Francisco Giants - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mlb", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=5012
 
 #EXTINF:-1 tvg-id="MLB - Oakland Athletics vs Toronto Blue Jays" tvg-name="01:07 MLB : Oakland Athletics vs Toronto Blue Jays - 27/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mlb", MLB Network
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=399
