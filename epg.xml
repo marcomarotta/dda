@@ -53724,12 +53724,6 @@ L'Aquila E Il Leone</title>
   <channel id="englandnationalleaguerochdalevsmorecambe">
     <display-name>England - National League : Rochdale vs Morecambe</display-name>
   </channel>
-  <channel id="portugalliga3mafravsuniosantarm">
-    <display-name>Portugal - Liga 3 : Mafra vs União Santarém</display-name>
-  </channel>
-  <channel id="spainprimeradivisinfemeninaeibarvsudtenerife">
-    <display-name>Spain - Primera División Femenina : Eibar vs UD Tenerife</display-name>
-  </channel>
   <channel id="denmark1divisionkoldingifvsesbjerg">
     <display-name>Denmark - 1. division : Kolding IF vs Esbjerg</display-name>
   </channel>
@@ -54006,9 +54000,6 @@ L'Aquila E Il Leone</title>
   <channel id="2ndwomensodinewzealandwvssouthafricaw">
     <display-name>2nd Women's ODI : New Zealand W vs South Africa W</display-name>
   </channel>
-  <channel id="atpbucharestdzumhurdvsvandezandschulpb">
-    <display-name>ATP - BUCHAREST : Dzumhur D. vs Van De Zandschulp B.</display-name>
-  </channel>
   <channel id="atpbucharestmolcanavsnavonem">
     <display-name>ATP - BUCHAREST : Molcan A. vs Navone M.</display-name>
   </channel>
@@ -54017,9 +54008,6 @@ L'Aquila E Il Leone</title>
   </channel>
   <channel id="atpbucharestbaezordroguetvsmeridaormannarino">
     <display-name>ATP - BUCHAREST : Baez or Droguet vs Merida or Mannarino</display-name>
-  </channel>
-  <channel id="atpmarrakechmoutetcvstrungellitim">
-    <display-name>ATP - MARRAKECH : Moutet C. vs Trungelliti M.</display-name>
   </channel>
   <channel id="atpmarrakechmulleravsjodarr">
     <display-name>ATP - MARRAKECH : Muller A. vs Jodar R.</display-name>
@@ -54246,9 +54234,6 @@ L'Aquila E Il Leone</title>
   <channel id="collegesoftballkentuckyvsoklahoma">
     <display-name>College Softball : Kentucky vs Oklahoma</display-name>
   </channel>
-  <channel id="nipponprofessionalbaseballnpbfukuokavschibalottemarines">
-    <display-name>Nippon Professional Baseball (NPB) : Fukuoka vs Chiba Lotte Marines</display-name>
-  </channel>
   <channel id="klsslobodavsbkkradniki">
     <display-name>Kls : Sloboda vs BKK Radnički</display-name>
   </channel>
@@ -54410,9 +54395,6 @@ L'Aquila E Il Leone</title>
   </channel>
   <channel id="womenscollegelacrosseclemsonvscalifornia">
     <display-name>Women's College Lacrosse : Clemson vs California</display-name>
-  </channel>
-  <channel id="nationalrugbyleaguepenrithpanthersvsmelbournestorm">
-    <display-name>National Rugby League : Penrith Panthers vs Melbourne Storm</display-name>
   </channel>
   <channel id="superleaguerugbyhullkrvshullfc">
     <display-name>Super League Rugby : Hull KR vs Hull FC</display-name>
@@ -55102,36 +55084,6 @@ L'Aquila E Il Leone</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">England - National League : Rochdale vs Morecambe</desc>
     <category lang="it">England - National League</category>
-  </programme>
-  <programme start="20260403000000 +0200" stop="20260403120000 +0200" channel="portugalliga3mafravsuniosantarm">
-    <title lang="it">Inizia alle 12:00.</title>
-    <desc lang="it">Portugal - Liga 3 : Mafra vs União Santarém.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260403120000 +0200" stop="20260403140000 +0200" channel="portugalliga3mafravsuniosantarm">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Portugal - Liga 3 : Mafra vs União Santarém</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260403000000 +0200" stop="20260403120000 +0200" channel="spainprimeradivisinfemeninaeibarvsudtenerife">
-    <title lang="it">Inizia alle 12:00.</title>
-    <desc lang="it">Spain - Primera División Femenina : Eibar vs UD Tenerife.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260403120000 +0200" stop="20260403140000 +0200" channel="spainprimeradivisinfemeninaeibarvsudtenerife">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Spain - Primera División Femenina : Eibar vs UD Tenerife</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260403000000 +0200" stop="20260403120000 +0200" channel="spainprimeradivisinfemeninaeibarvsudtenerife">
-    <title lang="it">Inizia alle 12:00.</title>
-    <desc lang="it">Spain - Primera División Femenina : Eibar vs UD Tenerife.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260403120000 +0200" stop="20260403140000 +0200" channel="spainprimeradivisinfemeninaeibarvsudtenerife">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Spain - Primera División Femenina : Eibar vs UD Tenerife</desc>
-    <category lang="it">All Soccer Events</category>
   </programme>
   <programme start="20260403000000 +0200" stop="20260403130000 +0200" channel="denmark1divisionkoldingifvsesbjerg">
     <title lang="it">Inizia alle 13:00.</title>
@@ -57493,26 +57445,6 @@ L'Aquila E Il Leone</title>
     <desc lang="it">2nd Women's ODI : New Zealand W vs South Africa W</desc>
     <category lang="it">Cricket</category>
   </programme>
-  <programme start="20260403000000 +0200" stop="20260403120000 +0200" channel="atpbucharestdzumhurdvsvandezandschulpb">
-    <title lang="it">Inizia alle 12:00.</title>
-    <desc lang="it">ATP - BUCHAREST : Dzumhur D. vs Van De Zandschulp B..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260403120000 +0200" stop="20260403140000 +0200" channel="atpbucharestdzumhurdvsvandezandschulpb">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - BUCHAREST : Dzumhur D. vs Van De Zandschulp B.</desc>
-    <category lang="it">Tennis ATP - BUCHAREST</category>
-  </programme>
-  <programme start="20260403000000 +0200" stop="20260403120000 +0200" channel="atpbucharestdzumhurdvsvandezandschulpb">
-    <title lang="it">Inizia alle 12:00.</title>
-    <desc lang="it">ATP - BUCHAREST : Dzumhur D. vs Van De Zandschulp B..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260403120000 +0200" stop="20260403140000 +0200" channel="atpbucharestdzumhurdvsvandezandschulpb">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - BUCHAREST : Dzumhur D. vs Van De Zandschulp B.</desc>
-    <category lang="it">Tennis ATP - BUCHAREST</category>
-  </programme>
   <programme start="20260403000000 +0200" stop="20260403133000 +0200" channel="atpbucharestmolcanavsnavonem">
     <title lang="it">Inizia alle 13:30.</title>
     <desc lang="it">ATP - BUCHAREST : Molcan A. vs Navone M..</desc>
@@ -57562,26 +57494,6 @@ L'Aquila E Il Leone</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">ATP - BUCHAREST : Baez or Droguet vs Merida or Mannarino</desc>
     <category lang="it">Tennis ATP - BUCHAREST</category>
-  </programme>
-  <programme start="20260403000000 +0200" stop="20260403120000 +0200" channel="atpmarrakechmoutetcvstrungellitim">
-    <title lang="it">Inizia alle 12:00.</title>
-    <desc lang="it">ATP - MARRAKECH : Moutet C. vs Trungelliti M..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260403120000 +0200" stop="20260403140000 +0200" channel="atpmarrakechmoutetcvstrungellitim">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - MARRAKECH : Moutet C. vs Trungelliti M.</desc>
-    <category lang="it">Tennis ATP - MARRAKECH</category>
-  </programme>
-  <programme start="20260403000000 +0200" stop="20260403120000 +0200" channel="atpmarrakechmoutetcvstrungellitim">
-    <title lang="it">Inizia alle 12:00.</title>
-    <desc lang="it">ATP - MARRAKECH : Moutet C. vs Trungelliti M..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260403120000 +0200" stop="20260403140000 +0200" channel="atpmarrakechmoutetcvstrungellitim">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - MARRAKECH : Moutet C. vs Trungelliti M.</desc>
-    <category lang="it">Tennis ATP - MARRAKECH</category>
   </programme>
   <programme start="20260403000000 +0200" stop="20260403140000 +0200" channel="atpmarrakechmulleravsjodarr">
     <title lang="it">Inizia alle 14:00.</title>
@@ -59363,16 +59275,6 @@ L'Aquila E Il Leone</title>
     <desc lang="it">College Softball : Kentucky vs Oklahoma</desc>
     <category lang="it">college-softball</category>
   </programme>
-  <programme start="20260403000000 +0200" stop="20260403110000 +0200" channel="nipponprofessionalbaseballnpbfukuokavschibalottemarines">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">Nippon Professional Baseball (NPB) : Fukuoka vs Chiba Lotte Marines.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260403110000 +0200" stop="20260403130000 +0200" channel="nipponprofessionalbaseballnpbfukuokavschibalottemarines">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Nippon Professional Baseball (NPB) : Fukuoka vs Chiba Lotte Marines</desc>
-    <category lang="it">Nippon Professional Baseball</category>
-  </programme>
   <programme start="20260403000000 +0200" stop="20260403173000 +0200" channel="klsslobodavsbkkradniki">
     <title lang="it">Inizia alle 17:30.</title>
     <desc lang="it">Kls : Sloboda vs BKK Radnički.</desc>
@@ -60682,66 +60584,6 @@ L'Aquila E Il Leone</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Women's College Lacrosse : Clemson vs California</desc>
     <category lang="it">Women's College Lacrosse</category>
-  </programme>
-  <programme start="20260403000000 +0200" stop="20260403110000 +0200" channel="nationalrugbyleaguepenrithpanthersvsmelbournestorm">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">National Rugby League : Penrith Panthers vs Melbourne Storm.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260403110000 +0200" stop="20260403130000 +0200" channel="nationalrugbyleaguepenrithpanthersvsmelbournestorm">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">National Rugby League : Penrith Panthers vs Melbourne Storm</desc>
-    <category lang="it">Rugby League</category>
-  </programme>
-  <programme start="20260403000000 +0200" stop="20260403110000 +0200" channel="nationalrugbyleaguepenrithpanthersvsmelbournestorm">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">National Rugby League : Penrith Panthers vs Melbourne Storm.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260403110000 +0200" stop="20260403130000 +0200" channel="nationalrugbyleaguepenrithpanthersvsmelbournestorm">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">National Rugby League : Penrith Panthers vs Melbourne Storm</desc>
-    <category lang="it">Rugby League</category>
-  </programme>
-  <programme start="20260403000000 +0200" stop="20260403110000 +0200" channel="nationalrugbyleaguepenrithpanthersvsmelbournestorm">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">National Rugby League : Penrith Panthers vs Melbourne Storm.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260403110000 +0200" stop="20260403130000 +0200" channel="nationalrugbyleaguepenrithpanthersvsmelbournestorm">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">National Rugby League : Penrith Panthers vs Melbourne Storm</desc>
-    <category lang="it">Rugby League</category>
-  </programme>
-  <programme start="20260403000000 +0200" stop="20260403110000 +0200" channel="nationalrugbyleaguepenrithpanthersvsmelbournestorm">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">National Rugby League : Penrith Panthers vs Melbourne Storm.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260403110000 +0200" stop="20260403130000 +0200" channel="nationalrugbyleaguepenrithpanthersvsmelbournestorm">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">National Rugby League : Penrith Panthers vs Melbourne Storm</desc>
-    <category lang="it">Rugby League</category>
-  </programme>
-  <programme start="20260403000000 +0200" stop="20260403110000 +0200" channel="nationalrugbyleaguepenrithpanthersvsmelbournestorm">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">National Rugby League : Penrith Panthers vs Melbourne Storm.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260403110000 +0200" stop="20260403130000 +0200" channel="nationalrugbyleaguepenrithpanthersvsmelbournestorm">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">National Rugby League : Penrith Panthers vs Melbourne Storm</desc>
-    <category lang="it">Rugby League</category>
-  </programme>
-  <programme start="20260403000000 +0200" stop="20260403110000 +0200" channel="nationalrugbyleaguepenrithpanthersvsmelbournestorm">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">National Rugby League : Penrith Panthers vs Melbourne Storm.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260403110000 +0200" stop="20260403130000 +0200" channel="nationalrugbyleaguepenrithpanthersvsmelbournestorm">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">National Rugby League : Penrith Panthers vs Melbourne Storm</desc>
-    <category lang="it">Rugby League</category>
   </programme>
   <programme start="20260403000000 +0200" stop="20260403133000 +0200" channel="superleaguerugbyhullkrvshullfc">
     <title lang="it">Inizia alle 13:30.</title>
