@@ -53724,15 +53724,6 @@ L'Aquila E Il Leone</title>
   <channel id="englandnationalleaguerochdalevsmorecambe">
     <display-name>England - National League : Rochdale vs Morecambe</display-name>
   </channel>
-  <channel id="australiaaleaguewomenperthgloryvsmelbournevictory">
-    <display-name>Australia - A-League Women : Perth Glory vs Melbourne Victory</display-name>
-  </channel>
-  <channel id="indonesiasuperleaguearemavsmalutunited">
-    <display-name>Indonesia - Super League : Arema vs Malut United</display-name>
-  </channel>
-  <channel id="australiaaleagueadelaideunitedvsauckland">
-    <display-name>Australia - A-League : Adelaide United vs Auckland</display-name>
-  </channel>
   <channel id="portugalliga3mafravsuniosantarm">
     <display-name>Portugal - Liga 3 : Mafra vs União Santarém</display-name>
   </channel>
@@ -54015,12 +54006,6 @@ L'Aquila E Il Leone</title>
   <channel id="2ndwomensodinewzealandwvssouthafricaw">
     <display-name>2nd Women's ODI : New Zealand W vs South Africa W</display-name>
   </channel>
-  <channel id="atpbucharestaltmaierdvsprizmicd">
-    <display-name>ATP - BUCHAREST : Altmaier D. vs Prizmic D.</display-name>
-  </channel>
-  <channel id="atpbucharestsakellaridissvsmarozsanf">
-    <display-name>ATP - BUCHAREST : Sakellaridis S. vs Marozsan F.</display-name>
-  </channel>
   <channel id="atpbucharestdzumhurdvsvandezandschulpb">
     <display-name>ATP - BUCHAREST : Dzumhur D. vs Van De Zandschulp B.</display-name>
   </channel>
@@ -54084,9 +54069,6 @@ L'Aquila E Il Leone</title>
   <channel id="nascarcraftsmantruckseriesblackstire200race">
     <display-name>NASCAR Craftsman Truck Series Black's Tire 200 Race</display-name>
   </channel>
-  <channel id="treasureboxing12renesantiagovsmasatakataniguchi">
-    <display-name>Treasure Boxing 12 : Rene Santiago vs. Masataka Taniguchi</display-name>
-  </channel>
   <channel id="boxingpatbrownvsvasilducar">
     <display-name>Boxing : Pat Brown vs Vasil Ducar</display-name>
   </channel>
@@ -54110,9 +54092,6 @@ L'Aquila E Il Leone</title>
   </channel>
   <channel id="worldsnookerlivetourchampionshipmanchesterengland">
     <display-name>World Snooker Live Tour Championship - Manchester, England</display-name>
-  </channel>
-  <channel id="afladelaidecrowsvsfremantledockers">
-    <display-name>AFL : Adelaide Crows vs Fremantle Dockers</display-name>
   </channel>
   <channel id="mlbwashingtonnationalsvslosangelesdodgers">
     <display-name>MLB : Washington Nationals vs Los Angeles Dodgers</display-name>
@@ -55123,46 +55102,6 @@ L'Aquila E Il Leone</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">England - National League : Rochdale vs Morecambe</desc>
     <category lang="it">England - National League</category>
-  </programme>
-  <programme start="20260403000000 +0200" stop="20260403100000 +0200" channel="australiaaleaguewomenperthgloryvsmelbournevictory">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">Australia - A-League Women : Perth Glory vs Melbourne Victory.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260403100000 +0200" stop="20260403120000 +0200" channel="australiaaleaguewomenperthgloryvsmelbournevictory">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Australia - A-League Women : Perth Glory vs Melbourne Victory</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260403000000 +0200" stop="20260403103000 +0200" channel="indonesiasuperleaguearemavsmalutunited">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">Indonesia - Super League : Arema vs Malut United.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260403103000 +0200" stop="20260403123000 +0200" channel="indonesiasuperleaguearemavsmalutunited">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Indonesia - Super League : Arema vs Malut United</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260403000000 +0200" stop="20260403103500 +0200" channel="australiaaleagueadelaideunitedvsauckland">
-    <title lang="it">Inizia alle 10:35.</title>
-    <desc lang="it">Australia - A-League : Adelaide United vs Auckland.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260403103500 +0200" stop="20260403123500 +0200" channel="australiaaleagueadelaideunitedvsauckland">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Australia - A-League : Adelaide United vs Auckland</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260403000000 +0200" stop="20260403103500 +0200" channel="australiaaleagueadelaideunitedvsauckland">
-    <title lang="it">Inizia alle 10:35.</title>
-    <desc lang="it">Australia - A-League : Adelaide United vs Auckland.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260403103500 +0200" stop="20260403123500 +0200" channel="australiaaleagueadelaideunitedvsauckland">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Australia - A-League : Adelaide United vs Auckland</desc>
-    <category lang="it">All Soccer Events</category>
   </programme>
   <programme start="20260403000000 +0200" stop="20260403120000 +0200" channel="portugalliga3mafravsuniosantarm">
     <title lang="it">Inizia alle 12:00.</title>
@@ -57554,36 +57493,6 @@ L'Aquila E Il Leone</title>
     <desc lang="it">2nd Women's ODI : New Zealand W vs South Africa W</desc>
     <category lang="it">Cricket</category>
   </programme>
-  <programme start="20260403000000 +0200" stop="20260403103000 +0200" channel="atpbucharestaltmaierdvsprizmicd">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">ATP - BUCHAREST : Altmaier D. vs Prizmic D..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260403103000 +0200" stop="20260403123000 +0200" channel="atpbucharestaltmaierdvsprizmicd">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - BUCHAREST : Altmaier D. vs Prizmic D.</desc>
-    <category lang="it">Tennis ATP - BUCHAREST</category>
-  </programme>
-  <programme start="20260403000000 +0200" stop="20260403103000 +0200" channel="atpbucharestsakellaridissvsmarozsanf">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">ATP - BUCHAREST : Sakellaridis S. vs Marozsan F..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260403103000 +0200" stop="20260403123000 +0200" channel="atpbucharestsakellaridissvsmarozsanf">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - BUCHAREST : Sakellaridis S. vs Marozsan F.</desc>
-    <category lang="it">Tennis ATP - BUCHAREST</category>
-  </programme>
-  <programme start="20260403000000 +0200" stop="20260403103000 +0200" channel="atpbucharestsakellaridissvsmarozsanf">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">ATP - BUCHAREST : Sakellaridis S. vs Marozsan F..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260403103000 +0200" stop="20260403123000 +0200" channel="atpbucharestsakellaridissvsmarozsanf">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - BUCHAREST : Sakellaridis S. vs Marozsan F.</desc>
-    <category lang="it">Tennis ATP - BUCHAREST</category>
-  </programme>
   <programme start="20260403000000 +0200" stop="20260403120000 +0200" channel="atpbucharestdzumhurdvsvandezandschulpb">
     <title lang="it">Inizia alle 12:00.</title>
     <desc lang="it">ATP - BUCHAREST : Dzumhur D. vs Van De Zandschulp B..</desc>
@@ -58324,16 +58233,6 @@ L'Aquila E Il Leone</title>
     <desc lang="it">NASCAR Craftsman Truck Series Black's Tire 200 Race</desc>
     <category lang="it">Motorsport</category>
   </programme>
-  <programme start="20260403000000 +0200" stop="20260403100000 +0200" channel="treasureboxing12renesantiagovsmasatakataniguchi">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">Treasure Boxing 12 : Rene Santiago vs. Masataka Taniguchi.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260403100000 +0200" stop="20260403120000 +0200" channel="treasureboxing12renesantiagovsmasatakataniguchi">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Treasure Boxing 12 : Rene Santiago vs. Masataka Taniguchi</desc>
-    <category lang="it">Boxing</category>
-  </programme>
   <programme start="20260403000000 +0200" stop="20260403200000 +0200" channel="boxingpatbrownvsvasilducar">
     <title lang="it">Inizia alle 20:00.</title>
     <desc lang="it">Boxing : Pat Brown vs Vasil Ducar.</desc>
@@ -58813,36 +58712,6 @@ L'Aquila E Il Leone</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">World Snooker Live Tour Championship - Manchester, England</desc>
     <category lang="it">Snooker</category>
-  </programme>
-  <programme start="20260403000000 +0200" stop="20260403101500 +0200" channel="afladelaidecrowsvsfremantledockers">
-    <title lang="it">Inizia alle 10:15.</title>
-    <desc lang="it">AFL : Adelaide Crows vs Fremantle Dockers.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260403101500 +0200" stop="20260403121500 +0200" channel="afladelaidecrowsvsfremantledockers">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">AFL : Adelaide Crows vs Fremantle Dockers</desc>
-    <category lang="it">Aussie Rules (AFL)</category>
-  </programme>
-  <programme start="20260403000000 +0200" stop="20260403101500 +0200" channel="afladelaidecrowsvsfremantledockers">
-    <title lang="it">Inizia alle 10:15.</title>
-    <desc lang="it">AFL : Adelaide Crows vs Fremantle Dockers.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260403101500 +0200" stop="20260403121500 +0200" channel="afladelaidecrowsvsfremantledockers">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">AFL : Adelaide Crows vs Fremantle Dockers</desc>
-    <category lang="it">Aussie Rules (AFL)</category>
-  </programme>
-  <programme start="20260403000000 +0200" stop="20260403101500 +0200" channel="afladelaidecrowsvsfremantledockers">
-    <title lang="it">Inizia alle 10:15.</title>
-    <desc lang="it">AFL : Adelaide Crows vs Fremantle Dockers.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260403101500 +0200" stop="20260403121500 +0200" channel="afladelaidecrowsvsfremantledockers">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">AFL : Adelaide Crows vs Fremantle Dockers</desc>
-    <category lang="it">Aussie Rules (AFL)</category>
   </programme>
   <programme start="20260403000000 +0200" stop="20260403190500 +0200" channel="mlbwashingtonnationalsvslosangelesdodgers">
     <title lang="it">Inizia alle 19:05.</title>
