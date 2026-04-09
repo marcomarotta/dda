@@ -170,6 +170,12 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="Europe - UEFA Conference League - Rayo Vallecano vs AEK Athens" tvg-name="18:45 Europe - UEFA Conference League : Rayo Vallecano vs AEK Athens - 09/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 2 Israel
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=141
 
+#EXTINF:-1 tvg-id="Europe - UEFA Conference League - Rayo Vallecano vs AEK Athens" tvg-name="18:45 Europe - UEFA Conference League : Rayo Vallecano vs AEK Athens - 09/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4004
+
+#EXTINF:-1 tvg-id="Europe - UEFA Conference League - Rayo Vallecano vs AEK Athens" tvg-name="18:45 Europe - UEFA Conference League : Rayo Vallecano vs AEK Athens - 09/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=5001
+
 #EXTINF:-1 tvg-id="Turkey - Super Lig - Rizespor vs Samsunspor" tvg-name="19:00 Turkey - Super Lig : Rizespor vs Samsunspor - 09/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports 1 Turkey
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=62
 
