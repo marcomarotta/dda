@@ -48873,9 +48873,6 @@
   <channel id="atpmastersmontecarlocouples14finalnysvasselinvsheliovaarapatten">
     <display-name>ATP Masters Monte Carlo: (Couples) 1/4 Final: Nys/Vasselin vs Heliovaara/Patten</display-name>
   </channel>
-  <channel id="wrccroatiarallyspecialstages1amp2day2">
-    <display-name>WRC Croatia Rally | Special Stages 1 &amp; 2 | Day 2</display-name>
-  </channel>
   <channel id="wrccroatiarallyspecialstages3amp4day2">
     <display-name>WRC Croatia Rally | Special Stages 3 &amp; 4 | Day 2</display-name>
   </channel>
@@ -49062,9 +49059,6 @@
   <channel id="collegesoftballoklahomavstexas">
     <display-name>College Softball : Oklahoma vs Texas</display-name>
   </channel>
-  <channel id="rapidleaguesharksvsnuggets">
-    <display-name>Rapid League: Sharks vs Nuggets</display-name>
-  </channel>
   <channel id="ligaleumitramathasharonvshapoeleilat">
     <display-name>Liga Leumit : Ramat Hasharon vs Hapoel Eilat</display-name>
   </channel>
@@ -49221,14 +49215,8 @@
   <channel id="womenscollegelacrossestanfordvsnorthcarolinachapelhill">
     <display-name>Women's College Lacrosse : Stanford vs. North Carolina (Chapel Hill)</display-name>
   </channel>
-  <channel id="nationalrugbyleaguestgeorgeillawarravsmanlyseaeagles">
-    <display-name>National Rugby League : St.George Illawarra vs Manly Sea Eagles</display-name>
-  </channel>
   <channel id="nationalrugbyleaguebrisbanebroncosvsnqcowboys">
     <display-name>National Rugby League : Brisbane Broncos vs NQ Cowboys</display-name>
-  </channel>
-  <channel id="superrugbyhighlandersvsbrumbies">
-    <display-name>Super Rugby : Highlanders vs Brumbies</display-name>
   </channel>
   <channel id="prod2simulcasr">
     <display-name>Pro D2 : Simulcasr</display-name>
@@ -52771,66 +52759,6 @@
     <desc lang="it">ATP Masters Monte Carlo: (Couples) 1/4 Final: Nys/Vasselin vs Heliovaara/Patten</desc>
     <category lang="it">Tennis ATP Doubles/WTA Doubles</category>
   </programme>
-  <programme start="20260410000000 +0200" stop="20260410090000 +0200" channel="wrccroatiarallyspecialstages1amp2day2">
-    <title lang="it">Inizia alle 09:00.</title>
-    <desc lang="it">WRC Croatia Rally | Special Stages 1 &amp; 2 | Day 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260410090000 +0200" stop="20260410110000 +0200" channel="wrccroatiarallyspecialstages1amp2day2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WRC Croatia Rally | Special Stages 1 &amp; 2 | Day 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260410000000 +0200" stop="20260410090000 +0200" channel="wrccroatiarallyspecialstages1amp2day2">
-    <title lang="it">Inizia alle 09:00.</title>
-    <desc lang="it">WRC Croatia Rally | Special Stages 1 &amp; 2 | Day 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260410090000 +0200" stop="20260410110000 +0200" channel="wrccroatiarallyspecialstages1amp2day2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WRC Croatia Rally | Special Stages 1 &amp; 2 | Day 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260410000000 +0200" stop="20260410090000 +0200" channel="wrccroatiarallyspecialstages1amp2day2">
-    <title lang="it">Inizia alle 09:00.</title>
-    <desc lang="it">WRC Croatia Rally | Special Stages 1 &amp; 2 | Day 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260410090000 +0200" stop="20260410110000 +0200" channel="wrccroatiarallyspecialstages1amp2day2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WRC Croatia Rally | Special Stages 1 &amp; 2 | Day 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260410000000 +0200" stop="20260410090000 +0200" channel="wrccroatiarallyspecialstages1amp2day2">
-    <title lang="it">Inizia alle 09:00.</title>
-    <desc lang="it">WRC Croatia Rally | Special Stages 1 &amp; 2 | Day 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260410090000 +0200" stop="20260410110000 +0200" channel="wrccroatiarallyspecialstages1amp2day2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WRC Croatia Rally | Special Stages 1 &amp; 2 | Day 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260410000000 +0200" stop="20260410090000 +0200" channel="wrccroatiarallyspecialstages1amp2day2">
-    <title lang="it">Inizia alle 09:00.</title>
-    <desc lang="it">WRC Croatia Rally | Special Stages 1 &amp; 2 | Day 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260410090000 +0200" stop="20260410110000 +0200" channel="wrccroatiarallyspecialstages1amp2day2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WRC Croatia Rally | Special Stages 1 &amp; 2 | Day 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260410000000 +0200" stop="20260410090000 +0200" channel="wrccroatiarallyspecialstages1amp2day2">
-    <title lang="it">Inizia alle 09:00.</title>
-    <desc lang="it">WRC Croatia Rally | Special Stages 1 &amp; 2 | Day 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260410090000 +0200" stop="20260410110000 +0200" channel="wrccroatiarallyspecialstages1amp2day2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WRC Croatia Rally | Special Stages 1 &amp; 2 | Day 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <programme start="20260410000000 +0200" stop="20260410110000 +0200" channel="wrccroatiarallyspecialstages3amp4day2">
     <title lang="it">Inizia alle 11:00.</title>
     <desc lang="it">WRC Croatia Rally | Special Stages 3 &amp; 4 | Day 2.</desc>
@@ -54571,16 +54499,6 @@
     <desc lang="it">College Softball : Oklahoma vs Texas</desc>
     <category lang="it">College Softball</category>
   </programme>
-  <programme start="20260410000000 +0200" stop="20260410083000 +0200" channel="rapidleaguesharksvsnuggets">
-    <title lang="it">Inizia alle 08:30.</title>
-    <desc lang="it">Rapid League: Sharks vs Nuggets.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260410083000 +0200" stop="20260410103000 +0200" channel="rapidleaguesharksvsnuggets">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Rapid League: Sharks vs Nuggets</desc>
-    <category lang="it">Basketball</category>
-  </programme>
   <programme start="20260410000000 +0200" stop="20260410113000 +0200" channel="ligaleumitramathasharonvshapoeleilat">
     <title lang="it">Inizia alle 11:30.</title>
     <desc lang="it">Liga Leumit : Ramat Hasharon vs Hapoel Eilat.</desc>
@@ -55671,16 +55589,6 @@
     <desc lang="it">Women's College Lacrosse : Stanford vs. North Carolina (Chapel Hill)</desc>
     <category lang="it">Women's Lacrosse</category>
   </programme>
-  <programme start="20260410000000 +0200" stop="20260410100000 +0200" channel="nationalrugbyleaguestgeorgeillawarravsmanlyseaeagles">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">National Rugby League : St.George Illawarra vs Manly Sea Eagles.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260410100000 +0200" stop="20260410120000 +0200" channel="nationalrugbyleaguestgeorgeillawarravsmanlyseaeagles">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">National Rugby League : St.George Illawarra vs Manly Sea Eagles</desc>
-    <category lang="it">Rugby League</category>
-  </programme>
   <programme start="20260410000000 +0200" stop="20260410120000 +0200" channel="nationalrugbyleaguebrisbanebroncosvsnqcowboys">
     <title lang="it">Inizia alle 12:00.</title>
     <desc lang="it">National Rugby League : Brisbane Broncos vs NQ Cowboys.</desc>
@@ -55720,56 +55628,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">National Rugby League : Brisbane Broncos vs NQ Cowboys</desc>
     <category lang="it">Rugby League</category>
-  </programme>
-  <programme start="20260410000000 +0200" stop="20260410090500 +0200" channel="superrugbyhighlandersvsbrumbies">
-    <title lang="it">Inizia alle 09:05.</title>
-    <desc lang="it">Super Rugby : Highlanders vs Brumbies.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260410090500 +0200" stop="20260410110500 +0200" channel="superrugbyhighlandersvsbrumbies">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Super Rugby : Highlanders vs Brumbies</desc>
-    <category lang="it">Rugby Union</category>
-  </programme>
-  <programme start="20260410000000 +0200" stop="20260410090500 +0200" channel="superrugbyhighlandersvsbrumbies">
-    <title lang="it">Inizia alle 09:05.</title>
-    <desc lang="it">Super Rugby : Highlanders vs Brumbies.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260410090500 +0200" stop="20260410110500 +0200" channel="superrugbyhighlandersvsbrumbies">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Super Rugby : Highlanders vs Brumbies</desc>
-    <category lang="it">Rugby Union</category>
-  </programme>
-  <programme start="20260410000000 +0200" stop="20260410090500 +0200" channel="superrugbyhighlandersvsbrumbies">
-    <title lang="it">Inizia alle 09:05.</title>
-    <desc lang="it">Super Rugby : Highlanders vs Brumbies.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260410090500 +0200" stop="20260410110500 +0200" channel="superrugbyhighlandersvsbrumbies">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Super Rugby : Highlanders vs Brumbies</desc>
-    <category lang="it">Rugby Union</category>
-  </programme>
-  <programme start="20260410000000 +0200" stop="20260410090500 +0200" channel="superrugbyhighlandersvsbrumbies">
-    <title lang="it">Inizia alle 09:05.</title>
-    <desc lang="it">Super Rugby : Highlanders vs Brumbies.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260410090500 +0200" stop="20260410110500 +0200" channel="superrugbyhighlandersvsbrumbies">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Super Rugby : Highlanders vs Brumbies</desc>
-    <category lang="it">Rugby Union</category>
-  </programme>
-  <programme start="20260410000000 +0200" stop="20260410090500 +0200" channel="superrugbyhighlandersvsbrumbies">
-    <title lang="it">Inizia alle 09:05.</title>
-    <desc lang="it">Super Rugby : Highlanders vs Brumbies.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260410090500 +0200" stop="20260410110500 +0200" channel="superrugbyhighlandersvsbrumbies">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Super Rugby : Highlanders vs Brumbies</desc>
-    <category lang="it">Rugby Union</category>
   </programme>
   <programme start="20260410000000 +0200" stop="20260410190000 +0200" channel="prod2simulcasr">
     <title lang="it">Inizia alle 19:00.</title>
