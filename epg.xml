@@ -48413,18 +48413,6 @@ L'Aquila E Il Leone</title>
   <channel id="snappedseason36episode11">
     <display-name>Snapped Season 36, Episode 11</display-name>
   </channel>
-  <channel id="czechrepublic2ligaviktoriaikovvsvysoinajihlava">
-    <display-name>Czech Republic - 2. liga : Viktoria Žižkov vs Vysočina Jihlava</display-name>
-  </channel>
-  <channel id="slovakia2futbalovligamalenicevspovaskbystrica">
-    <display-name>Slovakia - 2. Futbalová Liga : Malženice vs Považská Bystrica</display-name>
-  </channel>
-  <channel id="austria2ligafirstviennavssturmgrazii">
-    <display-name>Austria - 2. Liga : First Vienna vs Sturm Graz II</display-name>
-  </channel>
-  <channel id="indonesiasuperleaguepersissolovssemenpadang">
-    <display-name>Indonesia - Super League : Persis Solo vs Semen Padang</display-name>
-  </channel>
   <channel id="australiaaleagueperthgloryvsmacarthur">
     <display-name>Australia - A-League : Perth Glory vs Macarthur</display-name>
   </channel>
@@ -48982,9 +48970,6 @@ L'Aquila E Il Leone</title>
   </channel>
   <channel id="womenscollegetennisclevelandstatevsiuindianapolis">
     <display-name>Women's College Tennis : Cleveland State vs IU Indianapolis</display-name>
-  </channel>
-  <channel id="wrccroatiarally19thspecialcroatiarally">
-    <display-name>WRC Croatia Rally | 19th special Croatia Rally</display-name>
   </channel>
   <channel id="europeanlemansseriesmotorracing4hoursofbarcelona">
     <display-name>European Le Mans Series Motor Racing - 4 Hours of Barcelona</display-name>
@@ -49610,46 +49595,6 @@ L'Aquila E Il Leone</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Snapped Season 36, Episode 11</desc>
     <category lang="it">TV Shows</category>
-  </programme>
-  <programme start="20260412000000 +0200" stop="20260412101500 +0200" channel="czechrepublic2ligaviktoriaikovvsvysoinajihlava">
-    <title lang="it">Inizia alle 10:15.</title>
-    <desc lang="it">Czech Republic - 2. liga : Viktoria Žižkov vs Vysočina Jihlava.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260412101500 +0200" stop="20260412121500 +0200" channel="czechrepublic2ligaviktoriaikovvsvysoinajihlava">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Czech Republic - 2. liga : Viktoria Žižkov vs Vysočina Jihlava</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260412000000 +0200" stop="20260412103000 +0200" channel="slovakia2futbalovligamalenicevspovaskbystrica">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">Slovakia - 2. Futbalová Liga : Malženice vs Považská Bystrica.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260412103000 +0200" stop="20260412123000 +0200" channel="slovakia2futbalovligamalenicevspovaskbystrica">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Slovakia - 2. Futbalová Liga : Malženice vs Považská Bystrica</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260412000000 +0200" stop="20260412103000 +0200" channel="austria2ligafirstviennavssturmgrazii">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">Austria - 2. Liga : First Vienna vs Sturm Graz II.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260412103000 +0200" stop="20260412123000 +0200" channel="austria2ligafirstviennavssturmgrazii">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Austria - 2. Liga : First Vienna vs Sturm Graz II</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260412000000 +0200" stop="20260412103000 +0200" channel="indonesiasuperleaguepersissolovssemenpadang">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">Indonesia - Super League : Persis Solo vs Semen Padang.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260412103000 +0200" stop="20260412123000 +0200" channel="indonesiasuperleaguepersissolovssemenpadang">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Indonesia - Super League : Persis Solo vs Semen Padang</desc>
-    <category lang="it">Soccer</category>
   </programme>
   <programme start="20260412000000 +0200" stop="20260412110000 +0200" channel="australiaaleagueperthgloryvsmacarthur">
     <title lang="it">Inizia alle 11:00.</title>
@@ -56950,66 +56895,6 @@ L'Aquila E Il Leone</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Women's College Tennis : Cleveland State vs IU Indianapolis</desc>
     <category lang="it">Women's College Tennis</category>
-  </programme>
-  <programme start="20260412000000 +0200" stop="20260412103700 +0200" channel="wrccroatiarally19thspecialcroatiarally">
-    <title lang="it">Inizia alle 10:37.</title>
-    <desc lang="it">WRC Croatia Rally | 19th special Croatia Rally.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260412103700 +0200" stop="20260412123700 +0200" channel="wrccroatiarally19thspecialcroatiarally">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WRC Croatia Rally | 19th special Croatia Rally</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260412000000 +0200" stop="20260412103700 +0200" channel="wrccroatiarally19thspecialcroatiarally">
-    <title lang="it">Inizia alle 10:37.</title>
-    <desc lang="it">WRC Croatia Rally | 19th special Croatia Rally.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260412103700 +0200" stop="20260412123700 +0200" channel="wrccroatiarally19thspecialcroatiarally">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WRC Croatia Rally | 19th special Croatia Rally</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260412000000 +0200" stop="20260412103700 +0200" channel="wrccroatiarally19thspecialcroatiarally">
-    <title lang="it">Inizia alle 10:37.</title>
-    <desc lang="it">WRC Croatia Rally | 19th special Croatia Rally.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260412103700 +0200" stop="20260412123700 +0200" channel="wrccroatiarally19thspecialcroatiarally">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WRC Croatia Rally | 19th special Croatia Rally</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260412000000 +0200" stop="20260412103700 +0200" channel="wrccroatiarally19thspecialcroatiarally">
-    <title lang="it">Inizia alle 10:37.</title>
-    <desc lang="it">WRC Croatia Rally | 19th special Croatia Rally.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260412103700 +0200" stop="20260412123700 +0200" channel="wrccroatiarally19thspecialcroatiarally">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WRC Croatia Rally | 19th special Croatia Rally</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260412000000 +0200" stop="20260412103700 +0200" channel="wrccroatiarally19thspecialcroatiarally">
-    <title lang="it">Inizia alle 10:37.</title>
-    <desc lang="it">WRC Croatia Rally | 19th special Croatia Rally.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260412103700 +0200" stop="20260412123700 +0200" channel="wrccroatiarally19thspecialcroatiarally">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WRC Croatia Rally | 19th special Croatia Rally</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260412000000 +0200" stop="20260412103700 +0200" channel="wrccroatiarally19thspecialcroatiarally">
-    <title lang="it">Inizia alle 10:37.</title>
-    <desc lang="it">WRC Croatia Rally | 19th special Croatia Rally.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260412103700 +0200" stop="20260412123700 +0200" channel="wrccroatiarally19thspecialcroatiarally">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WRC Croatia Rally | 19th special Croatia Rally</desc>
-    <category lang="it">Motorsport</category>
   </programme>
   <programme start="20260412000000 +0200" stop="20260412114000 +0200" channel="europeanlemansseriesmotorracing4hoursofbarcelona">
     <title lang="it">Inizia alle 11:40.</title>
