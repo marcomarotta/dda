@@ -50842,9 +50842,6 @@ Moderna?</sub-title>
   <channel id="collegesoftballtennesseevsduke">
     <display-name>College Softball : Tennessee vs Duke</display-name>
   </channel>
-  <channel id="salsnblnuggetsvsgiants">
-    <display-name>Sal's NBL: Nuggets vs Giants</display-name>
-  </channel>
   <channel id="vtbunitedleagueeniseykrasnoyarskvsmbamaimoscow">
     <display-name>VTB United League : Enisey Krasnoyarsk vs MBA-MAI Moscow</display-name>
   </channel>
@@ -50886,9 +50883,6 @@ Moderna?</sub-title>
   </channel>
   <channel id="touroflimburgmenhasselttongerenborgloon1784km">
     <display-name>Tour of Limburg Men | Hasselt - Tongeren-Borgloon (178.4km)</display-name>
-  </channel>
-  <channel id="newbelgradechampionsleaguefinal">
-    <display-name>New Belgrade Champions League Final</display-name>
   </channel>
   <channel id="bambusawomensleaguesonderjyskewvsesbjergw">
     <display-name>Bambusa Women's League : Sonderjyske W vs Esbjerg W</display-name>
@@ -50982,9 +50976,6 @@ Moderna?</sub-title>
   </channel>
   <channel id="womenslacrosseleaguedraft2026">
     <display-name>Women's Lacrosse League Draft 2026</display-name>
-  </channel>
-  <channel id="padeltournamentgiza154">
-    <display-name>Padel Tournament, Giza 15.4</display-name>
   </channel>
   <channel id="tvfefelerligisportotovsziraatbankasi">
     <display-name>TVF Efeler Ligi : Spor Toto vs Ziraat Bankasi</display-name>
@@ -54726,16 +54717,6 @@ Moderna?</sub-title>
     <desc lang="it">College Softball : Tennessee vs Duke</desc>
     <category lang="it">College Softball</category>
   </programme>
-  <programme start="20260415000000 +0200" stop="20260415090000 +0200" channel="salsnblnuggetsvsgiants">
-    <title lang="it">Inizia alle 09:00.</title>
-    <desc lang="it">Sal's NBL: Nuggets vs Giants.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415090000 +0200" stop="20260415110000 +0200" channel="salsnblnuggetsvsgiants">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Sal's NBL: Nuggets vs Giants</desc>
-    <category lang="it">Basketball</category>
-  </programme>
   <programme start="20260415000000 +0200" stop="20260415143000 +0200" channel="vtbunitedleagueeniseykrasnoyarskvsmbamaimoscow">
     <title lang="it">Inizia alle 14:30.</title>
     <desc lang="it">VTB United League : Enisey Krasnoyarsk vs MBA-MAI Moscow.</desc>
@@ -55155,16 +55136,6 @@ Moderna?</sub-title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Tour of Limburg Men | Hasselt - Tongeren-Borgloon (178.4km)</desc>
     <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260415000000 +0200" stop="20260415100000 +0200" channel="newbelgradechampionsleaguefinal">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">New Belgrade Champions League Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415100000 +0200" stop="20260415120000 +0200" channel="newbelgradechampionsleaguefinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">New Belgrade Champions League Final</desc>
-    <category lang="it">Futsal</category>
   </programme>
   <programme start="20260415000000 +0200" stop="20260415183000 +0200" channel="bambusawomensleaguesonderjyskewvsesbjergw">
     <title lang="it">Inizia alle 18:30.</title>
@@ -55705,26 +55676,6 @@ Moderna?</sub-title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Women's Lacrosse League Draft 2026</desc>
     <category lang="it">Women's College Lacrosse</category>
-  </programme>
-  <programme start="20260415000000 +0200" stop="20260415093000 +0200" channel="padeltournamentgiza154">
-    <title lang="it">Inizia alle 09:30.</title>
-    <desc lang="it">Padel Tournament, Giza 15.4.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415093000 +0200" stop="20260415113000 +0200" channel="padeltournamentgiza154">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Padel Tournament, Giza 15.4</desc>
-    <category lang="it">Squash</category>
-  </programme>
-  <programme start="20260415000000 +0200" stop="20260415093000 +0200" channel="padeltournamentgiza154">
-    <title lang="it">Inizia alle 09:30.</title>
-    <desc lang="it">Padel Tournament, Giza 15.4.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415093000 +0200" stop="20260415113000 +0200" channel="padeltournamentgiza154">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Padel Tournament, Giza 15.4</desc>
-    <category lang="it">Squash</category>
   </programme>
   <programme start="20260415000000 +0200" stop="20260415150000 +0200" channel="tvfefelerligisportotovsziraatbankasi">
     <title lang="it">Inizia alle 15:00.</title>
