@@ -49262,10 +49262,7 @@ Da Megalopoli A Citta - Giardino</title>
     <category>Series</category>
     <category>Sports</category>
   </programme>
-<channel id="frenchopenrolandgarrostennisgrandslammay25june82026">
-    <display-name>French Open (Roland Garros Tennis Grand Slam), May 25 – June 8, 2026</display-name>
-  </channel>
-  <channel id="ksw117pawlakvskhalidovapril182026">
+<channel id="ksw117pawlakvskhalidovapril182026">
     <display-name>KSW 117: Pawlak vs. Khalidov, April 18, 2026</display-name>
   </channel>
   <channel id="atpwtatourfinalsbuildupeventstennisseasonmatchesmayjune2026">
@@ -49339,24 +49336,6 @@ Da Megalopoli A Citta - Giardino</title>
   </channel>
   <channel id="englandleagueonelutontownvsnorthamptontown">
     <display-name>England - League One : Luton Town vs Northampton Town</display-name>
-  </channel>
-  <channel id="indiaindiansuperleaguekeralablastersvsnortheastunited">
-    <display-name>India - Indian Super League : Kerala Blasters vs NorthEast United</display-name>
-  </channel>
-  <channel id="romanialigaiisepsivsvoluntari">
-    <display-name>Romania - Liga II : Sepsi vs Voluntari</display-name>
-  </channel>
-  <channel id="bosniaandherzegovinakupbosneihercegovineslogadobojvsvele">
-    <display-name>Bosnia and Herzegovina - Kup Bosne i Hercegovine : Sloga Doboj vs Velež</display-name>
-  </channel>
-  <channel id="sloveniaprvaligabravovsprimorje">
-    <display-name>Slovenia - Prva Liga : Bravo vs Primorje</display-name>
-  </channel>
-  <channel id="bulgariaparvaligachernomorevscska1948">
-    <display-name>Bulgaria - Parva Liga : Cherno More vs CSKA 1948</display-name>
-  </channel>
-  <channel id="czechrepublic2ligaspartaprahaiivsartis">
-    <display-name>Czech Republic - 2. liga : Sparta Praha II vs Artis</display-name>
   </channel>
   <channel id="qatarstarsleaguealrayyanvsmuaithersc">
     <display-name>Qatar Stars League : Al Rayyan vs Muaither SC</display-name>
@@ -49439,26 +49418,8 @@ Da Megalopoli A Citta - Giardino</title>
   <channel id="unitedstatesusopencupcharlottevscharlotteindependence">
     <display-name>United States - US Open Cup : Charlotte vs Charlotte Independence</display-name>
   </channel>
-  <channel id="pakistansuperleagueroyalchallengersbangalorevslucknowsupergiants">
-    <display-name>Pakistan Super League : Royal Challengers Bangalore vs Lucknow Super Giants</display-name>
-  </channel>
-  <channel id="pakistansuperleaguepeshawarzalmivsquettagladiators">
-    <display-name>Pakistan Super League : Peshawar Zalmi vs Quetta Gladiators</display-name>
-  </channel>
-  <channel id="atpbarcelonajodarrvsugocarabellic">
-    <display-name>ATP - BARCELONA : Jodar R. vs Ugo Carabelli C.</display-name>
-  </channel>
   <channel id="atpbarcelonanorriecvsquinne">
     <display-name>ATP - BARCELONA : Norrie C. vs Quinn E.</display-name>
-  </channel>
-  <channel id="atpmunichkoprivavvsdarderil">
-    <display-name>ATP - MUNICH : Kopriva V. vs Darderi L.</display-name>
-  </channel>
-  <channel id="wtastuttgartzhangsvsnoskoval">
-    <display-name>WTA - STUTTGART : Zhang S. vs Noskova L.</display-name>
-  </channel>
-  <channel id="wtastuttgartostapenkojvsandreevam">
-    <display-name>WTA - STUTTGART : Ostapenko J. vs Andreeva M.</display-name>
   </channel>
   <channel id="wtastuttgartswiatekivssiegemundl">
     <display-name>WTA - STUTTGART : Swiatek I. vs Siegemund L.</display-name>
@@ -49474,9 +49435,6 @@ Da Megalopoli A Citta - Giardino</title>
   </channel>
   <channel id="pickleballslam4">
     <display-name>Pickleball Slam 4</display-name>
-  </channel>
-  <channel id="womenscollegetennisbig12womenstennischampionship">
-    <display-name>Women's College Tennis : Big 12 Women's Tennis Championship</display-name>
   </channel>
   <channel id="womenscollegegolfsouthlandwomensgolfchampionship">
     <display-name>Women's College Golf : Southland Women's Golf Championship</display-name>
@@ -49592,9 +49550,6 @@ Da Megalopoli A Citta - Giardino</title>
   <channel id="collegesoftballtennesseevsduke">
     <display-name>College Softball : Tennessee vs Duke</display-name>
   </channel>
-  <channel id="slovenianleagueentjurvskrka">
-    <display-name>Slovenian League : Šentjur vs Krka</display-name>
-  </channel>
   <channel id="euroleaguewomenunigironawvsveneziaw">
     <display-name>Euroleague Women : Uni Girona W vs Venezia W</display-name>
   </channel>
@@ -49625,9 +49580,6 @@ Da Megalopoli A Citta - Giardino</title>
   <channel id="nbaorlandomagicvsphiladelphia76ers">
     <display-name>NBA : Orlando Magic vs Philadelphia 76ers</display-name>
   </channel>
-  <channel id="touroflimburgmenhasselttongerenborgloon1784km">
-    <display-name>Tour of Limburg Men | Hasselt - Tongeren-Borgloon (178.4km)</display-name>
-  </channel>
   <channel id="bambusawomensleaguesonderjyskewvsesbjergw">
     <display-name>Bambusa Women's League : Sonderjyske W vs Esbjerg W</display-name>
   </channel>
@@ -49657,12 +49609,6 @@ Da Megalopoli A Citta - Giardino</title>
   </channel>
   <channel id="nhltorontomapleleafsvsottawasenators">
     <display-name>NHL : Toronto Maple Leafs vs Ottawa Senators</display-name>
-  </channel>
-  <channel id="mhlstalnyelisyu20vsavtoyekaterinburgu20">
-    <display-name>MHL : Stalnye Lisy U20 vs Avto Yekaterinburg U20</display-name>
-  </channel>
-  <channel id="hockeyworldwchiawomenhungarywvsslovakiaw">
-    <display-name>Hockey World WCH IA Women : Hungary W vs Slovakia W</display-name>
   </channel>
   <channel id="khlakbarskazanvsdinamominsk">
     <display-name>KHL : Ak Bars Kazan vs Dinamo Minsk</display-name>
@@ -49739,16 +49685,6 @@ Da Megalopoli A Citta - Giardino</title>
   <channel id="waterpolohungaryobivasasvshonvedse">
     <display-name>Water polo : Hungary OB I : Vasas vs Honved SE</display-name>
   </channel>
-  <programme start="20260415000000 +0200" stop="20260415170000 +0200" channel="frenchopenrolandgarrostennisgrandslammay25june82026">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">French Open (Roland Garros Tennis Grand Slam), May 25 – June 8, 2026.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415170000 +0200" stop="20260415190000 +0200" channel="frenchopenrolandgarrostennisgrandslammay25june82026">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">French Open (Roland Garros Tennis Grand Slam), May 25 – June 8, 2026</desc>
-    <category lang="it">Upcoming Events</category>
-  </programme>
   <programme start="20260415000000 +0200" stop="20260415180000 +0200" channel="ksw117pawlakvskhalidovapril182026">
     <title lang="it">Inizia alle 18:00.</title>
     <desc lang="it">KSW 117: Pawlak vs. Khalidov, April 18, 2026.</desc>
@@ -50068,96 +50004,6 @@ Da Megalopoli A Citta - Giardino</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">England - League One : Luton Town vs Northampton Town</desc>
     <category lang="it">England - League One</category>
-  </programme>
-  <programme start="20260415000000 +0200" stop="20260415160000 +0200" channel="indiaindiansuperleaguekeralablastersvsnortheastunited">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">India - Indian Super League : Kerala Blasters vs NorthEast United.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415160000 +0200" stop="20260415180000 +0200" channel="indiaindiansuperleaguekeralablastersvsnortheastunited">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">India - Indian Super League : Kerala Blasters vs NorthEast United</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260415000000 +0200" stop="20260415160000 +0200" channel="romanialigaiisepsivsvoluntari">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Romania - Liga II : Sepsi vs Voluntari.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415160000 +0200" stop="20260415180000 +0200" channel="romanialigaiisepsivsvoluntari">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Romania - Liga II : Sepsi vs Voluntari</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260415000000 +0200" stop="20260415160000 +0200" channel="romanialigaiisepsivsvoluntari">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Romania - Liga II : Sepsi vs Voluntari.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415160000 +0200" stop="20260415180000 +0200" channel="romanialigaiisepsivsvoluntari">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Romania - Liga II : Sepsi vs Voluntari</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260415000000 +0200" stop="20260415160000 +0200" channel="bosniaandherzegovinakupbosneihercegovineslogadobojvsvele">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Bosnia and Herzegovina - Kup Bosne i Hercegovine : Sloga Doboj vs Velež.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415160000 +0200" stop="20260415180000 +0200" channel="bosniaandherzegovinakupbosneihercegovineslogadobojvsvele">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Bosnia and Herzegovina - Kup Bosne i Hercegovine : Sloga Doboj vs Velež</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260415000000 +0200" stop="20260415160000 +0200" channel="bosniaandherzegovinakupbosneihercegovineslogadobojvsvele">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Bosnia and Herzegovina - Kup Bosne i Hercegovine : Sloga Doboj vs Velež.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415160000 +0200" stop="20260415180000 +0200" channel="bosniaandherzegovinakupbosneihercegovineslogadobojvsvele">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Bosnia and Herzegovina - Kup Bosne i Hercegovine : Sloga Doboj vs Velež</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260415000000 +0200" stop="20260415163000 +0200" channel="sloveniaprvaligabravovsprimorje">
-    <title lang="it">Inizia alle 16:30.</title>
-    <desc lang="it">Slovenia - Prva Liga : Bravo vs Primorje.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415163000 +0200" stop="20260415183000 +0200" channel="sloveniaprvaligabravovsprimorje">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Slovenia - Prva Liga : Bravo vs Primorje</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260415000000 +0200" stop="20260415170000 +0200" channel="bulgariaparvaligachernomorevscska1948">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">Bulgaria - Parva Liga : Cherno More vs CSKA 1948.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415170000 +0200" stop="20260415190000 +0200" channel="bulgariaparvaligachernomorevscska1948">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Bulgaria - Parva Liga : Cherno More vs CSKA 1948</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260415000000 +0200" stop="20260415170000 +0200" channel="bulgariaparvaligachernomorevscska1948">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">Bulgaria - Parva Liga : Cherno More vs CSKA 1948.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415170000 +0200" stop="20260415190000 +0200" channel="bulgariaparvaligachernomorevscska1948">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Bulgaria - Parva Liga : Cherno More vs CSKA 1948</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260415000000 +0200" stop="20260415170000 +0200" channel="czechrepublic2ligaspartaprahaiivsartis">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">Czech Republic - 2. liga : Sparta Praha II vs Artis.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415170000 +0200" stop="20260415190000 +0200" channel="czechrepublic2ligaspartaprahaiivsartis">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Czech Republic - 2. liga : Sparta Praha II vs Artis</desc>
-    <category lang="it">All Soccer Events</category>
   </programme>
   <programme start="20260415000000 +0200" stop="20260415173000 +0200" channel="qatarstarsleaguealrayyanvsmuaithersc">
     <title lang="it">Inizia alle 17:30.</title>
@@ -51539,156 +51385,6 @@ Da Megalopoli A Citta - Giardino</title>
     <desc lang="it">United States - US Open Cup : Charlotte vs Charlotte Independence</desc>
     <category lang="it">US Open Cup</category>
   </programme>
-  <programme start="20260415000000 +0200" stop="20260415160000 +0200" channel="pakistansuperleagueroyalchallengersbangalorevslucknowsupergiants">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Pakistan Super League : Royal Challengers Bangalore vs Lucknow Super Giants.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415160000 +0200" stop="20260415180000 +0200" channel="pakistansuperleagueroyalchallengersbangalorevslucknowsupergiants">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Pakistan Super League : Royal Challengers Bangalore vs Lucknow Super Giants</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260415000000 +0200" stop="20260415160000 +0200" channel="pakistansuperleagueroyalchallengersbangalorevslucknowsupergiants">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Pakistan Super League : Royal Challengers Bangalore vs Lucknow Super Giants.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415160000 +0200" stop="20260415180000 +0200" channel="pakistansuperleagueroyalchallengersbangalorevslucknowsupergiants">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Pakistan Super League : Royal Challengers Bangalore vs Lucknow Super Giants</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260415000000 +0200" stop="20260415160000 +0200" channel="pakistansuperleagueroyalchallengersbangalorevslucknowsupergiants">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Pakistan Super League : Royal Challengers Bangalore vs Lucknow Super Giants.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415160000 +0200" stop="20260415180000 +0200" channel="pakistansuperleagueroyalchallengersbangalorevslucknowsupergiants">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Pakistan Super League : Royal Challengers Bangalore vs Lucknow Super Giants</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260415000000 +0200" stop="20260415160000 +0200" channel="pakistansuperleagueroyalchallengersbangalorevslucknowsupergiants">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Pakistan Super League : Royal Challengers Bangalore vs Lucknow Super Giants.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415160000 +0200" stop="20260415180000 +0200" channel="pakistansuperleagueroyalchallengersbangalorevslucknowsupergiants">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Pakistan Super League : Royal Challengers Bangalore vs Lucknow Super Giants</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260415000000 +0200" stop="20260415160000 +0200" channel="pakistansuperleagueroyalchallengersbangalorevslucknowsupergiants">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Pakistan Super League : Royal Challengers Bangalore vs Lucknow Super Giants.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415160000 +0200" stop="20260415180000 +0200" channel="pakistansuperleagueroyalchallengersbangalorevslucknowsupergiants">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Pakistan Super League : Royal Challengers Bangalore vs Lucknow Super Giants</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260415000000 +0200" stop="20260415160000 +0200" channel="pakistansuperleagueroyalchallengersbangalorevslucknowsupergiants">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Pakistan Super League : Royal Challengers Bangalore vs Lucknow Super Giants.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415160000 +0200" stop="20260415180000 +0200" channel="pakistansuperleagueroyalchallengersbangalorevslucknowsupergiants">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Pakistan Super League : Royal Challengers Bangalore vs Lucknow Super Giants</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260415000000 +0200" stop="20260415160000 +0200" channel="pakistansuperleagueroyalchallengersbangalorevslucknowsupergiants">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Pakistan Super League : Royal Challengers Bangalore vs Lucknow Super Giants.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415160000 +0200" stop="20260415180000 +0200" channel="pakistansuperleagueroyalchallengersbangalorevslucknowsupergiants">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Pakistan Super League : Royal Challengers Bangalore vs Lucknow Super Giants</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260415000000 +0200" stop="20260415160000 +0200" channel="pakistansuperleagueroyalchallengersbangalorevslucknowsupergiants">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Pakistan Super League : Royal Challengers Bangalore vs Lucknow Super Giants.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415160000 +0200" stop="20260415180000 +0200" channel="pakistansuperleagueroyalchallengersbangalorevslucknowsupergiants">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Pakistan Super League : Royal Challengers Bangalore vs Lucknow Super Giants</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260415000000 +0200" stop="20260415160000 +0200" channel="pakistansuperleagueroyalchallengersbangalorevslucknowsupergiants">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Pakistan Super League : Royal Challengers Bangalore vs Lucknow Super Giants.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415160000 +0200" stop="20260415180000 +0200" channel="pakistansuperleagueroyalchallengersbangalorevslucknowsupergiants">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Pakistan Super League : Royal Challengers Bangalore vs Lucknow Super Giants</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260415000000 +0200" stop="20260415160000 +0200" channel="pakistansuperleagueroyalchallengersbangalorevslucknowsupergiants">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Pakistan Super League : Royal Challengers Bangalore vs Lucknow Super Giants.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415160000 +0200" stop="20260415180000 +0200" channel="pakistansuperleagueroyalchallengersbangalorevslucknowsupergiants">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Pakistan Super League : Royal Challengers Bangalore vs Lucknow Super Giants</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260415000000 +0200" stop="20260415160000 +0200" channel="pakistansuperleaguepeshawarzalmivsquettagladiators">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Pakistan Super League : Peshawar Zalmi vs Quetta Gladiators.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415160000 +0200" stop="20260415180000 +0200" channel="pakistansuperleaguepeshawarzalmivsquettagladiators">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Pakistan Super League : Peshawar Zalmi vs Quetta Gladiators</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260415000000 +0200" stop="20260415160000 +0200" channel="pakistansuperleaguepeshawarzalmivsquettagladiators">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Pakistan Super League : Peshawar Zalmi vs Quetta Gladiators.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415160000 +0200" stop="20260415180000 +0200" channel="pakistansuperleaguepeshawarzalmivsquettagladiators">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Pakistan Super League : Peshawar Zalmi vs Quetta Gladiators</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260415000000 +0200" stop="20260415160000 +0200" channel="pakistansuperleaguepeshawarzalmivsquettagladiators">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Pakistan Super League : Peshawar Zalmi vs Quetta Gladiators.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415160000 +0200" stop="20260415180000 +0200" channel="pakistansuperleaguepeshawarzalmivsquettagladiators">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Pakistan Super League : Peshawar Zalmi vs Quetta Gladiators</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260415000000 +0200" stop="20260415160000 +0200" channel="atpbarcelonajodarrvsugocarabellic">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">ATP - BARCELONA : Jodar R. vs Ugo Carabelli C..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415160000 +0200" stop="20260415180000 +0200" channel="atpbarcelonajodarrvsugocarabellic">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - BARCELONA : Jodar R. vs Ugo Carabelli C.</desc>
-    <category lang="it">Tennis ATP - BARCELONA</category>
-  </programme>
-  <programme start="20260415000000 +0200" stop="20260415160000 +0200" channel="atpbarcelonajodarrvsugocarabellic">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">ATP - BARCELONA : Jodar R. vs Ugo Carabelli C..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415160000 +0200" stop="20260415180000 +0200" channel="atpbarcelonajodarrvsugocarabellic">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - BARCELONA : Jodar R. vs Ugo Carabelli C.</desc>
-    <category lang="it">Tennis ATP - BARCELONA</category>
-  </programme>
   <programme start="20260415000000 +0200" stop="20260415173000 +0200" channel="atpbarcelonanorriecvsquinne">
     <title lang="it">Inizia alle 17:30.</title>
     <desc lang="it">ATP - BARCELONA : Norrie C. vs Quinn E..</desc>
@@ -51708,86 +51404,6 @@ Da Megalopoli A Citta - Giardino</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">ATP - BARCELONA : Norrie C. vs Quinn E.</desc>
     <category lang="it">Tennis ATP - BARCELONA</category>
-  </programme>
-  <programme start="20260415000000 +0200" stop="20260415163000 +0200" channel="atpmunichkoprivavvsdarderil">
-    <title lang="it">Inizia alle 16:30.</title>
-    <desc lang="it">ATP - MUNICH : Kopriva V. vs Darderi L..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415163000 +0200" stop="20260415183000 +0200" channel="atpmunichkoprivavvsdarderil">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - MUNICH : Kopriva V. vs Darderi L.</desc>
-    <category lang="it">Tennis ATP - MUNICH</category>
-  </programme>
-  <programme start="20260415000000 +0200" stop="20260415163000 +0200" channel="atpmunichkoprivavvsdarderil">
-    <title lang="it">Inizia alle 16:30.</title>
-    <desc lang="it">ATP - MUNICH : Kopriva V. vs Darderi L..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415163000 +0200" stop="20260415183000 +0200" channel="atpmunichkoprivavvsdarderil">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - MUNICH : Kopriva V. vs Darderi L.</desc>
-    <category lang="it">Tennis ATP - MUNICH</category>
-  </programme>
-  <programme start="20260415000000 +0200" stop="20260415153000 +0200" channel="wtastuttgartzhangsvsnoskoval">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">WTA - STUTTGART : Zhang S. vs Noskova L..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415153000 +0200" stop="20260415173000 +0200" channel="wtastuttgartzhangsvsnoskoval">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - STUTTGART : Zhang S. vs Noskova L.</desc>
-    <category lang="it">Tennis WTA - STUTTGART</category>
-  </programme>
-  <programme start="20260415000000 +0200" stop="20260415153000 +0200" channel="wtastuttgartzhangsvsnoskoval">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">WTA - STUTTGART : Zhang S. vs Noskova L..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415153000 +0200" stop="20260415173000 +0200" channel="wtastuttgartzhangsvsnoskoval">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - STUTTGART : Zhang S. vs Noskova L.</desc>
-    <category lang="it">Tennis WTA - STUTTGART</category>
-  </programme>
-  <programme start="20260415000000 +0200" stop="20260415170000 +0200" channel="wtastuttgartostapenkojvsandreevam">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">WTA - STUTTGART : Ostapenko J. vs Andreeva M..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415170000 +0200" stop="20260415190000 +0200" channel="wtastuttgartostapenkojvsandreevam">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - STUTTGART : Ostapenko J. vs Andreeva M.</desc>
-    <category lang="it">Tennis WTA - STUTTGART</category>
-  </programme>
-  <programme start="20260415000000 +0200" stop="20260415170000 +0200" channel="wtastuttgartostapenkojvsandreevam">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">WTA - STUTTGART : Ostapenko J. vs Andreeva M..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415170000 +0200" stop="20260415190000 +0200" channel="wtastuttgartostapenkojvsandreevam">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - STUTTGART : Ostapenko J. vs Andreeva M.</desc>
-    <category lang="it">Tennis WTA - STUTTGART</category>
-  </programme>
-  <programme start="20260415000000 +0200" stop="20260415170000 +0200" channel="wtastuttgartostapenkojvsandreevam">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">WTA - STUTTGART : Ostapenko J. vs Andreeva M..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415170000 +0200" stop="20260415190000 +0200" channel="wtastuttgartostapenkojvsandreevam">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - STUTTGART : Ostapenko J. vs Andreeva M.</desc>
-    <category lang="it">Tennis WTA - STUTTGART</category>
-  </programme>
-  <programme start="20260415000000 +0200" stop="20260415170000 +0200" channel="wtastuttgartostapenkojvsandreevam">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">WTA - STUTTGART : Ostapenko J. vs Andreeva M..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415170000 +0200" stop="20260415190000 +0200" channel="wtastuttgartostapenkojvsandreevam">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - STUTTGART : Ostapenko J. vs Andreeva M.</desc>
-    <category lang="it">Tennis WTA - STUTTGART</category>
   </programme>
   <programme start="20260415000000 +0200" stop="20260415183000 +0200" channel="wtastuttgartswiatekivssiegemundl">
     <title lang="it">Inizia alle 18:30.</title>
@@ -51918,16 +51534,6 @@ Da Megalopoli A Citta - Giardino</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Pickleball Slam 4</desc>
     <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20260415000000 +0200" stop="20260415160000 +0200" channel="womenscollegetennisbig12womenstennischampionship">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Women's College Tennis : Big 12 Women's Tennis Championship.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415160000 +0200" stop="20260415180000 +0200" channel="womenscollegetennisbig12womenstennischampionship">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Women's College Tennis : Big 12 Women's Tennis Championship</desc>
-    <category lang="it">Women's College Tennis</category>
   </programme>
   <programme start="20260415000000 +0200" stop="20260415210000 +0200" channel="womenscollegegolfsouthlandwomensgolfchampionship">
     <title lang="it">Inizia alle 21:00.</title>
@@ -52619,16 +52225,6 @@ Da Megalopoli A Citta - Giardino</title>
     <desc lang="it">College Softball : Tennessee vs Duke</desc>
     <category lang="it">College Softball</category>
   </programme>
-  <programme start="20260415000000 +0200" stop="20260415170000 +0200" channel="slovenianleagueentjurvskrka">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">Slovenian League : Šentjur vs Krka.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415170000 +0200" stop="20260415190000 +0200" channel="slovenianleagueentjurvskrka">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Slovenian League : Šentjur vs Krka</desc>
-    <category lang="it">Basketball</category>
-  </programme>
   <programme start="20260415000000 +0200" stop="20260415173000 +0200" channel="euroleaguewomenunigironawvsveneziaw">
     <title lang="it">Inizia alle 17:30.</title>
     <desc lang="it">Euroleague Women : Uni Girona W vs Venezia W.</desc>
@@ -52888,76 +52484,6 @@ Da Megalopoli A Citta - Giardino</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">NBA : Orlando Magic vs Philadelphia 76ers</desc>
     <category lang="it">NBA</category>
-  </programme>
-  <programme start="20260415000000 +0200" stop="20260415153000 +0200" channel="touroflimburgmenhasselttongerenborgloon1784km">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Tour of Limburg Men | Hasselt - Tongeren-Borgloon (178.4km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415153000 +0200" stop="20260415173000 +0200" channel="touroflimburgmenhasselttongerenborgloon1784km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of Limburg Men | Hasselt - Tongeren-Borgloon (178.4km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260415000000 +0200" stop="20260415153000 +0200" channel="touroflimburgmenhasselttongerenborgloon1784km">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Tour of Limburg Men | Hasselt - Tongeren-Borgloon (178.4km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415153000 +0200" stop="20260415173000 +0200" channel="touroflimburgmenhasselttongerenborgloon1784km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of Limburg Men | Hasselt - Tongeren-Borgloon (178.4km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260415000000 +0200" stop="20260415153000 +0200" channel="touroflimburgmenhasselttongerenborgloon1784km">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Tour of Limburg Men | Hasselt - Tongeren-Borgloon (178.4km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415153000 +0200" stop="20260415173000 +0200" channel="touroflimburgmenhasselttongerenborgloon1784km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of Limburg Men | Hasselt - Tongeren-Borgloon (178.4km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260415000000 +0200" stop="20260415153000 +0200" channel="touroflimburgmenhasselttongerenborgloon1784km">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Tour of Limburg Men | Hasselt - Tongeren-Borgloon (178.4km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415153000 +0200" stop="20260415173000 +0200" channel="touroflimburgmenhasselttongerenborgloon1784km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of Limburg Men | Hasselt - Tongeren-Borgloon (178.4km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260415000000 +0200" stop="20260415153000 +0200" channel="touroflimburgmenhasselttongerenborgloon1784km">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Tour of Limburg Men | Hasselt - Tongeren-Borgloon (178.4km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415153000 +0200" stop="20260415173000 +0200" channel="touroflimburgmenhasselttongerenborgloon1784km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of Limburg Men | Hasselt - Tongeren-Borgloon (178.4km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260415000000 +0200" stop="20260415153000 +0200" channel="touroflimburgmenhasselttongerenborgloon1784km">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Tour of Limburg Men | Hasselt - Tongeren-Borgloon (178.4km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415153000 +0200" stop="20260415173000 +0200" channel="touroflimburgmenhasselttongerenborgloon1784km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of Limburg Men | Hasselt - Tongeren-Borgloon (178.4km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260415000000 +0200" stop="20260415153000 +0200" channel="touroflimburgmenhasselttongerenborgloon1784km">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Tour of Limburg Men | Hasselt - Tongeren-Borgloon (178.4km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415153000 +0200" stop="20260415173000 +0200" channel="touroflimburgmenhasselttongerenborgloon1784km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of Limburg Men | Hasselt - Tongeren-Borgloon (178.4km)</desc>
-    <category lang="it">Cycling</category>
   </programme>
   <programme start="20260415000000 +0200" stop="20260415183000 +0200" channel="bambusawomensleaguesonderjyskewvsesbjergw">
     <title lang="it">Inizia alle 18:30.</title>
@@ -53228,26 +52754,6 @@ Da Megalopoli A Citta - Giardino</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">NHL : Toronto Maple Leafs vs Ottawa Senators</desc>
     <category lang="it">NHL</category>
-  </programme>
-  <programme start="20260415000000 +0200" stop="20260415153000 +0200" channel="mhlstalnyelisyu20vsavtoyekaterinburgu20">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">MHL : Stalnye Lisy U20 vs Avto Yekaterinburg U20.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415153000 +0200" stop="20260415173000 +0200" channel="mhlstalnyelisyu20vsavtoyekaterinburgu20">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MHL : Stalnye Lisy U20 vs Avto Yekaterinburg U20</desc>
-    <category lang="it">Ice Hockey</category>
-  </programme>
-  <programme start="20260415000000 +0200" stop="20260415160000 +0200" channel="hockeyworldwchiawomenhungarywvsslovakiaw">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Hockey World WCH IA Women : Hungary W vs Slovakia W.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260415160000 +0200" stop="20260415180000 +0200" channel="hockeyworldwchiawomenhungarywvsslovakiaw">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Hockey World WCH IA Women : Hungary W vs Slovakia W</desc>
-    <category lang="it">Ice Hockey</category>
   </programme>
   <programme start="20260415000000 +0200" stop="20260415183000 +0200" channel="khlakbarskazanvsdinamominsk">
     <title lang="it">Inizia alle 18:30.</title>
