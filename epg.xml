@@ -48604,18 +48604,6 @@ L'Aquila E Il Leone</title>
   <channel id="countdowntowrestlemania42night1live">
     <display-name>Countdown to WrestleMania 42 (Night 1) Live</display-name>
   </channel>
-  <channel id="englandleagueonebarnsleyvsbradfordcity">
-    <display-name>England - League One : Barnsley vs Bradford City</display-name>
-  </channel>
-  <channel id="englandleagueoneboltonwanderersvshuddersfieldtown">
-    <display-name>England - League One : Bolton Wanderers vs Huddersfield Town</display-name>
-  </channel>
-  <channel id="englandleaguetwobarrowvswalsall">
-    <display-name>England - League Two : Barrow vs Walsall</display-name>
-  </channel>
-  <channel id="englandleaguetwoswindontownvsaccringtonstanley">
-    <display-name>England - League Two : Swindon Town vs Accrington Stanley</display-name>
-  </channel>
   <channel id="englandleagueoneleytonorientvsrotherhamunited">
     <display-name>England - League One : Leyton Orient vs Rotherham United</display-name>
   </channel>
@@ -48667,9 +48655,6 @@ L'Aquila E Il Leone</title>
   <channel id="englandleaguetwocrewealexandravsmiltonkeynesdons">
     <display-name>England - League Two : Crewe Alexandra vs Milton Keynes Dons</display-name>
   </channel>
-  <channel id="englandchampionshipderbycountyvsoxfordunited">
-    <display-name>England - Championship : Derby County vs Oxford United</display-name>
-  </channel>
   <channel id="englandchampionshipwrexhamvsstokecity">
     <display-name>England - Championship : Wrexham vs Stoke City</display-name>
   </channel>
@@ -48690,9 +48675,6 @@ L'Aquila E Il Leone</title>
   </channel>
   <channel id="irelandrepublicpremierdivisionsligoroversvswaterfordunited">
     <display-name>Ireland Republic - Premier Division : Sligo Rovers vs Waterford United</display-name>
-  </channel>
-  <channel id="englandnationalleaguehalifaxtownvssouthendunited">
-    <display-name>England - National League : Halifax Town vs Southend United</display-name>
   </channel>
   <channel id="englandnationalleaguesolihullmoorsvsbostonunited">
     <display-name>England - National League : Solihull Moors vs Boston United</display-name>
@@ -48726,108 +48708,6 @@ L'Aquila E Il Leone</title>
   </channel>
   <channel id="englandnationalleagueyorkcityvsyeoviltown">
     <display-name>England - National League : York City vs Yeovil Town</display-name>
-  </channel>
-  <channel id="denmark1divisionlyngbyvshvidovre">
-    <display-name>Denmark - 1. division : Lyngby vs Hvidovre</display-name>
-  </channel>
-  <channel id="latviavirsligagrobiavsriga">
-    <display-name>Latvia - Virsliga : Grobiņa vs Riga</display-name>
-  </channel>
-  <channel id="serbiaprvaligafkzemunvsofkvrac">
-    <display-name>Serbia Prva Liga : FK Zemun vs OFK Vršac</display-name>
-  </channel>
-  <channel id="asiaafcasiancupwomenu20japanu20wvsnorthkoreau20w">
-    <display-name>Asia AFC Asian Cup Women U20 : Japan U20 W vs North Korea U20 W</display-name>
-  </channel>
-  <channel id="polandiligalskwrocawvszniczpruszkw">
-    <display-name>Poland - I Liga : Śląsk Wrocław vs Znicz Pruszków</display-name>
-  </channel>
-  <channel id="germanybundesliga2multiview">
-    <display-name>Germany - Bundesliga 2 : Multiview</display-name>
-  </channel>
-  <channel id="germanybundesliga2simulcast">
-    <display-name>Germany - Bundesliga 2 : Simulcast</display-name>
-  </channel>
-  <channel id="germanybundesliga2arminiabielefeldvsnrnberg">
-    <display-name>Germany - Bundesliga 2 : Arminia Bielefeld vs Nürnberg</display-name>
-  </channel>
-  <channel id="germanybundesliga2magdeburgvsfortunadsseldorf">
-    <display-name>Germany - Bundesliga 2 : Magdeburg vs Fortuna Düsseldorf</display-name>
-  </channel>
-  <channel id="germanybundesliga2dynamodresdenvsbochum">
-    <display-name>Germany - Bundesliga 2 : Dynamo Dresden vs Bochum</display-name>
-  </channel>
-  <channel id="englandpremierleaguebrentfordvsfulham">
-    <display-name>England - Premier League : Brentford vs Fulham</display-name>
-  </channel>
-  <channel id="englandchampionshipmillwallvsqueensparkrangers">
-    <display-name>England - Championship : Millwall vs Queens Park Rangers</display-name>
-  </channel>
-  <channel id="englandchampionshipportsmouthvsleicestercity">
-    <display-name>England - Championship : Portsmouth vs Leicester City</display-name>
-  </channel>
-  <channel id="scotlandscottishcupdunfermlineathleticvsfalkirk">
-    <display-name>Scotland - Scottish Cup : Dunfermline Athletic vs Falkirk</display-name>
-  </channel>
-  <channel id="turkeysuperligfatihkaragmrkvseypspor">
-    <display-name>Turkey - Super Lig : Fatih Karagümrük vs Eyüpspor</display-name>
-  </channel>
-  <channel id="romanialigaicsikszeredavsunireaslobozia">
-    <display-name>Romania - Liga I : Csikszereda vs Unirea Slobozia</display-name>
-  </channel>
-  <channel id="russiarussianpremierleaguekrylyasovetovvscskamoskva">
-    <display-name>Russia - Russian Premier League : Krylya Sovetov vs CSKA Moskva</display-name>
-  </channel>
-  <channel id="slovakia2futbalovligabanklehotapvtnikomvspchov">
-    <display-name>Slovakia - 2. Futbalová Liga : Baník Lehota p.Vtáčnikom vs Púchov</display-name>
-  </channel>
-  <channel id="indiaindiansuperleaguekeralablastersvsjamshedpur">
-    <display-name>India - Indian Super League : Kerala Blasters vs Jamshedpur</display-name>
-  </channel>
-  <channel id="azerbaijanpremierliqakarvanvsshamakhi">
-    <display-name>Azerbaijan - Premier Liqa : Karvan vs Shamakhi</display-name>
-  </channel>
-  <channel id="hungarynbiimezkvesdzsryvshonvd">
-    <display-name>Hungary - NB II : Mezőkövesd-Zsóry vs Honvéd</display-name>
-  </channel>
-  <channel id="montenegrinfirstleaguefkmornarbarvsfkdeituzi">
-    <display-name>Montenegrin First League : FK Mornar Bar vs FK Dečić Tuzi</display-name>
-  </channel>
-  <channel id="franceligue2reimsvsredstar">
-    <display-name>France - Ligue 2 : Reims vs Red Star</display-name>
-  </channel>
-  <channel id="franceligue2troyesvsboulogne">
-    <display-name>France - Ligue 2 : Troyes vs Boulogne</display-name>
-  </channel>
-  <channel id="germany3ligasimulcast">
-    <display-name>Germany - 3. Liga : Simulcast</display-name>
-  </channel>
-  <channel id="germany3ligaschweinfurtvshansarostock">
-    <display-name>Germany - 3. Liga : Schweinfurt vs Hansa Rostock</display-name>
-  </channel>
-  <channel id="germany3ligasaarbrckenvs1860mnchen">
-    <display-name>Germany - 3. Liga : Saarbrücken vs 1860 München</display-name>
-  </channel>
-  <channel id="germany3ligaverlvsviktoriakln">
-    <display-name>Germany - 3. Liga : Verl vs Viktoria Köln</display-name>
-  </channel>
-  <channel id="germany3ligaingolstadtvsosnabrck">
-    <display-name>Germany - 3. Liga : Ingolstadt vs Osnabrück</display-name>
-  </channel>
-  <channel id="germany3ligamsvduisburgvshoffenheimii">
-    <display-name>Germany - 3. Liga : MSV Duisburg vs Hoffenheim II</display-name>
-  </channel>
-  <channel id="fifawomensworldcupqualifyingbelarusvskazakhstan">
-    <display-name>FIFA Women's World Cup Qualifying : Belarus vs Kazakhstan</display-name>
-  </channel>
-  <channel id="maltamaltesepremierleaguehiberniansvsbirkirkara">
-    <display-name>Malta - Maltese Premier League : Hibernians vs Birkirkara</display-name>
-  </channel>
-  <channel id="hungarynb1zalaegerszegitevskazincbarcika">
-    <display-name>Hungary - NB1 : Zalaegerszegi TE vs Kazincbarcika</display-name>
-  </channel>
-  <channel id="polandekstraklasaradomiakradomvswidzewd">
-    <display-name>Poland - Ekstraklasa : Radomiak Radom vs Widzew Łódź</display-name>
   </channel>
   <channel id="italyserieaudinesevsparma">
     <display-name>Italy - Serie A : Udinese vs Parma</display-name>
@@ -49354,8 +49234,17 @@ L'Aquila E Il Leone</title>
   <channel id="pakistansuperleaguelahoreqalandarsvspindiz">
     <display-name>Pakistan Super League : Lahore Qalandars vs Pindiz</display-name>
   </channel>
-  <channel id="atp500barcelona12finala">
-    <display-name>ATP 500 Barcelona: 1/2 Final A</display-name>
+  <channel id="atpmunichmolcanavssheltonb">
+    <display-name>ATP - MUNICH : Molcan A. vs Shelton B.</display-name>
+  </channel>
+  <channel id="wtastuttgartrybakinaevsandreevam">
+    <display-name>WTA - STUTTGART : Rybakina E. vs Andreeva M.</display-name>
+  </channel>
+  <channel id="wtarouenkostyukmvsmariat">
+    <display-name>WTA - ROUEN : Kostyuk M. vs Maria T.</display-name>
+  </channel>
+  <channel id="wtarouenpodrezvvscirsteas">
+    <display-name>WTA - ROUEN : Podrez V. vs Cirstea S.</display-name>
   </channel>
   <channel id="atp500barcelona12finalb">
     <display-name>ATP 500 Barcelona: 1/2 Final B</display-name>
@@ -49386,9 +49275,6 @@ L'Aquila E Il Leone</title>
   </channel>
   <channel id="womenscollegetennisbig12womenstennischampionship">
     <display-name>Women's College Tennis : Big 12 Women's Tennis Championship</display-name>
-  </channel>
-  <channel id="fimenduranceworldchampionship24hoursoflemansrace">
-    <display-name>FIM Endurance World Championship 24 Hours of Le Mans | Race</display-name>
   </channel>
   <channel id="worldsbkround3netherlandsrace1">
     <display-name>WorldSBK | Round 3 | Netherlands Race 1</display-name>
@@ -49450,9 +49336,6 @@ L'Aquila E Il Leone</title>
   <channel id="supercarschampionshipqualifyingrace13">
     <display-name>Supercars Championship : Qualifying Race 13</display-name>
   </channel>
-  <channel id="bkfcfightnighthaselyhepivskrzysztofwisniewski">
-    <display-name>BKFC Fight Night : Hasely Hepi vs Krzysztof Wisniewski</display-name>
-  </channel>
   <channel id="arenagoldenfight12">
     <display-name>Arena Golden Fight 12</display-name>
   </channel>
@@ -49465,9 +49348,6 @@ L'Aquila E Il Leone</title>
   <channel id="boxingvitaliystalchenkovslukaslabasko">
     <display-name>Boxing : Vitaliy Stalchenko vs Lukas Labasko</display-name>
   </channel>
-  <channel id="rwsaprilinfernorodriguezvshercules">
-    <display-name>RWS April Inferno : Rodriguez vs. Hercules</display-name>
-  </channel>
   <channel id="ufcfightnightprelimsjulienleblancvsrobertvalentin">
     <display-name>UFC Fight Night Prelims : Julien Leblanc vs Robert Valentin</display-name>
   </channel>
@@ -49477,17 +49357,11 @@ L'Aquila E Il Leone</title>
   <channel id="wwewrestlemania42night1">
     <display-name>WWE WrestleMania 42: Night 1</display-name>
   </channel>
-  <channel id="judoeuropeanchampionshipsday3finals">
-    <display-name>Judo: European Championships Day 3. Finals.</display-name>
-  </channel>
-  <channel id="ladieseuropeantourjoburgladiesopen">
-    <display-name>Ladies European Tour Joburg Ladies Open</display-name>
+  <channel id="2026seniorpgachampionshipthirdround">
+    <display-name>2026 Senior PGA Championship Third Round</display-name>
   </channel>
   <channel id="pgatourrbcheritage">
     <display-name>PGA Tour RBC Heritage</display-name>
-  </channel>
-  <channel id="2026seniorpgachampionshipthirdround">
-    <display-name>2026 Senior PGA Championship Third Round</display-name>
   </channel>
   <channel id="livgolfmexicocityround3">
     <display-name>LIV Golf Mexico City | Round 3</display-name>
@@ -49642,12 +49516,6 @@ L'Aquila E Il Leone</title>
   <channel id="minorleaguebaseballreadingfightinphilsvssomersetpatriots">
     <display-name>Minor League Baseball : Reading Fightin Phils vs Somerset Patriots</display-name>
   </channel>
-  <channel id="vtbunitedleaguelokomotivkubanvsparmaperm">
-    <display-name>VTB United League : Lokomotiv Kuban vs Parma Perm</display-name>
-  </channel>
-  <channel id="sperligibursasporvsmersinbsb">
-    <display-name>Süper Ligi : Bursaspor vs Mersin BSB</display-name>
-  </channel>
   <channel id="basketleaguemykonosvsperisteri">
     <display-name>Basket League : Mykonos vs Peristeri</display-name>
   </channel>
@@ -49753,12 +49621,6 @@ L'Aquila E Il Leone</title>
   <channel id="gymnasticsncaachampionship">
     <display-name>Gymnastics : NCAA Championship</display-name>
   </channel>
-  <channel id="russiasuperligawomenrostovdonvsastrakhanochkaastrakhan">
-    <display-name>Russia Superliga, Women : Rostov-Don vs Astrakhanochka Astrakhan</display-name>
-  </channel>
-  <channel id="hungariancupsemifinaloneveszprmhcvsotpbankpickszeged">
-    <display-name>Hungarian Cup semi-final : ONE Veszprém HC vs OTP Bank-Pick Szeged</display-name>
-  </channel>
   <channel id="polishcupsemifinalorlenwisapockvsindustriakielce">
     <display-name>Polish Cup Semi-final : ORLEN Wisła Płock vs Industria Kielce</display-name>
   </channel>
@@ -49800,12 +49662,6 @@ L'Aquila E Il Leone</title>
   </channel>
   <channel id="handballbundesligawomenhalleneustadtwvsneckarsulmerw">
     <display-name>Handball-Bundesliga Women : Halle-Neustadt W vs Neckarsulmer W</display-name>
-  </channel>
-  <channel id="liveracingfromaroundtheuk">
-    <display-name>Live racing from around the UK</display-name>
-  </channel>
-  <channel id="liveracingfromayrthirsknottinghamandbellewstown">
-    <display-name>Live racing from Ayr, Thirsk, Nottingham and Bellewstown</display-name>
   </channel>
   <channel id="americasdayattheraces">
     <display-name>America's Day At the Races</display-name>
@@ -49890,18 +49746,6 @@ L'Aquila E Il Leone</title>
   </channel>
   <channel id="superleaguerugbycatalansdragonsvswarringtonwolves">
     <display-name>Super League Rugby : Catalans Dragons vs Warrington Wolves</display-name>
-  </channel>
-  <channel id="unitedrugbychampionshipstormersvsconnacht">
-    <display-name>United Rugby Championship : Stormers vs Connacht</display-name>
-  </channel>
-  <channel id="superrugbyforcevscrusaders">
-    <display-name>Super Rugby : Force vs Crusaders</display-name>
-  </channel>
-  <channel id="top14larochellevsbordeauxbegles">
-    <display-name>Top 14 : La Rochelle vs Bordeaux Begles</display-name>
-  </channel>
-  <channel id="sixnationswomenscotlandwvsenglandw">
-    <display-name>Six Nations Women : Scotland W vs England W</display-name>
   </channel>
   <channel id="avivapremiershiprugbyleicestertigersvsnewcastlefalcons">
     <display-name>Aviva Premiership Rugby : Leicester Tigers vs Newcastle Falcons</display-name>
@@ -50240,46 +50084,6 @@ L'Aquila E Il Leone</title>
     <desc lang="it">Countdown to WrestleMania 42 (Night 1) Live</desc>
     <category lang="it">TV Shows</category>
   </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandleagueonebarnsleyvsbradfordcity">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - League One : Barnsley vs Bradford City.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandleagueonebarnsleyvsbradfordcity">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - League One : Barnsley vs Bradford City</desc>
-    <category lang="it">England - League One/Two</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandleagueoneboltonwanderersvshuddersfieldtown">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - League One : Bolton Wanderers vs Huddersfield Town.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandleagueoneboltonwanderersvshuddersfieldtown">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - League One : Bolton Wanderers vs Huddersfield Town</desc>
-    <category lang="it">England - League One/Two</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandleaguetwobarrowvswalsall">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - League Two : Barrow vs Walsall.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandleaguetwobarrowvswalsall">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - League Two : Barrow vs Walsall</desc>
-    <category lang="it">England - League One/Two</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandleaguetwoswindontownvsaccringtonstanley">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - League Two : Swindon Town vs Accrington Stanley.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandleaguetwoswindontownvsaccringtonstanley">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - League Two : Swindon Town vs Accrington Stanley</desc>
-    <category lang="it">England - League One/Two</category>
-  </programme>
   <programme start="20260418000000 +0200" stop="20260418160000 +0200" channel="englandleagueoneleytonorientvsrotherhamunited">
     <title lang="it">Inizia alle 16:00.</title>
     <desc lang="it">England - League One : Leyton Orient vs Rotherham United.</desc>
@@ -50450,26 +50254,6 @@ L'Aquila E Il Leone</title>
     <desc lang="it">England - League Two : Crewe Alexandra vs Milton Keynes Dons</desc>
     <category lang="it">England - League One/Two</category>
   </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandchampionshipderbycountyvsoxfordunited">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Championship : Derby County vs Oxford United.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandchampionshipderbycountyvsoxfordunited">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Championship : Derby County vs Oxford United</desc>
-    <category lang="it">England - Championship</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandchampionshipderbycountyvsoxfordunited">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Championship : Derby County vs Oxford United.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandchampionshipderbycountyvsoxfordunited">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Championship : Derby County vs Oxford United</desc>
-    <category lang="it">England - Championship</category>
-  </programme>
   <programme start="20260418000000 +0200" stop="20260418160000 +0200" channel="englandchampionshipwrexhamvsstokecity">
     <title lang="it">Inizia alle 16:00.</title>
     <desc lang="it">England - Championship : Wrexham vs Stoke City.</desc>
@@ -50539,16 +50323,6 @@ L'Aquila E Il Leone</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Ireland Republic - Premier Division : Sligo Rovers vs Waterford United</desc>
     <category lang="it">Ireland Republic</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandnationalleaguehalifaxtownvssouthendunited">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - National League : Halifax Town vs Southend United.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandnationalleaguehalifaxtownvssouthendunited">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - National League : Halifax Town vs Southend United</desc>
-    <category lang="it">England - National League</category>
   </programme>
   <programme start="20260418000000 +0200" stop="20260418160000 +0200" channel="englandnationalleaguesolihullmoorsvsbostonunited">
     <title lang="it">Inizia alle 16:00.</title>
@@ -50659,1076 +50433,6 @@ L'Aquila E Il Leone</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">England - National League : York City vs Yeovil Town</desc>
     <category lang="it">England - National League</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418130000 +0200" channel="denmark1divisionlyngbyvshvidovre">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Denmark - 1. division : Lyngby vs Hvidovre.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418130000 +0200" stop="20260418150000 +0200" channel="denmark1divisionlyngbyvshvidovre">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Denmark - 1. division : Lyngby vs Hvidovre</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418130000 +0200" channel="latviavirsligagrobiavsriga">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Latvia - Virsliga : Grobiņa vs Riga.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418130000 +0200" stop="20260418150000 +0200" channel="latviavirsligagrobiavsriga">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Latvia - Virsliga : Grobiņa vs Riga</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418130000 +0200" channel="serbiaprvaligafkzemunvsofkvrac">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Serbia Prva Liga : FK Zemun vs OFK Vršac.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418130000 +0200" stop="20260418150000 +0200" channel="serbiaprvaligafkzemunvsofkvrac">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Serbia Prva Liga : FK Zemun vs OFK Vršac</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418130000 +0200" channel="asiaafcasiancupwomenu20japanu20wvsnorthkoreau20w">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Asia AFC Asian Cup Women U20 : Japan U20 W vs North Korea U20 W.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418130000 +0200" stop="20260418150000 +0200" channel="asiaafcasiancupwomenu20japanu20wvsnorthkoreau20w">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Asia AFC Asian Cup Women U20 : Japan U20 W vs North Korea U20 W</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418130000 +0200" channel="asiaafcasiancupwomenu20japanu20wvsnorthkoreau20w">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Asia AFC Asian Cup Women U20 : Japan U20 W vs North Korea U20 W.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418130000 +0200" stop="20260418150000 +0200" channel="asiaafcasiancupwomenu20japanu20wvsnorthkoreau20w">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Asia AFC Asian Cup Women U20 : Japan U20 W vs North Korea U20 W</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418130000 +0200" channel="polandiligalskwrocawvszniczpruszkw">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Poland - I Liga : Śląsk Wrocław vs Znicz Pruszków.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418130000 +0200" stop="20260418150000 +0200" channel="polandiligalskwrocawvszniczpruszkw">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Poland - I Liga : Śląsk Wrocław vs Znicz Pruszków</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418130000 +0200" channel="germanybundesliga2multiview">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Multiview.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418130000 +0200" stop="20260418150000 +0200" channel="germanybundesliga2multiview">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Multiview</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418130000 +0200" channel="germanybundesliga2simulcast">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Simulcast.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418130000 +0200" stop="20260418150000 +0200" channel="germanybundesliga2simulcast">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Simulcast</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418130000 +0200" channel="germanybundesliga2arminiabielefeldvsnrnberg">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Arminia Bielefeld vs Nürnberg.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418130000 +0200" stop="20260418150000 +0200" channel="germanybundesliga2arminiabielefeldvsnrnberg">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Arminia Bielefeld vs Nürnberg</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418130000 +0200" channel="germanybundesliga2arminiabielefeldvsnrnberg">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Arminia Bielefeld vs Nürnberg.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418130000 +0200" stop="20260418150000 +0200" channel="germanybundesliga2arminiabielefeldvsnrnberg">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Arminia Bielefeld vs Nürnberg</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418130000 +0200" channel="germanybundesliga2arminiabielefeldvsnrnberg">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Arminia Bielefeld vs Nürnberg.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418130000 +0200" stop="20260418150000 +0200" channel="germanybundesliga2arminiabielefeldvsnrnberg">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Arminia Bielefeld vs Nürnberg</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418130000 +0200" channel="germanybundesliga2arminiabielefeldvsnrnberg">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Arminia Bielefeld vs Nürnberg.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418130000 +0200" stop="20260418150000 +0200" channel="germanybundesliga2arminiabielefeldvsnrnberg">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Arminia Bielefeld vs Nürnberg</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418130000 +0200" channel="germanybundesliga2arminiabielefeldvsnrnberg">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Arminia Bielefeld vs Nürnberg.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418130000 +0200" stop="20260418150000 +0200" channel="germanybundesliga2arminiabielefeldvsnrnberg">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Arminia Bielefeld vs Nürnberg</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418130000 +0200" channel="germanybundesliga2arminiabielefeldvsnrnberg">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Arminia Bielefeld vs Nürnberg.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418130000 +0200" stop="20260418150000 +0200" channel="germanybundesliga2arminiabielefeldvsnrnberg">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Arminia Bielefeld vs Nürnberg</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418130000 +0200" channel="germanybundesliga2arminiabielefeldvsnrnberg">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Arminia Bielefeld vs Nürnberg.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418130000 +0200" stop="20260418150000 +0200" channel="germanybundesliga2arminiabielefeldvsnrnberg">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Arminia Bielefeld vs Nürnberg</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418130000 +0200" channel="germanybundesliga2arminiabielefeldvsnrnberg">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Arminia Bielefeld vs Nürnberg.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418130000 +0200" stop="20260418150000 +0200" channel="germanybundesliga2arminiabielefeldvsnrnberg">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Arminia Bielefeld vs Nürnberg</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418130000 +0200" channel="germanybundesliga2arminiabielefeldvsnrnberg">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Arminia Bielefeld vs Nürnberg.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418130000 +0200" stop="20260418150000 +0200" channel="germanybundesliga2arminiabielefeldvsnrnberg">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Arminia Bielefeld vs Nürnberg</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418130000 +0200" channel="germanybundesliga2magdeburgvsfortunadsseldorf">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Magdeburg vs Fortuna Düsseldorf.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418130000 +0200" stop="20260418150000 +0200" channel="germanybundesliga2magdeburgvsfortunadsseldorf">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Magdeburg vs Fortuna Düsseldorf</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418130000 +0200" channel="germanybundesliga2magdeburgvsfortunadsseldorf">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Magdeburg vs Fortuna Düsseldorf.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418130000 +0200" stop="20260418150000 +0200" channel="germanybundesliga2magdeburgvsfortunadsseldorf">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Magdeburg vs Fortuna Düsseldorf</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418130000 +0200" channel="germanybundesliga2magdeburgvsfortunadsseldorf">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Magdeburg vs Fortuna Düsseldorf.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418130000 +0200" stop="20260418150000 +0200" channel="germanybundesliga2magdeburgvsfortunadsseldorf">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Magdeburg vs Fortuna Düsseldorf</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418130000 +0200" channel="germanybundesliga2magdeburgvsfortunadsseldorf">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Magdeburg vs Fortuna Düsseldorf.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418130000 +0200" stop="20260418150000 +0200" channel="germanybundesliga2magdeburgvsfortunadsseldorf">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Magdeburg vs Fortuna Düsseldorf</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418130000 +0200" channel="germanybundesliga2magdeburgvsfortunadsseldorf">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Magdeburg vs Fortuna Düsseldorf.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418130000 +0200" stop="20260418150000 +0200" channel="germanybundesliga2magdeburgvsfortunadsseldorf">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Magdeburg vs Fortuna Düsseldorf</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418130000 +0200" channel="germanybundesliga2dynamodresdenvsbochum">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Dynamo Dresden vs Bochum.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418130000 +0200" stop="20260418150000 +0200" channel="germanybundesliga2dynamodresdenvsbochum">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Dynamo Dresden vs Bochum</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418130000 +0200" channel="germanybundesliga2dynamodresdenvsbochum">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Dynamo Dresden vs Bochum.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418130000 +0200" stop="20260418150000 +0200" channel="germanybundesliga2dynamodresdenvsbochum">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Dynamo Dresden vs Bochum</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418130000 +0200" channel="germanybundesliga2dynamodresdenvsbochum">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Dynamo Dresden vs Bochum.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418130000 +0200" stop="20260418150000 +0200" channel="germanybundesliga2dynamodresdenvsbochum">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Dynamo Dresden vs Bochum</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418130000 +0200" channel="germanybundesliga2dynamodresdenvsbochum">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Dynamo Dresden vs Bochum.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418130000 +0200" stop="20260418150000 +0200" channel="germanybundesliga2dynamodresdenvsbochum">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Dynamo Dresden vs Bochum</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418130000 +0200" channel="germanybundesliga2dynamodresdenvsbochum">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Dynamo Dresden vs Bochum.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418130000 +0200" stop="20260418150000 +0200" channel="germanybundesliga2dynamodresdenvsbochum">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Dynamo Dresden vs Bochum</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418130000 +0200" channel="germanybundesliga2dynamodresdenvsbochum">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Dynamo Dresden vs Bochum.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418130000 +0200" stop="20260418150000 +0200" channel="germanybundesliga2dynamodresdenvsbochum">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Dynamo Dresden vs Bochum</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandpremierleaguebrentfordvsfulham">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Brentford vs Fulham</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandchampionshipmillwallvsqueensparkrangers">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Championship : Millwall vs Queens Park Rangers.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandchampionshipmillwallvsqueensparkrangers">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Championship : Millwall vs Queens Park Rangers</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandchampionshipportsmouthvsleicestercity">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Championship : Portsmouth vs Leicester City.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandchampionshipportsmouthvsleicestercity">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Championship : Portsmouth vs Leicester City</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandchampionshipportsmouthvsleicestercity">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Championship : Portsmouth vs Leicester City.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandchampionshipportsmouthvsleicestercity">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Championship : Portsmouth vs Leicester City</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandchampionshipportsmouthvsleicestercity">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Championship : Portsmouth vs Leicester City.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandchampionshipportsmouthvsleicestercity">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Championship : Portsmouth vs Leicester City</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandchampionshipportsmouthvsleicestercity">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Championship : Portsmouth vs Leicester City.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandchampionshipportsmouthvsleicestercity">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Championship : Portsmouth vs Leicester City</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandchampionshipportsmouthvsleicestercity">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Championship : Portsmouth vs Leicester City.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandchampionshipportsmouthvsleicestercity">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Championship : Portsmouth vs Leicester City</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandchampionshipportsmouthvsleicestercity">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Championship : Portsmouth vs Leicester City.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandchampionshipportsmouthvsleicestercity">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Championship : Portsmouth vs Leicester City</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandchampionshipportsmouthvsleicestercity">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Championship : Portsmouth vs Leicester City.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandchampionshipportsmouthvsleicestercity">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Championship : Portsmouth vs Leicester City</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandchampionshipportsmouthvsleicestercity">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Championship : Portsmouth vs Leicester City.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandchampionshipportsmouthvsleicestercity">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Championship : Portsmouth vs Leicester City</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandchampionshipportsmouthvsleicestercity">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Championship : Portsmouth vs Leicester City.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandchampionshipportsmouthvsleicestercity">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Championship : Portsmouth vs Leicester City</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandchampionshipportsmouthvsleicestercity">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Championship : Portsmouth vs Leicester City.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandchampionshipportsmouthvsleicestercity">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Championship : Portsmouth vs Leicester City</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandchampionshipportsmouthvsleicestercity">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Championship : Portsmouth vs Leicester City.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandchampionshipportsmouthvsleicestercity">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Championship : Portsmouth vs Leicester City</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandchampionshipportsmouthvsleicestercity">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Championship : Portsmouth vs Leicester City.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandchampionshipportsmouthvsleicestercity">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Championship : Portsmouth vs Leicester City</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandchampionshipportsmouthvsleicestercity">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Championship : Portsmouth vs Leicester City.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandchampionshipportsmouthvsleicestercity">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Championship : Portsmouth vs Leicester City</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandchampionshipportsmouthvsleicestercity">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Championship : Portsmouth vs Leicester City.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandchampionshipportsmouthvsleicestercity">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Championship : Portsmouth vs Leicester City</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandchampionshipportsmouthvsleicestercity">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Championship : Portsmouth vs Leicester City.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandchampionshipportsmouthvsleicestercity">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Championship : Portsmouth vs Leicester City</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandchampionshipportsmouthvsleicestercity">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Championship : Portsmouth vs Leicester City.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandchampionshipportsmouthvsleicestercity">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Championship : Portsmouth vs Leicester City</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="englandchampionshipportsmouthvsleicestercity">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Championship : Portsmouth vs Leicester City.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="englandchampionshipportsmouthvsleicestercity">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Championship : Portsmouth vs Leicester City</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="scotlandscottishcupdunfermlineathleticvsfalkirk">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Scotland - Scottish Cup : Dunfermline Athletic vs Falkirk.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="scotlandscottishcupdunfermlineathleticvsfalkirk">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Scotland - Scottish Cup : Dunfermline Athletic vs Falkirk</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="scotlandscottishcupdunfermlineathleticvsfalkirk">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Scotland - Scottish Cup : Dunfermline Athletic vs Falkirk.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="scotlandscottishcupdunfermlineathleticvsfalkirk">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Scotland - Scottish Cup : Dunfermline Athletic vs Falkirk</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="scotlandscottishcupdunfermlineathleticvsfalkirk">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Scotland - Scottish Cup : Dunfermline Athletic vs Falkirk.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="scotlandscottishcupdunfermlineathleticvsfalkirk">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Scotland - Scottish Cup : Dunfermline Athletic vs Falkirk</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="scotlandscottishcupdunfermlineathleticvsfalkirk">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Scotland - Scottish Cup : Dunfermline Athletic vs Falkirk.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="scotlandscottishcupdunfermlineathleticvsfalkirk">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Scotland - Scottish Cup : Dunfermline Athletic vs Falkirk</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="scotlandscottishcupdunfermlineathleticvsfalkirk">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Scotland - Scottish Cup : Dunfermline Athletic vs Falkirk.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="scotlandscottishcupdunfermlineathleticvsfalkirk">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Scotland - Scottish Cup : Dunfermline Athletic vs Falkirk</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="turkeysuperligfatihkaragmrkvseypspor">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Turkey - Super Lig : Fatih Karagümrük vs Eyüpspor.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="turkeysuperligfatihkaragmrkvseypspor">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Turkey - Super Lig : Fatih Karagümrük vs Eyüpspor</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="romanialigaicsikszeredavsunireaslobozia">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Romania - Liga I : Csikszereda vs Unirea Slobozia.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="romanialigaicsikszeredavsunireaslobozia">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Romania - Liga I : Csikszereda vs Unirea Slobozia</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="romanialigaicsikszeredavsunireaslobozia">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Romania - Liga I : Csikszereda vs Unirea Slobozia.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="romanialigaicsikszeredavsunireaslobozia">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Romania - Liga I : Csikszereda vs Unirea Slobozia</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="russiarussianpremierleaguekrylyasovetovvscskamoskva">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Russia - Russian Premier League : Krylya Sovetov vs CSKA Moskva.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="russiarussianpremierleaguekrylyasovetovvscskamoskva">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Russia - Russian Premier League : Krylya Sovetov vs CSKA Moskva</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="russiarussianpremierleaguekrylyasovetovvscskamoskva">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Russia - Russian Premier League : Krylya Sovetov vs CSKA Moskva.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="russiarussianpremierleaguekrylyasovetovvscskamoskva">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Russia - Russian Premier League : Krylya Sovetov vs CSKA Moskva</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="russiarussianpremierleaguekrylyasovetovvscskamoskva">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Russia - Russian Premier League : Krylya Sovetov vs CSKA Moskva.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="russiarussianpremierleaguekrylyasovetovvscskamoskva">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Russia - Russian Premier League : Krylya Sovetov vs CSKA Moskva</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="russiarussianpremierleaguekrylyasovetovvscskamoskva">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Russia - Russian Premier League : Krylya Sovetov vs CSKA Moskva.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="russiarussianpremierleaguekrylyasovetovvscskamoskva">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Russia - Russian Premier League : Krylya Sovetov vs CSKA Moskva</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="slovakia2futbalovligabanklehotapvtnikomvspchov">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Slovakia - 2. Futbalová Liga : Baník Lehota p.Vtáčnikom vs Púchov.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="slovakia2futbalovligabanklehotapvtnikomvspchov">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Slovakia - 2. Futbalová Liga : Baník Lehota p.Vtáčnikom vs Púchov</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="indiaindiansuperleaguekeralablastersvsjamshedpur">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">India - Indian Super League : Kerala Blasters vs Jamshedpur.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="indiaindiansuperleaguekeralablastersvsjamshedpur">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">India - Indian Super League : Kerala Blasters vs Jamshedpur</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="azerbaijanpremierliqakarvanvsshamakhi">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Azerbaijan - Premier Liqa : Karvan vs Shamakhi.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="azerbaijanpremierliqakarvanvsshamakhi">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Azerbaijan - Premier Liqa : Karvan vs Shamakhi</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418140000 +0200" channel="hungarynbiimezkvesdzsryvshonvd">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Hungary - NB II : Mezőkövesd-Zsóry vs Honvéd.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418140000 +0200" stop="20260418160000 +0200" channel="hungarynbiimezkvesdzsryvshonvd">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Hungary - NB II : Mezőkövesd-Zsóry vs Honvéd</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418140000 +0200" channel="montenegrinfirstleaguefkmornarbarvsfkdeituzi">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Montenegrin First League : FK Mornar Bar vs FK Dečić Tuzi.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418140000 +0200" stop="20260418160000 +0200" channel="montenegrinfirstleaguefkmornarbarvsfkdeituzi">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Montenegrin First League : FK Mornar Bar vs FK Dečić Tuzi</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418140000 +0200" channel="franceligue2reimsvsredstar">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">France - Ligue 2 : Reims vs Red Star.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418140000 +0200" stop="20260418160000 +0200" channel="franceligue2reimsvsredstar">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">France - Ligue 2 : Reims vs Red Star</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418140000 +0200" channel="franceligue2reimsvsredstar">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">France - Ligue 2 : Reims vs Red Star.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418140000 +0200" stop="20260418160000 +0200" channel="franceligue2reimsvsredstar">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">France - Ligue 2 : Reims vs Red Star</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418140000 +0200" channel="franceligue2reimsvsredstar">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">France - Ligue 2 : Reims vs Red Star.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418140000 +0200" stop="20260418160000 +0200" channel="franceligue2reimsvsredstar">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">France - Ligue 2 : Reims vs Red Star</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418140000 +0200" channel="franceligue2reimsvsredstar">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">France - Ligue 2 : Reims vs Red Star.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418140000 +0200" stop="20260418160000 +0200" channel="franceligue2reimsvsredstar">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">France - Ligue 2 : Reims vs Red Star</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418140000 +0200" channel="franceligue2troyesvsboulogne">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">France - Ligue 2 : Troyes vs Boulogne.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418140000 +0200" stop="20260418160000 +0200" channel="franceligue2troyesvsboulogne">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">France - Ligue 2 : Troyes vs Boulogne</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418140000 +0200" channel="franceligue2troyesvsboulogne">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">France - Ligue 2 : Troyes vs Boulogne.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418140000 +0200" stop="20260418160000 +0200" channel="franceligue2troyesvsboulogne">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">France - Ligue 2 : Troyes vs Boulogne</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418140000 +0200" channel="germany3ligasimulcast">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Germany - 3. Liga : Simulcast.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418140000 +0200" stop="20260418160000 +0200" channel="germany3ligasimulcast">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - 3. Liga : Simulcast</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418140000 +0200" channel="germany3ligaschweinfurtvshansarostock">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Germany - 3. Liga : Schweinfurt vs Hansa Rostock.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418140000 +0200" stop="20260418160000 +0200" channel="germany3ligaschweinfurtvshansarostock">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - 3. Liga : Schweinfurt vs Hansa Rostock</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418140000 +0200" channel="germany3ligasaarbrckenvs1860mnchen">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Germany - 3. Liga : Saarbrücken vs 1860 München.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418140000 +0200" stop="20260418160000 +0200" channel="germany3ligasaarbrckenvs1860mnchen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - 3. Liga : Saarbrücken vs 1860 München</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418140000 +0200" channel="germany3ligasaarbrckenvs1860mnchen">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Germany - 3. Liga : Saarbrücken vs 1860 München.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418140000 +0200" stop="20260418160000 +0200" channel="germany3ligasaarbrckenvs1860mnchen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - 3. Liga : Saarbrücken vs 1860 München</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418140000 +0200" channel="germany3ligaverlvsviktoriakln">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Germany - 3. Liga : Verl vs Viktoria Köln.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418140000 +0200" stop="20260418160000 +0200" channel="germany3ligaverlvsviktoriakln">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - 3. Liga : Verl vs Viktoria Köln</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418140000 +0200" channel="germany3ligaingolstadtvsosnabrck">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Germany - 3. Liga : Ingolstadt vs Osnabrück.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418140000 +0200" stop="20260418160000 +0200" channel="germany3ligaingolstadtvsosnabrck">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - 3. Liga : Ingolstadt vs Osnabrück</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418140000 +0200" channel="germany3ligamsvduisburgvshoffenheimii">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Germany - 3. Liga : MSV Duisburg vs Hoffenheim II.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418140000 +0200" stop="20260418160000 +0200" channel="germany3ligamsvduisburgvshoffenheimii">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - 3. Liga : MSV Duisburg vs Hoffenheim II</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418140000 +0200" channel="fifawomensworldcupqualifyingbelarusvskazakhstan">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">FIFA Women's World Cup Qualifying : Belarus vs Kazakhstan.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418140000 +0200" stop="20260418160000 +0200" channel="fifawomensworldcupqualifyingbelarusvskazakhstan">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">FIFA Women's World Cup Qualifying : Belarus vs Kazakhstan</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418140000 +0200" channel="maltamaltesepremierleaguehiberniansvsbirkirkara">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Malta - Maltese Premier League : Hibernians vs Birkirkara.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418140000 +0200" stop="20260418160000 +0200" channel="maltamaltesepremierleaguehiberniansvsbirkirkara">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Malta - Maltese Premier League : Hibernians vs Birkirkara</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418141500 +0200" channel="hungarynb1zalaegerszegitevskazincbarcika">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">Hungary - NB1 : Zalaegerszegi TE vs Kazincbarcika.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418141500 +0200" stop="20260418161500 +0200" channel="hungarynb1zalaegerszegitevskazincbarcika">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Hungary - NB1 : Zalaegerszegi TE vs Kazincbarcika</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418144500 +0200" channel="polandekstraklasaradomiakradomvswidzewd">
-    <title lang="it">Inizia alle 14:45.</title>
-    <desc lang="it">Poland - Ekstraklasa : Radomiak Radom vs Widzew Łódź.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418144500 +0200" stop="20260418164500 +0200" channel="polandekstraklasaradomiakradomvswidzewd">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Poland - Ekstraklasa : Radomiak Radom vs Widzew Łódź</desc>
-    <category lang="it">All Soccer Events</category>
   </programme>
   <programme start="20260418000000 +0200" stop="20260418150000 +0200" channel="italyserieaudinesevsparma">
     <title lang="it">Inizia alle 15:00.</title>
@@ -57250,15 +55954,105 @@ L'Aquila E Il Leone</title>
     <desc lang="it">Pakistan Super League : Lahore Qalandars vs Pindiz</desc>
     <category lang="it">Cricket</category>
   </programme>
-  <programme start="20260418000000 +0200" stop="20260418133000 +0200" channel="atp500barcelona12finala">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">ATP 500 Barcelona: 1/2 Final A.</desc>
+  <programme start="20260418000000 +0200" stop="20260418150000 +0200" channel="atpmunichmolcanavssheltonb">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">ATP - MUNICH : Molcan A. vs Shelton B..</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260418133000 +0200" stop="20260418153000 +0200" channel="atp500barcelona12finala">
+  <programme start="20260418150000 +0200" stop="20260418170000 +0200" channel="atpmunichmolcanavssheltonb">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP 500 Barcelona: 1/2 Final A</desc>
-    <category lang="it">Tennis</category>
+    <desc lang="it">ATP - MUNICH : Molcan A. vs Shelton B.</desc>
+    <category lang="it">ATP - MUNICH</category>
+  </programme>
+  <programme start="20260418000000 +0200" stop="20260418150000 +0200" channel="atpmunichmolcanavssheltonb">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">ATP - MUNICH : Molcan A. vs Shelton B..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260418150000 +0200" stop="20260418170000 +0200" channel="atpmunichmolcanavssheltonb">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">ATP - MUNICH : Molcan A. vs Shelton B.</desc>
+    <category lang="it">ATP - MUNICH</category>
+  </programme>
+  <programme start="20260418000000 +0200" stop="20260418160000 +0200" channel="wtastuttgartrybakinaevsandreevam">
+    <title lang="it">Inizia alle 16:00.</title>
+    <desc lang="it">WTA - STUTTGART : Rybakina E. vs Andreeva M..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260418160000 +0200" stop="20260418180000 +0200" channel="wtastuttgartrybakinaevsandreevam">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">WTA - STUTTGART : Rybakina E. vs Andreeva M.</desc>
+    <category lang="it">WTA - STUTTGART</category>
+  </programme>
+  <programme start="20260418000000 +0200" stop="20260418160000 +0200" channel="wtastuttgartrybakinaevsandreevam">
+    <title lang="it">Inizia alle 16:00.</title>
+    <desc lang="it">WTA - STUTTGART : Rybakina E. vs Andreeva M..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260418160000 +0200" stop="20260418180000 +0200" channel="wtastuttgartrybakinaevsandreevam">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">WTA - STUTTGART : Rybakina E. vs Andreeva M.</desc>
+    <category lang="it">WTA - STUTTGART</category>
+  </programme>
+  <programme start="20260418000000 +0200" stop="20260418160000 +0200" channel="wtastuttgartrybakinaevsandreevam">
+    <title lang="it">Inizia alle 16:00.</title>
+    <desc lang="it">WTA - STUTTGART : Rybakina E. vs Andreeva M..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260418160000 +0200" stop="20260418180000 +0200" channel="wtastuttgartrybakinaevsandreevam">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">WTA - STUTTGART : Rybakina E. vs Andreeva M.</desc>
+    <category lang="it">WTA - STUTTGART</category>
+  </programme>
+  <programme start="20260418000000 +0200" stop="20260418160000 +0200" channel="wtastuttgartrybakinaevsandreevam">
+    <title lang="it">Inizia alle 16:00.</title>
+    <desc lang="it">WTA - STUTTGART : Rybakina E. vs Andreeva M..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260418160000 +0200" stop="20260418180000 +0200" channel="wtastuttgartrybakinaevsandreevam">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">WTA - STUTTGART : Rybakina E. vs Andreeva M.</desc>
+    <category lang="it">WTA - STUTTGART</category>
+  </programme>
+  <programme start="20260418000000 +0200" stop="20260418153000 +0200" channel="wtarouenkostyukmvsmariat">
+    <title lang="it">Inizia alle 15:30.</title>
+    <desc lang="it">WTA - ROUEN : Kostyuk M. vs Maria T..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260418153000 +0200" stop="20260418173000 +0200" channel="wtarouenkostyukmvsmariat">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">WTA - ROUEN : Kostyuk M. vs Maria T.</desc>
+    <category lang="it">WTA - ROUEN</category>
+  </programme>
+  <programme start="20260418000000 +0200" stop="20260418153000 +0200" channel="wtarouenkostyukmvsmariat">
+    <title lang="it">Inizia alle 15:30.</title>
+    <desc lang="it">WTA - ROUEN : Kostyuk M. vs Maria T..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260418153000 +0200" stop="20260418173000 +0200" channel="wtarouenkostyukmvsmariat">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">WTA - ROUEN : Kostyuk M. vs Maria T.</desc>
+    <category lang="it">WTA - ROUEN</category>
+  </programme>
+  <programme start="20260418000000 +0200" stop="20260418170000 +0200" channel="wtarouenpodrezvvscirsteas">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">WTA - ROUEN : Podrez V. vs Cirstea S..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260418170000 +0200" stop="20260418190000 +0200" channel="wtarouenpodrezvvscirsteas">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">WTA - ROUEN : Podrez V. vs Cirstea S.</desc>
+    <category lang="it">WTA - ROUEN</category>
+  </programme>
+  <programme start="20260418000000 +0200" stop="20260418170000 +0200" channel="wtarouenpodrezvvscirsteas">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">WTA - ROUEN : Podrez V. vs Cirstea S..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260418170000 +0200" stop="20260418190000 +0200" channel="wtarouenpodrezvvscirsteas">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">WTA - ROUEN : Podrez V. vs Cirstea S.</desc>
+    <category lang="it">WTA - ROUEN</category>
   </programme>
   <programme start="20260418000000 +0200" stop="20260418160000 +0200" channel="atp500barcelona12finalb">
     <title lang="it">Inizia alle 16:00.</title>
@@ -57369,106 +56163,6 @@ L'Aquila E Il Leone</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Women's College Tennis : Big 12 Women's Tennis Championship</desc>
     <category lang="it">Women's College Tennis</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418143000 +0200" channel="fimenduranceworldchampionship24hoursoflemansrace">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">FIM Endurance World Championship 24 Hours of Le Mans | Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418143000 +0200" stop="20260418163000 +0200" channel="fimenduranceworldchampionship24hoursoflemansrace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">FIM Endurance World Championship 24 Hours of Le Mans | Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418143000 +0200" channel="fimenduranceworldchampionship24hoursoflemansrace">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">FIM Endurance World Championship 24 Hours of Le Mans | Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418143000 +0200" stop="20260418163000 +0200" channel="fimenduranceworldchampionship24hoursoflemansrace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">FIM Endurance World Championship 24 Hours of Le Mans | Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418143000 +0200" channel="fimenduranceworldchampionship24hoursoflemansrace">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">FIM Endurance World Championship 24 Hours of Le Mans | Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418143000 +0200" stop="20260418163000 +0200" channel="fimenduranceworldchampionship24hoursoflemansrace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">FIM Endurance World Championship 24 Hours of Le Mans | Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418143000 +0200" channel="fimenduranceworldchampionship24hoursoflemansrace">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">FIM Endurance World Championship 24 Hours of Le Mans | Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418143000 +0200" stop="20260418163000 +0200" channel="fimenduranceworldchampionship24hoursoflemansrace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">FIM Endurance World Championship 24 Hours of Le Mans | Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418143000 +0200" channel="fimenduranceworldchampionship24hoursoflemansrace">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">FIM Endurance World Championship 24 Hours of Le Mans | Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418143000 +0200" stop="20260418163000 +0200" channel="fimenduranceworldchampionship24hoursoflemansrace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">FIM Endurance World Championship 24 Hours of Le Mans | Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418143000 +0200" channel="fimenduranceworldchampionship24hoursoflemansrace">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">FIM Endurance World Championship 24 Hours of Le Mans | Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418143000 +0200" stop="20260418163000 +0200" channel="fimenduranceworldchampionship24hoursoflemansrace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">FIM Endurance World Championship 24 Hours of Le Mans | Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418143000 +0200" channel="fimenduranceworldchampionship24hoursoflemansrace">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">FIM Endurance World Championship 24 Hours of Le Mans | Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418143000 +0200" stop="20260418163000 +0200" channel="fimenduranceworldchampionship24hoursoflemansrace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">FIM Endurance World Championship 24 Hours of Le Mans | Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418143000 +0200" channel="fimenduranceworldchampionship24hoursoflemansrace">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">FIM Endurance World Championship 24 Hours of Le Mans | Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418143000 +0200" stop="20260418163000 +0200" channel="fimenduranceworldchampionship24hoursoflemansrace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">FIM Endurance World Championship 24 Hours of Le Mans | Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418143000 +0200" channel="fimenduranceworldchampionship24hoursoflemansrace">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">FIM Endurance World Championship 24 Hours of Le Mans | Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418143000 +0200" stop="20260418163000 +0200" channel="fimenduranceworldchampionship24hoursoflemansrace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">FIM Endurance World Championship 24 Hours of Le Mans | Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418143000 +0200" channel="fimenduranceworldchampionship24hoursoflemansrace">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">FIM Endurance World Championship 24 Hours of Le Mans | Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418143000 +0200" stop="20260418163000 +0200" channel="fimenduranceworldchampionship24hoursoflemansrace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">FIM Endurance World Championship 24 Hours of Le Mans | Race</desc>
-    <category lang="it">Motorsport</category>
   </programme>
   <programme start="20260418000000 +0200" stop="20260418150000 +0200" channel="worldsbkround3netherlandsrace1">
     <title lang="it">Inizia alle 15:00.</title>
@@ -58240,16 +56934,6 @@ L'Aquila E Il Leone</title>
     <desc lang="it">Supercars Championship : Qualifying Race 13</desc>
     <category lang="it">Motorsport</category>
   </programme>
-  <programme start="20260418000000 +0200" stop="20260418130000 +0200" channel="bkfcfightnighthaselyhepivskrzysztofwisniewski">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">BKFC Fight Night : Hasely Hepi vs Krzysztof Wisniewski.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418130000 +0200" stop="20260418150000 +0200" channel="bkfcfightnighthaselyhepivskrzysztofwisniewski">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">BKFC Fight Night : Hasely Hepi vs Krzysztof Wisniewski</desc>
-    <category lang="it">Boxing</category>
-  </programme>
   <programme start="20260418000000 +0200" stop="20260418160000 +0200" channel="arenagoldenfight12">
     <title lang="it">Inizia alle 16:00.</title>
     <desc lang="it">Arena Golden Fight 12.</desc>
@@ -58309,16 +56993,6 @@ L'Aquila E Il Leone</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Boxing : Vitaliy Stalchenko vs Lukas Labasko</desc>
     <category lang="it">Boxing</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418140000 +0200" channel="rwsaprilinfernorodriguezvshercules">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">RWS April Inferno : Rodriguez vs. Hercules.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418140000 +0200" stop="20260418160000 +0200" channel="rwsaprilinfernorodriguezvshercules">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">RWS April Inferno : Rodriguez vs. Hercules</desc>
-    <category lang="it">MMA</category>
   </programme>
   <programme start="20260418000000 +0200" stop="20260418230000 +0200" channel="ufcfightnightprelimsjulienleblancvsrobertvalentin">
     <title lang="it">Inizia alle 23:00.</title>
@@ -58439,206 +57113,6 @@ L'Aquila E Il Leone</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">WWE WrestleMania 42: Night 1</desc>
     <category lang="it">WWE WrestleMania 42</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418140000 +0200" channel="judoeuropeanchampionshipsday3finals">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Judo: European Championships Day 3. Finals..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418140000 +0200" stop="20260418160000 +0200" channel="judoeuropeanchampionshipsday3finals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Judo: European Championships Day 3. Finals.</desc>
-    <category lang="it">Combat sports</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418140000 +0200" channel="judoeuropeanchampionshipsday3finals">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Judo: European Championships Day 3. Finals..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418140000 +0200" stop="20260418160000 +0200" channel="judoeuropeanchampionshipsday3finals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Judo: European Championships Day 3. Finals.</desc>
-    <category lang="it">Combat sports</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418140000 +0200" channel="judoeuropeanchampionshipsday3finals">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Judo: European Championships Day 3. Finals..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418140000 +0200" stop="20260418160000 +0200" channel="judoeuropeanchampionshipsday3finals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Judo: European Championships Day 3. Finals.</desc>
-    <category lang="it">Combat sports</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418140000 +0200" channel="judoeuropeanchampionshipsday3finals">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Judo: European Championships Day 3. Finals..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418140000 +0200" stop="20260418160000 +0200" channel="judoeuropeanchampionshipsday3finals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Judo: European Championships Day 3. Finals.</desc>
-    <category lang="it">Combat sports</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418130000 +0200" channel="ladieseuropeantourjoburgladiesopen">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Ladies European Tour Joburg Ladies Open.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418130000 +0200" stop="20260418150000 +0200" channel="ladieseuropeantourjoburgladiesopen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Ladies European Tour Joburg Ladies Open</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418130000 +0200" channel="ladieseuropeantourjoburgladiesopen">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Ladies European Tour Joburg Ladies Open.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418130000 +0200" stop="20260418150000 +0200" channel="ladieseuropeantourjoburgladiesopen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Ladies European Tour Joburg Ladies Open</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418130000 +0200" channel="ladieseuropeantourjoburgladiesopen">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Ladies European Tour Joburg Ladies Open.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418130000 +0200" stop="20260418150000 +0200" channel="ladieseuropeantourjoburgladiesopen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Ladies European Tour Joburg Ladies Open</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418140000 +0200" channel="pgatourrbcheritage">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">PGA Tour RBC Heritage.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418140000 +0200" stop="20260418160000 +0200" channel="pgatourrbcheritage">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">PGA Tour RBC Heritage</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418140000 +0200" channel="pgatourrbcheritage">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">PGA Tour RBC Heritage.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418140000 +0200" stop="20260418160000 +0200" channel="pgatourrbcheritage">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">PGA Tour RBC Heritage</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418140000 +0200" channel="pgatourrbcheritage">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">PGA Tour RBC Heritage.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418140000 +0200" stop="20260418160000 +0200" channel="pgatourrbcheritage">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">PGA Tour RBC Heritage</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418140000 +0200" channel="pgatourrbcheritage">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">PGA Tour RBC Heritage.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418140000 +0200" stop="20260418160000 +0200" channel="pgatourrbcheritage">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">PGA Tour RBC Heritage</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418140000 +0200" channel="pgatourrbcheritage">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">PGA Tour RBC Heritage.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418140000 +0200" stop="20260418160000 +0200" channel="pgatourrbcheritage">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">PGA Tour RBC Heritage</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418140000 +0200" channel="pgatourrbcheritage">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">PGA Tour RBC Heritage.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418140000 +0200" stop="20260418160000 +0200" channel="pgatourrbcheritage">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">PGA Tour RBC Heritage</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418140000 +0200" channel="pgatourrbcheritage">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">PGA Tour RBC Heritage.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418140000 +0200" stop="20260418160000 +0200" channel="pgatourrbcheritage">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">PGA Tour RBC Heritage</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418140000 +0200" channel="pgatourrbcheritage">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">PGA Tour RBC Heritage.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418140000 +0200" stop="20260418160000 +0200" channel="pgatourrbcheritage">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">PGA Tour RBC Heritage</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418140000 +0200" channel="pgatourrbcheritage">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">PGA Tour RBC Heritage.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418140000 +0200" stop="20260418160000 +0200" channel="pgatourrbcheritage">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">PGA Tour RBC Heritage</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418140000 +0200" channel="pgatourrbcheritage">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">PGA Tour RBC Heritage.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418140000 +0200" stop="20260418160000 +0200" channel="pgatourrbcheritage">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">PGA Tour RBC Heritage</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418140000 +0200" channel="pgatourrbcheritage">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">PGA Tour RBC Heritage.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418140000 +0200" stop="20260418160000 +0200" channel="pgatourrbcheritage">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">PGA Tour RBC Heritage</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418140000 +0200" channel="pgatourrbcheritage">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">PGA Tour RBC Heritage.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418140000 +0200" stop="20260418160000 +0200" channel="pgatourrbcheritage">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">PGA Tour RBC Heritage</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418140000 +0200" channel="pgatourrbcheritage">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">PGA Tour RBC Heritage.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418140000 +0200" stop="20260418160000 +0200" channel="pgatourrbcheritage">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">PGA Tour RBC Heritage</desc>
-    <category lang="it">Golf</category>
   </programme>
   <programme start="20260418000000 +0200" stop="20260418160000 +0200" channel="2026seniorpgachampionshipthirdround">
     <title lang="it">Inizia alle 16:00.</title>
@@ -59950,36 +58424,6 @@ L'Aquila E Il Leone</title>
     <desc lang="it">Minor League Baseball : Reading Fightin Phils vs Somerset Patriots</desc>
     <category lang="it">Minor League Baseball</category>
   </programme>
-  <programme start="20260418000000 +0200" stop="20260418140000 +0200" channel="vtbunitedleaguelokomotivkubanvsparmaperm">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">VTB United League : Lokomotiv Kuban vs Parma Perm.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418140000 +0200" stop="20260418160000 +0200" channel="vtbunitedleaguelokomotivkubanvsparmaperm">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">VTB United League : Lokomotiv Kuban vs Parma Perm</desc>
-    <category lang="it">Basketball</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418140000 +0200" channel="vtbunitedleaguelokomotivkubanvsparmaperm">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">VTB United League : Lokomotiv Kuban vs Parma Perm.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418140000 +0200" stop="20260418160000 +0200" channel="vtbunitedleaguelokomotivkubanvsparmaperm">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">VTB United League : Lokomotiv Kuban vs Parma Perm</desc>
-    <category lang="it">Basketball</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418143000 +0200" channel="sperligibursasporvsmersinbsb">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">Süper Ligi : Bursaspor vs Mersin BSB.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418143000 +0200" stop="20260418163000 +0200" channel="sperligibursasporvsmersinbsb">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Süper Ligi : Bursaspor vs Mersin BSB</desc>
-    <category lang="it">Basketball</category>
-  </programme>
   <programme start="20260418000000 +0200" stop="20260418150000 +0200" channel="basketleaguemykonosvsperisteri">
     <title lang="it">Inizia alle 15:00.</title>
     <desc lang="it">Basket League : Mykonos vs Peristeri.</desc>
@@ -60430,46 +58874,6 @@ L'Aquila E Il Leone</title>
     <desc lang="it">The Gran Camino | Stage 5 Men | As Neves – Monte Trega (170.5km)</desc>
     <category lang="it">Cycling</category>
   </programme>
-  <programme start="20260418000000 +0200" stop="20260418130000 +0200" channel="pdcdartseuropeandartsgrandprix2026secondround">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">PDC Darts,European Darts Grand Prix 2026 | Second Round.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418130000 +0200" stop="20260418150000 +0200" channel="pdcdartseuropeandartsgrandprix2026secondround">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">PDC Darts,European Darts Grand Prix 2026 | Second Round</desc>
-    <category lang="it">Darts</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418130000 +0200" channel="pdcdartseuropeandartsgrandprix2026secondround">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">PDC Darts,European Darts Grand Prix 2026 | Second Round.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418130000 +0200" stop="20260418150000 +0200" channel="pdcdartseuropeandartsgrandprix2026secondround">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">PDC Darts,European Darts Grand Prix 2026 | Second Round</desc>
-    <category lang="it">Darts</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418130000 +0200" channel="pdcdartseuropeandartsgrandprix2026secondround">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">PDC Darts,European Darts Grand Prix 2026 | Second Round.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418130000 +0200" stop="20260418150000 +0200" channel="pdcdartseuropeandartsgrandprix2026secondround">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">PDC Darts,European Darts Grand Prix 2026 | Second Round</desc>
-    <category lang="it">Darts</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418130000 +0200" channel="pdcdartseuropeandartsgrandprix2026secondround">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">PDC Darts,European Darts Grand Prix 2026 | Second Round.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418130000 +0200" stop="20260418150000 +0200" channel="pdcdartseuropeandartsgrandprix2026secondround">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">PDC Darts,European Darts Grand Prix 2026 | Second Round</desc>
-    <category lang="it">Darts</category>
-  </programme>
   <programme start="20260418000000 +0200" stop="20260418190000 +0200" channel="pdcdartseuropeandartsgrandprix2026secondround">
     <title lang="it">Inizia alle 19:00.</title>
     <desc lang="it">PDC Darts,European Darts Grand Prix 2026 | Second Round.</desc>
@@ -60599,26 +59003,6 @@ L'Aquila E Il Leone</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Gymnastics : NCAA Championship</desc>
     <category lang="it">Gymnastics</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418130000 +0200" channel="russiasuperligawomenrostovdonvsastrakhanochkaastrakhan">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Russia Superliga, Women : Rostov-Don vs Astrakhanochka Astrakhan.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418130000 +0200" stop="20260418150000 +0200" channel="russiasuperligawomenrostovdonvsastrakhanochkaastrakhan">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Russia Superliga, Women : Rostov-Don vs Astrakhanochka Astrakhan</desc>
-    <category lang="it">Handball</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418144500 +0200" channel="hungariancupsemifinaloneveszprmhcvsotpbankpickszeged">
-    <title lang="it">Inizia alle 14:45.</title>
-    <desc lang="it">Hungarian Cup semi-final : ONE Veszprém HC vs OTP Bank-Pick Szeged.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418144500 +0200" stop="20260418164500 +0200" channel="hungariancupsemifinaloneveszprmhcvsotpbankpickszeged">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Hungarian Cup semi-final : ONE Veszprém HC vs OTP Bank-Pick Szeged</desc>
-    <category lang="it">Handball</category>
   </programme>
   <programme start="20260418000000 +0200" stop="20260418153000 +0200" channel="polishcupsemifinalorlenwisapockvsindustriakielce">
     <title lang="it">Inizia alle 15:30.</title>
@@ -60829,26 +59213,6 @@ L'Aquila E Il Leone</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Handball-Bundesliga Women : Halle-Neustadt W vs Neckarsulmer W</desc>
     <category lang="it">Handball</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418140000 +0200" channel="liveracingfromaroundtheuk">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Live racing from around the UK.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418140000 +0200" stop="20260418160000 +0200" channel="liveracingfromaroundtheuk">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Live racing from around the UK</desc>
-    <category lang="it">Horse Racing</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418140000 +0200" channel="liveracingfromayrthirsknottinghamandbellewstown">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Live racing from Ayr, Thirsk, Nottingham and Bellewstown.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418140000 +0200" stop="20260418160000 +0200" channel="liveracingfromayrthirsknottinghamandbellewstown">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Live racing from Ayr, Thirsk, Nottingham and Bellewstown</desc>
-    <category lang="it">Horse Racing</category>
   </programme>
   <programme start="20260418000000 +0200" stop="20260418190000 +0200" channel="americasdayattheraces">
     <title lang="it">Inizia alle 19:00.</title>
@@ -61379,106 +59743,6 @@ L'Aquila E Il Leone</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Super League Rugby : Catalans Dragons vs Warrington Wolves</desc>
     <category lang="it">Rugby League</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418134500 +0200" channel="unitedrugbychampionshipstormersvsconnacht">
-    <title lang="it">Inizia alle 13:45.</title>
-    <desc lang="it">United Rugby Championship : Stormers vs Connacht.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418134500 +0200" stop="20260418154500 +0200" channel="unitedrugbychampionshipstormersvsconnacht">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">United Rugby Championship : Stormers vs Connacht</desc>
-    <category lang="it">Rugby Union</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418134500 +0200" channel="unitedrugbychampionshipstormersvsconnacht">
-    <title lang="it">Inizia alle 13:45.</title>
-    <desc lang="it">United Rugby Championship : Stormers vs Connacht.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418134500 +0200" stop="20260418154500 +0200" channel="unitedrugbychampionshipstormersvsconnacht">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">United Rugby Championship : Stormers vs Connacht</desc>
-    <category lang="it">Rugby Union</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418134500 +0200" channel="unitedrugbychampionshipstormersvsconnacht">
-    <title lang="it">Inizia alle 13:45.</title>
-    <desc lang="it">United Rugby Championship : Stormers vs Connacht.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418134500 +0200" stop="20260418154500 +0200" channel="unitedrugbychampionshipstormersvsconnacht">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">United Rugby Championship : Stormers vs Connacht</desc>
-    <category lang="it">Rugby Union</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418135500 +0200" channel="superrugbyforcevscrusaders">
-    <title lang="it">Inizia alle 13:55.</title>
-    <desc lang="it">Super Rugby : Force vs Crusaders.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418135500 +0200" stop="20260418155500 +0200" channel="superrugbyforcevscrusaders">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Super Rugby : Force vs Crusaders</desc>
-    <category lang="it">Rugby Union</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418135500 +0200" channel="superrugbyforcevscrusaders">
-    <title lang="it">Inizia alle 13:55.</title>
-    <desc lang="it">Super Rugby : Force vs Crusaders.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418135500 +0200" stop="20260418155500 +0200" channel="superrugbyforcevscrusaders">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Super Rugby : Force vs Crusaders</desc>
-    <category lang="it">Rugby Union</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418135500 +0200" channel="superrugbyforcevscrusaders">
-    <title lang="it">Inizia alle 13:55.</title>
-    <desc lang="it">Super Rugby : Force vs Crusaders.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418135500 +0200" stop="20260418155500 +0200" channel="superrugbyforcevscrusaders">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Super Rugby : Force vs Crusaders</desc>
-    <category lang="it">Rugby Union</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418143000 +0200" channel="top14larochellevsbordeauxbegles">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">Top 14 : La Rochelle vs Bordeaux Begles.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418143000 +0200" stop="20260418163000 +0200" channel="top14larochellevsbordeauxbegles">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Top 14 : La Rochelle vs Bordeaux Begles</desc>
-    <category lang="it">Rugby Union</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418143000 +0200" channel="top14larochellevsbordeauxbegles">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">Top 14 : La Rochelle vs Bordeaux Begles.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418143000 +0200" stop="20260418163000 +0200" channel="top14larochellevsbordeauxbegles">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Top 14 : La Rochelle vs Bordeaux Begles</desc>
-    <category lang="it">Rugby Union</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418143000 +0200" channel="sixnationswomenscotlandwvsenglandw">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">Six Nations Women : Scotland W vs England W.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418143000 +0200" stop="20260418163000 +0200" channel="sixnationswomenscotlandwvsenglandw">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Six Nations Women : Scotland W vs England W</desc>
-    <category lang="it">Rugby Union</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418143000 +0200" channel="sixnationswomenscotlandwvsenglandw">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">Six Nations Women : Scotland W vs England W.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418143000 +0200" stop="20260418163000 +0200" channel="sixnationswomenscotlandwvsenglandw">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Six Nations Women : Scotland W vs England W</desc>
-    <category lang="it">Rugby Union</category>
   </programme>
   <programme start="20260418000000 +0200" stop="20260418160000 +0200" channel="avivapremiershiprugbyleicestertigersvsnewcastlefalcons">
     <title lang="it">Inizia alle 16:00.</title>
