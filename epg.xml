@@ -49301,12 +49301,6 @@ L'Aquila E Il Leone</title>
   <channel id="womenscollegetennisbig12womenstennischampionship">
     <display-name>Women's College Tennis : Big 12 Women's Tennis Championship</display-name>
   </channel>
-  <channel id="goodwoodmembersmeetingday1">
-    <display-name>Goodwood Members' Meeting : Day 1</display-name>
-  </channel>
-  <channel id="fiaworldendurancechampionshippractice20266hoursofimolaita">
-    <display-name>FIA World Endurance Championship Practice 2026 : 6 Hours of Imola, ITA</display-name>
-  </channel>
   <channel id="worldsbkround3netherlandssuperpole">
     <display-name>WorldSBK | Round 3 | Netherlands Superpole</display-name>
   </channel>
@@ -57798,26 +57792,6 @@ L'Aquila E Il Leone</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Women's College Tennis : Big 12 Women's Tennis Championship</desc>
     <category lang="it">Women's College Tennis</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418100000 +0200" channel="goodwoodmembersmeetingday1">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">Goodwood Members' Meeting : Day 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418100000 +0200" stop="20260418120000 +0200" channel="goodwoodmembersmeetingday1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Goodwood Members' Meeting : Day 1</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260418000000 +0200" stop="20260418100000 +0200" channel="fiaworldendurancechampionshippractice20266hoursofimolaita">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">FIA World Endurance Championship Practice 2026 : 6 Hours of Imola, ITA.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260418100000 +0200" stop="20260418120000 +0200" channel="fiaworldendurancechampionshippractice20266hoursofimolaita">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">FIA World Endurance Championship Practice 2026 : 6 Hours of Imola, ITA</desc>
-    <category lang="it">Motorsport</category>
   </programme>
   <programme start="20260418000000 +0200" stop="20260418110000 +0200" channel="worldsbkround3netherlandssuperpole">
     <title lang="it">Inizia alle 11:00.</title>
