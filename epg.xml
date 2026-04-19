@@ -49031,15 +49031,6 @@ le Ultime battaglie</title>
   <channel id="womenscollegeflagfootballlive">
     <display-name>Women's College Flag Football Live</display-name>
   </channel>
-  <channel id="romanialigaiivoluntarivssteauabucureti">
-    <display-name>Romania - Liga II : Voluntari vs Steaua Bucureşti</display-name>
-  </channel>
-  <channel id="indonesiasuperleaguepersikkedirivspersita">
-    <display-name>Indonesia - Super League : Persik Kediri vs Persita</display-name>
-  </channel>
-  <channel id="austria2ligastpltenvsliefering">
-    <display-name>Austria - 2. Liga : St. Pölten vs Liefering</display-name>
-  </channel>
   <channel id="asiaafcchallengeleaguealshababvsalkuwait">
     <display-name>Asia - AFC Challenge League : Al Shabab vs Al Kuwait</display-name>
   </channel>
@@ -49652,12 +49643,6 @@ le Ultime battaglie</title>
   <channel id="womencollegetennissecwomenstennischampionship">
     <display-name>Women College Tennis : SEC Women's Tennis Championship</display-name>
   </channel>
-  <channel id="goodwoodmembersmeetingday2">
-    <display-name>Goodwood Members' Meeting : Day 2</display-name>
-  </channel>
-  <channel id="wrcrally43rdandalusiarallysierramorenastage10">
-    <display-name>WRC Rally : 43rd Andalusia Rally - Sierra Morena: Stage 10</display-name>
-  </channel>
   <channel id="worldwcrround2netherlandsrace2">
     <display-name>WorldWCR | Round 2 | Netherlands Race 2</display-name>
   </channel>
@@ -49970,9 +49955,6 @@ le Ultime battaglie</title>
   <channel id="nbaorlandomagicvsdetroitpistons">
     <display-name>NBA : Orlando Magic vs Detroit Pistons</display-name>
   </channel>
-  <channel id="worldcuphongkongday3">
-    <display-name>World Cup | Hong Kong Day 3</display-name>
-  </channel>
   <channel id="amstelgoldracewomenmaastrichtvalkenburg1581km">
     <display-name>Amstel Gold Race Women | Maastricht - Valkenburg (158.1km)</display-name>
   </channel>
@@ -50053,9 +50035,6 @@ le Ultime battaglie</title>
   </channel>
   <channel id="nhlbostonbruinsvsbuffalosabres">
     <display-name>NHL : Boston Bruins vs Buffalo Sabres</display-name>
-  </channel>
-  <channel id="mhlavtoyekaterinburgu20vsstalnyelisyu20">
-    <display-name>MHL : Avto Yekaterinburg U20 vs Stalnye Lisy U20</display-name>
   </channel>
   <channel id="delehcredbullmnchenvsadlermannheim">
     <display-name>DEL : EHC Red Bull München vs Adler Mannheim</display-name>
@@ -50380,46 +50359,6 @@ le Ultime battaglie</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Women's College Flag Football Live</desc>
     <category lang="it">TV Shows</category>
-  </programme>
-  <programme start="20260419000000 +0200" stop="20260419100000 +0200" channel="romanialigaiivoluntarivssteauabucureti">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">Romania - Liga II : Voluntari vs Steaua Bucureşti.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260419100000 +0200" stop="20260419120000 +0200" channel="romanialigaiivoluntarivssteauabucureti">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Romania - Liga II : Voluntari vs Steaua Bucureşti</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260419000000 +0200" stop="20260419100000 +0200" channel="romanialigaiivoluntarivssteauabucureti">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">Romania - Liga II : Voluntari vs Steaua Bucureşti.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260419100000 +0200" stop="20260419120000 +0200" channel="romanialigaiivoluntarivssteauabucureti">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Romania - Liga II : Voluntari vs Steaua Bucureşti</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260419000000 +0200" stop="20260419103000 +0200" channel="indonesiasuperleaguepersikkedirivspersita">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">Indonesia - Super League : Persik Kediri vs Persita.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260419103000 +0200" stop="20260419123000 +0200" channel="indonesiasuperleaguepersikkedirivspersita">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Indonesia - Super League : Persik Kediri vs Persita</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260419000000 +0200" stop="20260419103000 +0200" channel="austria2ligastpltenvsliefering">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">Austria - 2. Liga : St. Pölten vs Liefering.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260419103000 +0200" stop="20260419123000 +0200" channel="austria2ligastpltenvsliefering">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Austria - 2. Liga : St. Pölten vs Liefering</desc>
-    <category lang="it">Soccer</category>
   </programme>
   <programme start="20260419000000 +0200" stop="20260419110000 +0200" channel="asiaafcchallengeleaguealshababvsalkuwait">
     <title lang="it">Inizia alle 11:00.</title>
@@ -57171,76 +57110,6 @@ le Ultime battaglie</title>
     <desc lang="it">Women College Tennis : SEC Women's Tennis Championship</desc>
     <category lang="it">Women College Tennis</category>
   </programme>
-  <programme start="20260419000000 +0200" stop="20260419100000 +0200" channel="goodwoodmembersmeetingday2">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">Goodwood Members' Meeting : Day 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260419100000 +0200" stop="20260419120000 +0200" channel="goodwoodmembersmeetingday2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Goodwood Members' Meeting : Day 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260419000000 +0200" stop="20260419103000 +0200" channel="wrcrally43rdandalusiarallysierramorenastage10">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">WRC Rally : 43rd Andalusia Rally - Sierra Morena: Stage 10.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260419103000 +0200" stop="20260419123000 +0200" channel="wrcrally43rdandalusiarallysierramorenastage10">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WRC Rally : 43rd Andalusia Rally - Sierra Morena: Stage 10</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260419000000 +0200" stop="20260419103000 +0200" channel="wrcrally43rdandalusiarallysierramorenastage10">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">WRC Rally : 43rd Andalusia Rally - Sierra Morena: Stage 10.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260419103000 +0200" stop="20260419123000 +0200" channel="wrcrally43rdandalusiarallysierramorenastage10">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WRC Rally : 43rd Andalusia Rally - Sierra Morena: Stage 10</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260419000000 +0200" stop="20260419103000 +0200" channel="wrcrally43rdandalusiarallysierramorenastage10">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">WRC Rally : 43rd Andalusia Rally - Sierra Morena: Stage 10.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260419103000 +0200" stop="20260419123000 +0200" channel="wrcrally43rdandalusiarallysierramorenastage10">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WRC Rally : 43rd Andalusia Rally - Sierra Morena: Stage 10</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260419000000 +0200" stop="20260419103000 +0200" channel="wrcrally43rdandalusiarallysierramorenastage10">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">WRC Rally : 43rd Andalusia Rally - Sierra Morena: Stage 10.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260419103000 +0200" stop="20260419123000 +0200" channel="wrcrally43rdandalusiarallysierramorenastage10">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WRC Rally : 43rd Andalusia Rally - Sierra Morena: Stage 10</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260419000000 +0200" stop="20260419103000 +0200" channel="wrcrally43rdandalusiarallysierramorenastage10">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">WRC Rally : 43rd Andalusia Rally - Sierra Morena: Stage 10.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260419103000 +0200" stop="20260419123000 +0200" channel="wrcrally43rdandalusiarallysierramorenastage10">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WRC Rally : 43rd Andalusia Rally - Sierra Morena: Stage 10</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260419000000 +0200" stop="20260419103000 +0200" channel="wrcrally43rdandalusiarallysierramorenastage10">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">WRC Rally : 43rd Andalusia Rally - Sierra Morena: Stage 10.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260419103000 +0200" stop="20260419123000 +0200" channel="wrcrally43rdandalusiarallysierramorenastage10">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WRC Rally : 43rd Andalusia Rally - Sierra Morena: Stage 10</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <programme start="20260419000000 +0200" stop="20260419114500 +0200" channel="worldwcrround2netherlandsrace2">
     <title lang="it">Inizia alle 11:45.</title>
     <desc lang="it">WorldWCR | Round 2 | Netherlands Race 2.</desc>
@@ -60481,16 +60350,6 @@ le Ultime battaglie</title>
     <desc lang="it">NBA : Orlando Magic vs Detroit Pistons</desc>
     <category lang="it">NBA</category>
   </programme>
-  <programme start="20260419000000 +0200" stop="20260419100000 +0200" channel="worldcuphongkongday3">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">World Cup | Hong Kong Day 3.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260419100000 +0200" stop="20260419120000 +0200" channel="worldcuphongkongday3">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup | Hong Kong Day 3</desc>
-    <category lang="it">Cycling</category>
-  </programme>
   <programme start="20260419000000 +0200" stop="20260419124500 +0200" channel="amstelgoldracewomenmaastrichtvalkenburg1581km">
     <title lang="it">Inizia alle 12:45.</title>
     <desc lang="it">Amstel Gold Race Women | Maastricht - Valkenburg (158.1km).</desc>
@@ -61220,16 +61079,6 @@ le Ultime battaglie</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">NHL : Boston Bruins vs Buffalo Sabres</desc>
     <category lang="it">NHL</category>
-  </programme>
-  <programme start="20260419000000 +0200" stop="20260419100000 +0200" channel="mhlavtoyekaterinburgu20vsstalnyelisyu20">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">MHL : Avto Yekaterinburg U20 vs Stalnye Lisy U20.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260419100000 +0200" stop="20260419120000 +0200" channel="mhlavtoyekaterinburgu20vsstalnyelisyu20">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MHL : Avto Yekaterinburg U20 vs Stalnye Lisy U20</desc>
-    <category lang="it">Ice Hockey</category>
   </programme>
   <programme start="20260419000000 +0200" stop="20260419161500 +0200" channel="delehcredbullmnchenvsadlermannheim">
     <title lang="it">Inizia alle 16:15.</title>
