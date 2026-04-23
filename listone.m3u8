@@ -60,8 +60,8 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="comedycentral.it" tvg-name="Comedy Central (2)" tvg-logo="" group-title="Sky",COMEDY CENTRAL (V) (2)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/433893159bf516cde9a97&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="dazn2.it" tvg-name="Dazn 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/882px-DAZN_2.svg.png" group-title="Sport",DAZN 2 (V)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/3635062218e0132c616db&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="dazn1.it" tvg-name="Dazn 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/774px-DAZN_1_Logo.svg.png" group-title="Sport",DAZN 1 (V)
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="deejaytv.it" tvg-name="Deejay Tv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Altro",DEEJAY TV (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/963607327f90ada131395&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -108,9 +108,6 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="eurosport2.it" tvg-name="Eurosport 2 (2)" tvg-logo="" group-title="Sport",EUROSPORT 2 (V) (2)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="eurosport2timvision.it" tvg-name="Eurosport 2 Timvision" tvg-logo="" group-title="Sport",EUROSPORT 2 TIMVISION (V)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/11002614150ec811c243eb&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="eurosport4timvision.it" tvg-name="Eurosport 4 Timvision" tvg-logo="" group-title="Sport",EUROSPORT 4 TIMVISION (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/1668185301194a1978c0b2&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -125,9 +122,6 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 
 #EXTINF:-1 tvg-id="foodnetwork.it" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Discovery",FOOD NETWORK (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/2820683351b557bc63df61&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="foodnetwork.it" tvg-name="Food Network (2)" tvg-logo="" group-title="Discovery",FOOD NETWORK (V) (2)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/276786104991c55564696b&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="foxhd.it" tvg-name="Fox" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/fox-it.png" group-title="Film;Sky",FOX (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/56316060941df205a0842&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -148,9 +142,6 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="history.it" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari;Sky",HISTORY (V)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="history.it" tvg-name="History (2)" tvg-logo="" group-title="Documentari;Sky",HISTORY (V) (2)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="iris.it" tvg-name="Iris" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS (V)
@@ -165,14 +156,8 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="k2.it" tvg-name="K2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",K2 (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/22557243183ffd471ea8ec&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="k2.it" tvg-name="K2 (2)" tvg-logo="" group-title="Bambini",K2 (V) (2)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/11090349bae706bd9ec4&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="la5.it" tvg-name="La 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Altro",LA 5 (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/84139639718d779a091b&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="la5.it" tvg-name="La 5 (2)" tvg-logo="" group-title="Altro",LA 5 (V) (2)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/14256673753de6371f2c50&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="la7.it" tvg-name="La 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7 (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/2143522071cfa887e2feb3&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -256,9 +241,6 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/374675593c812bca5a0f0&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="Rai Movie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Film;Rai Tv",RAI MOVIE (V)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/2835672487db54f8727bf9&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="raimovie.it" tvg-name="Rai Movie (2)" tvg-logo="" group-title="Film;Rai Tv",RAI MOVIE (V) (2)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/1925964148b9cb23cc2bce&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="rainews24.it" tvg-name="Rai News 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Notizie;Rai Tv",RAI NEWS 24 (V)
@@ -337,6 +319,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/1482866609814ff0b05ac7&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="Sky Cinema Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film;Sky",SKY CINEMA ACTION (V)
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/381279617198e7a1b969ee&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="Sky Cinema Action (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA ACTION (V) (2)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/11441287266db50fc09b62&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="Sky Cinema Action (backup)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film;Sky",SKY CINEMA ACTION (BACKUP) (V)
@@ -396,9 +381,6 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="skyinvestigation.it" tvg-name="Sky Investigation" tvg-logo="" group-title="Discovery",SKY INVESTIGATION (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/19686407898d20b9ce24d1&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skynature.it" tvg-name="Sky Nature" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-nature-it.png" group-title="Documentari;Sky",SKY NATURE (V)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/3810188456875f4898bef2&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skyprimafila1.it" tvg-name="Sky Primafila 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 1 (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/194468239430d8fe263231&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -433,9 +415,6 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/1284441949890c3c5c3d9d&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila2.it" tvg-name="Sky Primafila 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 2 (V)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/8772007144e30fd3ca161&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyprimafila2.it" tvg-name="Sky Primafila 2 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 2 (V) (2)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/525374356eb78c097e6a2&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila3.it" tvg-name="Sky Primafila 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 3 (V)
@@ -460,6 +439,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/39395136840a7593b75855&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila7.it" tvg-name="Sky Primafila 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 7 (V)
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/4238969402e69feff53112&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skyprimafila7.it" tvg-name="Sky Primafila 7 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 7 (V) (2)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/3618643172a26b31eba4b4&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila8.it" tvg-name="Sky Primafila 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 8 (V)
@@ -473,6 +455,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 
 #EXTINF:-1 tvg-id="skyprimafila9.it" tvg-name="Sky Primafila 9 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 9 (V) (2)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/17532606771304e2497369&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skyserie.it" tvg-name="Sky Serie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film;Sky",SKY SERIE (V)
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/83668011205f936fa3b65&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/277580225585f503fbfc87&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -543,9 +528,6 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Sky",SKY UNO (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/2130523218823893ad0255&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky Uno (2)" tvg-logo="" group-title="Sky",SKY UNO (V) (2)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/32202484989ac14421915&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skyshowtime1.it" tvg-name="Skyshowtime 1" tvg-logo="" group-title="Altro",SKYSHOWTIME 1 (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/287379323134c651595371&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -587,9 +569,6 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 
 #EXTINF:-1 tvg-id="tv8.it" tvg-name="Tv 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/tv8-it.png" group-title="Sky",TV 8 (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/40383657201f43ce81681d&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="tv8.it" tvg-name="Tv 8 (2)" tvg-logo="" group-title="Sky",TV 8 (V) (2)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/2706291008928411daf9bb&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="dazn zona" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", dazn zona (D)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://dlhd.dad/watch.php?id=877
@@ -1602,6 +1581,12 @@ https://hls.kangal.icu/hls/skynba/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhon
 # Playlist generata da Hattrick
 # Playlist generata da ThisNotBusiness
 # Playlist generata da SkyStreaming
+#EXTINF:-1 tvg-id="Internazionali BNL d’Italia (Rome Masters Tennis), May 5–17, 2026 - Internazionali BNL d’Italia (Rome Masters Tennis), May 5–17, 2026" tvg-name="17:00 Internazionali BNL d’Italia (Rome Masters Tennis), May 5–17, 2026 - 22/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Upcoming Events", Sky Sport Tennis Italy
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=576
+
+#EXTINF:-1 tvg-id="Internazionali BNL d’Italia (Rome Masters Tennis), May 5–17, 2026 - Internazionali BNL d’Italia (Rome Masters Tennis), May 5–17, 2026" tvg-name="17:00 Internazionali BNL d’Italia (Rome Masters Tennis), May 5–17, 2026 - 22/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Upcoming Events", EuroSport 1 Italy
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=878
+
 #EXTINF:-1 tvg-id="French Open (Roland Garros Tennis Grand Slam), May 25 – June 8, 2026 - French Open (Roland Garros Tennis Grand Slam), May 25 – June 8, 2026" tvg-name="17:00 French Open (Roland Garros Tennis Grand Slam), May 25 – June 8, 2026 - 22/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Upcoming Events", Eurosport 1 France
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=772
 
@@ -2952,6 +2937,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="MLB - Detroit Tigers vs Milwaukee Brewers" tvg-name="00:40 MLB : Detroit Tigers vs Milwaukee Brewers - 22/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", MLB league pass
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=7
 
+#EXTINF:-1 tvg-id="MLB - Washington Nationals vs Atlanta Braves" tvg-name="00:45 MLB : Washington Nationals vs Atlanta Braves - 22/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", MLB league pass
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=8
+
 #EXTINF:-1 tvg-id="MLB - Washington Nationals vs Atlanta Braves" tvg-name="00:45 MLB : Washington Nationals vs Atlanta Braves - 22/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Arena Sport 3 Croatia
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=434
 
@@ -3433,6 +3421,1272 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=147
 
 #EXTINF:-1 tvg-id="European Weightlifting Championships - Men" tvg-name="17:00 European Weightlifting Championships: Men - 22/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Sollevamento Pesi", Sport 5 Stars Israel
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=147
+
+#EXTINF:-1 tvg-id="French Open (Roland Garros Tennis Grand Slam), May 25 – June 8, 2026 - French Open (Roland Garros Tennis Grand Slam), May 25 – June 8, 2026" tvg-name="17:00 French Open (Roland Garros Tennis Grand Slam), May 25 – June 8, 2026 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Upcoming Events", Eurosport 1 France
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=772
+
+#EXTINF:-1 tvg-id="ATP / WTA Tour Finals Build-up Events (Tennis Season Matches), May–June 2026 - ATP / WTA Tour Finals Build-up Events (Tennis Season Matches), May–June 2026" tvg-name="18:00 ATP / WTA Tour Finals Build-up Events (Tennis Season Matches), May–June 2026 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Upcoming Events", EuroSport 1 Poland
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=57
+
+#EXTINF:-1 tvg-id="US Open Golf Championship (Golf Major), June 11–14, 2026 - US Open Golf Championship (Golf Major), June 11–14, 2026" tvg-name="19:00 US Open Golf Championship (Golf Major), June 11–14, 2026 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Upcoming Events", NBC USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=53
+
+#EXTINF:-1 tvg-id="US Open Golf Championship (Golf Major), June 11–14, 2026 - US Open Golf Championship (Golf Major), June 11–14, 2026" tvg-name="19:00 US Open Golf Championship (Golf Major), June 11–14, 2026 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Upcoming Events", Sky Sports Golf
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=70
+
+#EXTINF:-1 tvg-id="US Open Golf Championship (Golf Major), June 11–14, 2026 - US Open Golf Championship (Golf Major), June 11–14, 2026" tvg-name="19:00 US Open Golf Championship (Golf Major), June 11–14, 2026 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Upcoming Events", Golf Channel USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=318
+
+#EXTINF:-1 tvg-id="PGA Championship (Golf Major Tournament), May 14–17, 2026 - PGA Championship (Golf Major Tournament), May 14–17, 2026" tvg-name="19:00 PGA Championship (Golf Major Tournament), May 14–17, 2026 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Upcoming Events", Sky Sports Golf
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=70
+
+#EXTINF:-1 tvg-id="PGA Championship (Golf Major Tournament), May 14–17, 2026 - PGA Championship (Golf Major Tournament), May 14–17, 2026" tvg-name="19:00 PGA Championship (Golf Major Tournament), May 14–17, 2026 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Upcoming Events", CBS Sports Network
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=308
+
+#EXTINF:-1 tvg-id="PGA Championship (Golf Major Tournament), May 14–17, 2026 - PGA Championship (Golf Major Tournament), May 14–17, 2026" tvg-name="19:00 PGA Championship (Golf Major Tournament), May 14–17, 2026 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Upcoming Events", Golf Channel USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=318
+
+#EXTINF:-1 tvg-id="Prime Show MMA 16 takes place Saturday, April 25, 2026 - Prime Show MMA 16 takes place Saturday, April 25, 2026" tvg-name="19:30 Prime Show MMA 16 takes place Saturday, April 25, 2026 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Upcoming Events", PRIMEMMATV
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=00
+
+#EXTINF:-1 tvg-id="Premier League / La Liga / Bundesliga League Matches (Football Season), May–June 2026 - Premier League / La Liga / Bundesliga League Matches (Football Season), May–June 2026" tvg-name="20:00 Premier League / La Liga / Bundesliga League Matches (Football Season), May–June 2026 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Upcoming Events", TNT Sports 1 UK
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=32
+
+#EXTINF:-1 tvg-id="WWE Backlash 2026 (Wrestling PPV), 9 May 2026 - WWE Backlash 2026 (Wrestling PPV), 9 May 2026" tvg-name="22:00 WWE Backlash 2026 (Wrestling PPV), 9 May 2026 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Upcoming Events", WWE Network
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=376
+
+#EXTINF:-1 tvg-id="UFC Fight Night - Della Maddalena vs. Prates (May 3, 2026)" tvg-name="23:00 UFC Fight Night: Della Maddalena vs. Prates (May 3, 2026) - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Upcoming Events", UFC Fight Pass
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=00
+
+#EXTINF:-1 tvg-id="UFC 328 - Chimaev vs. Strickland (May 10, 2026)" tvg-name="23:00 UFC 328: Chimaev vs. Strickland (May 10, 2026) - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Upcoming Events", UFC Fight Pass
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=00
+
+#EXTINF:-1 tvg-id="UFC Fight Night - Allen vs. Costa (May 17, 2026)" tvg-name="23:00 UFC Fight Night: Allen vs. Costa (May 17, 2026) - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Upcoming Events", UFC Fight Pass
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=00
+
+#EXTINF:-1 tvg-id="UFC Fight Night - Song vs. Figueiredo (May 31, 2026)" tvg-name="23:00 UFC Fight Night: Song vs. Figueiredo (May 31, 2026) - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Upcoming Events", UFC Fight Pass
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=00
+
+#EXTINF:-1 tvg-id="UFC Fight Night - Muhammad vs. Bonfim (June 7, 2026)" tvg-name="23:00 UFC Fight Night: Muhammad vs. Bonfim (June 7, 2026) - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Upcoming Events", UFC Fight Pass
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=00
+
+#EXTINF:-1 tvg-id="UFC Freedom 250 - Topuria vs. Gaethje (June 14, 2026)" tvg-name="23:00 UFC Freedom 250: Topuria vs. Gaethje (June 14, 2026) - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Upcoming Events", UFC Fight Pass
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=00
+
+#EXTINF:-1 tvg-id="Tony Awards 2026 (TV Awards Show), June 7, 2026 - Tony Awards 2026 (TV Awards Show), June 7, 2026" tvg-name="00:00 Tony Awards 2026 (TV Awards Show), June 7, 2026 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Upcoming Events", CBS
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=52
+
+#EXTINF:-1 tvg-id="Tony Awards 2026 (TV Awards Show), June 7, 2026 - Tony Awards 2026 (TV Awards Show), June 7, 2026" tvg-name="00:00 Tony Awards 2026 (TV Awards Show), June 7, 2026 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Upcoming Events", Paramount+
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=00
+
+#EXTINF:-1 tvg-id="Ukrainian Premier League - Zorya vs Shakhtar Donetsk" tvg-name="14:30 Ukrainian Premier League : Zorya vs Shakhtar Donetsk - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", UPL.TV
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=3
+
+#EXTINF:-1 tvg-id="Serbia - Super Liga - Radnički Niš vs Javor Ivanjica" tvg-name="16:00 Serbia - Super Liga : Radnički Niš vs Javor Ivanjica - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 1 Serbia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=429
+
+#EXTINF:-1 tvg-id="Tunisia Ligue Professionnelle 1 - ES Tunis vs Zarzis" tvg-name="16:00 Tunisia Ligue Professionnelle 1 : ES Tunis vs Zarzis - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Watania 1
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=11
+
+#EXTINF:-1 tvg-id="India - Indian Super League - Kerala Blasters vs Delhi Dynamos" tvg-name="16:00 India - Indian Super League : Kerala Blasters vs Delhi Dynamos - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SONY TEN 2 HD
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=886
+
+#EXTINF:-1 tvg-id="Oman - Omani League - Al Nahda vs Dhufar" tvg-name="16:00 Oman - Omani League : Al Nahda vs Dhufar - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Oman TV Sport
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1
+
+#EXTINF:-1 tvg-id="Iraq - Iraqi Premier League - Duhok vs Gharraf Al" tvg-name="16:00 Iraq - Iraqi Premier League : Duhok vs Gharraf Al - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Iraqiya Sports
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=23
+
+#EXTINF:-1 tvg-id="Romania - Liga II - Bihor Oradea vs Sepsi" tvg-name="16:15 Romania - Liga II : Bihor Oradea vs Sepsi - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Digi Sport 1 Romania
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=400
+
+#EXTINF:-1 tvg-id="Romania - Liga II - Bihor Oradea vs Sepsi" tvg-name="16:15 Romania - Liga II : Bihor Oradea vs Sepsi - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Prima Sport 1 Romania
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=583
+
+#EXTINF:-1 tvg-id="Russia - Russian Premier League - Akron vs Dynamo Makhachkala" tvg-name="16:30 Russia - Russian Premier League : Akron vs Dynamo Makhachkala - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Match Premier Russia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=573
+
+#EXTINF:-1 tvg-id="Russia - Russian Premier League - Akron vs Dynamo Makhachkala" tvg-name="16:30 Russia - Russian Premier League : Akron vs Dynamo Makhachkala - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena 2 Premium Serbia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=135
+
+#EXTINF:-1 tvg-id="Russia - Russian Premier League - Akron vs Dynamo Makhachkala" tvg-name="16:30 Russia - Russian Premier League : Akron vs Dynamo Makhachkala - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 1 Croatia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=432
+
+#EXTINF:-1 tvg-id="Latvia - Virsliga - Super Nova vs Liepāja" tvg-name="17:00 Latvia - Virsliga : Super Nova vs Liepāja - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV4 Latvia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=24
+
+#EXTINF:-1 tvg-id="Egypt - Egyptian Premier League - Al Mokawloon vs Al Ittihad" tvg-name="17:00 Egypt - Egyptian Premier League : Al Mokawloon vs Al Ittihad - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ON Sport 1 Egypt
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=611
+
+#EXTINF:-1 tvg-id="Turkey - Turkish Cup - Samsunspor vs Trabzonspor" tvg-name="17:45 Turkey - Turkish Cup : Samsunspor vs Trabzonspor - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", A Spor Turkey
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1011
+
+#EXTINF:-1 tvg-id="Turkey - Turkish Cup - Samsunspor vs Trabzonspor" tvg-name="17:45 Turkey - Turkish Cup : Samsunspor vs Trabzonspor - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV1 Portugal
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=49
+
+#EXTINF:-1 tvg-id="Turkey - Turkish Cup - Samsunspor vs Trabzonspor" tvg-name="17:45 Turkey - Turkish Cup : Samsunspor vs Trabzonspor - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportdigital FUSSBALL DE
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=571
+
+#EXTINF:-1 tvg-id="Turkey - Turkish Cup - Samsunspor vs Trabzonspor" tvg-name="17:45 Turkey - Turkish Cup : Samsunspor vs Trabzonspor - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena 3 Premium Serbia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=139
+
+#EXTINF:-1 tvg-id="Turkey - Turkish Cup - Samsunspor vs Trabzonspor" tvg-name="17:45 Turkey - Turkish Cup : Samsunspor vs Trabzonspor - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MAX Sport 3 Bulgaria
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=474
+
+#EXTINF:-1 tvg-id="Denmark - Super Liga - Nordsjælland vs AGF" tvg-name="18:00 Denmark - Super Liga : Nordsjælland vs AGF - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV3+ HD Denmark
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=819
+
+#EXTINF:-1 tvg-id="Denmark - Super Liga - Nordsjælland vs AGF" tvg-name="18:00 Denmark - Super Liga : Nordsjælland vs AGF - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 3 Serbia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=431
+
+#EXTINF:-1 tvg-id="Denmark - Super Liga - Randers vs Fredericia" tvg-name="18:00 Denmark - Super Liga : Randers vs Fredericia - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV2 Sport X Denmark
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=808
+
+#EXTINF:-1 tvg-id="Serbia - Super Liga - Napredak vs IMT Novi Beograd" tvg-name="18:00 Serbia - Super Liga : Napredak vs IMT Novi Beograd - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 1 Serbia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=429
+
+#EXTINF:-1 tvg-id="Saudi Arabia - Pro League - Al Najma vs Al Taawon" tvg-name="18:10 Saudi Arabia - Pro League : Al Najma vs Al Taawon - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Thmanyah
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=2
+
+#EXTINF:-1 tvg-id="Oman - Omani League - Smail vs Al Khabourah" tvg-name="18:25 Oman - Omani League : Smail vs Al Khabourah - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Oman TV Sport
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1
+
+#EXTINF:-1 tvg-id="Iraq - Iraqi Premier League - Al Quwa Al Jawiya vs Erbil" tvg-name="18:30 Iraq - Iraqi Premier League : Al Quwa Al Jawiya vs Erbil - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Al Iraqiya Sports
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=23
+
+#EXTINF:-1 tvg-id="Iraqi Premier League - Zakho vs Al Kahrabaa" tvg-name="18:30 Iraqi Premier League : Zakho vs Al Kahrabaa - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Iraqia Syriac
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=55
+
+#EXTINF:-1 tvg-id="Slovenia - Pokal Slovenije - Bravo vs Aluminij" tvg-name="18:30 Slovenia - Pokal Slovenije : Bravo vs Aluminij - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SportKlub 1 Slovenia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=3
+
+#EXTINF:-1 tvg-id="Russia - Russian Premier League - Spartak Moskva vs Krasnodar" tvg-name="18:45 Russia - Russian Premier League : Spartak Moskva vs Krasnodar - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Match TV Russia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=127
+
+#EXTINF:-1 tvg-id="Russia - Russian Premier League - Spartak Moskva vs Krasnodar" tvg-name="18:45 Russia - Russian Premier League : Spartak Moskva vs Krasnodar - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena 2 Premium Serbia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=135
+
+#EXTINF:-1 tvg-id="Russia - Russian Premier League - Spartak Moskva vs Krasnodar" tvg-name="18:45 Russia - Russian Premier League : Spartak Moskva vs Krasnodar - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 1 Croatia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=432
+
+#EXTINF:-1 tvg-id="Russia - Russian Premier League - Akhmat Grozny vs Baltika" tvg-name="18:45 Russia - Russian Premier League : Akhmat Grozny vs Baltika - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Match Premier Russia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=573
+
+#EXTINF:-1 tvg-id="Russia - Russian Premier League - Akhmat Grozny vs Baltika" tvg-name="18:45 Russia - Russian Premier League : Akhmat Grozny vs Baltika - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 1x2 Serbia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=612
+
+#EXTINF:-1 tvg-id="Netherlands - Eredivisie - Go Ahead Eagles vs AZ" tvg-name="18:45 Netherlands - Eredivisie : Go Ahead Eagles vs AZ - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN 1 NL
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=379
+
+#EXTINF:-1 tvg-id="Netherlands - Eredivisie - Go Ahead Eagles vs AZ" tvg-name="18:45 Netherlands - Eredivisie : Go Ahead Eagles vs AZ - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=59
+
+#EXTINF:-1 tvg-id="Netherlands - Eredivisie - Go Ahead Eagles vs AZ" tvg-name="18:45 Netherlands - Eredivisie : Go Ahead Eagles vs AZ - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportsnet World
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=410
+
+#EXTINF:-1 tvg-id="Netherlands - Eredivisie - Go Ahead Eagles vs AZ" tvg-name="18:45 Netherlands - Eredivisie : Go Ahead Eagles vs AZ - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Dubai Sports 1
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=604
+
+#EXTINF:-1 tvg-id="Netherlands - Eredivisie - Go Ahead Eagles vs AZ" tvg-name="18:45 Netherlands - Eredivisie : Go Ahead Eagles vs AZ - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 4 Serbia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=581
+
+#EXTINF:-1 tvg-id="Netherlands - Eredivisie - Go Ahead Eagles vs AZ" tvg-name="18:45 Netherlands - Eredivisie : Go Ahead Eagles vs AZ - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN4 Mexico
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=928
+
+#EXTINF:-1 tvg-id="Netherlands - Eredivisie - Go Ahead Eagles vs AZ" tvg-name="18:45 Netherlands - Eredivisie : Go Ahead Eagles vs AZ - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Ring bg
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=471
+
+#EXTINF:-1 tvg-id="Albania - Albanian Cup - Vllaznia Shkodër vs Dinamo City" tvg-name="19:00 Albania - Albanian Cup : Vllaznia Shkodër vs Dinamo City - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", RTSH Sport Albania
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4
+
+#EXTINF:-1 tvg-id="Denmark - 1. division - AaB vs B 93" tvg-name="19:00 Denmark - 1. division : AaB vs B 93 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Viaplay Denmark
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=68
+
+#EXTINF:-1 tvg-id="Sweden - Allsvenskan - Degerfors vs AIK" tvg-name="19:00 Sweden - Allsvenskan : Degerfors vs AIK - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV4 Sport Live 2 Sweden
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=704
+
+#EXTINF:-1 tvg-id="Sweden - Allsvenskan - GAIS vs Mjällby" tvg-name="19:00 Sweden - Allsvenskan : GAIS vs Mjällby - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV4 Sportkanalen Sweden
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=707
+
+#EXTINF:-1 tvg-id="Sweden - Allsvenskan - Kalmar vs IFK Göteborg" tvg-name="19:00 Sweden - Allsvenskan : Kalmar vs IFK Göteborg - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV4 Sport Live 3 Sweden
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=705
+
+#EXTINF:-1 tvg-id="Sweden - Allsvenskan - Malmö FF vs Sirius" tvg-name="19:00 Sweden - Allsvenskan : Malmö FF vs Sirius - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV4 Fotball Sweden
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=747
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Levante vs Sevilla" tvg-name="19:00 Spain - La Liga : Levante vs Sevilla - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN LaLiga
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=538
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Levante vs Sevilla" tvg-name="19:00 Spain - La Liga : Levante vs Sevilla - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=5
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Levante vs Sevilla" tvg-name="19:00 Spain - La Liga : Levante vs Sevilla - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", LaLiga TV UK
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=276
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Levante vs Sevilla" tvg-name="19:00 Spain - La Liga : Levante vs Sevilla - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Viaplay Sports 1 UK
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=451
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Levante vs Sevilla" tvg-name="19:00 Spain - La Liga : Levante vs Sevilla - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Premier Sports 1 Ireland
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=771
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Levante vs Sevilla" tvg-name="19:00 Spain - La Liga : Levante vs Sevilla - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN1 DE
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=426
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Levante vs Sevilla" tvg-name="19:00 Spain - La Liga : Levante vs Sevilla - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN Eleven 1 Portugal
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=455
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Levante vs Sevilla" tvg-name="19:00 Spain - La Liga : Levante vs Sevilla - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Canal+ Sport Poland
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=48
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Levante vs Sevilla" tvg-name="19:00 Spain - La Liga : Levante vs Sevilla - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports 2 France
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=117
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Levante vs Sevilla" tvg-name="19:00 Spain - La Liga : Levante vs Sevilla - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Match! Football 2 Russia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=137
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Levante vs Sevilla" tvg-name="19:00 Spain - La Liga : Levante vs Sevilla - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Ziggo Sport 2 NL
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=398
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Levante vs Sevilla" tvg-name="19:00 Spain - La Liga : Levante vs Sevilla - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", CANAL+ SPORT 3 Poland
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=259
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Levante vs Sevilla" tvg-name="19:00 Spain - La Liga : Levante vs Sevilla - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports Malaysia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=712
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Levante vs Sevilla" tvg-name="19:00 Spain - La Liga : Levante vs Sevilla - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Digi Sport 3 Romania
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=402
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Levante vs Sevilla" tvg-name="19:00 Spain - La Liga : Levante vs Sevilla - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Prima Sport 2 Romania
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=584
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Levante vs Sevilla" tvg-name="19:00 Spain - La Liga : Levante vs Sevilla - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sport 4 SK
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1061
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Levante vs Sevilla" tvg-name="19:00 Spain - La Liga : Levante vs Sevilla - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sport 4 CZ
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1024
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Levante vs Sevilla" tvg-name="19:00 Spain - La Liga : Levante vs Sevilla - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena 1 Premium Serbia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=134
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Levante vs Sevilla" tvg-name="19:00 Spain - La Liga : Levante vs Sevilla - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sports 1 Greece
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=631
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Levante vs Sevilla" tvg-name="19:00 Spain - La Liga : Levante vs Sevilla - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 2 Croatia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=433
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Levante vs Sevilla" tvg-name="19:00 Spain - La Liga : Levante vs Sevilla - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV4 Sport Live 1
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=703
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Levante vs Sevilla" tvg-name="19:00 Spain - La Liga : Levante vs Sevilla - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MAX Sport 4 Bulgaria
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=475
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Levante vs Sevilla" tvg-name="19:00 Spain - La Liga : Levante vs Sevilla - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN4 Brazil
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=85
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Levante vs Sevilla" tvg-name="19:00 Spain - La Liga : Levante vs Sevilla - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Laliga
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=415
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Levante vs Sevilla" tvg-name="19:00 Spain - La Liga : Levante vs Sevilla - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 1
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=91
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Levante vs Sevilla" tvg-name="19:00 Spain - La Liga : Levante vs Sevilla - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA English 2
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=90
+
+#EXTINF:-1 tvg-id="Romania - Cupa Romaniei - Dinamo Bucureşti vs CSU Craiova" tvg-name="19:30 Romania - Cupa Romaniei : Dinamo Bucureşti vs CSU Craiova - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Digi Sport 1 Romania
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=400
+
+#EXTINF:-1 tvg-id="Romania - Cupa Romaniei - Dinamo Bucureşti vs CSU Craiova" tvg-name="19:30 Romania - Cupa Romaniei : Dinamo Bucureşti vs CSU Craiova - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Prima Sport 1 Romania
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=583
+
+#EXTINF:-1 tvg-id="Turkey - Turkish Cup - Beşiktaş vs Alanyaspor" tvg-name="19:45 Turkey - Turkish Cup : Beşiktaş vs Alanyaspor - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", A Spor Turkey
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1011
+
+#EXTINF:-1 tvg-id="Turkey - Turkish Cup - Beşiktaş vs Alanyaspor" tvg-name="19:45 Turkey - Turkish Cup : Beşiktaş vs Alanyaspor - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV3 Portugal
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=454
+
+#EXTINF:-1 tvg-id="Turkey - Turkish Cup - Beşiktaş vs Alanyaspor" tvg-name="19:45 Turkey - Turkish Cup : Beşiktaş vs Alanyaspor - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena 3 Premium Serbia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=139
+
+#EXTINF:-1 tvg-id="Turkey - Turkish Cup - Beşiktaş vs Alanyaspor" tvg-name="19:45 Turkey - Turkish Cup : Beşiktaş vs Alanyaspor - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MAX Sport 3 Bulgaria
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=474
+
+#EXTINF:-1 tvg-id="Turkey - Turkish Cup - Beşiktaş vs Alanyaspor" tvg-name="19:45 Turkey - Turkish Cup : Beşiktaş vs Alanyaspor - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportdigital FUSSBALL DE
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=571
+
+#EXTINF:-1 tvg-id="Serbia - Super Liga - Mladost Lučani vs Radnički Kragujevac" tvg-name="20:00 Serbia - Super Liga : Mladost Lučani vs Radnički Kragujevac - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 2 Serbia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=430
+
+#EXTINF:-1 tvg-id="Serbia - Super Liga - Spartak Subotica vs Bačka Topola" tvg-name="20:00 Serbia - Super Liga : Spartak Subotica vs Bačka Topola - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 1 Serbia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=429
+
+#EXTINF:-1 tvg-id="Argentina - Reserve League - Huracán Res. vs San Lorenzo Res." tvg-name="20:00 Argentina - Reserve League : Huracán Res. vs San Lorenzo Res. - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN3 Argentina
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=798
+
+#EXTINF:-1 tvg-id="Poland - I Liga - Wieczysta Kraków vs Polonia Bytom" tvg-name="20:00 Poland - I Liga : Wieczysta Kraków vs Polonia Bytom - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TVP Sport Poland
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=128
+
+#EXTINF:-1 tvg-id="Egypt - Egyptian Premier League - Ghazl El Mehalla vs Petrojet" tvg-name="20:00 Egypt - Egyptian Premier League : Ghazl El Mehalla vs Petrojet - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ON Sport Max Egypt
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=25
+
+#EXTINF:-1 tvg-id="Egypt - Egyptian Premier League - Zamalek vs Pyramids FC" tvg-name="20:00 Egypt - Egyptian Premier League : Zamalek vs Pyramids FC - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ON Sport 1 Egypt
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=611
+
+#EXTINF:-1 tvg-id="Saudi Arabia - Pro League - Al Quadisiya vs Al Shabab" tvg-name="20:00 Saudi Arabia - Pro League : Al Quadisiya vs Al Shabab - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Thmanyah
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=6
+
+#EXTINF:-1 tvg-id="Saudi Arabia - Pro League - Damac vs Al Akhdoud" tvg-name="20:00 Saudi Arabia - Pro League : Damac vs Al Akhdoud - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Thmanyah
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=7
+
+#EXTINF:-1 tvg-id="Saudi Arabia - King Cup - Al Hilal vs Al Kholood" tvg-name="20:00 Saudi Arabia - King Cup : Al Hilal vs Al Kholood - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Thmanyah
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=8
+
+#EXTINF:-1 tvg-id="Portugal - Primeira Liga - Casa Pia vs Sporting Braga" tvg-name="20:00 Portugal - Primeira Liga : Casa Pia vs Sporting Braga - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV1 Portugal
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=49
+
+#EXTINF:-1 tvg-id="Portugal - Primeira Liga - Casa Pia vs Sporting Braga" tvg-name="20:00 Portugal - Primeira Liga : Casa Pia vs Sporting Braga - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Cosmote Sport 3 Greece
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=624
+
+#EXTINF:-1 tvg-id="Portugal - Primeira Liga - Casa Pia vs Sporting Braga" tvg-name="20:00 Portugal - Primeira Liga : Casa Pia vs Sporting Braga - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN3 Brazil
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=83
+
+#EXTINF:-1 tvg-id="Portugal - Primeira Liga - Casa Pia vs Sporting Braga" tvg-name="20:00 Portugal - Primeira Liga : Casa Pia vs Sporting Braga - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MAX 8 France
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=498
+
+#EXTINF:-1 tvg-id="Portugal - Primeira Liga - Casa Pia vs Sporting Braga" tvg-name="20:00 Portugal - Primeira Liga : Casa Pia vs Sporting Braga - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 3 Israel
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=142
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Espanyol" tvg-name="20:00 Spain - La Liga : Rayo Vallecano vs Espanyol - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", M+ LALIGA TV
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=84
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Espanyol" tvg-name="20:00 Spain - La Liga : Rayo Vallecano vs Espanyol - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=9
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Espanyol" tvg-name="20:00 Spain - La Liga : Rayo Vallecano vs Espanyol - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", LaLiga TV UK
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=276
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Espanyol" tvg-name="20:00 Spain - La Liga : Rayo Vallecano vs Espanyol - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN Eleven 3 Portugal
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=457
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Espanyol" tvg-name="20:00 Spain - La Liga : Rayo Vallecano vs Espanyol - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Eleven Sports 2 Poland
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=72
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Espanyol" tvg-name="20:00 Spain - La Liga : Rayo Vallecano vs Espanyol - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports 3 Malaysia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=714
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Espanyol" tvg-name="20:00 Spain - La Liga : Rayo Vallecano vs Espanyol - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MAX 7 France
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=497
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Espanyol" tvg-name="20:00 Spain - La Liga : Rayo Vallecano vs Espanyol - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sport 3 SK
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1060
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Espanyol" tvg-name="20:00 Spain - La Liga : Rayo Vallecano vs Espanyol - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sport 3 CZ
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1023
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Espanyol" tvg-name="20:00 Spain - La Liga : Rayo Vallecano vs Espanyol - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Match! Football 3 Russia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=138
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Espanyol" tvg-name="20:00 Spain - La Liga : Rayo Vallecano vs Espanyol - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Digi Sport 4 Romania
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=403
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Espanyol" tvg-name="20:00 Spain - La Liga : Rayo Vallecano vs Espanyol - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Prima Sport 3 Romania
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=585
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Espanyol" tvg-name="20:00 Spain - La Liga : Rayo Vallecano vs Espanyol - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena 5 Premium Serbia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=10
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Espanyol" tvg-name="20:00 Spain - La Liga : Rayo Vallecano vs Espanyol - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sports 2 Greece
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=632
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Espanyol" tvg-name="20:00 Spain - La Liga : Rayo Vallecano vs Espanyol - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 4 Croatia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=580
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Espanyol" tvg-name="20:00 Spain - La Liga : Rayo Vallecano vs Espanyol - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV4 Sport Live 4
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=706
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Espanyol" tvg-name="20:00 Spain - La Liga : Rayo Vallecano vs Espanyol - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 2
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=92
+
+#EXTINF:-1 tvg-id="Denmark - Super Liga - SønderjyskE vs Midtjylland" tvg-name="20:00 Denmark - Super Liga : SønderjyskE vs Midtjylland - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV2 Sport X Denmark
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=808
+
+#EXTINF:-1 tvg-id="Denmark - Super Liga - SønderjyskE vs Midtjylland" tvg-name="20:00 Denmark - Super Liga : SønderjyskE vs Midtjylland - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 3 Serbia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=431
+
+#EXTINF:-1 tvg-id="Spain - Copa Catalunya - Sabadell vs Barcelona Atlétic" tvg-name="20:30 Spain - Copa Catalunya : Sabadell vs Barcelona Atlétic - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Esport 3 Spain
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=11
+
+#EXTINF:-1 tvg-id="Belgium - Pro League - Sint-Truiden vs Anderlecht" tvg-name="20:30 Belgium - Pro League : Sint-Truiden vs Anderlecht - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN Belgium
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=69
+
+#EXTINF:-1 tvg-id="Germany - DFB Pokal - Stuttgart vs Freiburg" tvg-name="20:45 Germany - DFB Pokal : Stuttgart vs Freiburg - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Das Erste DE
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=739
+
+#EXTINF:-1 tvg-id="Germany - DFB Pokal - Stuttgart vs Freiburg" tvg-name="20:45 Germany - DFB Pokal : Stuttgart vs Freiburg - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport Top Event DE
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=556
+
+#EXTINF:-1 tvg-id="Germany - DFB Pokal - Stuttgart vs Freiburg" tvg-name="20:45 Germany - DFB Pokal : Stuttgart vs Freiburg - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport Mix DE
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=557
+
+#EXTINF:-1 tvg-id="Germany - DFB Pokal - Stuttgart vs Freiburg" tvg-name="20:45 Germany - DFB Pokal : Stuttgart vs Freiburg - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=76
+
+#EXTINF:-1 tvg-id="Germany - DFB Pokal - Stuttgart vs Freiburg" tvg-name="20:45 Germany - DFB Pokal : Stuttgart vs Freiburg - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPNU USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=316
+
+#EXTINF:-1 tvg-id="Germany - DFB Pokal - Stuttgart vs Freiburg" tvg-name="20:45 Germany - DFB Pokal : Stuttgart vs Freiburg - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN Eleven 2 Portugal
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=456
+
+#EXTINF:-1 tvg-id="Germany - DFB Pokal - Stuttgart vs Freiburg" tvg-name="20:45 Germany - DFB Pokal : Stuttgart vs Freiburg - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Astro Football
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=124
+
+#EXTINF:-1 tvg-id="Germany - DFB Pokal - Stuttgart vs Freiburg" tvg-name="20:45 Germany - DFB Pokal : Stuttgart vs Freiburg - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Astro Grandstand
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=123
+
+#EXTINF:-1 tvg-id="Germany - DFB Pokal - Stuttgart vs Freiburg" tvg-name="20:45 Germany - DFB Pokal : Stuttgart vs Freiburg - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Eleven Sports 1 Poland
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=71
+
+#EXTINF:-1 tvg-id="Germany - DFB Pokal - Stuttgart vs Freiburg" tvg-name="20:45 Germany - DFB Pokal : Stuttgart vs Freiburg - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports 1 France
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=116
+
+#EXTINF:-1 tvg-id="Germany - DFB Pokal - Stuttgart vs Freiburg" tvg-name="20:45 Germany - DFB Pokal : Stuttgart vs Freiburg - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport Uno IT
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=461
+
+#EXTINF:-1 tvg-id="Germany - DFB Pokal - Stuttgart vs Freiburg" tvg-name="20:45 Germany - DFB Pokal : Stuttgart vs Freiburg - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport Calcio IT
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=870
+
+#EXTINF:-1 tvg-id="Germany - DFB Pokal - Stuttgart vs Freiburg" tvg-name="20:45 Germany - DFB Pokal : Stuttgart vs Freiburg - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Ziggo Sport 1 NL
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=393
+
+#EXTINF:-1 tvg-id="Germany - DFB Pokal - Stuttgart vs Freiburg" tvg-name="20:45 Germany - DFB Pokal : Stuttgart vs Freiburg - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ERT 2 Greece
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=26
+
+#EXTINF:-1 tvg-id="Germany - DFB Pokal - Stuttgart vs Freiburg" tvg-name="20:45 Germany - DFB Pokal : Stuttgart vs Freiburg - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Abu Dhabi Sports 2
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=601
+
+#EXTINF:-1 tvg-id="Germany - DFB Pokal - Stuttgart vs Freiburg" tvg-name="20:45 Germany - DFB Pokal : Stuttgart vs Freiburg - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN2 Mexico
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=926
+
+#EXTINF:-1 tvg-id="Germany - DFB Pokal - Stuttgart vs Freiburg" tvg-name="20:45 Germany - DFB Pokal : Stuttgart vs Freiburg - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sport 1 CZ
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1021
+
+#EXTINF:-1 tvg-id="Germany - DFB Pokal - Stuttgart vs Freiburg" tvg-name="20:45 Germany - DFB Pokal : Stuttgart vs Freiburg - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Cytavision Sports 7 Cyprus
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=917
+
+#EXTINF:-1 tvg-id="Germany - DFB Pokal - Stuttgart vs Freiburg" tvg-name="20:45 Germany - DFB Pokal : Stuttgart vs Freiburg - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", V Sport Premium
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=27
+
+#EXTINF:-1 tvg-id="Germany - DFB Pokal - Stuttgart vs Freiburg" tvg-name="20:45 Germany - DFB Pokal : Stuttgart vs Freiburg - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", GOL Play Spain
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=530
+
+#EXTINF:-1 tvg-id="Germany - DFB Pokal - Stuttgart vs Freiburg" tvg-name="20:45 Germany - DFB Pokal : Stuttgart vs Freiburg - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 1 Croatia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=432
+
+#EXTINF:-1 tvg-id="Germany - DFB Pokal - Stuttgart vs Freiburg" tvg-name="20:45 Germany - DFB Pokal : Stuttgart vs Freiburg - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Digi Sport 2 Romania
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=401
+
+#EXTINF:-1 tvg-id="Germany - DFB Pokal - Stuttgart vs Freiburg" tvg-name="20:45 Germany - DFB Pokal : Stuttgart vs Freiburg - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN Deportes
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=375
+
+#EXTINF:-1 tvg-id="Germany - DFB Pokal - Stuttgart vs Freiburg" tvg-name="20:45 Germany - DFB Pokal : Stuttgart vs Freiburg - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena 2 Premium Serbia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=135
+
+#EXTINF:-1 tvg-id="Germany - DFB Pokal - Stuttgart vs Freiburg" tvg-name="20:45 Germany - DFB Pokal : Stuttgart vs Freiburg - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sport Bulgaria
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=468
+
+#EXTINF:-1 tvg-id="Germany - DFB Pokal - Stuttgart vs Freiburg" tvg-name="20:45 Germany - DFB Pokal : Stuttgart vs Freiburg - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Diema Sport 2 Bulgaria
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=466
+
+#EXTINF:-1 tvg-id="Germany - DFB Pokal - Stuttgart vs Freiburg" tvg-name="20:45 Germany - DFB Pokal : Stuttgart vs Freiburg - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN Brazil
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=81
+
+#EXTINF:-1 tvg-id="Germany - DFB Pokal - Stuttgart vs Freiburg" tvg-name="20:45 Germany - DFB Pokal : Stuttgart vs Freiburg - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 1 Israel
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=140
+
+#EXTINF:-1 tvg-id="England - League Two - Salford City vs Bromley" tvg-name="21:00 England - League Two : Salford City vs Bromley - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sports Football UK
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=35
+
+#EXTINF:-1 tvg-id="England - League Two - Salford City vs Bromley" tvg-name="21:00 England - League Two : Salford City vs Bromley - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 6 Serbia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=941
+
+#EXTINF:-1 tvg-id="England - League Two - Salford City vs Bromley" tvg-name="21:00 England - League Two : Salford City vs Bromley - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Cosmote Sport 7 Greece
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=628
+
+#EXTINF:-1 tvg-id="England - League Two - Salford City vs Bromley" tvg-name="21:00 England - League Two : Salford City vs Bromley - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 3
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=93
+
+#EXTINF:-1 tvg-id="England - League Two - Salford City vs Bromley" tvg-name="21:00 England - League Two : Salford City vs Bromley - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA English 1
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=61
+
+#EXTINF:-1 tvg-id="Netherlands - Eredivisie - PSV vs PEC Zwolle" tvg-name="21:00 Netherlands - Eredivisie : PSV vs PEC Zwolle - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN 2 NL
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=386
+
+#EXTINF:-1 tvg-id="Netherlands - Eredivisie - PSV vs PEC Zwolle" tvg-name="21:00 Netherlands - Eredivisie : PSV vs PEC Zwolle - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=77
+
+#EXTINF:-1 tvg-id="Netherlands - Eredivisie - PSV vs PEC Zwolle" tvg-name="21:00 Netherlands - Eredivisie : PSV vs PEC Zwolle - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Viaplay Sports 2 UK
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=550
+
+#EXTINF:-1 tvg-id="Netherlands - Eredivisie - PSV vs PEC Zwolle" tvg-name="21:00 Netherlands - Eredivisie : PSV vs PEC Zwolle - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Premier Sports 2 Ireland
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=799
+
+#EXTINF:-1 tvg-id="Netherlands - Eredivisie - PSV vs PEC Zwolle" tvg-name="21:00 Netherlands - Eredivisie : PSV vs PEC Zwolle - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN Eleven 4 Portugal
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=458
+
+#EXTINF:-1 tvg-id="Netherlands - Eredivisie - PSV vs PEC Zwolle" tvg-name="21:00 Netherlands - Eredivisie : PSV vs PEC Zwolle - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Polsat Sport 2 Poland
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=50
+
+#EXTINF:-1 tvg-id="Netherlands - Eredivisie - PSV vs PEC Zwolle" tvg-name="21:00 Netherlands - Eredivisie : PSV vs PEC Zwolle - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Dubai Sports 1
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=604
+
+#EXTINF:-1 tvg-id="Netherlands - Eredivisie - PSV vs PEC Zwolle" tvg-name="21:00 Netherlands - Eredivisie : PSV vs PEC Zwolle - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN4 Mexico
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=928
+
+#EXTINF:-1 tvg-id="Netherlands - Eredivisie - PSV vs PEC Zwolle" tvg-name="21:00 Netherlands - Eredivisie : PSV vs PEC Zwolle - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Prima Sport 4 Romania
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=586
+
+#EXTINF:-1 tvg-id="Netherlands - Eredivisie - PSV vs PEC Zwolle" tvg-name="21:00 Netherlands - Eredivisie : PSV vs PEC Zwolle - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 4 Serbia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=581
+
+#EXTINF:-1 tvg-id="Netherlands - Eredivisie - PSV vs PEC Zwolle" tvg-name="21:00 Netherlands - Eredivisie : PSV vs PEC Zwolle - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sports Start Greece
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=637
+
+#EXTINF:-1 tvg-id="Netherlands - Eredivisie - PSV vs PEC Zwolle" tvg-name="21:00 Netherlands - Eredivisie : PSV vs PEC Zwolle - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Ring bg
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=471
+
+#EXTINF:-1 tvg-id="Netherlands - Eredivisie - PSV vs PEC Zwolle" tvg-name="21:00 Netherlands - Eredivisie : PSV vs PEC Zwolle - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 2 Israel
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=141
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Oviedo vs Villarreal" tvg-name="21:30 Spain - La Liga : Real Oviedo vs Villarreal - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN LaLiga 2
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=2
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Oviedo vs Villarreal" tvg-name="21:30 Spain - La Liga : Real Oviedo vs Villarreal - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN+ USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Oviedo vs Villarreal" tvg-name="21:30 Spain - La Liga : Real Oviedo vs Villarreal - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", LaLiga TV UK
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=276
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Oviedo vs Villarreal" tvg-name="21:30 Spain - La Liga : Real Oviedo vs Villarreal - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Viaplay Sports 1 UK
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=451
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Oviedo vs Villarreal" tvg-name="21:30 Spain - La Liga : Real Oviedo vs Villarreal - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Premier Sports 1 Ireland
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=771
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Oviedo vs Villarreal" tvg-name="21:30 Spain - La Liga : Real Oviedo vs Villarreal - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN1 DE
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=426
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Oviedo vs Villarreal" tvg-name="21:30 Spain - La Liga : Real Oviedo vs Villarreal - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN Eleven 1 Portugal
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=455
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Oviedo vs Villarreal" tvg-name="21:30 Spain - La Liga : Real Oviedo vs Villarreal - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Canal+ Sport Poland
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=48
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Oviedo vs Villarreal" tvg-name="21:30 Spain - La Liga : Real Oviedo vs Villarreal - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports 2 France
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=117
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Oviedo vs Villarreal" tvg-name="21:30 Spain - La Liga : Real Oviedo vs Villarreal - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Ziggo Sport 2 NL
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=398
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Oviedo vs Villarreal" tvg-name="21:30 Spain - La Liga : Real Oviedo vs Villarreal - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Digi Sport 3 Romania
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=402
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Oviedo vs Villarreal" tvg-name="21:30 Spain - La Liga : Real Oviedo vs Villarreal - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Prima Sport 2 Romania
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=584
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Oviedo vs Villarreal" tvg-name="21:30 Spain - La Liga : Real Oviedo vs Villarreal - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports Malaysia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=712
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Oviedo vs Villarreal" tvg-name="21:30 Spain - La Liga : Real Oviedo vs Villarreal - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sport 4 SK
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1061
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Oviedo vs Villarreal" tvg-name="21:30 Spain - La Liga : Real Oviedo vs Villarreal - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sport 4 CZ
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1024
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Oviedo vs Villarreal" tvg-name="21:30 Spain - La Liga : Real Oviedo vs Villarreal - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Match! Football 2 Russia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=137
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Oviedo vs Villarreal" tvg-name="21:30 Spain - La Liga : Real Oviedo vs Villarreal - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", CANAL+ SPORT 3 Poland
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=259
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Oviedo vs Villarreal" tvg-name="21:30 Spain - La Liga : Real Oviedo vs Villarreal - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sports Prime Greece
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=638
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Oviedo vs Villarreal" tvg-name="21:30 Spain - La Liga : Real Oviedo vs Villarreal - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena 1 Premium Serbia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=134
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Oviedo vs Villarreal" tvg-name="21:30 Spain - La Liga : Real Oviedo vs Villarreal - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 2 Croatia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=433
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Oviedo vs Villarreal" tvg-name="21:30 Spain - La Liga : Real Oviedo vs Villarreal - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV4 Sport Live 1
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=703
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Oviedo vs Villarreal" tvg-name="21:30 Spain - La Liga : Real Oviedo vs Villarreal - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV4 Sportkanalen Sweden
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=707
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Oviedo vs Villarreal" tvg-name="21:30 Spain - La Liga : Real Oviedo vs Villarreal - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MAX Sport 4 Bulgaria
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=475
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Oviedo vs Villarreal" tvg-name="21:30 Spain - La Liga : Real Oviedo vs Villarreal - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN4 Brazil
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=85
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Oviedo vs Villarreal" tvg-name="21:30 Spain - La Liga : Real Oviedo vs Villarreal - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN2 Argentina
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=150
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Oviedo vs Villarreal" tvg-name="21:30 Spain - La Liga : Real Oviedo vs Villarreal - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport MaXimo 1
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=572
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Oviedo vs Villarreal" tvg-name="21:30 Spain - La Liga : Real Oviedo vs Villarreal - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Laliga
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=415
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Oviedo vs Villarreal" tvg-name="21:30 Spain - La Liga : Real Oviedo vs Villarreal - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 1
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=91
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Oviedo vs Villarreal" tvg-name="21:30 Spain - La Liga : Real Oviedo vs Villarreal - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA English 2
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=90
+
+#EXTINF:-1 tvg-id="Portugal - Taça de Portugal - Torreense vs Fafe" tvg-name="21:45 Portugal - Taça de Portugal : Torreense vs Fafe - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV2 Portugal
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=74
+
+#EXTINF:-1 tvg-id="Portugal - Taça de Portugal - Torreense vs Fafe" tvg-name="21:45 Portugal - Taça de Portugal : Torreense vs Fafe - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=425
+
+#EXTINF:-1 tvg-id="Portugal - Taça de Portugal - Torreense vs Fafe" tvg-name="21:45 Portugal - Taça de Portugal : Torreense vs Fafe - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS en Español
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=372
+
+#EXTINF:-1 tvg-id="Portugal - Taça de Portugal - Torreense vs Fafe" tvg-name="21:45 Portugal - Taça de Portugal : Torreense vs Fafe - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena 3 Premium Serbia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=139
+
+#EXTINF:-1 tvg-id="Portugal - Taça de Portugal - Torreense vs Fafe" tvg-name="21:45 Portugal - Taça de Portugal : Torreense vs Fafe - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Sports Argentina
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=787
+
+#EXTINF:-1 tvg-id="Peru - Primera Division - Los Chankas vs Cienciano" tvg-name="22:00 Peru - Primera Division : Los Chankas vs Cienciano - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Liga 1 Max Peru
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=12
+
+#EXTINF:-1 tvg-id="Brazil - Copa do Brasil - Atlético Mineiro vs Ceará" tvg-name="00:00 Brazil - Copa do Brasil : Atlético Mineiro vs Ceará - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportv Brazil
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=78
+
+#EXTINF:-1 tvg-id="Brazil - Copa do Brasil - Atlético Mineiro vs Ceará" tvg-name="00:00 Brazil - Copa do Brasil : Atlético Mineiro vs Ceará - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Premiere BR
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=88
+
+#EXTINF:-1 tvg-id="Argentina - Primera División - Defensa y Justicia vs Boca Juniors" tvg-name="01:00 Argentina - Primera División : Defensa y Justicia vs Boca Juniors - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN Premium Argentina
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=387
+
+#EXTINF:-1 tvg-id="Argentina - Primera División - Defensa y Justicia vs Boca Juniors" tvg-name="01:00 Argentina - Primera División : Defensa y Justicia vs Boca Juniors - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Viaplay Sports 2 UK
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=550
+
+#EXTINF:-1 tvg-id="Argentina - Primera División - Defensa y Justicia vs Boca Juniors" tvg-name="01:00 Argentina - Primera División : Defensa y Justicia vs Boca Juniors - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV1 Portugal
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=49
+
+#EXTINF:-1 tvg-id="Argentina - Primera División - Defensa y Justicia vs Boca Juniors" tvg-name="01:00 Argentina - Primera División : Defensa y Justicia vs Boca Juniors - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena 2 Premium Serbia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=135
+
+#EXTINF:-1 tvg-id="Argentina - Primera División - Defensa y Justicia vs Boca Juniors" tvg-name="01:00 Argentina - Primera División : Defensa y Justicia vs Boca Juniors - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 2 Croatia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=433
+
+#EXTINF:-1 tvg-id="Argentina - Primera División - Defensa y Justicia vs Boca Juniors" tvg-name="01:00 Argentina - Primera División : Defensa y Justicia vs Boca Juniors - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN Brazil
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=81
+
+#EXTINF:-1 tvg-id="Argentina - Primera División - Defensa y Justicia vs Boca Juniors" tvg-name="01:00 Argentina - Primera División : Defensa y Justicia vs Boca Juniors - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 2 Israel
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=141
+
+#EXTINF:-1 tvg-id="Colombia - Primera A - Deportivo Pasto vs Santa Fe" tvg-name="01:00 Colombia - Primera A : Deportivo Pasto vs Santa Fe - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Win+ Futbol Colombia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=392
+
+#EXTINF:-1 tvg-id="Chile - Primera Division - Palestino vs Deportes Concepción" tvg-name="02:00 Chile - Primera Division : Palestino vs Deportes Concepción - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TNT SPORTS Premium HD Chile
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=642
+
+#EXTINF:-1 tvg-id="Brazil - Copa do Brasil - Athletico-PR vs Atlético Goianiense" tvg-name="02:30 Brazil - Copa do Brasil : Athletico-PR vs Atlético Goianiense - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportv Brazil
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=78
+
+#EXTINF:-1 tvg-id="Brazil - Copa do Brasil - Athletico-PR vs Atlético Goianiense" tvg-name="02:30 Brazil - Copa do Brasil : Athletico-PR vs Atlético Goianiense - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Premiere BR
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=88
+
+#EXTINF:-1 tvg-id="Brazil - Copa do Brasil - Operário PR vs Fluminense" tvg-name="02:30 Brazil - Copa do Brasil : Operário PR vs Fluminense - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", FOX Deportes
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=643
+
+#EXTINF:-1 tvg-id="Colombia - Primera A - Millonarios vs Deportes Tolima" tvg-name="03:00 Colombia - Primera A : Millonarios vs Deportes Tolima - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Win+ Futbol Colombia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=392
+
+#EXTINF:-1 tvg-id="Costa Rica - Primera Division - Alajuelense vs Puntarenas" tvg-name="04:00 Costa Rica - Primera Division : Alajuelense vs Puntarenas - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", FUTV
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1
+
+#EXTINF:-1 tvg-id="2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round" tvg-name="11:00 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=40
+
+#EXTINF:-1 tvg-id="2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round" tvg-name="11:00 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN3
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=113
+
+#EXTINF:-1 tvg-id="2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round" tvg-name="11:00 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", RDS CA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=839
+
+#EXTINF:-1 tvg-id="2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round" tvg-name="11:00 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports+
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=36
+
+#EXTINF:-1 tvg-id="2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round" tvg-name="11:00 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 France
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=117
+
+#EXTINF:-1 tvg-id="2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round" tvg-name="11:00 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=46
+
+#EXTINF:-1 tvg-id="2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round" tvg-name="11:00 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis DE
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=884
+
+#EXTINF:-1 tvg-id="2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round" tvg-name="11:00 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport Tennis Italy
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=576
+
+#EXTINF:-1 tvg-id="2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round" tvg-name="11:00 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=701
+
+#EXTINF:-1 tvg-id="2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round" tvg-name="11:00 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Sport 1x2 Serbia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=612
+
+#EXTINF:-1 tvg-id="2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round" tvg-name="11:00 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=102
+
+#EXTINF:-1 tvg-id="2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round" tvg-name="11:00 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", MAX Sport 1 Bulgaria
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=472
+
+#EXTINF:-1 tvg-id="2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round" tvg-name="11:00 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=396
+
+#EXTINF:-1 tvg-id="2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round" tvg-name="11:00 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes Spain
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=436
+
+#EXTINF:-1 tvg-id="2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round" tvg-name="11:00 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes 2 Spain
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=438
+
+#EXTINF:-1 tvg-id="2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round" tvg-name="11:00 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes 3 Spain
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=526
+
+#EXTINF:-1 tvg-id="2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round" tvg-name="11:00 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=393
+
+#EXTINF:-1 tvg-id="2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round" tvg-name="11:00 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 5 Cyprus
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=915
+
+#EXTINF:-1 tvg-id="2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round" tvg-name="11:00 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes 4 Spain
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=527
+
+#EXTINF:-1 tvg-id="2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round" tvg-name="11:00 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 5 NL
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=383
+
+#EXTINF:-1 tvg-id="2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round" tvg-name="11:00 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", MAX Sport 2 Bulgaria
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=473
+
+#EXTINF:-1 tvg-id="2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round" tvg-name="11:00 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS Australia 1
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=491
+
+#EXTINF:-1 tvg-id="2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round" tvg-name="11:00 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS Australia 2
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=492
+
+#EXTINF:-1 tvg-id="2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round" tvg-name="11:00 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=713
+
+#EXTINF:-1 tvg-id="2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round" tvg-name="11:00 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports Malaysia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=712
+
+#EXTINF:-1 tvg-id="2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round" tvg-name="11:00 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Sport 8 Serbia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=943
+
+#EXTINF:-1 tvg-id="2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round" tvg-name="11:00 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sportklub 4 Croatia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=104
+
+#EXTINF:-1 tvg-id="2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round" tvg-name="11:00 2026 Mutua Madrid Open Tennis ATP 1st Round; WTA 2nd Round - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 3 Malaysia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=714
+
+#EXTINF:-1 tvg-id="FIA World Rally Championship - Rally Islas Canarias: Shakedown" tvg-name="12:00 FIA World Rally Championship : Rally Islas Canarias: Shakedown - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 6 UK
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=615
+
+#EXTINF:-1 tvg-id="FIA World Rally Championship - Rally Islas Canarias: Service Park Studio" tvg-name="18:15 FIA World Rally Championship : Rally Islas Canarias: Service Park Studio - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 6 UK
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=615
+
+#EXTINF:-1 tvg-id="FIA World Rally Championship - Rally Islas Canarias: Service Park Studio" tvg-name="18:15 FIA World Rally Championship : Rally Islas Canarias: Service Park Studio - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Motowizja Poland
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=563
+
+#EXTINF:-1 tvg-id="WRC Rally Canary Islands Rally Special Stage 1 - WRC Rally Canary Islands Rally Special Stage 1" tvg-name="19:00 WRC Rally Canary Islands Rally Special Stage 1 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Rally Tv
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=607
+
+#EXTINF:-1 tvg-id="WRC Rally Canary Islands Rally Special Stage 1 - WRC Rally Canary Islands Rally Special Stage 1" tvg-name="19:00 WRC Rally Canary Islands Rally Special Stage 1 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 2 UK
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=32
+
+#EXTINF:-1 tvg-id="WRC Rally Canary Islands Rally Special Stage 1 - WRC Rally Canary Islands Rally Special Stage 1" tvg-name="19:00 WRC Rally Canary Islands Rally Special Stage 1 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 6 UK
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=615
+
+#EXTINF:-1 tvg-id="WRC Rally Canary Islands Rally Special Stage 1 - WRC Rally Canary Islands Rally Special Stage 1" tvg-name="19:00 WRC Rally Canary Islands Rally Special Stage 1 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", beIN Sports 3 Malaysia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=714
+
+#EXTINF:-1 tvg-id="WRC Rally Canary Islands Rally Special Stage 1 - WRC Rally Canary Islands Rally Special Stage 1" tvg-name="19:00 WRC Rally Canary Islands Rally Special Stage 1 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TV4 Motor
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=702
+
+#EXTINF:-1 tvg-id="WRC Rally Canary Islands Rally Special Stage 1 - WRC Rally Canary Islands Rally Special Stage 1" tvg-name="19:00 WRC Rally Canary Islands Rally Special Stage 1 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport TV4 Portugal
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=289
+
+#EXTINF:-1 tvg-id="WRC Rally Canary Islands Rally Special Stage 1 - WRC Rally Canary Islands Rally Special Stage 1" tvg-name="19:00 WRC Rally Canary Islands Rally Special Stage 1 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TV4 12 Sweden
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=109
+
+#EXTINF:-1 tvg-id="WRC Rally Canary Islands Rally Special Stage 1 - WRC Rally Canary Islands Rally Special Stage 1" tvg-name="19:00 WRC Rally Canary Islands Rally Special Stage 1 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Motowizja Poland
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=563
+
+#EXTINF:-1 tvg-id="WRC Rally Canary Islands Rally Special Stage 1 - WRC Rally Canary Islands Rally Special Stage 1" tvg-name="19:00 WRC Rally Canary Islands Rally Special Stage 1 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport F1 DE
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=274
+
+#EXTINF:-1 tvg-id="WRC Rally Canary Islands Rally Special Stage 1 - WRC Rally Canary Islands Rally Special Stage 1" tvg-name="19:00 WRC Rally Canary Islands Rally Special Stage 1 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cytavision Sports 6 Cyprus
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=916
+
+#EXTINF:-1 tvg-id="WRC Rally Canary Islands Rally Special Stage 1 - WRC Rally Canary Islands Rally Special Stage 1" tvg-name="19:00 WRC Rally Canary Islands Rally Special Stage 1 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Arena Adrenalin
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=260
+
+#EXTINF:-1 tvg-id="WRC Rally Canary Islands Rally Special Stage 1 - WRC Rally Canary Islands Rally Special Stage 1" tvg-name="19:00 WRC Rally Canary Islands Rally Special Stage 1 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", MAX Sport 2 Bulgaria
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=473
+
+#EXTINF:-1 tvg-id="WRC Rally Canary Islands Rally Special Stage 1 - WRC Rally Canary Islands Rally Special Stage 1" tvg-name="19:00 WRC Rally Canary Islands Rally Special Stage 1 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ Sport360
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=464
+
+#EXTINF:-1 tvg-id="Motorsport SPEEDWAY pl Ekstraliga - Zielona Gora vs Grudziadz" tvg-name="19:30 Motorsport SPEEDWAY pl Ekstraliga : Zielona Gora vs Grudziadz - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ Sport Poland
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=48
+
+#EXTINF:-1 tvg-id="TNA iMPACT! - TNA iMPACT!" tvg-name="03:00 TNA iMPACT! - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe (Tna)", AMC USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=303
+
+#EXTINF:-1 tvg-id="TNA iMPACT! - TNA iMPACT!" tvg-name="03:00 TNA iMPACT! - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe (Tna)", Sportsnet 360
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=409
+
+#EXTINF:-1 tvg-id="European Wrestling Championships Tirana - Semi-finals - European Wrestling Championships Tirana - Semi-finals" tvg-name="16:45 European Wrestling Championships Tirana - Semi-finals - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Combat Sports", M4 Sport Hungary
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=265
+
+#EXTINF:-1 tvg-id="European Wrestling Championships Tirana - Semi-finals - European Wrestling Championships Tirana - Semi-finals" tvg-name="18:00 European Wrestling Championships Tirana - Semi-finals - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Combat Sports", M4 Sport Hungary
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=265
+
+#EXTINF:-1 tvg-id="European Wrestling Championships Women's Final - European Wrestling Championships Women's Final" tvg-name="18:00 European Wrestling Championships Women's Final - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Combat Sports", TRT Spor Turkey
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=889
+
+#EXTINF:-1 tvg-id="NFL Draft, Round 1 - NFL Draft, Round 1" tvg-name="20:00 NFL Draft, Round 1 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", RDS CA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=839
+
+#EXTINF:-1 tvg-id="NFL Draft, Round 1 - NFL Draft, Round 1" tvg-name="20:00 NFL Draft, Round 1 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", Sky Sports NFL UK
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=37
+
+#EXTINF:-1 tvg-id="NFL Draft, Round 1 - NFL Draft, Round 1" tvg-name="20:00 NFL Draft, Round 1 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", Sky Sports Mix UK
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=449
+
+#EXTINF:-1 tvg-id="NFL Draft, Round 1 - NFL Draft, Round 1" tvg-name="20:00 NFL Draft, Round 1 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", Sky Sports Main Event UK
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=38
+
+#EXTINF:-1 tvg-id="NFL Draft, Round 1 - NFL Draft, Round 1" tvg-name="20:00 NFL Draft, Round 1 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", DAZN Eleven 1 Portugal
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=455
+
+#EXTINF:-1 tvg-id="NFL Draft, Round 1 - NFL Draft, Round 1" tvg-name="02:00 NFL Draft, Round 1 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", NFL Network USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=405
+
+#EXTINF:-1 tvg-id="NFL Draft, Round 1 - NFL Draft, Round 1" tvg-name="02:00 NFL Draft, Round 1 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", ABC NY USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=766
+
+#EXTINF:-1 tvg-id="NFL Draft, Round 1 - NFL Draft, Round 1" tvg-name="02:00 NFL Draft, Round 1 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", ABC USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=51
+
+#EXTINF:-1 tvg-id="NFL Draft, Round 1 - NFL Draft, Round 1" tvg-name="02:00 NFL Draft, Round 1 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", ESPN USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=44
+
+#EXTINF:-1 tvg-id="NFL Draft, Round 1 - NFL Draft, Round 1" tvg-name="02:00 NFL Draft, Round 1 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", RDS CA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=839
+
+#EXTINF:-1 tvg-id="NFL Draft, Round 1 - NFL Draft, Round 1" tvg-name="02:00 NFL Draft, Round 1 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", Sky Sports NFL UK
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=37
+
+#EXTINF:-1 tvg-id="NFL Draft, Round 1 - NFL Draft, Round 1" tvg-name="02:00 NFL Draft, Round 1 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", TSN1
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=111
+
+#EXTINF:-1 tvg-id="NFL Draft, Round 1 - NFL Draft, Round 1" tvg-name="02:00 NFL Draft, Round 1 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", TSN2
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=112
+
+#EXTINF:-1 tvg-id="NFL Draft, Round 1 - NFL Draft, Round 1" tvg-name="02:00 NFL Draft, Round 1 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", TSN4
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=114
+
+#EXTINF:-1 tvg-id="NFL Draft, Round 1 - NFL Draft, Round 1" tvg-name="02:00 NFL Draft, Round 1 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", Sky Sports Mix UK
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=449
+
+#EXTINF:-1 tvg-id="NFL Draft, Round 1 - NFL Draft, Round 1" tvg-name="02:00 NFL Draft, Round 1 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", Sky Sports Main Event UK
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=38
+
+#EXTINF:-1 tvg-id="NFL Draft, Round 1 - NFL Draft, Round 1" tvg-name="02:00 NFL Draft, Round 1 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", ESPN Deportes
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=375
+
+#EXTINF:-1 tvg-id="NFL Draft, Round 1 - NFL Draft, Round 1" tvg-name="02:00 NFL Draft, Round 1 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", DAZN Eleven 1 Portugal
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=455
+
+#EXTINF:-1 tvg-id="NFL Draft, Round 1 - NFL Draft, Round 1" tvg-name="02:00 NFL Draft, Round 1 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", Arena 1 Premium Serbia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=134
+
+#EXTINF:-1 tvg-id="NFL Draft, Round 1 - NFL Draft, Round 1" tvg-name="02:00 NFL Draft, Round 1 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", ESPN2 Brazil
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=82
+
+#EXTINF:-1 tvg-id="AFL - Western Bulldogs vs Sydney Swans" tvg-name="11:30 AFL : Western Bulldogs vs Sydney Swans - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Aussie Rules (Afl)", TNT Sports 2 UK
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=32
+
+#EXTINF:-1 tvg-id="AFL - Western Bulldogs vs Sydney Swans" tvg-name="11:30 AFL : Western Bulldogs vs Sydney Swans - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Aussie Rules (Afl)", Fox Soccer Plus
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=756
+
+#EXTINF:-1 tvg-id="AFL - Western Bulldogs vs Sydney Swans" tvg-name="11:30 AFL : Western Bulldogs vs Sydney Swans - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Aussie Rules (Afl)", Sky Sport 3 NZ
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=590
+
+#EXTINF:-1 tvg-id="MLB - Washington Nationals vs Atlanta Braves" tvg-name="19:05 MLB : Washington Nationals vs Atlanta Braves - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", MLB league pass
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=17
+
+#EXTINF:-1 tvg-id="MLB - Washington Nationals vs Atlanta Braves" tvg-name="19:05 MLB : Washington Nationals vs Atlanta Braves - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Sky Sport Max IT
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=460
+
+#EXTINF:-1 tvg-id="MLB - Washington Nationals vs Atlanta Braves" tvg-name="19:05 MLB : Washington Nationals vs Atlanta Braves - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", beIN Sports MAX 4 France
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=494
+
+#EXTINF:-1 tvg-id="MLB - Washington Nationals vs Atlanta Braves" tvg-name="19:05 MLB : Washington Nationals vs Atlanta Braves - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Arena Sport 3 Croatia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=434
+
+#EXTINF:-1 tvg-id="MLB - Washington Nationals vs Atlanta Braves" tvg-name="19:05 MLB : Washington Nationals vs Atlanta Braves - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Sport 5 Stars Israel
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=147
+
+#EXTINF:-1 tvg-id="MLB - Detroit Tigers vs Milwaukee Brewers" tvg-name="19:10 MLB : Detroit Tigers vs Milwaukee Brewers - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", MLB league pass
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=18
+
+#EXTINF:-1 tvg-id="MLB - Chicago Cubs vs Philadelphia Phillies" tvg-name="20:20 MLB : Chicago Cubs vs Philadelphia Phillies - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", MLB league pass
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=19
+
+#EXTINF:-1 tvg-id="MLB - Chicago Cubs vs Philadelphia Phillies" tvg-name="20:20 MLB : Chicago Cubs vs Philadelphia Phillies - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", NBCS Philadelphia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=777
+
+#EXTINF:-1 tvg-id="MLB - Chicago Cubs vs Philadelphia Phillies" tvg-name="20:20 MLB : Chicago Cubs vs Philadelphia Phillies - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Marquee Sports Network
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=770
+
+#EXTINF:-1 tvg-id="MLB - Chicago Cubs vs Philadelphia Phillies" tvg-name="20:20 MLB : Chicago Cubs vs Philadelphia Phillies - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", MLB Network
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=399
+
+#EXTINF:-1 tvg-id="MLB - Colorado Rockies vs San Diego Padres" tvg-name="21:10 MLB : Colorado Rockies vs San Diego Padres - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", MLB league pass
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=20
+
+#EXTINF:-1 tvg-id="MLB - Arizona Diamondbacks vs Chicago White Sox" tvg-name="21:40 MLB : Arizona Diamondbacks vs Chicago White Sox - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", MLB league pass
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=21
+
+#EXTINF:-1 tvg-id="MLB - Arizona Diamondbacks vs Chicago White Sox" tvg-name="21:40 MLB : Arizona Diamondbacks vs Chicago White Sox - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Chicago Sports Network
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=776
+
+#EXTINF:-1 tvg-id="MLB - San Francisco Giants vs Los Angeles Dodgers" tvg-name="21:45 MLB : San Francisco Giants vs Los Angeles Dodgers - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", MLB league pass
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=22
+
+#EXTINF:-1 tvg-id="MLB - San Francisco Giants vs Los Angeles Dodgers" tvg-name="21:45 MLB : San Francisco Giants vs Los Angeles Dodgers - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", TNT Sports 2 UK
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=32
+
+#EXTINF:-1 tvg-id="MLB - San Francisco Giants vs Los Angeles Dodgers" tvg-name="21:45 MLB : San Francisco Giants vs Los Angeles Dodgers - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", NBCS Bay Area USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=753
+
+#EXTINF:-1 tvg-id="MLB - San Francisco Giants vs Los Angeles Dodgers" tvg-name="21:45 MLB : San Francisco Giants vs Los Angeles Dodgers - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Spectrum Sportsnet LA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=764
+
+#EXTINF:-1 tvg-id="MLB - San Francisco Giants vs Los Angeles Dodgers" tvg-name="21:45 MLB : San Francisco Giants vs Los Angeles Dodgers - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", SPORT1+ DE
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=640
+
+#EXTINF:-1 tvg-id="MLB - Boston Red Sox vs New York Yankees" tvg-name="00:10 MLB : Boston Red Sox vs New York Yankees - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", MLB league pass
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=8
+
+#EXTINF:-1 tvg-id="MLB - Boston Red Sox vs New York Yankees" tvg-name="00:10 MLB : Boston Red Sox vs New York Yankees - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", TNT Sports 1 UK
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=31
+
+#EXTINF:-1 tvg-id="MLB - Boston Red Sox vs New York Yankees" tvg-name="00:10 MLB : Boston Red Sox vs New York Yankees - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", FOX Sports 1 USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=39
+
+#EXTINF:-1 tvg-id="MLB - Boston Red Sox vs New York Yankees" tvg-name="00:10 MLB : Boston Red Sox vs New York Yankees - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", YES USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=763
+
+#EXTINF:-1 tvg-id="MLB - Boston Red Sox vs New York Yankees" tvg-name="00:10 MLB : Boston Red Sox vs New York Yankees - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Fox Deportes
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=643
+
+#EXTINF:-1 tvg-id="MLB - Boston Red Sox vs New York Yankees" tvg-name="00:10 MLB : Boston Red Sox vs New York Yankees - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", beIN Sports MAX 4 France
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=494
+
+#EXTINF:-1 tvg-id="MLB - Boston Red Sox vs New York Yankees" tvg-name="00:10 MLB : Boston Red Sox vs New York Yankees - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", ESPN3 Brazil
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=83
+
+#EXTINF:-1 tvg-id="MLB - Minnesota Twins vs New York Mets" tvg-name="01:10 MLB : Minnesota Twins vs New York Mets - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", MLB league pass
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=9
+
+#EXTINF:-1 tvg-id="MLB - Texas Rangers vs Pittsburgh Pirates" tvg-name="02:05 MLB : Texas Rangers vs Pittsburgh Pirates - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", MLB league pass
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=10
+
+#EXTINF:-1 tvg-id="MLB - Texas Rangers vs Pittsburgh Pirates" tvg-name="02:05 MLB : Texas Rangers vs Pittsburgh Pirates - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", SportsNet Pittsburgh
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=922
+
+#EXTINF:-1 tvg-id="Minor League Baseball - St. Paul Saints vs Indianapolis Indians" tvg-name="17:00 Minor League Baseball: St. Paul Saints vs Indianapolis Indians - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Minor League Baseball", SportsNet Pittsburgh
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=922
+
+#EXTINF:-1 tvg-id="Minor League Baseball - Memphis Redbirds vs Norfolk Tides" tvg-name="18:00 Minor League Baseball : Memphis Redbirds vs Norfolk Tides - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Minor League Baseball", MASN USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=829
+
+#EXTINF:-1 tvg-id="Minor League Baseball - Syracuse Mets vs Worcester Red Sox" tvg-name="18:00 Minor League Baseball : Syracuse Mets vs Worcester Red Sox - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Minor League Baseball", NESN USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=762
+
+#EXTINF:-1 tvg-id="NBL - Bay Hawks vs Canterbury Rams" tvg-name="08:00 NBL : Bay Hawks vs Canterbury Rams - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sky Sport 3 NZ
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=590
+
+#EXTINF:-1 tvg-id="Super League - Galil Elyon vs Hapoel Tel-Aviv" tvg-name="15:00 Super League : Galil Elyon vs Hapoel Tel-Aviv - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Israel
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=144
+
+#EXTINF:-1 tvg-id="Israeli Women Premier League - Elizur Holon vs" tvg-name="18:00 Israeli Women Premier League : Elizur Holon vs - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Maccabi Ramat Gan / Hen Sport 5 Plus Israel
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=145
+
+#EXTINF:-1 tvg-id="Latvia LBL - Valmiera Glass VIA vs Rīgas Zeļļi" tvg-name="18:00 Latvia LBL : Valmiera Glass VIA vs Rīgas Zeļļi - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", TV4 Latvia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=24
+
+#EXTINF:-1 tvg-id="Super League - Bnei Herzliya vs Hapoel Beer Sheva" tvg-name="18:00 Super League : Bnei Herzliya vs Hapoel Beer Sheva - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Israel
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=144
+
+#EXTINF:-1 tvg-id="Süper Ligi - Galatasaray vs Merkezefendi" tvg-name="18:00 Süper Ligi : Galatasaray vs Merkezefendi - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", beIN SPORTS 5 Turkey
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1010
+
+#EXTINF:-1 tvg-id="Polish Basketball League - Miasto Szkła Krosno vs Zastal Zielona Góra" tvg-name="19:00 Polish Basketball League : Miasto Szkła Krosno vs Zastal Zielona Góra - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Polsat Sport Extra 4 Poland
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=996
+
+#EXTINF:-1 tvg-id="Liga Leumit - Hapoel Eilat vs Maccabi Ashdod" tvg-name="19:40 Liga Leumit : Hapoel Eilat vs Maccabi Ashdod - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Live Israel
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=146
+
+#EXTINF:-1 tvg-id="Liga Leumit - Hapoel Eilat vs Maccabi Ashdod" tvg-name="19:40 Liga Leumit : Hapoel Eilat vs Maccabi Ashdod - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Plus Israel
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=145
+
+#EXTINF:-1 tvg-id="BBL - Wurzburg vs Bayern" tvg-name="19:45 BBL : Wurzburg vs Bayern - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", DYN DE
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=13
+
+#EXTINF:-1 tvg-id="Super League - Maccabi Rishon vs Maccabi Tel Aviv" tvg-name="20:00 Super League : Maccabi Rishon vs Maccabi Tel Aviv - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Israel
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=144
+
+#EXTINF:-1 tvg-id="Liga de Basquete Feminino - Salvador Basketball vs Unimed Campinas" tvg-name="00:20 Liga de Basquete Feminino : Salvador Basketball vs Unimed Campinas - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPN4 Brazil
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=85
+
+#EXTINF:-1 tvg-id="NBA - Atlanta Hawks vs New York Knicks" tvg-name="01:00 NBA : Atlanta Hawks vs New York Knicks - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBA League Pass
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=2
+
+#EXTINF:-1 tvg-id="NBA - Atlanta Hawks vs New York Knicks" tvg-name="01:00 NBA : Atlanta Hawks vs New York Knicks - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", TSN3
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=113
+
+#EXTINF:-1 tvg-id="NBA - Atlanta Hawks vs New York Knicks" tvg-name="01:00 NBA : Atlanta Hawks vs New York Knicks - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", TSN5
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=115
+
+#EXTINF:-1 tvg-id="NBA - Atlanta Hawks vs New York Knicks" tvg-name="01:00 NBA : Atlanta Hawks vs New York Knicks - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", TVP Sport Poland
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=128
+
+#EXTINF:-1 tvg-id="NBA - Toronto Raptors vs Cleveland Cavaliers" tvg-name="02:00 NBA : Toronto Raptors vs Cleveland Cavaliers - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBA League Pass
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=3
+
+#EXTINF:-1 tvg-id="NBA - Toronto Raptors vs Cleveland Cavaliers" tvg-name="02:00 NBA : Toronto Raptors vs Cleveland Cavaliers - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", RDS CA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=839
+
+#EXTINF:-1 tvg-id="NBA - Toronto Raptors vs Cleveland Cavaliers" tvg-name="02:00 NBA : Toronto Raptors vs Cleveland Cavaliers - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sportsnet One
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=411
+
+#EXTINF:-1 tvg-id="NBA - Minnesota Timberwolves vs Denver Nuggets" tvg-name="03:30 NBA : Minnesota Timberwolves vs Denver Nuggets - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBA League Pass
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4
+
+#EXTINF:-1 tvg-id="NBA - Minnesota Timberwolves vs Denver Nuggets" tvg-name="03:30 NBA : Minnesota Timberwolves vs Denver Nuggets - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", TSN5
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=115
+
+#EXTINF:-1 tvg-id="Old town Champions League Final - Old town Champions League Final" tvg-name="10:00 Old town Champions League Final - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Futsal", Arena 1 Premium Serbia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=134
+
+#EXTINF:-1 tvg-id="Prva liga - Vojvodina vs Smederevo" tvg-name="18:00 Prva liga : Vojvodina vs Smederevo - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Futsal", Arena Sport 7 Serbia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=942
+
+#EXTINF:-1 tvg-id="Prva liga - Vintersport vs Loznica" tvg-name="20:00 Prva liga : Vintersport vs Loznica - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Futsal", Arena Sport 7 Serbia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=942
+
+#EXTINF:-1 tvg-id="NHL - Buffalo Sabres vs Boston Bruins" tvg-name="01:00 NHL : Buffalo Sabres vs Boston Bruins - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", NHL Gamecenter
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=5
+
+#EXTINF:-1 tvg-id="NHL - Buffalo Sabres vs Boston Bruins" tvg-name="01:00 NHL : Buffalo Sabres vs Boston Bruins - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Viaplay Sports 1 UK
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=451
+
+#EXTINF:-1 tvg-id="NHL - Buffalo Sabres vs Boston Bruins" tvg-name="01:00 NHL : Buffalo Sabres vs Boston Bruins - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", TNT USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=338
+
+#EXTINF:-1 tvg-id="NHL - Buffalo Sabres vs Boston Bruins" tvg-name="01:00 NHL : Buffalo Sabres vs Boston Bruins - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", truTV USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=341
+
+#EXTINF:-1 tvg-id="NHL - Buffalo Sabres vs Boston Bruins" tvg-name="01:00 NHL : Buffalo Sabres vs Boston Bruins - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", NESN USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=762
+
+#EXTINF:-1 tvg-id="NHL - Buffalo Sabres vs Boston Bruins" tvg-name="01:00 NHL : Buffalo Sabres vs Boston Bruins - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Sportsnet 360
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=409
+
+#EXTINF:-1 tvg-id="NHL - Buffalo Sabres vs Boston Bruins" tvg-name="01:00 NHL : Buffalo Sabres vs Boston Bruins - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", TVA Sports 2
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=834
+
+#EXTINF:-1 tvg-id="NHL - Buffalo Sabres vs Boston Bruins" tvg-name="01:00 NHL : Buffalo Sabres vs Boston Bruins - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", beIN Sports MAX 5 France
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=495
+
+#EXTINF:-1 tvg-id="NHL - Buffalo Sabres vs Boston Bruins" tvg-name="01:00 NHL : Buffalo Sabres vs Boston Bruins - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", V Sport Vinter
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=13
+
+#EXTINF:-1 tvg-id="NHL - Buffalo Sabres vs Boston Bruins" tvg-name="01:00 NHL : Buffalo Sabres vs Boston Bruins - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Sport 5 Stars Israel
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=147
+
+#EXTINF:-1 tvg-id="NHL - Carolina Hurricanes vs Ottawa Senators" tvg-name="01:30 NHL : Carolina Hurricanes vs Ottawa Senators - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", NHL Gamecenter
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=6
+
+#EXTINF:-1 tvg-id="NHL - Carolina Hurricanes vs Ottawa Senators" tvg-name="01:30 NHL : Carolina Hurricanes vs Ottawa Senators - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", TBS USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=336
+
+#EXTINF:-1 tvg-id="NHL - Carolina Hurricanes vs Ottawa Senators" tvg-name="01:30 NHL : Carolina Hurricanes vs Ottawa Senators - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Sportsnet West
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=407
+
+#EXTINF:-1 tvg-id="NHL - Carolina Hurricanes vs Ottawa Senators" tvg-name="01:30 NHL : Carolina Hurricanes vs Ottawa Senators - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Sportsnet East
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=408
+
+#EXTINF:-1 tvg-id="NHL - Carolina Hurricanes vs Ottawa Senators" tvg-name="01:30 NHL : Carolina Hurricanes vs Ottawa Senators - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Sportsnet Ontario
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=406
+
+#EXTINF:-1 tvg-id="NHL - Carolina Hurricanes vs Ottawa Senators" tvg-name="01:30 NHL : Carolina Hurricanes vs Ottawa Senators - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", CBC CA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=832
+
+#EXTINF:-1 tvg-id="NHL - Carolina Hurricanes vs Ottawa Senators" tvg-name="01:30 NHL : Carolina Hurricanes vs Ottawa Senators - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", TVA Sports
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=833
+
+#EXTINF:-1 tvg-id="NHL - Carolina Hurricanes vs Ottawa Senators" tvg-name="01:30 NHL : Carolina Hurricanes vs Ottawa Senators - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Sportsnet One
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=411
+
+#EXTINF:-1 tvg-id="NHL - Carolina Hurricanes vs Ottawa Senators" tvg-name="01:30 NHL : Carolina Hurricanes vs Ottawa Senators - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", FanDuel Sports Network South
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=903
+
+#EXTINF:-1 tvg-id="NHL - Carolina Hurricanes vs Ottawa Senators" tvg-name="01:30 NHL : Carolina Hurricanes vs Ottawa Senators - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", V Sport Premium
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=27
+
+#EXTINF:-1 tvg-id="NHL - Carolina Hurricanes vs Ottawa Senators" tvg-name="01:30 NHL : Carolina Hurricanes vs Ottawa Senators - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Sky Sport Top Event DE
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=556
+
+#EXTINF:-1 tvg-id="NHL - Carolina Hurricanes vs Ottawa Senators" tvg-name="01:30 NHL : Carolina Hurricanes vs Ottawa Senators - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Sky Sport Mix DE
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=557
+
+#EXTINF:-1 tvg-id="NHL - Carolina Hurricanes vs Ottawa Senators" tvg-name="01:30 NHL : Carolina Hurricanes vs Ottawa Senators - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", beIN Sports MAX 6 France
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=496
+
+#EXTINF:-1 tvg-id="NHL - Carolina Hurricanes vs Ottawa Senators" tvg-name="01:30 NHL : Carolina Hurricanes vs Ottawa Senators - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", ESPN3 Brazil
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=83
+
+#EXTINF:-1 tvg-id="NHL - Colorado Avalanche vs Los Angeles Kings" tvg-name="04:00 NHL : Colorado Avalanche vs Los Angeles Kings - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", NHL Gamecenter
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=7
+
+#EXTINF:-1 tvg-id="NHL - Colorado Avalanche vs Los Angeles Kings" tvg-name="04:00 NHL : Colorado Avalanche vs Los Angeles Kings - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Viaplay Sports 2 UK
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=550
+
+#EXTINF:-1 tvg-id="NHL - Colorado Avalanche vs Los Angeles Kings" tvg-name="04:00 NHL : Colorado Avalanche vs Los Angeles Kings - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", TNT USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=338
+
+#EXTINF:-1 tvg-id="NHL - Colorado Avalanche vs Los Angeles Kings" tvg-name="04:00 NHL : Colorado Avalanche vs Los Angeles Kings - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", truTV USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=341
+
+#EXTINF:-1 tvg-id="NHL - Colorado Avalanche vs Los Angeles Kings" tvg-name="04:00 NHL : Colorado Avalanche vs Los Angeles Kings - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Sportsnet West
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=407
+
+#EXTINF:-1 tvg-id="NHL - Colorado Avalanche vs Los Angeles Kings" tvg-name="04:00 NHL : Colorado Avalanche vs Los Angeles Kings - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Sportsnet East
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=408
+
+#EXTINF:-1 tvg-id="NHL - Colorado Avalanche vs Los Angeles Kings" tvg-name="04:00 NHL : Colorado Avalanche vs Los Angeles Kings - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Sportsnet Ontario
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=406
+
+#EXTINF:-1 tvg-id="NHL - Colorado Avalanche vs Los Angeles Kings" tvg-name="04:00 NHL : Colorado Avalanche vs Los Angeles Kings - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", TVA Sports
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=833
+
+#EXTINF:-1 tvg-id="NHL - Colorado Avalanche vs Los Angeles Kings" tvg-name="04:00 NHL : Colorado Avalanche vs Los Angeles Kings - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", FanDuel Sports Network SoCal
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=902
+
+#EXTINF:-1 tvg-id="NHL - Colorado Avalanche vs Los Angeles Kings" tvg-name="04:00 NHL : Colorado Avalanche vs Los Angeles Kings - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", V Sport Xtra Sweden
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=14
+
+#EXTINF:-1 tvg-id="NHL - Colorado Avalanche vs Los Angeles Kings" tvg-name="04:00 NHL : Colorado Avalanche vs Los Angeles Kings - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Sportsnet 360
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=409
+
+#EXTINF:-1 tvg-id="NHL - Colorado Avalanche vs Los Angeles Kings" tvg-name="04:00 NHL : Colorado Avalanche vs Los Angeles Kings - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", beIN Sports MAX 7 France
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=497
+
+#EXTINF:-1 tvg-id="NHL - Colorado Avalanche vs Los Angeles Kings" tvg-name="04:00 NHL : Colorado Avalanche vs Los Angeles Kings - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Sport 5 Stars Israel
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=147
+
+#EXTINF:-1 tvg-id="IIHF U-18 World Championship - Denmark U18 vs Germany U18" tvg-name="12:00 IIHF U-18 World Championship : Denmark U18 vs Germany U18 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Iihf U-18 Ice Hockey", Magenta Sport 318
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=17
+
+#EXTINF:-1 tvg-id="IIHF U-18 World Championship - Canada U18 vs Latvia U18" tvg-name="14:00 IIHF U-18 World Championship : Canada U18 vs Latvia U18 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Iihf U-18 Ice Hockey", NHL Network USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=663
+
+#EXTINF:-1 tvg-id="IIHF U-18 World Championship - Canada U18 vs Latvia U18" tvg-name="14:00 IIHF U-18 World Championship : Canada U18 vs Latvia U18 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Iihf U-18 Ice Hockey", TSN4
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=114
+
+#EXTINF:-1 tvg-id="IIHF U-18 World Championship - Canada U18 vs Latvia U18" tvg-name="14:00 IIHF U-18 World Championship : Canada U18 vs Latvia U18 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Iihf U-18 Ice Hockey", RDS CA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=839
+
+#EXTINF:-1 tvg-id="IIHF U-18 World Championship - Sweden U18 vs Czech Republic U18" tvg-name="16:00 IIHF U-18 World Championship : Sweden U18 vs Czech Republic U18 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Iihf U-18 Ice Hockey", CT sport CZ
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1033
+
+#EXTINF:-1 tvg-id="AHL - Bridgeport Islanders vs Hershey Bears" tvg-name="01:00 AHL : Bridgeport Islanders vs Hershey Bears - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ahl Ice Hockey", FloHockey
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=77
+
+#EXTINF:-1 tvg-id="AHL - Coachella Valley Firebirds vs Bakersfield Condors" tvg-name="04:00 AHL : Coachella Valley Firebirds vs Bakersfield Condors - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ahl Ice Hockey", FloHockey
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=86
+
+#EXTINF:-1 tvg-id="ECHL - Bloomington Bison vs Toledo Walleye" tvg-name="01:15 ECHL : Bloomington Bison vs Toledo Walleye - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Echl Ice Hockey", FloHockey
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=105
+
+#EXTINF:-1 tvg-id="ECHL - Idaho Steelheads vs Allen Americans" tvg-name="02:10 ECHL : Idaho Steelheads vs Allen Americans - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Echl Ice Hockey", FloHockey
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=106
+
+#EXTINF:-1 tvg-id="OHL - Blainville-Boisbriand Armada vs Moncton Wildcats" tvg-name="00:00 OHL : Blainville-Boisbriand Armada vs Moncton Wildcats - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ohl Ice Hockey", FloHockey
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=107
+
+#EXTINF:-1 tvg-id="USHL - Fargo Force vs Sioux City" tvg-name="02:05 USHL : Fargo Force vs Sioux City - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ushl Ice Hockey", FloHockey
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=108
+
+#EXTINF:-1 tvg-id="Wests Tigers vs Canberra Raiders - Wests Tigers vs Canberra Raiders" tvg-name="12:00 Wests Tigers vs Canberra Raiders - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby League", FOX Sports 2 USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=758
+
+#EXTINF:-1 tvg-id="Wests Tigers vs Canberra Raiders - Wests Tigers vs Canberra Raiders" tvg-name="12:00 Wests Tigers vs Canberra Raiders - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby League", Sky Sport 2 NZ
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=589
+
+#EXTINF:-1 tvg-id="Wests Tigers vs Canberra Raiders - Wests Tigers vs Canberra Raiders" tvg-name="12:00 Wests Tigers vs Canberra Raiders - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby League", beIN Sports 2 France
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=117
+
+#EXTINF:-1 tvg-id="Super League Rugby - Leigh Centurions vs Huddersfield" tvg-name="21:00 Super League Rugby : Leigh Centurions vs Huddersfield - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby League", Fox Soccer Plus
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=756
+
+#EXTINF:-1 tvg-id="Super League Rugby - York City vs Toulouse" tvg-name="21:00 Super League Rugby : York City vs Toulouse - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby League", Sky Sports+ UK
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=36
+
+#EXTINF:-1 tvg-id="Super League Rugby - York City vs Toulouse" tvg-name="21:00 Super League Rugby : York City vs Toulouse - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby League", Sportsnet World
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=410
+
+#EXTINF:-1 tvg-id="Pro D2 - Valence Romans vs Brive" tvg-name="21:00 Pro D2 : Valence Romans vs Brive - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union", Canal+ Sport France
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=122
+
+#EXTINF:-1 tvg-id="I. Liga - Bielsko-Biala vs Anioly Torun" tvg-name="17:30 I. Liga : Bielsko-Biala vs Anioly Torun - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport 2 Poland
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=50
+
+#EXTINF:-1 tvg-id="Super League (W)finale G2 - Ub vs Tent" tvg-name="18:00 Super League (W)finale G2 : Ub vs Tent - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Arena 4 Premium Serbia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=16
+
+#EXTINF:-1 tvg-id="Russia Superliga - Zenit Kazan vs Dynamo Moscow" tvg-name="18:00 Russia Superliga : Zenit Kazan vs Dynamo Moscow - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", МАТЧ! СТРАНА
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=86
+
+#EXTINF:-1 tvg-id="Russia Superliga - Zenit Kazan vs Dynamo Moscow" tvg-name="18:00 Russia Superliga : Zenit Kazan vs Dynamo Moscow - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Arena Sport 2 Serbia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=430
+
+#EXTINF:-1 tvg-id="Greece A1 Women - Panathinaikos vs Zaon Kifisias" tvg-name="18:00 Greece A1 Women : Panathinaikos vs Zaon Kifisias - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", ERT 2 Greece
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=26
+
+#EXTINF:-1 tvg-id="National Championship 1st Division - FC Porto vs Sporting" tvg-name="21:30 National Championship 1st Division : FC Porto vs Sporting - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Porto Canal Portugal
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=718
+
+#EXTINF:-1 tvg-id="Premier Padel 2026 - Brussels P2 Day 3" tvg-name="11:00 Premier Padel 2026 : Brussels P2 Day 3 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Squash", beIN Sports 2 Malaysia
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=713
+
+#EXTINF:-1 tvg-id="Swimming - Polish Championships - Olsztyn 2026 Day 3" tvg-name="17:30 Swimming: Polish Championships - Olsztyn 2026 Day 3 - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water Sports", TVP Sport Poland
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=128
+
+#EXTINF:-1 tvg-id="European Weightlifting Championship - Men" tvg-name="14:00 European Weightlifting Championship: Men - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Sollevamento Pesi", Sport 5 Stars Israel
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=147
+
+#EXTINF:-1 tvg-id="European Weightlifting Championship - Women" tvg-name="17:00 European Weightlifting Championship: Women - 23/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Sollevamento Pesi", Sport 5 Stars Israel
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=147
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
