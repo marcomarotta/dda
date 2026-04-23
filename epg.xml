@@ -49149,10 +49149,7 @@ Moderna?</sub-title>
     <category>Series</category>
     <category>Documentary</category>
   </programme>
-<channel id="frenchopenrolandgarrostennisgrandslammay25june82026">
-    <display-name>French Open (Roland Garros Tennis Grand Slam), May 25 – June 8, 2026</display-name>
-  </channel>
-  <channel id="atpwtatourfinalsbuildupeventstennisseasonmatchesmayjune2026">
+<channel id="atpwtatourfinalsbuildupeventstennisseasonmatchesmayjune2026">
     <display-name>ATP / WTA Tour Finals Build-up Events (Tennis Season Matches), May–June 2026</display-name>
   </channel>
   <channel id="usopengolfchampionshipgolfmajorjune11142026">
@@ -49196,33 +49193,6 @@ Moderna?</sub-title>
   </channel>
   <channel id="fanduelracing">
     <display-name>FanDuel Racing</display-name>
-  </channel>
-  <channel id="serbiasuperligaradnikinivsjavorivanjica">
-    <display-name>Serbia - Super Liga : Radnički Niš vs Javor Ivanjica</display-name>
-  </channel>
-  <channel id="tunisialigueprofessionnelle1estunisvszarzis">
-    <display-name>Tunisia Ligue Professionnelle 1 : ES Tunis vs Zarzis</display-name>
-  </channel>
-  <channel id="indiaindiansuperleaguekeralablastersvsdelhidynamos">
-    <display-name>India - Indian Super League : Kerala Blasters vs Delhi Dynamos</display-name>
-  </channel>
-  <channel id="omanomanileaguealnahdavsdhufar">
-    <display-name>Oman - Omani League : Al Nahda vs Dhufar</display-name>
-  </channel>
-  <channel id="iraqiraqipremierleagueduhokvsgharrafal">
-    <display-name>Iraq - Iraqi Premier League : Duhok vs Gharraf Al</display-name>
-  </channel>
-  <channel id="romanialigaiibihororadeavssepsi">
-    <display-name>Romania - Liga II : Bihor Oradea vs Sepsi</display-name>
-  </channel>
-  <channel id="russiarussianpremierleagueakronvsdynamomakhachkala">
-    <display-name>Russia - Russian Premier League : Akron vs Dynamo Makhachkala</display-name>
-  </channel>
-  <channel id="latviavirsligasupernovavsliepja">
-    <display-name>Latvia - Virsliga : Super Nova vs Liepāja</display-name>
-  </channel>
-  <channel id="egyptegyptianpremierleaguealmokawloonvsalittihad">
-    <display-name>Egypt - Egyptian Premier League : Al Mokawloon vs Al Ittihad</display-name>
   </channel>
   <channel id="turkeyturkishcupsamsunsporvstrabzonspor">
     <display-name>Turkey - Turkish Cup : Samsunspor vs Trabzonspor</display-name>
@@ -49356,23 +49326,8 @@ Moderna?</sub-title>
   <channel id="colombiaprimeraadeportivopastovssantafe">
     <display-name>Colombia - Primera A : Deportivo Pasto vs Santa Fe</display-name>
   </channel>
-  <channel id="indianpremierleaguemumbaiindiansvschennaisuperkings">
-    <display-name>Indian Premier League : Mumbai Indians vs Chennai Super Kings</display-name>
-  </channel>
-  <channel id="atpmadridugocarabellicvsmonfilsg">
-    <display-name>ATP - MADRID : Ugo Carabelli C. vs Monfils G.</display-name>
-  </channel>
-  <channel id="atpmadridbudkovkjaernvsopelkar">
-    <display-name>ATP - MADRID : Budkov Kjaer N. vs Opelka R.</display-name>
-  </channel>
   <channel id="atpmadridlandalucemvswaltona">
     <display-name>ATP - MADRID : Landaluce M. vs Walton A.</display-name>
-  </channel>
-  <channel id="wtamadridbaptistehvsquevedok">
-    <display-name>WTA - MADRID : Baptiste H. vs Quevedo K.</display-name>
-  </channel>
-  <channel id="wtamadridosoriocvsosakan">
-    <display-name>WTA - MADRID : Osorio C. vs Osaka N.</display-name>
   </channel>
   <channel id="wtamadridandreevamvsudvardyp">
     <display-name>WTA - MADRID : Andreeva M. vs Udvardy P.</display-name>
@@ -49385,9 +49340,6 @@ Moderna?</sub-title>
   </channel>
   <channel id="motorsportspeedwayplekstraligazielonagoravsgrudziadz">
     <display-name>Motorsport SPEEDWAY pl Ekstraliga : Zielona Gora vs Grudziadz</display-name>
-  </channel>
-  <channel id="ladieseuropeantourinvestecsouthafricanwomensopen">
-    <display-name>Ladies European Tour Investec South African Women's Open</display-name>
   </channel>
   <channel id="womensgolfmajorthechevronchampionship">
     <display-name>Women's golf major The Chevron Championship</display-name>
@@ -49433,9 +49385,6 @@ Moderna?</sub-title>
   </channel>
   <channel id="mlbminnesotatwinsvsnewyorkmets">
     <display-name>MLB : Minnesota Twins vs New York Mets</display-name>
-  </channel>
-  <channel id="minorleaguebaseballstpaulsaintsvsindianapolisindians">
-    <display-name>Minor League Baseball: St. Paul Saints vs Indianapolis Indians</display-name>
   </channel>
   <channel id="minorleaguebaseballmemphisredbirdsvsnorfolktides">
     <display-name>Minor League Baseball : Memphis Redbirds vs Norfolk Tides</display-name>
@@ -49491,9 +49440,6 @@ Moderna?</sub-title>
   <channel id="prvaligavintersportvsloznica">
     <display-name>Prva liga : Vintersport vs Loznica</display-name>
   </channel>
-  <channel id="a1paokvsaekathens">
-    <display-name>A1 : PAOK vs AEK Athens</display-name>
-  </channel>
   <channel id="denmarkherrehandboldligaenmorsvsskanderborgagf">
     <display-name>Denmark Herre Handbold Ligaen : Mors vs Skanderborg AGF</display-name>
   </channel>
@@ -49521,12 +49467,6 @@ Moderna?</sub-title>
   <channel id="nhlcarolinahurricanesvsottawasenators">
     <display-name>NHL : Carolina Hurricanes vs Ottawa Senators</display-name>
   </channel>
-  <channel id="friendlyinternationalwomengermanywvsswitzerlandw">
-    <display-name>Friendly International Women : Germany W vs Switzerland W</display-name>
-  </channel>
-  <channel id="hockeyczechrepublicextraligatrinecvspardubice">
-    <display-name>Hockey Czech Republic Extraliga : Trinec vs Pardubice</display-name>
-  </channel>
   <channel id="shlskellefteavsrogle">
     <display-name>SHL : Skelleftea vs Rogle</display-name>
   </channel>
@@ -49538,9 +49478,6 @@ Moderna?</sub-title>
   </channel>
   <channel id="friendlyinternationalgermanyvsslovakia">
     <display-name>Friendly International : Germany vs Slovakia</display-name>
-  </channel>
-  <channel id="iihfu18worldchampionshipswedenu18vsczechrepublicu18">
-    <display-name>IIHF U-18 World Championship : Sweden U18 vs Czech Republic U18</display-name>
   </channel>
   <channel id="ahlbridgeportislandersvshersheybears">
     <display-name>AHL : Bridgeport Islanders vs Hershey Bears</display-name>
@@ -49584,19 +49521,6 @@ Moderna?</sub-title>
   <channel id="swimmingpolishchampionshipsolsztyn2026day3">
     <display-name>Swimming: Polish Championships - Olsztyn 2026 Day 3</display-name>
   </channel>
-  <channel id="europeanweightliftingchampionshipwomen">
-    <display-name>European Weightlifting Championship: Women</display-name>
-  </channel>
-  <programme start="20260423000000 +0200" stop="20260423170000 +0200" channel="frenchopenrolandgarrostennisgrandslammay25june82026">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">French Open (Roland Garros Tennis Grand Slam), May 25 – June 8, 2026.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423170000 +0200" stop="20260423190000 +0200" channel="frenchopenrolandgarrostennisgrandslammay25june82026">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">French Open (Roland Garros Tennis Grand Slam), May 25 – June 8, 2026</desc>
-    <category lang="it">Upcoming Events</category>
-  </programme>
   <programme start="20260423000000 +0200" stop="20260423180000 +0200" channel="atpwtatourfinalsbuildupeventstennisseasonmatchesmayjune2026">
     <title lang="it">Inizia alle 18:00.</title>
     <desc lang="it">ATP / WTA Tour Finals Build-up Events (Tennis Season Matches), May–June 2026.</desc>
@@ -49796,126 +49720,6 @@ Moderna?</sub-title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">FanDuel Racing</desc>
     <category lang="it">TV Shows</category>
-  </programme>
-  <programme start="20260423000000 +0200" stop="20260423160000 +0200" channel="serbiasuperligaradnikinivsjavorivanjica">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Serbia - Super Liga : Radnički Niš vs Javor Ivanjica.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423160000 +0200" stop="20260423180000 +0200" channel="serbiasuperligaradnikinivsjavorivanjica">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Serbia - Super Liga : Radnički Niš vs Javor Ivanjica</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260423000000 +0200" stop="20260423160000 +0200" channel="tunisialigueprofessionnelle1estunisvszarzis">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Tunisia Ligue Professionnelle 1 : ES Tunis vs Zarzis.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423160000 +0200" stop="20260423180000 +0200" channel="tunisialigueprofessionnelle1estunisvszarzis">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tunisia Ligue Professionnelle 1 : ES Tunis vs Zarzis</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260423000000 +0200" stop="20260423160000 +0200" channel="indiaindiansuperleaguekeralablastersvsdelhidynamos">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">India - Indian Super League : Kerala Blasters vs Delhi Dynamos.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423160000 +0200" stop="20260423180000 +0200" channel="indiaindiansuperleaguekeralablastersvsdelhidynamos">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">India - Indian Super League : Kerala Blasters vs Delhi Dynamos</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260423000000 +0200" stop="20260423160000 +0200" channel="omanomanileaguealnahdavsdhufar">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Oman - Omani League : Al Nahda vs Dhufar.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423160000 +0200" stop="20260423180000 +0200" channel="omanomanileaguealnahdavsdhufar">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Oman - Omani League : Al Nahda vs Dhufar</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260423000000 +0200" stop="20260423160000 +0200" channel="iraqiraqipremierleagueduhokvsgharrafal">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Iraq - Iraqi Premier League : Duhok vs Gharraf Al.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423160000 +0200" stop="20260423180000 +0200" channel="iraqiraqipremierleagueduhokvsgharrafal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Iraq - Iraqi Premier League : Duhok vs Gharraf Al</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260423000000 +0200" stop="20260423161500 +0200" channel="romanialigaiibihororadeavssepsi">
-    <title lang="it">Inizia alle 16:15.</title>
-    <desc lang="it">Romania - Liga II : Bihor Oradea vs Sepsi.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423161500 +0200" stop="20260423181500 +0200" channel="romanialigaiibihororadeavssepsi">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Romania - Liga II : Bihor Oradea vs Sepsi</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260423000000 +0200" stop="20260423161500 +0200" channel="romanialigaiibihororadeavssepsi">
-    <title lang="it">Inizia alle 16:15.</title>
-    <desc lang="it">Romania - Liga II : Bihor Oradea vs Sepsi.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423161500 +0200" stop="20260423181500 +0200" channel="romanialigaiibihororadeavssepsi">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Romania - Liga II : Bihor Oradea vs Sepsi</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260423000000 +0200" stop="20260423163000 +0200" channel="russiarussianpremierleagueakronvsdynamomakhachkala">
-    <title lang="it">Inizia alle 16:30.</title>
-    <desc lang="it">Russia - Russian Premier League : Akron vs Dynamo Makhachkala.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423163000 +0200" stop="20260423183000 +0200" channel="russiarussianpremierleagueakronvsdynamomakhachkala">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Russia - Russian Premier League : Akron vs Dynamo Makhachkala</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260423000000 +0200" stop="20260423163000 +0200" channel="russiarussianpremierleagueakronvsdynamomakhachkala">
-    <title lang="it">Inizia alle 16:30.</title>
-    <desc lang="it">Russia - Russian Premier League : Akron vs Dynamo Makhachkala.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423163000 +0200" stop="20260423183000 +0200" channel="russiarussianpremierleagueakronvsdynamomakhachkala">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Russia - Russian Premier League : Akron vs Dynamo Makhachkala</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260423000000 +0200" stop="20260423163000 +0200" channel="russiarussianpremierleagueakronvsdynamomakhachkala">
-    <title lang="it">Inizia alle 16:30.</title>
-    <desc lang="it">Russia - Russian Premier League : Akron vs Dynamo Makhachkala.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423163000 +0200" stop="20260423183000 +0200" channel="russiarussianpremierleagueakronvsdynamomakhachkala">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Russia - Russian Premier League : Akron vs Dynamo Makhachkala</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260423000000 +0200" stop="20260423170000 +0200" channel="latviavirsligasupernovavsliepja">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">Latvia - Virsliga : Super Nova vs Liepāja.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423170000 +0200" stop="20260423190000 +0200" channel="latviavirsligasupernovavsliepja">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Latvia - Virsliga : Super Nova vs Liepāja</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260423000000 +0200" stop="20260423170000 +0200" channel="egyptegyptianpremierleaguealmokawloonvsalittihad">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">Egypt - Egyptian Premier League : Al Mokawloon vs Al Ittihad.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423170000 +0200" stop="20260423190000 +0200" channel="egyptegyptianpremierleaguealmokawloonvsalittihad">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Egypt - Egyptian Premier League : Al Mokawloon vs Al Ittihad</desc>
-    <category lang="it">Soccer</category>
   </programme>
   <programme start="20260423000000 +0200" stop="20260423174500 +0200" channel="turkeyturkishcupsamsunsporvstrabzonspor">
     <title lang="it">Inizia alle 17:45.</title>
@@ -51827,126 +51631,6 @@ Moderna?</sub-title>
     <desc lang="it">Colombia - Primera A : Deportivo Pasto vs Santa Fe</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <programme start="20260423000000 +0200" stop="20260423160000 +0200" channel="indianpremierleaguemumbaiindiansvschennaisuperkings">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Indian Premier League : Mumbai Indians vs Chennai Super Kings.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423160000 +0200" stop="20260423180000 +0200" channel="indianpremierleaguemumbaiindiansvschennaisuperkings">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Indian Premier League : Mumbai Indians vs Chennai Super Kings</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260423000000 +0200" stop="20260423160000 +0200" channel="indianpremierleaguemumbaiindiansvschennaisuperkings">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Indian Premier League : Mumbai Indians vs Chennai Super Kings.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423160000 +0200" stop="20260423180000 +0200" channel="indianpremierleaguemumbaiindiansvschennaisuperkings">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Indian Premier League : Mumbai Indians vs Chennai Super Kings</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260423000000 +0200" stop="20260423160000 +0200" channel="indianpremierleaguemumbaiindiansvschennaisuperkings">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Indian Premier League : Mumbai Indians vs Chennai Super Kings.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423160000 +0200" stop="20260423180000 +0200" channel="indianpremierleaguemumbaiindiansvschennaisuperkings">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Indian Premier League : Mumbai Indians vs Chennai Super Kings</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260423000000 +0200" stop="20260423160000 +0200" channel="indianpremierleaguemumbaiindiansvschennaisuperkings">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Indian Premier League : Mumbai Indians vs Chennai Super Kings.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423160000 +0200" stop="20260423180000 +0200" channel="indianpremierleaguemumbaiindiansvschennaisuperkings">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Indian Premier League : Mumbai Indians vs Chennai Super Kings</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260423000000 +0200" stop="20260423160000 +0200" channel="indianpremierleaguemumbaiindiansvschennaisuperkings">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Indian Premier League : Mumbai Indians vs Chennai Super Kings.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423160000 +0200" stop="20260423180000 +0200" channel="indianpremierleaguemumbaiindiansvschennaisuperkings">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Indian Premier League : Mumbai Indians vs Chennai Super Kings</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260423000000 +0200" stop="20260423160000 +0200" channel="indianpremierleaguemumbaiindiansvschennaisuperkings">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Indian Premier League : Mumbai Indians vs Chennai Super Kings.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423160000 +0200" stop="20260423180000 +0200" channel="indianpremierleaguemumbaiindiansvschennaisuperkings">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Indian Premier League : Mumbai Indians vs Chennai Super Kings</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260423000000 +0200" stop="20260423160000 +0200" channel="indianpremierleaguemumbaiindiansvschennaisuperkings">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Indian Premier League : Mumbai Indians vs Chennai Super Kings.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423160000 +0200" stop="20260423180000 +0200" channel="indianpremierleaguemumbaiindiansvschennaisuperkings">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Indian Premier League : Mumbai Indians vs Chennai Super Kings</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260423000000 +0200" stop="20260423160000 +0200" channel="indianpremierleaguemumbaiindiansvschennaisuperkings">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Indian Premier League : Mumbai Indians vs Chennai Super Kings.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423160000 +0200" stop="20260423180000 +0200" channel="indianpremierleaguemumbaiindiansvschennaisuperkings">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Indian Premier League : Mumbai Indians vs Chennai Super Kings</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260423000000 +0200" stop="20260423160000 +0200" channel="indianpremierleaguemumbaiindiansvschennaisuperkings">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Indian Premier League : Mumbai Indians vs Chennai Super Kings.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423160000 +0200" stop="20260423180000 +0200" channel="indianpremierleaguemumbaiindiansvschennaisuperkings">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Indian Premier League : Mumbai Indians vs Chennai Super Kings</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260423000000 +0200" stop="20260423160000 +0200" channel="indianpremierleaguemumbaiindiansvschennaisuperkings">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Indian Premier League : Mumbai Indians vs Chennai Super Kings.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423160000 +0200" stop="20260423180000 +0200" channel="indianpremierleaguemumbaiindiansvschennaisuperkings">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Indian Premier League : Mumbai Indians vs Chennai Super Kings</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260423000000 +0200" stop="20260423160000 +0200" channel="atpmadridugocarabellicvsmonfilsg">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">ATP - MADRID : Ugo Carabelli C. vs Monfils G..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423160000 +0200" stop="20260423180000 +0200" channel="atpmadridugocarabellicvsmonfilsg">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - MADRID : Ugo Carabelli C. vs Monfils G.</desc>
-    <category lang="it">ATP - MADRID</category>
-  </programme>
-  <programme start="20260423000000 +0200" stop="20260423170000 +0200" channel="atpmadridbudkovkjaernvsopelkar">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">ATP - MADRID : Budkov Kjaer N. vs Opelka R..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423170000 +0200" stop="20260423190000 +0200" channel="atpmadridbudkovkjaernvsopelkar">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - MADRID : Budkov Kjaer N. vs Opelka R.</desc>
-    <category lang="it">ATP - MADRID</category>
-  </programme>
   <programme start="20260423000000 +0200" stop="20260423183000 +0200" channel="atpmadridlandalucemvswaltona">
     <title lang="it">Inizia alle 18:30.</title>
     <desc lang="it">ATP - MADRID : Landaluce M. vs Walton A..</desc>
@@ -51956,26 +51640,6 @@ Moderna?</sub-title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">ATP - MADRID : Landaluce M. vs Walton A.</desc>
     <category lang="it">ATP - MADRID</category>
-  </programme>
-  <programme start="20260423000000 +0200" stop="20260423170000 +0200" channel="wtamadridbaptistehvsquevedok">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">WTA - MADRID : Baptiste H. vs Quevedo K..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423170000 +0200" stop="20260423190000 +0200" channel="wtamadridbaptistehvsquevedok">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - MADRID : Baptiste H. vs Quevedo K.</desc>
-    <category lang="it">WTA - MADRID</category>
-  </programme>
-  <programme start="20260423000000 +0200" stop="20260423170000 +0200" channel="wtamadridosoriocvsosakan">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">WTA - MADRID : Osorio C. vs Osaka N..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423170000 +0200" stop="20260423190000 +0200" channel="wtamadridosoriocvsosakan">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - MADRID : Osorio C. vs Osaka N.</desc>
-    <category lang="it">WTA - MADRID</category>
   </programme>
   <programme start="20260423000000 +0200" stop="20260423190000 +0200" channel="wtamadridandreevamvsudvardyp">
     <title lang="it">Inizia alle 19:00.</title>
@@ -52147,126 +51811,6 @@ Moderna?</sub-title>
     <desc lang="it">Motorsport SPEEDWAY pl Ekstraliga : Zielona Gora vs Grudziadz</desc>
     <category lang="it">Motorsport</category>
   </programme>
-  <programme start="20260423000000 +0200" stop="20260423160000 +0200" channel="ladieseuropeantourinvestecsouthafricanwomensopen">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Ladies European Tour Investec South African Women's Open.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423160000 +0200" stop="20260423180000 +0200" channel="ladieseuropeantourinvestecsouthafricanwomensopen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Ladies European Tour Investec South African Women's Open</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260423000000 +0200" stop="20260423160000 +0200" channel="ladieseuropeantourinvestecsouthafricanwomensopen">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Ladies European Tour Investec South African Women's Open.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423160000 +0200" stop="20260423180000 +0200" channel="ladieseuropeantourinvestecsouthafricanwomensopen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Ladies European Tour Investec South African Women's Open</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260423000000 +0200" stop="20260423160000 +0200" channel="ladieseuropeantourinvestecsouthafricanwomensopen">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Ladies European Tour Investec South African Women's Open.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423160000 +0200" stop="20260423180000 +0200" channel="ladieseuropeantourinvestecsouthafricanwomensopen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Ladies European Tour Investec South African Women's Open</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260423000000 +0200" stop="20260423160000 +0200" channel="ladieseuropeantourinvestecsouthafricanwomensopen">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Ladies European Tour Investec South African Women's Open.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423160000 +0200" stop="20260423180000 +0200" channel="ladieseuropeantourinvestecsouthafricanwomensopen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Ladies European Tour Investec South African Women's Open</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260423000000 +0200" stop="20260423160000 +0200" channel="ladieseuropeantourinvestecsouthafricanwomensopen">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Ladies European Tour Investec South African Women's Open.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423160000 +0200" stop="20260423180000 +0200" channel="ladieseuropeantourinvestecsouthafricanwomensopen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Ladies European Tour Investec South African Women's Open</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260423000000 +0200" stop="20260423160000 +0200" channel="ladieseuropeantourinvestecsouthafricanwomensopen">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Ladies European Tour Investec South African Women's Open.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423160000 +0200" stop="20260423180000 +0200" channel="ladieseuropeantourinvestecsouthafricanwomensopen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Ladies European Tour Investec South African Women's Open</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260423000000 +0200" stop="20260423160000 +0200" channel="ladieseuropeantourinvestecsouthafricanwomensopen">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Ladies European Tour Investec South African Women's Open.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423160000 +0200" stop="20260423180000 +0200" channel="ladieseuropeantourinvestecsouthafricanwomensopen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Ladies European Tour Investec South African Women's Open</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260423000000 +0200" stop="20260423160000 +0200" channel="ladieseuropeantourinvestecsouthafricanwomensopen">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Ladies European Tour Investec South African Women's Open.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423160000 +0200" stop="20260423180000 +0200" channel="ladieseuropeantourinvestecsouthafricanwomensopen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Ladies European Tour Investec South African Women's Open</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260423000000 +0200" stop="20260423160000 +0200" channel="ladieseuropeantourinvestecsouthafricanwomensopen">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Ladies European Tour Investec South African Women's Open.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423160000 +0200" stop="20260423180000 +0200" channel="ladieseuropeantourinvestecsouthafricanwomensopen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Ladies European Tour Investec South African Women's Open</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260423000000 +0200" stop="20260423160000 +0200" channel="ladieseuropeantourinvestecsouthafricanwomensopen">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Ladies European Tour Investec South African Women's Open.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423160000 +0200" stop="20260423180000 +0200" channel="ladieseuropeantourinvestecsouthafricanwomensopen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Ladies European Tour Investec South African Women's Open</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260423000000 +0200" stop="20260423160000 +0200" channel="ladieseuropeantourinvestecsouthafricanwomensopen">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Ladies European Tour Investec South African Women's Open.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423160000 +0200" stop="20260423180000 +0200" channel="ladieseuropeantourinvestecsouthafricanwomensopen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Ladies European Tour Investec South African Women's Open</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260423000000 +0200" stop="20260423160000 +0200" channel="ladieseuropeantourinvestecsouthafricanwomensopen">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Ladies European Tour Investec South African Women's Open.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423160000 +0200" stop="20260423180000 +0200" channel="ladieseuropeantourinvestecsouthafricanwomensopen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Ladies European Tour Investec South African Women's Open</desc>
-    <category lang="it">Golf</category>
-  </programme>
   <programme start="20260423000000 +0200" stop="20260423180000 +0200" channel="womensgolfmajorthechevronchampionship">
     <title lang="it">Inizia alle 18:00.</title>
     <desc lang="it">Women's golf major The Chevron Championship.</desc>
@@ -52886,16 +52430,6 @@ Moderna?</sub-title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">World Championship Snooker : Round 1</desc>
     <category lang="it">Snooker</category>
-  </programme>
-  <programme start="20260423000000 +0200" stop="20260423164500 +0200" channel="europeanwrestlingchampionshipstiranasemifinals">
-    <title lang="it">Inizia alle 16:45.</title>
-    <desc lang="it">European Wrestling Championships Tirana - Semi-finals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423164500 +0200" stop="20260423184500 +0200" channel="europeanwrestlingchampionshipstiranasemifinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">European Wrestling Championships Tirana - Semi-finals</desc>
-    <category lang="it">Combat sports</category>
   </programme>
   <programme start="20260423000000 +0200" stop="20260423180000 +0200" channel="europeanwrestlingchampionshipstiranasemifinals">
     <title lang="it">Inizia alle 18:00.</title>
@@ -53226,16 +52760,6 @@ Moderna?</sub-title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">MLB : Minnesota Twins vs New York Mets</desc>
     <category lang="it">Baseball (MLB)</category>
-  </programme>
-  <programme start="20260423000000 +0200" stop="20260423170000 +0200" channel="minorleaguebaseballstpaulsaintsvsindianapolisindians">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">Minor League Baseball: St. Paul Saints vs Indianapolis Indians.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423170000 +0200" stop="20260423190000 +0200" channel="minorleaguebaseballstpaulsaintsvsindianapolisindians">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Minor League Baseball: St. Paul Saints vs Indianapolis Indians</desc>
-    <category lang="it">Minor League Baseball</category>
   </programme>
   <programme start="20260423000000 +0200" stop="20260423180000 +0200" channel="minorleaguebaseballmemphisredbirdsvsnorfolktides">
     <title lang="it">Inizia alle 18:00.</title>
@@ -53617,16 +53141,6 @@ Moderna?</sub-title>
     <desc lang="it">Prva liga : Vintersport vs Loznica</desc>
     <category lang="it">Futsal</category>
   </programme>
-  <programme start="20260423000000 +0200" stop="20260423160000 +0200" channel="a1paokvsaekathens">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">A1 : PAOK vs AEK Athens.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423160000 +0200" stop="20260423180000 +0200" channel="a1paokvsaekathens">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">A1 : PAOK vs AEK Athens</desc>
-    <category lang="it">Handball</category>
-  </programme>
   <programme start="20260423000000 +0200" stop="20260423183000 +0200" channel="denmarkherrehandboldligaenmorsvsskanderborgagf">
     <title lang="it">Inizia alle 18:30.</title>
     <desc lang="it">Denmark Herre Handbold Ligaen : Mors vs Skanderborg AGF.</desc>
@@ -53957,36 +53471,6 @@ Moderna?</sub-title>
     <desc lang="it">NHL : Carolina Hurricanes vs Ottawa Senators</desc>
     <category lang="it">NHL</category>
   </programme>
-  <programme start="20260423000000 +0200" stop="20260423163000 +0200" channel="friendlyinternationalwomengermanywvsswitzerlandw">
-    <title lang="it">Inizia alle 16:30.</title>
-    <desc lang="it">Friendly International Women : Germany W vs Switzerland W.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423163000 +0200" stop="20260423183000 +0200" channel="friendlyinternationalwomengermanywvsswitzerlandw">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Friendly International Women : Germany W vs Switzerland W</desc>
-    <category lang="it">Ice Hockey</category>
-  </programme>
-  <programme start="20260423000000 +0200" stop="20260423170000 +0200" channel="hockeyczechrepublicextraligatrinecvspardubice">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">Hockey Czech Republic Extraliga : Trinec vs Pardubice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423170000 +0200" stop="20260423190000 +0200" channel="hockeyczechrepublicextraligatrinecvspardubice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Hockey Czech Republic Extraliga : Trinec vs Pardubice</desc>
-    <category lang="it">Ice Hockey</category>
-  </programme>
-  <programme start="20260423000000 +0200" stop="20260423170000 +0200" channel="hockeyczechrepublicextraligatrinecvspardubice">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">Hockey Czech Republic Extraliga : Trinec vs Pardubice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423170000 +0200" stop="20260423190000 +0200" channel="hockeyczechrepublicextraligatrinecvspardubice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Hockey Czech Republic Extraliga : Trinec vs Pardubice</desc>
-    <category lang="it">Ice Hockey</category>
-  </programme>
   <programme start="20260423000000 +0200" stop="20260423190000 +0200" channel="shlskellefteavsrogle">
     <title lang="it">Inizia alle 19:00.</title>
     <desc lang="it">SHL : Skelleftea vs Rogle.</desc>
@@ -54036,16 +53520,6 @@ Moderna?</sub-title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Friendly International : Germany vs Slovakia</desc>
     <category lang="it">Ice Hockey</category>
-  </programme>
-  <programme start="20260423000000 +0200" stop="20260423160000 +0200" channel="iihfu18worldchampionshipswedenu18vsczechrepublicu18">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">IIHF U-18 World Championship : Sweden U18 vs Czech Republic U18.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423160000 +0200" stop="20260423180000 +0200" channel="iihfu18worldchampionshipswedenu18vsczechrepublicu18">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">IIHF U-18 World Championship : Sweden U18 vs Czech Republic U18</desc>
-    <category lang="it">IIHF U-18 Ice Hockey</category>
   </programme>
   <programme start="20260423000000 +0200" stop="20260424010000 +0200" channel="ahlbridgeportislandersvshersheybears">
     <title lang="it">Inizia alle 01:00.</title>
@@ -54206,15 +53680,5 @@ Moderna?</sub-title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Swimming: Polish Championships - Olsztyn 2026 Day 3</desc>
     <category lang="it">Water Sports</category>
-  </programme>
-  <programme start="20260423000000 +0200" stop="20260423170000 +0200" channel="europeanweightliftingchampionshipwomen">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">European Weightlifting Championship: Women.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260423170000 +0200" stop="20260423190000 +0200" channel="europeanweightliftingchampionshipwomen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">European Weightlifting Championship: Women</desc>
-    <category lang="it">Weightlifting</category>
   </programme>
 </tv>
