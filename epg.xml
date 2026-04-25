@@ -49418,12 +49418,6 @@ Da Megalopoli A Citta - Giardino</title>
   <channel id="englandnationalleaguetamworthvsbraintreetown">
     <display-name>England - National League : Tamworth vs Braintree Town</display-name>
   </channel>
-  <channel id="australiaaleaguenewcastlejetsvscentralcoastmariners">
-    <display-name>Australia - A-League : Newcastle Jets vs Central Coast Mariners</display-name>
-  </channel>
-  <channel id="australiaaleaguewomenbrisbaneroarvsadelaideunited">
-    <display-name>Australia - A-League Women : Brisbane Roar vs Adelaide United</display-name>
-  </channel>
   <channel id="romanialigaiichindiatrgovitevsvoluntari">
     <display-name>Romania - Liga II : Chindia Târgovişte vs Voluntari</display-name>
   </channel>
@@ -50093,18 +50087,6 @@ Da Megalopoli A Citta - Giardino</title>
   <channel id="womenscollegetennissunbelttennischampionship">
     <display-name>Women’s College Tennis : Sun Belt Tennis Championship</display-name>
   </channel>
-  <channel id="moto3round4spainfreepractice2">
-    <display-name>Moto3 : Round 4 | Spain Free Practice 2</display-name>
-  </channel>
-  <channel id="moto2round4spainfreepractice2">
-    <display-name>Moto2 : Round 4 | Spain Free Practice 2</display-name>
-  </channel>
-  <channel id="wrcrallyislascanariasspecialstage9day3">
-    <display-name>WRC Rally Islas Canarias | Special Stage 9 | Day 3</display-name>
-  </channel>
-  <channel id="dtm2026seasonredbullringqualifying1">
-    <display-name>DTM 2026 Season Red Bull Ring Qualifying 1</display-name>
-  </channel>
   <channel id="motogpround4spainfreepractice2andqualifying">
     <display-name>MotoGP : Round 4 | Spain Free Practice 2 and Qualifying</display-name>
   </channel>
@@ -50420,9 +50402,6 @@ Da Megalopoli A Citta - Giardino</title>
   <channel id="minorleaguebaseballchattanoogalookoutsvsknoxvillesmokies">
     <display-name>Minor League Baseball : Chattanooga Lookouts vs Knoxville Smokies</display-name>
   </channel>
-  <channel id="nblwellingtonsaintsvsnelsongiants">
-    <display-name>NBL : Wellington Saints vs Nelson Giants</display-name>
-  </channel>
   <channel id="sperligianadoluefesvsturktelekom">
     <display-name>Süper Ligi : Anadolu Efes vs Turk Telekom</display-name>
   </channel>
@@ -50521,9 +50500,6 @@ Da Megalopoli A Citta - Giardino</title>
   </channel>
   <channel id="nbaatlantahawksvsnewyorkknicks">
     <display-name>NBA : Atlanta Hawks vs New York Knicks</display-name>
-  </channel>
-  <channel id="surfansproday2meosurfleague">
-    <display-name>Surf: ANS Pro Day 2 - MEO Surf League</display-name>
   </channel>
   <channel id="lakecomoraceoff">
     <display-name>Lake Como - Race Off</display-name>
@@ -50773,9 +50749,6 @@ Da Megalopoli A Citta - Giardino</title>
   </channel>
   <channel id="superleaguerugbysthelensvswakefieldtrinity">
     <display-name>Super League Rugby : St Helens vs Wakefield Trinity</display-name>
-  </channel>
-  <channel id="superrugbybluesvsreds">
-    <display-name>Super Rugby : Blues vs Reds</display-name>
   </channel>
   <channel id="russiansupercupdynamomoscowvsstrelaakbarskazan">
     <display-name>Russian Super Cup : Dynamo Moscow vs. Strela-Ak Bars Kazan</display-name>
@@ -51582,36 +51555,6 @@ Da Megalopoli A Citta - Giardino</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">England - National League : Tamworth vs Braintree Town</desc>
     <category lang="it">England - National League</category>
-  </programme>
-  <programme start="20260425000000 +0200" stop="20260425090000 +0200" channel="australiaaleaguenewcastlejetsvscentralcoastmariners">
-    <title lang="it">Inizia alle 09:00.</title>
-    <desc lang="it">Australia - A-League : Newcastle Jets vs Central Coast Mariners.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425090000 +0200" stop="20260425110000 +0200" channel="australiaaleaguenewcastlejetsvscentralcoastmariners">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Australia - A-League : Newcastle Jets vs Central Coast Mariners</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260425000000 +0200" stop="20260425090000 +0200" channel="australiaaleaguenewcastlejetsvscentralcoastmariners">
-    <title lang="it">Inizia alle 09:00.</title>
-    <desc lang="it">Australia - A-League : Newcastle Jets vs Central Coast Mariners.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425090000 +0200" stop="20260425110000 +0200" channel="australiaaleaguenewcastlejetsvscentralcoastmariners">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Australia - A-League : Newcastle Jets vs Central Coast Mariners</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260425000000 +0200" stop="20260425090000 +0200" channel="australiaaleaguewomenbrisbaneroarvsadelaideunited">
-    <title lang="it">Inizia alle 09:00.</title>
-    <desc lang="it">Australia - A-League Women : Brisbane Roar vs Adelaide United.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425090000 +0200" stop="20260425110000 +0200" channel="australiaaleaguewomenbrisbaneroarvsadelaideunited">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Australia - A-League Women : Brisbane Roar vs Adelaide United</desc>
-    <category lang="it">All Soccer Events</category>
   </programme>
   <programme start="20260425000000 +0200" stop="20260425100000 +0200" channel="romanialigaiichindiatrgovitevsvoluntari">
     <title lang="it">Inizia alle 10:00.</title>
@@ -59373,376 +59316,6 @@ Da Megalopoli A Citta - Giardino</title>
     <desc lang="it">Women’s College Tennis : Sun Belt Tennis Championship</desc>
     <category lang="it">Women's College Tennis</category>
   </programme>
-  <programme start="20260425000000 +0200" stop="20260425083000 +0200" channel="moto3round4spainfreepractice2">
-    <title lang="it">Inizia alle 08:30.</title>
-    <desc lang="it">Moto3 : Round 4 | Spain Free Practice 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425083000 +0200" stop="20260425103000 +0200" channel="moto3round4spainfreepractice2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : Round 4 | Spain Free Practice 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260425000000 +0200" stop="20260425083000 +0200" channel="moto3round4spainfreepractice2">
-    <title lang="it">Inizia alle 08:30.</title>
-    <desc lang="it">Moto3 : Round 4 | Spain Free Practice 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425083000 +0200" stop="20260425103000 +0200" channel="moto3round4spainfreepractice2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : Round 4 | Spain Free Practice 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260425000000 +0200" stop="20260425083000 +0200" channel="moto3round4spainfreepractice2">
-    <title lang="it">Inizia alle 08:30.</title>
-    <desc lang="it">Moto3 : Round 4 | Spain Free Practice 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425083000 +0200" stop="20260425103000 +0200" channel="moto3round4spainfreepractice2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : Round 4 | Spain Free Practice 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260425000000 +0200" stop="20260425083000 +0200" channel="moto3round4spainfreepractice2">
-    <title lang="it">Inizia alle 08:30.</title>
-    <desc lang="it">Moto3 : Round 4 | Spain Free Practice 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425083000 +0200" stop="20260425103000 +0200" channel="moto3round4spainfreepractice2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : Round 4 | Spain Free Practice 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260425000000 +0200" stop="20260425083000 +0200" channel="moto3round4spainfreepractice2">
-    <title lang="it">Inizia alle 08:30.</title>
-    <desc lang="it">Moto3 : Round 4 | Spain Free Practice 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425083000 +0200" stop="20260425103000 +0200" channel="moto3round4spainfreepractice2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : Round 4 | Spain Free Practice 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260425000000 +0200" stop="20260425083000 +0200" channel="moto3round4spainfreepractice2">
-    <title lang="it">Inizia alle 08:30.</title>
-    <desc lang="it">Moto3 : Round 4 | Spain Free Practice 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425083000 +0200" stop="20260425103000 +0200" channel="moto3round4spainfreepractice2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : Round 4 | Spain Free Practice 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260425000000 +0200" stop="20260425083000 +0200" channel="moto3round4spainfreepractice2">
-    <title lang="it">Inizia alle 08:30.</title>
-    <desc lang="it">Moto3 : Round 4 | Spain Free Practice 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425083000 +0200" stop="20260425103000 +0200" channel="moto3round4spainfreepractice2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : Round 4 | Spain Free Practice 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260425000000 +0200" stop="20260425083000 +0200" channel="moto3round4spainfreepractice2">
-    <title lang="it">Inizia alle 08:30.</title>
-    <desc lang="it">Moto3 : Round 4 | Spain Free Practice 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425083000 +0200" stop="20260425103000 +0200" channel="moto3round4spainfreepractice2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : Round 4 | Spain Free Practice 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260425000000 +0200" stop="20260425083000 +0200" channel="moto3round4spainfreepractice2">
-    <title lang="it">Inizia alle 08:30.</title>
-    <desc lang="it">Moto3 : Round 4 | Spain Free Practice 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425083000 +0200" stop="20260425103000 +0200" channel="moto3round4spainfreepractice2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : Round 4 | Spain Free Practice 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260425000000 +0200" stop="20260425083000 +0200" channel="moto3round4spainfreepractice2">
-    <title lang="it">Inizia alle 08:30.</title>
-    <desc lang="it">Moto3 : Round 4 | Spain Free Practice 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425083000 +0200" stop="20260425103000 +0200" channel="moto3round4spainfreepractice2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : Round 4 | Spain Free Practice 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260425000000 +0200" stop="20260425083000 +0200" channel="moto3round4spainfreepractice2">
-    <title lang="it">Inizia alle 08:30.</title>
-    <desc lang="it">Moto3 : Round 4 | Spain Free Practice 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425083000 +0200" stop="20260425103000 +0200" channel="moto3round4spainfreepractice2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : Round 4 | Spain Free Practice 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260425000000 +0200" stop="20260425083000 +0200" channel="moto3round4spainfreepractice2">
-    <title lang="it">Inizia alle 08:30.</title>
-    <desc lang="it">Moto3 : Round 4 | Spain Free Practice 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425083000 +0200" stop="20260425103000 +0200" channel="moto3round4spainfreepractice2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : Round 4 | Spain Free Practice 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260425000000 +0200" stop="20260425083000 +0200" channel="moto3round4spainfreepractice2">
-    <title lang="it">Inizia alle 08:30.</title>
-    <desc lang="it">Moto3 : Round 4 | Spain Free Practice 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425083000 +0200" stop="20260425103000 +0200" channel="moto3round4spainfreepractice2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : Round 4 | Spain Free Practice 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260425000000 +0200" stop="20260425083000 +0200" channel="moto3round4spainfreepractice2">
-    <title lang="it">Inizia alle 08:30.</title>
-    <desc lang="it">Moto3 : Round 4 | Spain Free Practice 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425083000 +0200" stop="20260425103000 +0200" channel="moto3round4spainfreepractice2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : Round 4 | Spain Free Practice 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260425000000 +0200" stop="20260425092000 +0200" channel="moto2round4spainfreepractice2">
-    <title lang="it">Inizia alle 09:20.</title>
-    <desc lang="it">Moto2 : Round 4 | Spain Free Practice 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425092000 +0200" stop="20260425112000 +0200" channel="moto2round4spainfreepractice2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Round 4 | Spain Free Practice 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260425000000 +0200" stop="20260425092000 +0200" channel="moto2round4spainfreepractice2">
-    <title lang="it">Inizia alle 09:20.</title>
-    <desc lang="it">Moto2 : Round 4 | Spain Free Practice 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425092000 +0200" stop="20260425112000 +0200" channel="moto2round4spainfreepractice2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Round 4 | Spain Free Practice 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260425000000 +0200" stop="20260425092000 +0200" channel="moto2round4spainfreepractice2">
-    <title lang="it">Inizia alle 09:20.</title>
-    <desc lang="it">Moto2 : Round 4 | Spain Free Practice 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425092000 +0200" stop="20260425112000 +0200" channel="moto2round4spainfreepractice2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Round 4 | Spain Free Practice 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260425000000 +0200" stop="20260425092000 +0200" channel="moto2round4spainfreepractice2">
-    <title lang="it">Inizia alle 09:20.</title>
-    <desc lang="it">Moto2 : Round 4 | Spain Free Practice 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425092000 +0200" stop="20260425112000 +0200" channel="moto2round4spainfreepractice2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Round 4 | Spain Free Practice 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260425000000 +0200" stop="20260425092000 +0200" channel="moto2round4spainfreepractice2">
-    <title lang="it">Inizia alle 09:20.</title>
-    <desc lang="it">Moto2 : Round 4 | Spain Free Practice 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425092000 +0200" stop="20260425112000 +0200" channel="moto2round4spainfreepractice2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Round 4 | Spain Free Practice 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260425000000 +0200" stop="20260425092000 +0200" channel="moto2round4spainfreepractice2">
-    <title lang="it">Inizia alle 09:20.</title>
-    <desc lang="it">Moto2 : Round 4 | Spain Free Practice 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425092000 +0200" stop="20260425112000 +0200" channel="moto2round4spainfreepractice2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Round 4 | Spain Free Practice 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260425000000 +0200" stop="20260425092000 +0200" channel="moto2round4spainfreepractice2">
-    <title lang="it">Inizia alle 09:20.</title>
-    <desc lang="it">Moto2 : Round 4 | Spain Free Practice 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425092000 +0200" stop="20260425112000 +0200" channel="moto2round4spainfreepractice2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Round 4 | Spain Free Practice 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260425000000 +0200" stop="20260425092000 +0200" channel="moto2round4spainfreepractice2">
-    <title lang="it">Inizia alle 09:20.</title>
-    <desc lang="it">Moto2 : Round 4 | Spain Free Practice 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425092000 +0200" stop="20260425112000 +0200" channel="moto2round4spainfreepractice2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Round 4 | Spain Free Practice 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260425000000 +0200" stop="20260425092000 +0200" channel="moto2round4spainfreepractice2">
-    <title lang="it">Inizia alle 09:20.</title>
-    <desc lang="it">Moto2 : Round 4 | Spain Free Practice 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425092000 +0200" stop="20260425112000 +0200" channel="moto2round4spainfreepractice2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Round 4 | Spain Free Practice 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260425000000 +0200" stop="20260425092000 +0200" channel="moto2round4spainfreepractice2">
-    <title lang="it">Inizia alle 09:20.</title>
-    <desc lang="it">Moto2 : Round 4 | Spain Free Practice 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425092000 +0200" stop="20260425112000 +0200" channel="moto2round4spainfreepractice2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Round 4 | Spain Free Practice 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260425000000 +0200" stop="20260425092000 +0200" channel="moto2round4spainfreepractice2">
-    <title lang="it">Inizia alle 09:20.</title>
-    <desc lang="it">Moto2 : Round 4 | Spain Free Practice 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425092000 +0200" stop="20260425112000 +0200" channel="moto2round4spainfreepractice2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Round 4 | Spain Free Practice 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260425000000 +0200" stop="20260425092000 +0200" channel="moto2round4spainfreepractice2">
-    <title lang="it">Inizia alle 09:20.</title>
-    <desc lang="it">Moto2 : Round 4 | Spain Free Practice 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425092000 +0200" stop="20260425112000 +0200" channel="moto2round4spainfreepractice2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Round 4 | Spain Free Practice 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260425000000 +0200" stop="20260425092000 +0200" channel="moto2round4spainfreepractice2">
-    <title lang="it">Inizia alle 09:20.</title>
-    <desc lang="it">Moto2 : Round 4 | Spain Free Practice 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425092000 +0200" stop="20260425112000 +0200" channel="moto2round4spainfreepractice2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Round 4 | Spain Free Practice 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260425000000 +0200" stop="20260425092000 +0200" channel="moto2round4spainfreepractice2">
-    <title lang="it">Inizia alle 09:20.</title>
-    <desc lang="it">Moto2 : Round 4 | Spain Free Practice 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425092000 +0200" stop="20260425112000 +0200" channel="moto2round4spainfreepractice2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Round 4 | Spain Free Practice 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260425000000 +0200" stop="20260425092600 +0200" channel="wrcrallyislascanariasspecialstage9day3">
-    <title lang="it">Inizia alle 09:26.</title>
-    <desc lang="it">WRC Rally Islas Canarias | Special Stage 9 | Day 3.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425092600 +0200" stop="20260425112600 +0200" channel="wrcrallyislascanariasspecialstage9day3">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WRC Rally Islas Canarias | Special Stage 9 | Day 3</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260425000000 +0200" stop="20260425092600 +0200" channel="wrcrallyislascanariasspecialstage9day3">
-    <title lang="it">Inizia alle 09:26.</title>
-    <desc lang="it">WRC Rally Islas Canarias | Special Stage 9 | Day 3.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425092600 +0200" stop="20260425112600 +0200" channel="wrcrallyislascanariasspecialstage9day3">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WRC Rally Islas Canarias | Special Stage 9 | Day 3</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260425000000 +0200" stop="20260425092600 +0200" channel="wrcrallyislascanariasspecialstage9day3">
-    <title lang="it">Inizia alle 09:26.</title>
-    <desc lang="it">WRC Rally Islas Canarias | Special Stage 9 | Day 3.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425092600 +0200" stop="20260425112600 +0200" channel="wrcrallyislascanariasspecialstage9day3">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WRC Rally Islas Canarias | Special Stage 9 | Day 3</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260425000000 +0200" stop="20260425092600 +0200" channel="wrcrallyislascanariasspecialstage9day3">
-    <title lang="it">Inizia alle 09:26.</title>
-    <desc lang="it">WRC Rally Islas Canarias | Special Stage 9 | Day 3.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425092600 +0200" stop="20260425112600 +0200" channel="wrcrallyislascanariasspecialstage9day3">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WRC Rally Islas Canarias | Special Stage 9 | Day 3</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260425000000 +0200" stop="20260425092600 +0200" channel="wrcrallyislascanariasspecialstage9day3">
-    <title lang="it">Inizia alle 09:26.</title>
-    <desc lang="it">WRC Rally Islas Canarias | Special Stage 9 | Day 3.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425092600 +0200" stop="20260425112600 +0200" channel="wrcrallyislascanariasspecialstage9day3">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WRC Rally Islas Canarias | Special Stage 9 | Day 3</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260425000000 +0200" stop="20260425092600 +0200" channel="wrcrallyislascanariasspecialstage9day3">
-    <title lang="it">Inizia alle 09:26.</title>
-    <desc lang="it">WRC Rally Islas Canarias | Special Stage 9 | Day 3.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425092600 +0200" stop="20260425112600 +0200" channel="wrcrallyislascanariasspecialstage9day3">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WRC Rally Islas Canarias | Special Stage 9 | Day 3</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260425000000 +0200" stop="20260425094000 +0200" channel="dtm2026seasonredbullringqualifying1">
-    <title lang="it">Inizia alle 09:40.</title>
-    <desc lang="it">DTM 2026 Season Red Bull Ring Qualifying 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425094000 +0200" stop="20260425114000 +0200" channel="dtm2026seasonredbullringqualifying1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">DTM 2026 Season Red Bull Ring Qualifying 1</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260425000000 +0200" stop="20260425094000 +0200" channel="dtm2026seasonredbullringqualifying1">
-    <title lang="it">Inizia alle 09:40.</title>
-    <desc lang="it">DTM 2026 Season Red Bull Ring Qualifying 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425094000 +0200" stop="20260425114000 +0200" channel="dtm2026seasonredbullringqualifying1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">DTM 2026 Season Red Bull Ring Qualifying 1</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260425000000 +0200" stop="20260425094000 +0200" channel="dtm2026seasonredbullringqualifying1">
-    <title lang="it">Inizia alle 09:40.</title>
-    <desc lang="it">DTM 2026 Season Red Bull Ring Qualifying 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425094000 +0200" stop="20260425114000 +0200" channel="dtm2026seasonredbullringqualifying1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">DTM 2026 Season Red Bull Ring Qualifying 1</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <programme start="20260425000000 +0200" stop="20260425100000 +0200" channel="motogpround4spainfreepractice2andqualifying">
     <title lang="it">Inizia alle 10:00.</title>
     <desc lang="it">MotoGP : Round 4 | Spain Free Practice 2 and Qualifying.</desc>
@@ -62943,16 +62516,6 @@ Da Megalopoli A Citta - Giardino</title>
     <desc lang="it">Minor League Baseball : Chattanooga Lookouts vs Knoxville Smokies</desc>
     <category lang="it">Minor League Baseball</category>
   </programme>
-  <programme start="20260425000000 +0200" stop="20260425083000 +0200" channel="nblwellingtonsaintsvsnelsongiants">
-    <title lang="it">Inizia alle 08:30.</title>
-    <desc lang="it">NBL : Wellington Saints vs Nelson Giants.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425083000 +0200" stop="20260425103000 +0200" channel="nblwellingtonsaintsvsnelsongiants">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">NBL : Wellington Saints vs Nelson Giants</desc>
-    <category lang="it">Basketball</category>
-  </programme>
   <programme start="20260425000000 +0200" stop="20260425120000 +0200" channel="sperligianadoluefesvsturktelekom">
     <title lang="it">Inizia alle 12:00.</title>
     <desc lang="it">Süper Ligi : Anadolu Efes vs Turk Telekom.</desc>
@@ -63782,16 +63345,6 @@ Da Megalopoli A Citta - Giardino</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">NBA : Atlanta Hawks vs New York Knicks</desc>
     <category lang="it">NBA</category>
-  </programme>
-  <programme start="20260425000000 +0200" stop="20260425090000 +0200" channel="surfansproday2meosurfleague">
-    <title lang="it">Inizia alle 09:00.</title>
-    <desc lang="it">Surf: ANS Pro Day 2 - MEO Surf League.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425090000 +0200" stop="20260425110000 +0200" channel="surfansproday2meosurfleague">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Surf: ANS Pro Day 2 - MEO Surf League</desc>
-    <category lang="it">Sailing / Boating</category>
   </programme>
   <programme start="20260425000000 +0200" stop="20260425144000 +0200" channel="lakecomoraceoff">
     <title lang="it">Inizia alle 14:40.</title>
@@ -65192,46 +64745,6 @@ Da Megalopoli A Citta - Giardino</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Super League Rugby : St Helens vs Wakefield Trinity</desc>
     <category lang="it">Rugby League</category>
-  </programme>
-  <programme start="20260425000000 +0200" stop="20260425093500 +0200" channel="superrugbybluesvsreds">
-    <title lang="it">Inizia alle 09:35.</title>
-    <desc lang="it">Super Rugby : Blues vs Reds.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425093500 +0200" stop="20260425113500 +0200" channel="superrugbybluesvsreds">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Super Rugby : Blues vs Reds</desc>
-    <category lang="it">Rugby Union</category>
-  </programme>
-  <programme start="20260425000000 +0200" stop="20260425093500 +0200" channel="superrugbybluesvsreds">
-    <title lang="it">Inizia alle 09:35.</title>
-    <desc lang="it">Super Rugby : Blues vs Reds.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425093500 +0200" stop="20260425113500 +0200" channel="superrugbybluesvsreds">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Super Rugby : Blues vs Reds</desc>
-    <category lang="it">Rugby Union</category>
-  </programme>
-  <programme start="20260425000000 +0200" stop="20260425093500 +0200" channel="superrugbybluesvsreds">
-    <title lang="it">Inizia alle 09:35.</title>
-    <desc lang="it">Super Rugby : Blues vs Reds.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425093500 +0200" stop="20260425113500 +0200" channel="superrugbybluesvsreds">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Super Rugby : Blues vs Reds</desc>
-    <category lang="it">Rugby Union</category>
-  </programme>
-  <programme start="20260425000000 +0200" stop="20260425093500 +0200" channel="superrugbybluesvsreds">
-    <title lang="it">Inizia alle 09:35.</title>
-    <desc lang="it">Super Rugby : Blues vs Reds.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260425093500 +0200" stop="20260425113500 +0200" channel="superrugbybluesvsreds">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Super Rugby : Blues vs Reds</desc>
-    <category lang="it">Rugby Union</category>
   </programme>
   <programme start="20260425000000 +0200" stop="20260425110000 +0200" channel="russiansupercupdynamomoscowvsstrelaakbarskazan">
     <title lang="it">Inizia alle 11:00.</title>
