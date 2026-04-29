@@ -49241,9 +49241,6 @@ Moderna?</sub-title>
   <channel id="tonyawards2026tvawardsshowjune72026">
     <display-name>Tony Awards 2026 (TV Awards Show), June 7, 2026</display-name>
   </channel>
-  <channel id="egyptianpremierleagueelgounahvsharaselhodood">
-    <display-name>Egyptian Premier League : El Gounah vs Haras El Hodood</display-name>
-  </channel>
   <channel id="belarusiancupbatevsslavia">
     <display-name>Belarusian Cup : BATE vs Slavia</display-name>
   </channel>
@@ -49379,17 +49376,8 @@ Moderna?</sub-title>
   <channel id="uslcupmiamifcvsnaples">
     <display-name>USL Cup : Miami FC vs Naples</display-name>
   </channel>
-  <channel id="pakistansuperleaguemumbaiindiansvssunrisershyderabad">
-    <display-name>Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad</display-name>
-  </channel>
-  <channel id="janniksinnervsrafaeljodar">
-    <display-name>🇮🇹 Jannik Sinner vs 🇪🇸 Rafael Jodar</display-name>
-  </channel>
   <channel id="arthurfilsvsjirilehecka">
     <display-name>🇫🇷 Arthur Fils vs 🇨🇿 Jiri Lehecka</display-name>
-  </channel>
-  <channel id="atpmastersmadrid14final1">
-    <display-name>ATP Masters Madrid: 1/4 Final 1</display-name>
   </channel>
   <channel id="martakostyukvslindanoskova">
     <display-name>🇺🇦 Marta Kostyuk vs 🇨🇿 Linda Noskova</display-name>
@@ -49457,9 +49445,6 @@ Moderna?</sub-title>
   <channel id="minorleaguebaseballfortwaynetincapsvssouthbendcubs">
     <display-name>Minor League Baseball : Fort Wayne TinCaps vs South Bend Cubs</display-name>
   </channel>
-  <channel id="basketballtrkiyetblbordobkvstedankarakolejliler">
-    <display-name>Basketball Türkiye TBL : Bordo BK vs TED Ankara Kolejliler</display-name>
-  </channel>
   <channel id="basketballafricanleaguealahlyvsmaktownflyers">
     <display-name>Basketball African League : Al Ahly vs Maktown Flyers</display-name>
   </channel>
@@ -49502,14 +49487,8 @@ Moderna?</sub-title>
   <channel id="nbatorontoraptorsvsclevelandcavaliers">
     <display-name>NBA : Toronto Raptors vs Cleveland Cavaliers</display-name>
   </channel>
-  <channel id="tourderomandiestage1menmartigny1712km">
-    <display-name>Tour de Romandie | Stage 1 Men | Martigny (171.2km)</display-name>
-  </channel>
   <channel id="nationalchampionshipocbarcelosvsbenfica">
     <display-name>National Championship : OC Barcelos vs. Benfica</display-name>
-  </channel>
-  <channel id="tnl26div1jaguarsvsaloes">
-    <display-name>TNL '26 Div 1 : Jaguars vs Aloes</display-name>
   </channel>
   <channel id="tnl26div2kdqueensvsbaobabs">
     <display-name>TNL '26 Div 2 : KD Queens vs Baobabs</display-name>
@@ -49541,12 +49520,6 @@ Moderna?</sub-title>
   <channel id="championsleaguesportingvsaalborg">
     <display-name>Champions League : Sporting vs Aalborg</display-name>
   </channel>
-  <channel id="liveracingfrompontefractmusselburghandpunchestown">
-    <display-name>Live racing from Pontefract, Musselburgh and Punchestown</display-name>
-  </channel>
-  <channel id="liveracingfromaroundtheuk">
-    <display-name>Live racing from around the UK</display-name>
-  </channel>
   <channel id="nhlmontrealcanadiensvstampabaylightning">
     <display-name>NHL : Montreal Canadiens vs Tampa Bay Lightning</display-name>
   </channel>
@@ -49555,12 +49528,6 @@ Moderna?</sub-title>
   </channel>
   <channel id="khlbarskazanvsmetallurgmagnitogorsk">
     <display-name>KHL : Bars Kazan vs Metallurg Magnitogorsk</display-name>
-  </channel>
-  <channel id="wchu18canadau18vsswedenu18">
-    <display-name>WCH U18 : Canada U18 vs Sweden U18</display-name>
-  </channel>
-  <channel id="wchu18usau18vslatviau18">
-    <display-name>WCH U18 : USA U18 vs Latvia U18</display-name>
   </channel>
   <channel id="wchu18slovakiau18vsdenmarku18">
     <display-name>WCH U18 : Slovakia U18 vs Denmark U18</display-name>
@@ -49585,9 +49552,6 @@ Moderna?</sub-title>
   </channel>
   <channel id="bundesligaluneburgvsberlin">
     <display-name>Bundesliga : Luneburg vs Berlin</display-name>
-  </channel>
-  <channel id="beachvolleyballprotourmbrasiliaqualifications">
-    <display-name>Beach Volleyball Pro Tour (M): Brasilia - qualifications</display-name>
   </channel>
   <channel id="beachvolleyballprotourfbrasiliaqualifications">
     <display-name>Beach Volleyball Pro Tour (F): Brasilia - qualifications</display-name>
@@ -49774,16 +49738,6 @@ Moderna?</sub-title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Tony Awards 2026 (TV Awards Show), June 7, 2026</desc>
     <category lang="it">Upcoming Events</category>
-  </programme>
-  <programme start="20260429000000 +0200" stop="20260429160000 +0200" channel="egyptianpremierleagueelgounahvsharaselhodood">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Egyptian Premier League : El Gounah vs Haras El Hodood.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429160000 +0200" stop="20260429180000 +0200" channel="egyptianpremierleagueelgounahvsharaselhodood">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Egyptian Premier League : El Gounah vs Haras El Hodood</desc>
-    <category lang="it">Soccer</category>
   </programme>
   <programme start="20260429000000 +0200" stop="20260429170000 +0200" channel="belarusiancupbatevsslavia">
     <title lang="it">Inizia alle 17:00.</title>
@@ -51165,124 +51119,24 @@ Moderna?</sub-title>
     <desc lang="it">USL Cup : Miami FC vs Naples</desc>
     <category lang="it">USL Soccer</category>
   </programme>
-  <programme start="20260429000000 +0200" stop="20260429160000 +0200" channel="pakistansuperleaguemumbaiindiansvssunrisershyderabad">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad.</desc>
+  <programme start="20260429000000 +0200" stop="20260429213000 +0200" channel="arthurfilsvsjirilehecka">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">🇫🇷 Arthur Fils vs 🇨🇿 Jiri Lehecka.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260429160000 +0200" stop="20260429180000 +0200" channel="pakistansuperleaguemumbaiindiansvssunrisershyderabad">
+  <programme start="20260429213000 +0200" stop="20260429233000 +0200" channel="arthurfilsvsjirilehecka">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260429000000 +0200" stop="20260429160000 +0200" channel="pakistansuperleaguemumbaiindiansvssunrisershyderabad">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429160000 +0200" stop="20260429180000 +0200" channel="pakistansuperleaguemumbaiindiansvssunrisershyderabad">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260429000000 +0200" stop="20260429160000 +0200" channel="pakistansuperleaguemumbaiindiansvssunrisershyderabad">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429160000 +0200" stop="20260429180000 +0200" channel="pakistansuperleaguemumbaiindiansvssunrisershyderabad">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260429000000 +0200" stop="20260429160000 +0200" channel="pakistansuperleaguemumbaiindiansvssunrisershyderabad">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429160000 +0200" stop="20260429180000 +0200" channel="pakistansuperleaguemumbaiindiansvssunrisershyderabad">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260429000000 +0200" stop="20260429160000 +0200" channel="pakistansuperleaguemumbaiindiansvssunrisershyderabad">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429160000 +0200" stop="20260429180000 +0200" channel="pakistansuperleaguemumbaiindiansvssunrisershyderabad">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260429000000 +0200" stop="20260429160000 +0200" channel="pakistansuperleaguemumbaiindiansvssunrisershyderabad">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429160000 +0200" stop="20260429180000 +0200" channel="pakistansuperleaguemumbaiindiansvssunrisershyderabad">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260429000000 +0200" stop="20260429160000 +0200" channel="pakistansuperleaguemumbaiindiansvssunrisershyderabad">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429160000 +0200" stop="20260429180000 +0200" channel="pakistansuperleaguemumbaiindiansvssunrisershyderabad">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260429000000 +0200" stop="20260429160000 +0200" channel="pakistansuperleaguemumbaiindiansvssunrisershyderabad">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429160000 +0200" stop="20260429180000 +0200" channel="pakistansuperleaguemumbaiindiansvssunrisershyderabad">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260429000000 +0200" stop="20260429160000 +0200" channel="pakistansuperleaguemumbaiindiansvssunrisershyderabad">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429160000 +0200" stop="20260429180000 +0200" channel="pakistansuperleaguemumbaiindiansvssunrisershyderabad">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260429000000 +0200" stop="20260429160000 +0200" channel="pakistansuperleaguemumbaiindiansvssunrisershyderabad">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429160000 +0200" stop="20260429180000 +0200" channel="pakistansuperleaguemumbaiindiansvssunrisershyderabad">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad</desc>
-    <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20260429000000 +0200" stop="20260429160000 +0200" channel="janniksinnervsrafaeljodar">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">🇮🇹 Jannik Sinner vs 🇪🇸 Rafael Jodar.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429160000 +0200" stop="20260429180000 +0200" channel="janniksinnervsrafaeljodar">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🇮🇹 Jannik Sinner vs 🇪🇸 Rafael Jodar</desc>
+    <desc lang="it">🇫🇷 Arthur Fils vs 🇨🇿 Jiri Lehecka</desc>
     <category lang="it">ATP - MADRID</category>
   </programme>
-  <programme start="20260429000000 +0200" stop="20260429160000 +0200" channel="janniksinnervsrafaeljodar">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">🇮🇹 Jannik Sinner vs 🇪🇸 Rafael Jodar.</desc>
+  <programme start="20260429000000 +0200" stop="20260429213000 +0200" channel="arthurfilsvsjirilehecka">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">🇫🇷 Arthur Fils vs 🇨🇿 Jiri Lehecka.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260429160000 +0200" stop="20260429180000 +0200" channel="janniksinnervsrafaeljodar">
+  <programme start="20260429213000 +0200" stop="20260429233000 +0200" channel="arthurfilsvsjirilehecka">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🇮🇹 Jannik Sinner vs 🇪🇸 Rafael Jodar</desc>
+    <desc lang="it">🇫🇷 Arthur Fils vs 🇨🇿 Jiri Lehecka</desc>
     <category lang="it">ATP - MADRID</category>
   </programme>
   <programme start="20260429000000 +0200" stop="20260429213000 +0200" channel="arthurfilsvsjirilehecka">
@@ -51305,14 +51159,24 @@ Moderna?</sub-title>
     <desc lang="it">🇫🇷 Arthur Fils vs 🇨🇿 Jiri Lehecka</desc>
     <category lang="it">ATP - MADRID</category>
   </programme>
-  <programme start="20260429000000 +0200" stop="20260429160000 +0200" channel="atpmastersmadrid14final1">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">ATP Masters Madrid: 1/4 Final 1.</desc>
+  <programme start="20260429000000 +0200" stop="20260429200000 +0200" channel="martakostyukvslindanoskova">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">🇺🇦 Marta Kostyuk vs 🇨🇿 Linda Noskova.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260429160000 +0200" stop="20260429180000 +0200" channel="atpmastersmadrid14final1">
+  <programme start="20260429200000 +0200" stop="20260429220000 +0200" channel="martakostyukvslindanoskova">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP Masters Madrid: 1/4 Final 1</desc>
+    <desc lang="it">🇺🇦 Marta Kostyuk vs 🇨🇿 Linda Noskova</desc>
+    <category lang="it">WTA - MADRID</category>
+  </programme>
+  <programme start="20260429000000 +0200" stop="20260429200000 +0200" channel="martakostyukvslindanoskova">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">🇺🇦 Marta Kostyuk vs 🇨🇿 Linda Noskova.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260429200000 +0200" stop="20260429220000 +0200" channel="martakostyukvslindanoskova">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🇺🇦 Marta Kostyuk vs 🇨🇿 Linda Noskova</desc>
     <category lang="it">WTA - MADRID</category>
   </programme>
   <programme start="20260429000000 +0200" stop="20260429200000 +0200" channel="martakostyukvslindanoskova">
@@ -51374,116 +51238,6 @@ Moderna?</sub-title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">2026 PGA Professional Championship, Final Round</desc>
     <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260429000000 +0200" stop="20260429150000 +0200" channel="worldchampionshipsnookerquarterfinal">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">World Championship Snooker : Quarter-final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429150000 +0200" stop="20260429170000 +0200" channel="worldchampionshipsnookerquarterfinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship Snooker : Quarter-final</desc>
-    <category lang="it">Snooker</category>
-  </programme>
-  <programme start="20260429000000 +0200" stop="20260429150000 +0200" channel="worldchampionshipsnookerquarterfinal">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">World Championship Snooker : Quarter-final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429150000 +0200" stop="20260429170000 +0200" channel="worldchampionshipsnookerquarterfinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship Snooker : Quarter-final</desc>
-    <category lang="it">Snooker</category>
-  </programme>
-  <programme start="20260429000000 +0200" stop="20260429150000 +0200" channel="worldchampionshipsnookerquarterfinal">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">World Championship Snooker : Quarter-final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429150000 +0200" stop="20260429170000 +0200" channel="worldchampionshipsnookerquarterfinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship Snooker : Quarter-final</desc>
-    <category lang="it">Snooker</category>
-  </programme>
-  <programme start="20260429000000 +0200" stop="20260429150000 +0200" channel="worldchampionshipsnookerquarterfinal">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">World Championship Snooker : Quarter-final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429150000 +0200" stop="20260429170000 +0200" channel="worldchampionshipsnookerquarterfinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship Snooker : Quarter-final</desc>
-    <category lang="it">Snooker</category>
-  </programme>
-  <programme start="20260429000000 +0200" stop="20260429150000 +0200" channel="worldchampionshipsnookerquarterfinal">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">World Championship Snooker : Quarter-final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429150000 +0200" stop="20260429170000 +0200" channel="worldchampionshipsnookerquarterfinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship Snooker : Quarter-final</desc>
-    <category lang="it">Snooker</category>
-  </programme>
-  <programme start="20260429000000 +0200" stop="20260429150000 +0200" channel="worldchampionshipsnookerquarterfinal">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">World Championship Snooker : Quarter-final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429150000 +0200" stop="20260429170000 +0200" channel="worldchampionshipsnookerquarterfinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship Snooker : Quarter-final</desc>
-    <category lang="it">Snooker</category>
-  </programme>
-  <programme start="20260429000000 +0200" stop="20260429150000 +0200" channel="worldchampionshipsnookerquarterfinal">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">World Championship Snooker : Quarter-final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429150000 +0200" stop="20260429170000 +0200" channel="worldchampionshipsnookerquarterfinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship Snooker : Quarter-final</desc>
-    <category lang="it">Snooker</category>
-  </programme>
-  <programme start="20260429000000 +0200" stop="20260429150000 +0200" channel="worldchampionshipsnookerquarterfinal">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">World Championship Snooker : Quarter-final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429150000 +0200" stop="20260429170000 +0200" channel="worldchampionshipsnookerquarterfinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship Snooker : Quarter-final</desc>
-    <category lang="it">Snooker</category>
-  </programme>
-  <programme start="20260429000000 +0200" stop="20260429150000 +0200" channel="worldchampionshipsnookerquarterfinal">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">World Championship Snooker : Quarter-final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429150000 +0200" stop="20260429170000 +0200" channel="worldchampionshipsnookerquarterfinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship Snooker : Quarter-final</desc>
-    <category lang="it">Snooker</category>
-  </programme>
-  <programme start="20260429000000 +0200" stop="20260429150000 +0200" channel="worldchampionshipsnookerquarterfinal">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">World Championship Snooker : Quarter-final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429150000 +0200" stop="20260429170000 +0200" channel="worldchampionshipsnookerquarterfinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship Snooker : Quarter-final</desc>
-    <category lang="it">Snooker</category>
-  </programme>
-  <programme start="20260429000000 +0200" stop="20260429150000 +0200" channel="worldchampionshipsnookerquarterfinal">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">World Championship Snooker : Quarter-final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429150000 +0200" stop="20260429170000 +0200" channel="worldchampionshipsnookerquarterfinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship Snooker : Quarter-final</desc>
-    <category lang="it">Snooker</category>
   </programme>
   <programme start="20260429000000 +0200" stop="20260429193000 +0200" channel="worldchampionshipsnookerquarterfinal">
     <title lang="it">Inizia alle 19:30.</title>
@@ -51965,16 +51719,6 @@ Moderna?</sub-title>
     <desc lang="it">Minor League Baseball : Fort Wayne TinCaps vs South Bend Cubs</desc>
     <category lang="it">Minor League Baseball</category>
   </programme>
-  <programme start="20260429000000 +0200" stop="20260429160000 +0200" channel="basketballtrkiyetblbordobkvstedankarakolejliler">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Basketball Türkiye TBL : Bordo BK vs TED Ankara Kolejliler.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429160000 +0200" stop="20260429180000 +0200" channel="basketballtrkiyetblbordobkvstedankarakolejliler">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Basketball Türkiye TBL : Bordo BK vs TED Ankara Kolejliler</desc>
-    <category lang="it">Basketball</category>
-  </programme>
   <programme start="20260429000000 +0200" stop="20260429170000 +0200" channel="basketballafricanleaguealahlyvsmaktownflyers">
     <title lang="it">Inizia alle 17:00.</title>
     <desc lang="it">Basketball African League : Al Ahly vs Maktown Flyers.</desc>
@@ -52305,86 +52049,6 @@ Moderna?</sub-title>
     <desc lang="it">NBA : Toronto Raptors vs Cleveland Cavaliers</desc>
     <category lang="it">NBA</category>
   </programme>
-  <programme start="20260429000000 +0200" stop="20260429153000 +0200" channel="tourderomandiestage1menmartigny1712km">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Tour de Romandie | Stage 1 Men | Martigny (171.2km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429153000 +0200" stop="20260429173000 +0200" channel="tourderomandiestage1menmartigny1712km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour de Romandie | Stage 1 Men | Martigny (171.2km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260429000000 +0200" stop="20260429153000 +0200" channel="tourderomandiestage1menmartigny1712km">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Tour de Romandie | Stage 1 Men | Martigny (171.2km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429153000 +0200" stop="20260429173000 +0200" channel="tourderomandiestage1menmartigny1712km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour de Romandie | Stage 1 Men | Martigny (171.2km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260429000000 +0200" stop="20260429153000 +0200" channel="tourderomandiestage1menmartigny1712km">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Tour de Romandie | Stage 1 Men | Martigny (171.2km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429153000 +0200" stop="20260429173000 +0200" channel="tourderomandiestage1menmartigny1712km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour de Romandie | Stage 1 Men | Martigny (171.2km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260429000000 +0200" stop="20260429153000 +0200" channel="tourderomandiestage1menmartigny1712km">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Tour de Romandie | Stage 1 Men | Martigny (171.2km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429153000 +0200" stop="20260429173000 +0200" channel="tourderomandiestage1menmartigny1712km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour de Romandie | Stage 1 Men | Martigny (171.2km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260429000000 +0200" stop="20260429153000 +0200" channel="tourderomandiestage1menmartigny1712km">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Tour de Romandie | Stage 1 Men | Martigny (171.2km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429153000 +0200" stop="20260429173000 +0200" channel="tourderomandiestage1menmartigny1712km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour de Romandie | Stage 1 Men | Martigny (171.2km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260429000000 +0200" stop="20260429153000 +0200" channel="tourderomandiestage1menmartigny1712km">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Tour de Romandie | Stage 1 Men | Martigny (171.2km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429153000 +0200" stop="20260429173000 +0200" channel="tourderomandiestage1menmartigny1712km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour de Romandie | Stage 1 Men | Martigny (171.2km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260429000000 +0200" stop="20260429153000 +0200" channel="tourderomandiestage1menmartigny1712km">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Tour de Romandie | Stage 1 Men | Martigny (171.2km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429153000 +0200" stop="20260429173000 +0200" channel="tourderomandiestage1menmartigny1712km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour de Romandie | Stage 1 Men | Martigny (171.2km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260429000000 +0200" stop="20260429153000 +0200" channel="tourderomandiestage1menmartigny1712km">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Tour de Romandie | Stage 1 Men | Martigny (171.2km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429153000 +0200" stop="20260429173000 +0200" channel="tourderomandiestage1menmartigny1712km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour de Romandie | Stage 1 Men | Martigny (171.2km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
   <programme start="20260429000000 +0200" stop="20260429223000 +0200" channel="nationalchampionshipocbarcelosvsbenfica">
     <title lang="it">Inizia alle 22:30.</title>
     <desc lang="it">National Championship : OC Barcelos vs. Benfica.</desc>
@@ -52394,16 +52058,6 @@ Moderna?</sub-title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">National Championship : OC Barcelos vs. Benfica</desc>
     <category lang="it">Floorball</category>
-  </programme>
-  <programme start="20260429000000 +0200" stop="20260429150000 +0200" channel="tnl26div1jaguarsvsaloes">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">TNL '26 Div 1 : Jaguars vs Aloes.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429150000 +0200" stop="20260429170000 +0200" channel="tnl26div1jaguarsvsaloes">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">TNL '26 Div 1 : Jaguars vs Aloes</desc>
-    <category lang="it">Netball</category>
   </programme>
   <programme start="20260429000000 +0200" stop="20260429170000 +0200" channel="tnl26div2kdqueensvsbaobabs">
     <title lang="it">Inizia alle 17:00.</title>
@@ -52555,26 +52209,6 @@ Moderna?</sub-title>
     <desc lang="it">Champions League : Sporting vs Aalborg</desc>
     <category lang="it">Handball</category>
   </programme>
-  <programme start="20260429000000 +0200" stop="20260429140000 +0200" channel="liveracingfrompontefractmusselburghandpunchestown">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Live racing from Pontefract, Musselburgh and Punchestown.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429140000 +0200" stop="20260429160000 +0200" channel="liveracingfrompontefractmusselburghandpunchestown">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Live racing from Pontefract, Musselburgh and Punchestown</desc>
-    <category lang="it">Horse Racing</category>
-  </programme>
-  <programme start="20260429000000 +0200" stop="20260429140000 +0200" channel="liveracingfromaroundtheuk">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Live racing from around the UK.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429140000 +0200" stop="20260429160000 +0200" channel="liveracingfromaroundtheuk">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Live racing from around the UK</desc>
-    <category lang="it">Horse Racing</category>
-  </programme>
   <programme start="20260429000000 +0200" stop="20260430010000 +0200" channel="nhlmontrealcanadiensvstampabaylightning">
     <title lang="it">Inizia alle 01:00.</title>
     <desc lang="it">NHL : Montreal Canadiens vs Tampa Bay Lightning.</desc>
@@ -52695,56 +52329,6 @@ Moderna?</sub-title>
     <desc lang="it">KHL : Bars Kazan vs Metallurg Magnitogorsk</desc>
     <category lang="it">Ice Hockey</category>
   </programme>
-  <programme start="20260429000000 +0200" stop="20260429140000 +0200" channel="wchu18canadau18vsswedenu18">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">WCH U18 : Canada U18 vs Sweden U18.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429140000 +0200" stop="20260429160000 +0200" channel="wchu18canadau18vsswedenu18">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WCH U18 : Canada U18 vs Sweden U18</desc>
-    <category lang="it">WCH U18 Ice Hockey</category>
-  </programme>
-  <programme start="20260429000000 +0200" stop="20260429140000 +0200" channel="wchu18canadau18vsswedenu18">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">WCH U18 : Canada U18 vs Sweden U18.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429140000 +0200" stop="20260429160000 +0200" channel="wchu18canadau18vsswedenu18">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WCH U18 : Canada U18 vs Sweden U18</desc>
-    <category lang="it">WCH U18 Ice Hockey</category>
-  </programme>
-  <programme start="20260429000000 +0200" stop="20260429140000 +0200" channel="wchu18canadau18vsswedenu18">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">WCH U18 : Canada U18 vs Sweden U18.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429140000 +0200" stop="20260429160000 +0200" channel="wchu18canadau18vsswedenu18">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WCH U18 : Canada U18 vs Sweden U18</desc>
-    <category lang="it">WCH U18 Ice Hockey</category>
-  </programme>
-  <programme start="20260429000000 +0200" stop="20260429160000 +0200" channel="wchu18usau18vslatviau18">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">WCH U18 : USA U18 vs Latvia U18.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429160000 +0200" stop="20260429180000 +0200" channel="wchu18usau18vslatviau18">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WCH U18 : USA U18 vs Latvia U18</desc>
-    <category lang="it">WCH U18 Ice Hockey</category>
-  </programme>
-  <programme start="20260429000000 +0200" stop="20260429160000 +0200" channel="wchu18usau18vslatviau18">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">WCH U18 : USA U18 vs Latvia U18.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429160000 +0200" stop="20260429180000 +0200" channel="wchu18usau18vslatviau18">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WCH U18 : USA U18 vs Latvia U18</desc>
-    <category lang="it">WCH U18 Ice Hockey</category>
-  </programme>
   <programme start="20260429000000 +0200" stop="20260429180000 +0200" channel="wchu18slovakiau18vsdenmarku18">
     <title lang="it">Inizia alle 18:00.</title>
     <desc lang="it">WCH U18 : Slovakia U18 vs Denmark U18.</desc>
@@ -52854,96 +52438,6 @@ Moderna?</sub-title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Bundesliga : Luneburg vs Berlin</desc>
     <category lang="it">Volleyball</category>
-  </programme>
-  <programme start="20260429000000 +0200" stop="20260429140000 +0200" channel="beachvolleyballprotourmbrasiliaqualifications">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Beach Volleyball Pro Tour (M): Brasilia - qualifications.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429140000 +0200" stop="20260429160000 +0200" channel="beachvolleyballprotourmbrasiliaqualifications">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Beach Volleyball Pro Tour (M): Brasilia - qualifications</desc>
-    <category lang="it">Beach Volleyball</category>
-  </programme>
-  <programme start="20260429000000 +0200" stop="20260429140000 +0200" channel="beachvolleyballprotourmbrasiliaqualifications">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Beach Volleyball Pro Tour (M): Brasilia - qualifications.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429140000 +0200" stop="20260429160000 +0200" channel="beachvolleyballprotourmbrasiliaqualifications">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Beach Volleyball Pro Tour (M): Brasilia - qualifications</desc>
-    <category lang="it">Beach Volleyball</category>
-  </programme>
-  <programme start="20260429000000 +0200" stop="20260429140000 +0200" channel="beachvolleyballprotourmbrasiliaqualifications">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Beach Volleyball Pro Tour (M): Brasilia - qualifications.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429140000 +0200" stop="20260429160000 +0200" channel="beachvolleyballprotourmbrasiliaqualifications">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Beach Volleyball Pro Tour (M): Brasilia - qualifications</desc>
-    <category lang="it">Beach Volleyball</category>
-  </programme>
-  <programme start="20260429000000 +0200" stop="20260429150000 +0200" channel="beachvolleyballprotourmbrasiliaqualifications">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">Beach Volleyball Pro Tour (M): Brasilia - qualifications.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429150000 +0200" stop="20260429170000 +0200" channel="beachvolleyballprotourmbrasiliaqualifications">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Beach Volleyball Pro Tour (M): Brasilia - qualifications</desc>
-    <category lang="it">Beach Volleyball</category>
-  </programme>
-  <programme start="20260429000000 +0200" stop="20260429150000 +0200" channel="beachvolleyballprotourmbrasiliaqualifications">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">Beach Volleyball Pro Tour (M): Brasilia - qualifications.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429150000 +0200" stop="20260429170000 +0200" channel="beachvolleyballprotourmbrasiliaqualifications">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Beach Volleyball Pro Tour (M): Brasilia - qualifications</desc>
-    <category lang="it">Beach Volleyball</category>
-  </programme>
-  <programme start="20260429000000 +0200" stop="20260429150000 +0200" channel="beachvolleyballprotourmbrasiliaqualifications">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">Beach Volleyball Pro Tour (M): Brasilia - qualifications.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429150000 +0200" stop="20260429170000 +0200" channel="beachvolleyballprotourmbrasiliaqualifications">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Beach Volleyball Pro Tour (M): Brasilia - qualifications</desc>
-    <category lang="it">Beach Volleyball</category>
-  </programme>
-  <programme start="20260429000000 +0200" stop="20260429160000 +0200" channel="beachvolleyballprotourmbrasiliaqualifications">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Beach Volleyball Pro Tour (M): Brasilia - qualifications.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429160000 +0200" stop="20260429180000 +0200" channel="beachvolleyballprotourmbrasiliaqualifications">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Beach Volleyball Pro Tour (M): Brasilia - qualifications</desc>
-    <category lang="it">Beach Volleyball</category>
-  </programme>
-  <programme start="20260429000000 +0200" stop="20260429160000 +0200" channel="beachvolleyballprotourfbrasiliaqualifications">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Beach Volleyball Pro Tour (F): Brasilia - qualifications.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429160000 +0200" stop="20260429180000 +0200" channel="beachvolleyballprotourfbrasiliaqualifications">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Beach Volleyball Pro Tour (F): Brasilia - qualifications</desc>
-    <category lang="it">Beach Volleyball</category>
-  </programme>
-  <programme start="20260429000000 +0200" stop="20260429160000 +0200" channel="beachvolleyballprotourmbrasiliaqualifications">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Beach Volleyball Pro Tour (M): Brasilia - qualifications.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260429160000 +0200" stop="20260429180000 +0200" channel="beachvolleyballprotourmbrasiliaqualifications">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Beach Volleyball Pro Tour (M): Brasilia - qualifications</desc>
-    <category lang="it">Beach Volleyball</category>
   </programme>
   <programme start="20260429000000 +0200" stop="20260429170000 +0200" channel="beachvolleyballprotourfbrasiliaqualifications">
     <title lang="it">Inizia alle 17:00.</title>

@@ -117,6 +117,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="eurosport4timvision.it" tvg-name="Eurosport 4 Timvision" tvg-logo="" group-title="Sport",EUROSPORT 4 TIMVISION (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/1668185301194a1978c0b2&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="eurosport5timvision.it" tvg-name="Eurosport 5 Timvision" tvg-logo="" group-title="Sport",EUROSPORT 5 TIMVISION (V)
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/3667240765238d57794d79&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="eurosport6timvision.it" tvg-name="Eurosport 6 Timvision" tvg-logo="" group-title="Sport",EUROSPORT 6 TIMVISION (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/3421031748051d1097ba07&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -391,9 +394,6 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="Sky Cinema Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film;Sky",SKY CINEMA UNO (V)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/28721519114f66aff68e22&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="Sky Cinema Uno (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA UNO (V) (2)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemauno+24.it" tvg-name="Sky Cinema Uno +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film;Sky",SKY CINEMA UNO +24 (V)
@@ -2307,11 +2307,23 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="🇮🇹 Jannik Sinner vs 🇪🇸 Rafael Jodar - 🇮🇹 Jannik Sinner vs 🇪🇸 Rafael Jodar" tvg-name="16:00 🇮🇹 Jannik Sinner vs 🇪🇸 Rafael Jodar - 29/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Madrid", LINK 2
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1515
 
+#EXTINF:-1 tvg-id="🇮🇹 Jannik Sinner vs 🇪🇸 Rafael Jodar - 🇮🇹 Jannik Sinner vs 🇪🇸 Rafael Jodar" tvg-name="16:00 🇮🇹 Jannik Sinner vs 🇪🇸 Rafael Jodar - 29/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Madrid", LINK 3
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=40
+
+#EXTINF:-1 tvg-id="🇮🇹 Jannik Sinner vs 🇪🇸 Rafael Jodar - 🇮🇹 Jannik Sinner vs 🇪🇸 Rafael Jodar" tvg-name="16:00 🇮🇹 Jannik Sinner vs 🇪🇸 Rafael Jodar - 29/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Madrid", LINK 4
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=46
+
 #EXTINF:-1 tvg-id="🇫🇷 Arthur Fils vs 🇨🇿 Jiri Lehecka - 🇫🇷 Arthur Fils vs 🇨🇿 Jiri Lehecka" tvg-name="21:30 🇫🇷 Arthur Fils vs 🇨🇿 Jiri Lehecka - 29/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Madrid", LINK 1
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1507
 
 #EXTINF:-1 tvg-id="🇫🇷 Arthur Fils vs 🇨🇿 Jiri Lehecka - 🇫🇷 Arthur Fils vs 🇨🇿 Jiri Lehecka" tvg-name="21:30 🇫🇷 Arthur Fils vs 🇨🇿 Jiri Lehecka - 29/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Madrid", LINK 2
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1515
+
+#EXTINF:-1 tvg-id="🇫🇷 Arthur Fils vs 🇨🇿 Jiri Lehecka - 🇫🇷 Arthur Fils vs 🇨🇿 Jiri Lehecka" tvg-name="21:30 🇫🇷 Arthur Fils vs 🇨🇿 Jiri Lehecka - 29/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Madrid", LINK 3
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=40
+
+#EXTINF:-1 tvg-id="🇫🇷 Arthur Fils vs 🇨🇿 Jiri Lehecka - 🇫🇷 Arthur Fils vs 🇨🇿 Jiri Lehecka" tvg-name="21:30 🇫🇷 Arthur Fils vs 🇨🇿 Jiri Lehecka - 29/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Madrid", LINK 4
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=46
 
 #EXTINF:-1 tvg-id="🇨🇿 Karolina Pliskova vs 🇷🇺 Anastasia Potapova - 🇨🇿 Karolina Pliskova vs 🇷🇺 Anastasia Potapova" tvg-name="13:00 🇨🇿 Karolina Pliskova vs 🇷🇺 Anastasia Potapova - 29/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Madrid", LINK 1
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1501
@@ -2319,11 +2331,23 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="🇨🇿 Karolina Pliskova vs 🇷🇺 Anastasia Potapova - 🇨🇿 Karolina Pliskova vs 🇷🇺 Anastasia Potapova" tvg-name="13:00 🇨🇿 Karolina Pliskova vs 🇷🇺 Anastasia Potapova - 29/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Madrid", LINK 2
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1515
 
+#EXTINF:-1 tvg-id="🇨🇿 Karolina Pliskova vs 🇷🇺 Anastasia Potapova - 🇨🇿 Karolina Pliskova vs 🇷🇺 Anastasia Potapova" tvg-name="13:00 🇨🇿 Karolina Pliskova vs 🇷🇺 Anastasia Potapova - 29/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Madrid", LINK 3
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=40
+
+#EXTINF:-1 tvg-id="🇨🇿 Karolina Pliskova vs 🇷🇺 Anastasia Potapova - 🇨🇿 Karolina Pliskova vs 🇷🇺 Anastasia Potapova" tvg-name="13:00 🇨🇿 Karolina Pliskova vs 🇷🇺 Anastasia Potapova - 29/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Madrid", LINK 4
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=46
+
 #EXTINF:-1 tvg-id="🇺🇦 Marta Kostyuk vs 🇨🇿 Linda Noskova - 🇺🇦 Marta Kostyuk vs 🇨🇿 Linda Noskova" tvg-name="20:00 🇺🇦 Marta Kostyuk vs 🇨🇿 Linda Noskova - 29/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Madrid", LINK 1
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1501
 
 #EXTINF:-1 tvg-id="🇺🇦 Marta Kostyuk vs 🇨🇿 Linda Noskova - 🇺🇦 Marta Kostyuk vs 🇨🇿 Linda Noskova" tvg-name="20:00 🇺🇦 Marta Kostyuk vs 🇨🇿 Linda Noskova - 29/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Madrid", LINK 2
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1515
+
+#EXTINF:-1 tvg-id="🇺🇦 Marta Kostyuk vs 🇨🇿 Linda Noskova - 🇺🇦 Marta Kostyuk vs 🇨🇿 Linda Noskova" tvg-name="20:00 🇺🇦 Marta Kostyuk vs 🇨🇿 Linda Noskova - 29/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Madrid", LINK 3
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=40
+
+#EXTINF:-1 tvg-id="🇺🇦 Marta Kostyuk vs 🇨🇿 Linda Noskova - 🇺🇦 Marta Kostyuk vs 🇨🇿 Linda Noskova" tvg-name="20:00 🇺🇦 Marta Kostyuk vs 🇨🇿 Linda Noskova - 29/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Madrid", LINK 4
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=46
 
 #EXTINF:-1 tvg-id="ATP/WTA 1000 - Madrid - ATP Masters &amp; WTA 1000 Madrid" tvg-name="13:00 ATP/WTA 1000 - Madrid: ATP Masters &amp; WTA 1000 Madrid - 29/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Madrid", Sportklub 5 Croatia
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=18
