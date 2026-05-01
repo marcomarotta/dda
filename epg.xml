@@ -48661,15 +48661,6 @@ Il sogno del Re Sole</title>
   <channel id="irelandrepublicpremierdivisionshamrockroversvswaterfordunited">
     <display-name>Ireland Republic - Premier Division : Shamrock Rovers vs Waterford United</display-name>
   </channel>
-  <channel id="turkey1lighataysporvsvanbb">
-    <display-name>Turkey - 1. Lig : Hatayspor vs Van BB</display-name>
-  </channel>
-  <channel id="estoniameistriliigatransvsnmmekalju">
-    <display-name>Estonia - Meistriliiga : Trans vs Nõmme Kalju</display-name>
-  </channel>
-  <channel id="russiafnlkamazvsspartakkostroma">
-    <display-name>Russia - FNL : KAMAZ vs Spartak Kostroma</display-name>
-  </channel>
   <channel id="southafricanationalfirstdivisioncasricstarsvsbaroka">
     <display-name>South Africa - National First Division : Casric Stars vs Baroka</display-name>
   </channel>
@@ -48853,12 +48844,6 @@ Il sogno del Re Sole</title>
   <channel id="atpmadridblockxavszvereva">
     <display-name>ATP - MADRID : Blockx A. vs Zverev A.</display-name>
   </channel>
-  <channel id="wta1000madridpairs12finala">
-    <display-name>WTA 1000 Madrid: (Pairs) 1/2 Final A</display-name>
-  </channel>
-  <channel id="atpmastersmadridcouples12final">
-    <display-name>ATP Masters Madrid: (Couples) 1/2 Final</display-name>
-  </channel>
   <channel id="atpmastersmadrid12finala">
     <display-name>ATP Masters Madrid: 1/2 Final A</display-name>
   </channel>
@@ -48867,9 +48852,6 @@ Il sogno del Re Sole</title>
   </channel>
   <channel id="wta1000madridcouples12finalb">
     <display-name>WTA 1000 Madrid: (Couples) 1/2 Final B</display-name>
-  </channel>
-  <channel id="worldwcrround3hungarysuperpole">
-    <display-name>WorldWCR | Round 3 | Hungary Superpole</display-name>
   </channel>
   <channel id="worldsbkround4hungaryfreepractice2">
     <display-name>WorldSBK | Round 4 | Hungary Free Practice 2</display-name>
@@ -48898,14 +48880,8 @@ Il sogno del Re Sole</title>
   <channel id="boxingcarterefevsportable">
     <display-name>Boxing : Carter Efe vs. Portable</display-name>
   </channel>
-  <channel id="eternalmma105antoniocarusovslukedally">
-    <display-name>ETERNAL MMA 105 : Antonio Caruso vs Luke Dally</display-name>
-  </channel>
   <channel id="kickboxingonefridayfights152">
     <display-name>Kickboxing ONE Friday Fights 152</display-name>
-  </channel>
-  <channel id="judodushanbegrandslam1stday">
-    <display-name>Judo : Dushanbe Grand Slam 1st day.</display-name>
   </channel>
   <channel id="lpgatourmexicorivieramayaopenatmayakoba">
     <display-name>LPGA Tour Mexico Riviera Maya Open at Mayakoba</display-name>
@@ -49012,9 +48988,6 @@ Il sogno del Re Sole</title>
   <channel id="worldserieskeqiaowomensbouldersemifinal">
     <display-name>World Series | Keqiao Women's Boulder | Semi-Final</display-name>
   </channel>
-  <channel id="touroftrkiyestage6menantalyafeslikan131km">
-    <display-name>Tour of T?rkiye | Stage 6 Men | Antalya – Feslikan (131km)</display-name>
-  </channel>
   <channel id="tourderomandiestage3iorbe1766km">
     <display-name>Tour de Romandie | Stage 3 I | Orbe (176.6km)</display-name>
   </channel>
@@ -49045,23 +49018,11 @@ Il sogno del Re Sole</title>
   <channel id="2bundesliganordhornlingenvsludwigshafen">
     <display-name>2. Bundesliga : Nordhorn-Lingen vs Ludwigshafen</display-name>
   </channel>
-  <channel id="horseracingturft2026">
-    <display-name>Horse Racing - Turf (T2026)</display-name>
-  </channel>
-  <channel id="liveracingfromaroundtheuk">
-    <display-name>Live racing from around the UK</display-name>
-  </channel>
   <channel id="liveracingfromnewmarketascotandgoodwood">
     <display-name>Live racing from Newmarket, Ascot and Goodwood</display-name>
   </channel>
   <channel id="americasdayattheraces">
     <display-name>America's Day At the Races</display-name>
-  </channel>
-  <channel id="russiamhlavtoyekaterinburgu20vsspartakmoscowu20">
-    <display-name>Russia MHL : Avto Yekaterinburg U20 vs Spartak Moscow U20</display-name>
-  </channel>
-  <channel id="khlbarskazanvsmetallurgmagnitogorsk">
-    <display-name>KHL : Bars Kazan vs Metallurg Magnitogorsk</display-name>
   </channel>
   <channel id="wchu18slovakiau18latviau18">
     <display-name>WCH U18 : Slovakia U18 Latvia U18</display-name>
@@ -49420,36 +49381,6 @@ Il sogno del Re Sole</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Ireland Republic - Premier Division : Shamrock Rovers vs Waterford United</desc>
     <category lang="it">Ireland Republic</category>
-  </programme>
-  <programme start="20260501000000 +0200" stop="20260501133000 +0200" channel="turkey1lighataysporvsvanbb">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Turkey - 1. Lig : Hatayspor vs Van BB.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260501133000 +0200" stop="20260501153000 +0200" channel="turkey1lighataysporvsvanbb">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Turkey - 1. Lig : Hatayspor vs Van BB</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260501000000 +0200" stop="20260501133000 +0200" channel="estoniameistriliigatransvsnmmekalju">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Estonia - Meistriliiga : Trans vs Nõmme Kalju.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260501133000 +0200" stop="20260501153000 +0200" channel="estoniameistriliigatransvsnmmekalju">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Estonia - Meistriliiga : Trans vs Nõmme Kalju</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260501000000 +0200" stop="20260501133000 +0200" channel="russiafnlkamazvsspartakkostroma">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Russia - FNL : KAMAZ vs Spartak Kostroma.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260501133000 +0200" stop="20260501153000 +0200" channel="russiafnlkamazvsspartakkostroma">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Russia - FNL : KAMAZ vs Spartak Kostroma</desc>
-    <category lang="it">All Soccer Events</category>
   </programme>
   <programme start="20260501000000 +0200" stop="20260501150000 +0200" channel="southafricanationalfirstdivisioncasricstarsvsbaroka">
     <title lang="it">Inizia alle 15:00.</title>
@@ -51481,26 +51412,6 @@ Il sogno del Re Sole</title>
     <desc lang="it">ATP - MADRID : Blockx A. vs Zverev A.</desc>
     <category lang="it">ATP - MADRID</category>
   </programme>
-  <programme start="20260501000000 +0200" stop="20260501133000 +0200" channel="wta1000madridpairs12finala">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">WTA 1000 Madrid: (Pairs) 1/2 Final A.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260501133000 +0200" stop="20260501153000 +0200" channel="wta1000madridpairs12finala">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA 1000 Madrid: (Pairs) 1/2 Final A</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20260501000000 +0200" stop="20260501133000 +0200" channel="atpmastersmadridcouples12final">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">ATP Masters Madrid: (Couples) 1/2 Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260501133000 +0200" stop="20260501153000 +0200" channel="atpmastersmadridcouples12final">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP Masters Madrid: (Couples) 1/2 Final</desc>
-    <category lang="it">Tennis</category>
-  </programme>
   <programme start="20260501000000 +0200" stop="20260501160000 +0200" channel="atpmastersmadrid12finala">
     <title lang="it">Inizia alle 16:00.</title>
     <desc lang="it">ATP Masters Madrid: 1/2 Final A.</desc>
@@ -51530,26 +51441,6 @@ Il sogno del Re Sole</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">WTA 1000 Madrid: (Couples) 1/2 Final B</desc>
     <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20260501000000 +0200" stop="20260501140000 +0200" channel="worldwcrround3hungarysuperpole">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">WorldWCR | Round 3 | Hungary Superpole.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260501140000 +0200" stop="20260501160000 +0200" channel="worldwcrround3hungarysuperpole">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WorldWCR | Round 3 | Hungary Superpole</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260501000000 +0200" stop="20260501140000 +0200" channel="worldwcrround3hungarysuperpole">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">WorldWCR | Round 3 | Hungary Superpole.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260501140000 +0200" stop="20260501160000 +0200" channel="worldwcrround3hungarysuperpole">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WorldWCR | Round 3 | Hungary Superpole</desc>
-    <category lang="it">Motorsport</category>
   </programme>
   <programme start="20260501000000 +0200" stop="20260501150000 +0200" channel="worldsbkround4hungaryfreepractice2">
     <title lang="it">Inizia alle 15:00.</title>
@@ -52311,16 +52202,6 @@ Il sogno del Re Sole</title>
     <desc lang="it">Boxing : Carter Efe vs. Portable</desc>
     <category lang="it">Boxing</category>
   </programme>
-  <programme start="20260501000000 +0200" stop="20260501140000 +0200" channel="eternalmma105antoniocarusovslukedally">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">ETERNAL MMA 105 : Antonio Caruso vs Luke Dally.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260501140000 +0200" stop="20260501160000 +0200" channel="eternalmma105antoniocarusovslukedally">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ETERNAL MMA 105 : Antonio Caruso vs Luke Dally</desc>
-    <category lang="it">MMA</category>
-  </programme>
   <programme start="20260501000000 +0200" stop="20260501153000 +0200" channel="kickboxingonefridayfights152">
     <title lang="it">Inizia alle 15:30.</title>
     <desc lang="it">Kickboxing ONE Friday Fights 152.</desc>
@@ -52440,26 +52321,6 @@ Il sogno del Re Sole</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Kickboxing ONE Friday Fights 152</desc>
     <category lang="it">MMA</category>
-  </programme>
-  <programme start="20260501000000 +0200" stop="20260501140000 +0200" channel="judodushanbegrandslam1stday">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Judo : Dushanbe Grand Slam 1st day..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260501140000 +0200" stop="20260501160000 +0200" channel="judodushanbegrandslam1stday">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Judo : Dushanbe Grand Slam 1st day.</desc>
-    <category lang="it">Combat sports</category>
-  </programme>
-  <programme start="20260501000000 +0200" stop="20260501140000 +0200" channel="judodushanbegrandslam1stday">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Judo : Dushanbe Grand Slam 1st day..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260501140000 +0200" stop="20260501160000 +0200" channel="judodushanbegrandslam1stday">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Judo : Dushanbe Grand Slam 1st day.</desc>
-    <category lang="it">Combat sports</category>
   </programme>
   <programme start="20260501000000 +0200" stop="20260501170000 +0200" channel="lpgatourmexicorivieramayaopenatmayakoba">
     <title lang="it">Inizia alle 17:00.</title>
@@ -53661,76 +53522,6 @@ Il sogno del Re Sole</title>
     <desc lang="it">World Series | Keqiao Women's Boulder | Semi-Final</desc>
     <category lang="it">Climbing</category>
   </programme>
-  <programme start="20260501000000 +0200" stop="20260501133000 +0200" channel="touroftrkiyestage6menantalyafeslikan131km">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Tour of T?rkiye | Stage 6 Men | Antalya – Feslikan (131km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260501133000 +0200" stop="20260501153000 +0200" channel="touroftrkiyestage6menantalyafeslikan131km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of T?rkiye | Stage 6 Men | Antalya – Feslikan (131km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260501000000 +0200" stop="20260501133000 +0200" channel="touroftrkiyestage6menantalyafeslikan131km">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Tour of T?rkiye | Stage 6 Men | Antalya – Feslikan (131km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260501133000 +0200" stop="20260501153000 +0200" channel="touroftrkiyestage6menantalyafeslikan131km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of T?rkiye | Stage 6 Men | Antalya – Feslikan (131km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260501000000 +0200" stop="20260501133000 +0200" channel="touroftrkiyestage6menantalyafeslikan131km">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Tour of T?rkiye | Stage 6 Men | Antalya – Feslikan (131km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260501133000 +0200" stop="20260501153000 +0200" channel="touroftrkiyestage6menantalyafeslikan131km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of T?rkiye | Stage 6 Men | Antalya – Feslikan (131km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260501000000 +0200" stop="20260501133000 +0200" channel="touroftrkiyestage6menantalyafeslikan131km">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Tour of T?rkiye | Stage 6 Men | Antalya – Feslikan (131km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260501133000 +0200" stop="20260501153000 +0200" channel="touroftrkiyestage6menantalyafeslikan131km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of T?rkiye | Stage 6 Men | Antalya – Feslikan (131km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260501000000 +0200" stop="20260501133000 +0200" channel="touroftrkiyestage6menantalyafeslikan131km">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Tour of T?rkiye | Stage 6 Men | Antalya – Feslikan (131km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260501133000 +0200" stop="20260501153000 +0200" channel="touroftrkiyestage6menantalyafeslikan131km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of T?rkiye | Stage 6 Men | Antalya – Feslikan (131km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260501000000 +0200" stop="20260501133000 +0200" channel="touroftrkiyestage6menantalyafeslikan131km">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Tour of T?rkiye | Stage 6 Men | Antalya – Feslikan (131km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260501133000 +0200" stop="20260501153000 +0200" channel="touroftrkiyestage6menantalyafeslikan131km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of T?rkiye | Stage 6 Men | Antalya – Feslikan (131km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260501000000 +0200" stop="20260501133000 +0200" channel="touroftrkiyestage6menantalyafeslikan131km">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Tour of T?rkiye | Stage 6 Men | Antalya – Feslikan (131km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260501133000 +0200" stop="20260501153000 +0200" channel="touroftrkiyestage6menantalyafeslikan131km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of T?rkiye | Stage 6 Men | Antalya – Feslikan (131km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
   <programme start="20260501000000 +0200" stop="20260501153000 +0200" channel="tourderomandiestage3iorbe1766km">
     <title lang="it">Inizia alle 15:30.</title>
     <desc lang="it">Tour de Romandie | Stage 3 I | Orbe (176.6km).</desc>
@@ -53941,26 +53732,6 @@ Il sogno del Re Sole</title>
     <desc lang="it">2. Bundesliga : Nordhorn-Lingen vs Ludwigshafen</desc>
     <category lang="it">Handball</category>
   </programme>
-  <programme start="20260501000000 +0200" stop="20260501133000 +0200" channel="horseracingturft2026">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Horse Racing - Turf (T2026).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260501133000 +0200" stop="20260501153000 +0200" channel="horseracingturft2026">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Horse Racing - Turf (T2026)</desc>
-    <category lang="it">Horse Racing</category>
-  </programme>
-  <programme start="20260501000000 +0200" stop="20260501140000 +0200" channel="liveracingfromaroundtheuk">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Live racing from around the UK.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260501140000 +0200" stop="20260501160000 +0200" channel="liveracingfromaroundtheuk">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Live racing from around the UK</desc>
-    <category lang="it">Horse Racing</category>
-  </programme>
   <programme start="20260501000000 +0200" stop="20260501150000 +0200" channel="liveracingfromnewmarketascotandgoodwood">
     <title lang="it">Inizia alle 15:00.</title>
     <desc lang="it">Live racing from Newmarket, Ascot and Goodwood.</desc>
@@ -53990,36 +53761,6 @@ Il sogno del Re Sole</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">America's Day At the Races</desc>
     <category lang="it">Horse Racing</category>
-  </programme>
-  <programme start="20260501000000 +0200" stop="20260501140000 +0200" channel="russiamhlavtoyekaterinburgu20vsspartakmoscowu20">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Russia MHL : Avto Yekaterinburg U20 vs Spartak Moscow U20.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260501140000 +0200" stop="20260501160000 +0200" channel="russiamhlavtoyekaterinburgu20vsspartakmoscowu20">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Russia MHL : Avto Yekaterinburg U20 vs Spartak Moscow U20</desc>
-    <category lang="it">Ice Hockey</category>
-  </programme>
-  <programme start="20260501000000 +0200" stop="20260501140000 +0200" channel="khlbarskazanvsmetallurgmagnitogorsk">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">KHL : Bars Kazan vs Metallurg Magnitogorsk.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260501140000 +0200" stop="20260501160000 +0200" channel="khlbarskazanvsmetallurgmagnitogorsk">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">KHL : Bars Kazan vs Metallurg Magnitogorsk</desc>
-    <category lang="it">Ice Hockey</category>
-  </programme>
-  <programme start="20260501000000 +0200" stop="20260501140000 +0200" channel="khlbarskazanvsmetallurgmagnitogorsk">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">KHL : Bars Kazan vs Metallurg Magnitogorsk.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260501140000 +0200" stop="20260501160000 +0200" channel="khlbarskazanvsmetallurgmagnitogorsk">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">KHL : Bars Kazan vs Metallurg Magnitogorsk</desc>
-    <category lang="it">Ice Hockey</category>
   </programme>
   <programme start="20260501000000 +0200" stop="20260501150000 +0200" channel="wchu18slovakiau18latviau18">
     <title lang="it">Inizia alle 15:00.</title>
@@ -54540,36 +54281,6 @@ Il sogno del Re Sole</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Women's College Beach Volleyball NCAA Championship: Grand Canyon vs. Cal Poly-San Luis Obispo</desc>
     <category lang="it">NCAAW Beach Volleyball</category>
-  </programme>
-  <programme start="20260501000000 +0200" stop="20260501140000 +0200" channel="beachvolleyballprotourmbrasilia">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Beach Volleyball Pro Tour (M): Brasilia.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260501140000 +0200" stop="20260501160000 +0200" channel="beachvolleyballprotourmbrasilia">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Beach Volleyball Pro Tour (M): Brasilia</desc>
-    <category lang="it">Beach Volleyball</category>
-  </programme>
-  <programme start="20260501000000 +0200" stop="20260501140000 +0200" channel="beachvolleyballprotourmbrasilia">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Beach Volleyball Pro Tour (M): Brasilia.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260501140000 +0200" stop="20260501160000 +0200" channel="beachvolleyballprotourmbrasilia">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Beach Volleyball Pro Tour (M): Brasilia</desc>
-    <category lang="it">Beach Volleyball</category>
-  </programme>
-  <programme start="20260501000000 +0200" stop="20260501140000 +0200" channel="beachvolleyballprotourmbrasilia">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Beach Volleyball Pro Tour (M): Brasilia.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260501140000 +0200" stop="20260501160000 +0200" channel="beachvolleyballprotourmbrasilia">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Beach Volleyball Pro Tour (M): Brasilia</desc>
-    <category lang="it">Beach Volleyball</category>
   </programme>
   <programme start="20260501000000 +0200" stop="20260501150000 +0200" channel="beachvolleyballprotourmbrasilia">
     <title lang="it">Inizia alle 15:00.</title>
