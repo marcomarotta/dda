@@ -360,12 +360,6 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="skycinemacollectionhd.it" tvg-name="Sky Cinema Collection (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA COLLECTION (V) (2)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/352583705711c4cbe44bbb&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="Sky Cinema Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film;Sky",SKY CINEMA COMEDY (V)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/500203271d58941028e95&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="Sky Cinema Comedy (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA COMEDY (V) (2)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/3131104474771735b548ce&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skycinemadrama.it" tvg-name="Sky Cinema Drama" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Film;Sky",SKY CINEMA DRAMA (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/123553017707540030adf9&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -512,9 +506,6 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 
 #EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio (2)" tvg-logo="" group-title="Sport",SKY SPORT CALCIO (V) (2)
-https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/449990998077a7691828f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sport F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1 (V)
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/vavoo-iptv/play/42467740561588897497f2&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -2040,6 +2031,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="Italy - Serie A - Pisa vs Lecce" tvg-name="20:45 Italy - Serie A : Pisa vs Lecce - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Backup Stream
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=2001
 
+#EXTINF:-1 tvg-id="Italy - Serie A - Pisa vs Lecce" tvg-name="20:45 Italy - Serie A : Pisa vs Lecce - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4009
+
 #EXTINF:-1 tvg-id="Scottish Premiership - Livingston vs Aberdeen" tvg-name="20:45 Scottish Premiership : Livingston vs Aberdeen - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", CBS Sports Golazo
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=910
 
@@ -2175,6 +2169,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="England - Premier League - Leeds United vs Burnley" tvg-name="21:00 England - Premier League : Leeds United vs Burnley - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Backup Stream
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=2003
 
+#EXTINF:-1 tvg-id="England - Premier League - Leeds United vs Burnley" tvg-name="21:00 England - Premier League : Leeds United vs Burnley - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4001
+
 #EXTINF:-1 tvg-id="Spain - La Liga - Girona vs Mallorca" tvg-name="21:00 Spain - La Liga : Girona vs Mallorca - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", M+ LALIGA TV
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=84
 
@@ -2261,6 +2258,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 
 #EXTINF:-1 tvg-id="Spain - La Liga - Girona vs Mallorca" tvg-name="21:00 Spain - La Liga : Girona vs Mallorca - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Backup Stream
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=2002
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Girona vs Mallorca" tvg-name="21:00 Spain - La Liga : Girona vs Mallorca - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4006
 
 #EXTINF:-1 tvg-id="Portugal - Segunda liga - Sporting CP II vs Benfica II" tvg-name="21:30 Portugal - Segunda liga : Sporting CP II vs Benfica II - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sporting TV Portugal
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=716
@@ -2775,11 +2775,17 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="MLB - Chicago Cubs vs Arizona Diamondbacks" tvg-name="20:00 MLB : Chicago Cubs vs Arizona Diamondbacks - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Backup Stream
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=3003
 
+#EXTINF:-1 tvg-id="MLB - Chicago Cubs vs Arizona Diamondbacks" tvg-name="20:00 MLB : Chicago Cubs vs Arizona Diamondbacks - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4015
+
 #EXTINF:-1 tvg-id="MLB - Pittsburgh Pirates vs Cincinnati Reds" tvg-name="00:40 MLB : Pittsburgh Pirates vs Cincinnati Reds - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", MLB league pass
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=1
 
 #EXTINF:-1 tvg-id="MLB - Pittsburgh Pirates vs Cincinnati Reds" tvg-name="00:40 MLB : Pittsburgh Pirates vs Cincinnati Reds - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Backup Stream
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=5035
+
+#EXTINF:-1 tvg-id="MLB - Pittsburgh Pirates vs Cincinnati Reds" tvg-name="00:40 MLB : Pittsburgh Pirates vs Cincinnati Reds - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4016
 
 #EXTINF:-1 tvg-id="MLB - Detroit Tigers vs Texas Rangers" tvg-name="00:40 MLB : Detroit Tigers vs Texas Rangers - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", MLB league pass
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=2
@@ -2787,11 +2793,17 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="MLB - Detroit Tigers vs Texas Rangers" tvg-name="00:40 MLB : Detroit Tigers vs Texas Rangers - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Backup Stream
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=5036
 
+#EXTINF:-1 tvg-id="MLB - Detroit Tigers vs Texas Rangers" tvg-name="00:40 MLB : Detroit Tigers vs Texas Rangers - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4017
+
 #EXTINF:-1 tvg-id="MLB - Washington Nationals vs Milwaukee Brewers" tvg-name="00:45 MLB : Washington Nationals vs Milwaukee Brewers - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", MLB league pass
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=3
 
 #EXTINF:-1 tvg-id="MLB - Washington Nationals vs Milwaukee Brewers" tvg-name="00:45 MLB : Washington Nationals vs Milwaukee Brewers - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Backup Stream
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=5037
+
+#EXTINF:-1 tvg-id="MLB - Washington Nationals vs Milwaukee Brewers" tvg-name="00:45 MLB : Washington Nationals vs Milwaukee Brewers - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4018
 
 #EXTINF:-1 tvg-id="MLB - New York Yankees vs Baltimore Orioles" tvg-name="01:05 MLB : New York Yankees vs Baltimore Orioles - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", MLB league pass
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4
@@ -2804,6 +2816,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 
 #EXTINF:-1 tvg-id="MLB - New York Yankees vs Baltimore Orioles" tvg-name="01:05 MLB : New York Yankees vs Baltimore Orioles - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Backup Stream
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=5040
+
+#EXTINF:-1 tvg-id="MLB - New York Yankees vs Baltimore Orioles" tvg-name="01:05 MLB : New York Yankees vs Baltimore Orioles - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4019
 
 #EXTINF:-1 tvg-id="MLB - Boston Red Sox vs Houston Astros" tvg-name="01:10 MLB : Boston Red Sox vs Houston Astros - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", MLB league pass
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=5
@@ -2820,6 +2835,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="MLB - Boston Red Sox vs Houston Astros" tvg-name="01:10 MLB : Boston Red Sox vs Houston Astros - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Backup Stream
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=5041
 
+#EXTINF:-1 tvg-id="MLB - Boston Red Sox vs Houston Astros" tvg-name="01:10 MLB : Boston Red Sox vs Houston Astros - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4020
+
 #EXTINF:-1 tvg-id="MLB - Miami Marlins vs Philadelphia Phillies" tvg-name="01:10 MLB : Miami Marlins vs Philadelphia Phillies - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", MLB league pass
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=6
 
@@ -2828,6 +2846,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 
 #EXTINF:-1 tvg-id="MLB - Miami Marlins vs Philadelphia Phillies" tvg-name="01:10 MLB : Miami Marlins vs Philadelphia Phillies - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Backup Stream
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=5042
+
+#EXTINF:-1 tvg-id="MLB - Miami Marlins vs Philadelphia Phillies" tvg-name="01:10 MLB : Miami Marlins vs Philadelphia Phillies - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4021
 
 #EXTINF:-1 tvg-id="MLB - Tampa Bay Rays vs San Francisco Giants" tvg-name="01:10 MLB : Tampa Bay Rays vs San Francisco Giants - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", MLB league pass
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=7
@@ -2841,6 +2862,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="MLB - Tampa Bay Rays vs San Francisco Giants" tvg-name="01:10 MLB : Tampa Bay Rays vs San Francisco Giants - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Backup Stream
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=5043
 
+#EXTINF:-1 tvg-id="MLB - Tampa Bay Rays vs San Francisco Giants" tvg-name="01:10 MLB : Tampa Bay Rays vs San Francisco Giants - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4022
+
 #EXTINF:-1 tvg-id="MLB - Minnesota Twins vs Toronto Blue Jays" tvg-name="02:10 MLB : Minnesota Twins vs Toronto Blue Jays - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", MLB league pass
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=8
 
@@ -2849,6 +2873,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 
 #EXTINF:-1 tvg-id="MLB - Minnesota Twins vs Toronto Blue Jays" tvg-name="02:10 MLB : Minnesota Twins vs Toronto Blue Jays - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Backup Stream
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=5046
+
+#EXTINF:-1 tvg-id="MLB - Minnesota Twins vs Toronto Blue Jays" tvg-name="02:10 MLB : Minnesota Twins vs Toronto Blue Jays - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4023
 
 #EXTINF:-1 tvg-id="MLB - St. Louis Cardinals vs Los Angeles Dodgers" tvg-name="02:15 MLB : St. Louis Cardinals vs Los Angeles Dodgers - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", MLB league pass
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=9
@@ -2859,11 +2886,17 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="MLB - St. Louis Cardinals vs Los Angeles Dodgers" tvg-name="02:15 MLB : St. Louis Cardinals vs Los Angeles Dodgers - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Backup Stream
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=5047
 
+#EXTINF:-1 tvg-id="MLB - St. Louis Cardinals vs Los Angeles Dodgers" tvg-name="02:15 MLB : St. Louis Cardinals vs Los Angeles Dodgers - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4024
+
 #EXTINF:-1 tvg-id="MLB - Colorado Rockies vs Atlanta Braves" tvg-name="02:40 MLB : Colorado Rockies vs Atlanta Braves - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", MLB league pass
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=10
 
 #EXTINF:-1 tvg-id="MLB - Colorado Rockies vs Atlanta Braves" tvg-name="02:40 MLB : Colorado Rockies vs Atlanta Braves - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Backup Stream
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=5048
+
+#EXTINF:-1 tvg-id="MLB - Colorado Rockies vs Atlanta Braves" tvg-name="02:40 MLB : Colorado Rockies vs Atlanta Braves - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4025
 
 #EXTINF:-1 tvg-id="MLB - Los Angeles Angels vs New York Mets" tvg-name="03:38 MLB : Los Angeles Angels vs New York Mets - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", MLB league pass
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=11
@@ -2883,6 +2916,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="MLB - Los Angeles Angels vs New York Mets" tvg-name="03:38 MLB : Los Angeles Angels vs New York Mets - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Backup Stream
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=5050
 
+#EXTINF:-1 tvg-id="MLB - Los Angeles Angels vs New York Mets" tvg-name="03:38 MLB : Los Angeles Angels vs New York Mets - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4026
+
 #EXTINF:-1 tvg-id="MLB - San Diego Padres vs Chicago White Sox" tvg-name="03:40 MLB : San Diego Padres vs Chicago White Sox - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", MLB league pass
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=12
 
@@ -2891,6 +2927,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 
 #EXTINF:-1 tvg-id="MLB - San Diego Padres vs Chicago White Sox" tvg-name="03:40 MLB : San Diego Padres vs Chicago White Sox - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Backup Stream
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=5051
+
+#EXTINF:-1 tvg-id="MLB - San Diego Padres vs Chicago White Sox" tvg-name="03:40 MLB : San Diego Padres vs Chicago White Sox - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4027
 
 #EXTINF:-1 tvg-id="MLB - Oakland Athletics vs Cleveland Guardians" tvg-name="03:40 MLB : Oakland Athletics vs Cleveland Guardians - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", MLB league pass
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=13
@@ -2901,11 +2940,17 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="MLB - Oakland Athletics vs Cleveland Guardians" tvg-name="03:40 MLB : Oakland Athletics vs Cleveland Guardians - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Backup Stream
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=5052
 
+#EXTINF:-1 tvg-id="MLB - Oakland Athletics vs Cleveland Guardians" tvg-name="03:40 MLB : Oakland Athletics vs Cleveland Guardians - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4028
+
 #EXTINF:-1 tvg-id="MLB - Seattle Mariners vs Kansas City Royals" tvg-name="03:45 MLB : Seattle Mariners vs Kansas City Royals - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", MLB league pass
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=14
 
 #EXTINF:-1 tvg-id="MLB - Seattle Mariners vs Kansas City Royals" tvg-name="03:45 MLB : Seattle Mariners vs Kansas City Royals - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Backup Stream
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=5053
+
+#EXTINF:-1 tvg-id="MLB - Seattle Mariners vs Kansas City Royals" tvg-name="03:45 MLB : Seattle Mariners vs Kansas City Royals - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4029
 
 #EXTINF:-1 tvg-id="Minor League Baseball - Richmond Flying Squirrels vs Altoona Curve" tvg-name="23:00 Minor League Baseball : Richmond Flying Squirrels vs Altoona Curve - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Minor League Baseball", SportsNet Pittsburgh
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=922
@@ -3039,6 +3084,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="NBA - Orlando Magic vs Detroit Pistons" tvg-name="01:00 NBA : Orlando Magic vs Detroit Pistons - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Backup Stream
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=3003
 
+#EXTINF:-1 tvg-id="NBA - Orlando Magic vs Detroit Pistons" tvg-name="01:00 NBA : Orlando Magic vs Detroit Pistons - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4065
+
 #EXTINF:-1 tvg-id="NBA - Toronto Raptors vs Cleveland Cavaliers" tvg-name="01:30 NBA : Toronto Raptors vs Cleveland Cavaliers - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBA League Pass
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=19
 
@@ -3048,6 +3096,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="NBA - Toronto Raptors vs Cleveland Cavaliers" tvg-name="01:30 NBA : Toronto Raptors vs Cleveland Cavaliers - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Backup Stream
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=3004
 
+#EXTINF:-1 tvg-id="NBA - Toronto Raptors vs Cleveland Cavaliers" tvg-name="01:30 NBA : Toronto Raptors vs Cleveland Cavaliers - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4066
+
 #EXTINF:-1 tvg-id="NBA - Houston Rockets vs Los Angeles Lakers" tvg-name="03:30 NBA : Houston Rockets vs Los Angeles Lakers - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBA League Pass
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=20
 
@@ -3056,6 +3107,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 
 #EXTINF:-1 tvg-id="NBA - Houston Rockets vs Los Angeles Lakers" tvg-name="03:30 NBA : Houston Rockets vs Los Angeles Lakers - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Backup Stream
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=3005
+
+#EXTINF:-1 tvg-id="NBA - Houston Rockets vs Los Angeles Lakers" tvg-name="03:30 NBA : Houston Rockets vs Los Angeles Lakers - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4067
 
 #EXTINF:-1 tvg-id="Surf - Gold Coast Pro - World Surf League" tvg-name="23:00 Surf: Gold Coast Pro - World Surf League - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Sailing / Boating", Sport TV6 Portugal
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=291
@@ -3114,6 +3168,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="NHL - Tampa Bay Lightning vs Montreal Canadiens" tvg-name="01:00 NHL : Tampa Bay Lightning vs Montreal Canadiens - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Backup Stream
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=3001
 
+#EXTINF:-1 tvg-id="NHL - Tampa Bay Lightning vs Montreal Canadiens" tvg-name="01:00 NHL : Tampa Bay Lightning vs Montreal Canadiens - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4050
+
 #EXTINF:-1 tvg-id="NHL - Buffalo Sabres vs Boston Bruins" tvg-name="01:30 NHL : Buffalo Sabres vs Boston Bruins - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", NHL Gamecenter
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=16
 
@@ -3141,6 +3198,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="NHL - Buffalo Sabres vs Boston Bruins" tvg-name="01:30 NHL : Buffalo Sabres vs Boston Bruins - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Backup Stream
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=3002
 
+#EXTINF:-1 tvg-id="NHL - Buffalo Sabres vs Boston Bruins" tvg-name="01:30 NHL : Buffalo Sabres vs Boston Bruins - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4051
+
 #EXTINF:-1 tvg-id="NHL - Vegas Golden Knights vs Utah Mammoth" tvg-name="04:00 NHL : Vegas Golden Knights vs Utah Mammoth - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", NHL Gamecenter
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=17
 
@@ -3164,6 +3224,9 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 
 #EXTINF:-1 tvg-id="NHL - Vegas Golden Knights vs Utah Mammoth" tvg-name="04:00 NHL : Vegas Golden Knights vs Utah Mammoth - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Backup Stream
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=3002
+
+#EXTINF:-1 tvg-id="NHL - Vegas Golden Knights vs Utah Mammoth" tvg-name="04:00 NHL : Vegas Golden Knights vs Utah Mammoth - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Backup Stream
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=4052
 
 #EXTINF:-1 tvg-id="TNL '26 Div 2 - Lilies vs Sonoblomo" tvg-name="13:00 TNL '26 Div 2 : Lilies vs Sonoblomo - 01/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Netball", SuperSport Variety 4
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=419
