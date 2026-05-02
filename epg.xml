@@ -48876,12 +48876,6 @@ Moderna?</sub-title>
   <channel id="englandleaguetwofleetwoodtownvsmiltonkeynesdons">
     <display-name>England - League Two : Fleetwood Town vs Milton Keynes Dons</display-name>
   </channel>
-  <channel id="indonesiasuperleaguepersebayasurabayavspsbsbiaknumfor">
-    <display-name>Indonesia - Super League : Persebaya Surabaya vs PSBS Biak Numfor</display-name>
-  </channel>
-  <channel id="russianwomenssuperleaguezvezda2005permvslokomotivmoscow">
-    <display-name>Russian Women's Super League : Zvezda-2005 Perm vs Lokomotiv Moscow</display-name>
-  </channel>
   <channel id="dfbnachwuchsliga1fcklnu19vsfcbayernmnchenu19">
     <display-name>DFB-Nachwuchsliga: 1. FC Köln U19 vs FC Bayern München U19</display-name>
   </channel>
@@ -49766,9 +49760,6 @@ Moderna?</sub-title>
   </channel>
   <channel id="wsltoursurfgoldcoastproworldsurfleague">
     <display-name>WSL Tour Surf: Gold Coast Pro - World Surf League</display-name>
-  </channel>
-  <channel id="tourofturkiyestage7menantalya1561km">
-    <display-name>Tour of Turkiye | Stage 7 Men | Antalya (156.1km)</display-name>
   </channel>
   <channel id="tourderomandiestage4menbroccharmey1496km">
     <display-name>Tour de Romandie | Stage 4 Men | Broc – Charmey (149.6km)</display-name>
@@ -50740,26 +50731,6 @@ Moderna?</sub-title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">England - League Two : Fleetwood Town vs Milton Keynes Dons</desc>
     <category lang="it">England - League One/Two</category>
-  </programme>
-  <programme start="20260502000000 +0200" stop="20260502103000 +0200" channel="indonesiasuperleaguepersebayasurabayavspsbsbiaknumfor">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">Indonesia - Super League : Persebaya Surabaya vs PSBS Biak Numfor.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260502103000 +0200" stop="20260502123000 +0200" channel="indonesiasuperleaguepersebayasurabayavspsbsbiaknumfor">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Indonesia - Super League : Persebaya Surabaya vs PSBS Biak Numfor</desc>
-    <category lang="it">Scottish Premiership</category>
-  </programme>
-  <programme start="20260502000000 +0200" stop="20260502103000 +0200" channel="russianwomenssuperleaguezvezda2005permvslokomotivmoscow">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">Russian Women's Super League : Zvezda-2005 Perm vs Lokomotiv Moscow.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260502103000 +0200" stop="20260502123000 +0200" channel="russianwomenssuperleaguezvezda2005permvslokomotivmoscow">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Russian Women's Super League : Zvezda-2005 Perm vs Lokomotiv Moscow</desc>
-    <category lang="it">Scottish Premiership</category>
   </programme>
   <programme start="20260502000000 +0200" stop="20260502110000 +0200" channel="dfbnachwuchsliga1fcklnu19vsfcbayernmnchenu19">
     <title lang="it">Inizia alle 11:00.</title>
@@ -63140,86 +63111,6 @@ Moderna?</sub-title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">WSL Tour Surf: Gold Coast Pro - World Surf League</desc>
     <category lang="it">Sailing / Boating</category>
-  </programme>
-  <programme start="20260502000000 +0200" stop="20260502103000 +0200" channel="tourofturkiyestage7menantalya1561km">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">Tour of Turkiye | Stage 7 Men | Antalya (156.1km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260502103000 +0200" stop="20260502123000 +0200" channel="tourofturkiyestage7menantalya1561km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of Turkiye | Stage 7 Men | Antalya (156.1km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260502000000 +0200" stop="20260502103000 +0200" channel="tourofturkiyestage7menantalya1561km">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">Tour of Turkiye | Stage 7 Men | Antalya (156.1km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260502103000 +0200" stop="20260502123000 +0200" channel="tourofturkiyestage7menantalya1561km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of Turkiye | Stage 7 Men | Antalya (156.1km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260502000000 +0200" stop="20260502103000 +0200" channel="tourofturkiyestage7menantalya1561km">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">Tour of Turkiye | Stage 7 Men | Antalya (156.1km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260502103000 +0200" stop="20260502123000 +0200" channel="tourofturkiyestage7menantalya1561km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of Turkiye | Stage 7 Men | Antalya (156.1km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260502000000 +0200" stop="20260502103000 +0200" channel="tourofturkiyestage7menantalya1561km">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">Tour of Turkiye | Stage 7 Men | Antalya (156.1km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260502103000 +0200" stop="20260502123000 +0200" channel="tourofturkiyestage7menantalya1561km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of Turkiye | Stage 7 Men | Antalya (156.1km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260502000000 +0200" stop="20260502103000 +0200" channel="tourofturkiyestage7menantalya1561km">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">Tour of Turkiye | Stage 7 Men | Antalya (156.1km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260502103000 +0200" stop="20260502123000 +0200" channel="tourofturkiyestage7menantalya1561km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of Turkiye | Stage 7 Men | Antalya (156.1km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260502000000 +0200" stop="20260502103000 +0200" channel="tourofturkiyestage7menantalya1561km">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">Tour of Turkiye | Stage 7 Men | Antalya (156.1km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260502103000 +0200" stop="20260502123000 +0200" channel="tourofturkiyestage7menantalya1561km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of Turkiye | Stage 7 Men | Antalya (156.1km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260502000000 +0200" stop="20260502103000 +0200" channel="tourofturkiyestage7menantalya1561km">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">Tour of Turkiye | Stage 7 Men | Antalya (156.1km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260502103000 +0200" stop="20260502123000 +0200" channel="tourofturkiyestage7menantalya1561km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of Turkiye | Stage 7 Men | Antalya (156.1km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260502000000 +0200" stop="20260502103000 +0200" channel="tourofturkiyestage7menantalya1561km">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">Tour of Turkiye | Stage 7 Men | Antalya (156.1km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260502103000 +0200" stop="20260502123000 +0200" channel="tourofturkiyestage7menantalya1561km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of Turkiye | Stage 7 Men | Antalya (156.1km)</desc>
-    <category lang="it">Cycling</category>
   </programme>
   <programme start="20260502000000 +0200" stop="20260502140000 +0200" channel="tourderomandiestage4menbroccharmey1496km">
     <title lang="it">Inizia alle 14:00.</title>
