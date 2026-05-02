@@ -4025,6 +4025,15 @@ https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=htt
 #EXTINF:-1 tvg-id="IIHF U18 Bronze Medal Game - Czechia U18 vs. Latvia U18" tvg-name="15:00 IIHF U18 Bronze Medal Game : Czechia U18 vs. Latvia U18 - 02/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Iihf U18 Ice Hockey", Sport1+ DE
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=640
 
+#EXTINF:-1 tvg-id="IIHF U18 Final - Slovakia U18 vs. Sweden U18" tvg-name="19:00 IIHF U18 Final : Slovakia U18 vs. Sweden U18 - 02/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Iihf U18 Ice Hockey", NHL Network USA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=663
+
+#EXTINF:-1 tvg-id="IIHF U18 Final - Slovakia U18 vs. Sweden U18" tvg-name="19:00 IIHF U18 Final : Slovakia U18 vs. Sweden U18 - 02/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Iihf U18 Ice Hockey", TSN1
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=111
+
+#EXTINF:-1 tvg-id="IIHF U18 Final - Slovakia U18 vs. Sweden U18" tvg-name="19:00 IIHF U18 Final : Slovakia U18 vs. Sweden U18 - 02/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Iihf U18 Ice Hockey", RDS 2 CA
+https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=840
+
 #EXTINF:-1 tvg-id="IIHF U18 Final - Slovakia U18 vs. Sweden U18" tvg-name="19:00 IIHF U18 Final : Slovakia U18 vs. Sweden U18 - 02/05/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Iihf U18 Ice Hockey", Magenta Sport 317
 https://mfp2.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://https://dlhd.dad/watch.php?id=17
 
