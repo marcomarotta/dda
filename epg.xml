@@ -48813,15 +48813,6 @@ L'Aquila E Il Leone</title>
   <channel id="nhradragracingsouthernnationals">
     <display-name>NHRA Drag Racing Southern Nationals</display-name>
   </channel>
-  <channel id="indonesiasuperleaguepersikkedirivsarema">
-    <display-name>Indonesia - Super League : Persik Kediri vs Arema</display-name>
-  </channel>
-  <channel id="slovakia2futbalovligapetralkaakadmiavsduklabanskbystrica">
-    <display-name>Slovakia - 2. Futbalová Liga : Petržalka akadémia vs Dukla Banská Bystrica</display-name>
-  </channel>
-  <channel id="u19dfbnachwuchsligatsghoffenheimu19vsfcschalke04u19">
-    <display-name>U19 DFB Nachwuchsliga : TSG Hoffenheim U19 vs FC Schalke 04 U19</display-name>
-  </channel>
   <channel id="denmarkaligabrndbyvsfortunahjrring">
     <display-name>Denmark - A-Liga : Brøndby vs Fortuna Hjørring</display-name>
   </channel>
@@ -49359,17 +49350,11 @@ L'Aquila E Il Leone</title>
   <channel id="indianpremierleaguegujarattitansvskingsxipunjab">
     <display-name>Indian Premier League : Gujarat Titans vs Kings XI Punjab</display-name>
   </channel>
-  <channel id="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <display-name>2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals</display-name>
-  </channel>
   <channel id="wta1000madridcouplesfinalmirraaleksandrovnaandreevadianamaximovnashnaidervssiniakovakkateinasiniakovtaylortownsend">
     <display-name>WTA 1000 Madrid: (couples) - FINAL: Mirra Aleksandrovna Andreeva/Diana Maximovna Shnaider vs Siniakova K. Kateřina Siniaková/Taylor Townsend</display-name>
   </channel>
   <channel id="atpmastersmadridfinaljanniksinnervsalexanderzverev">
     <display-name>ATP Masters Madrid: FINAL: Jannik Sinner vs Alexander Zverev</display-name>
-  </channel>
-  <channel id="worldsbkround4hungarysuperpolerace">
-    <display-name>WorldSBK | Round 4 | Hungary Superpole Race</display-name>
   </channel>
   <channel id="fiaformulaeberlineprixqualifying">
     <display-name>FIA Formula E : Berlin ePrix: Qualifying</display-name>
@@ -49427,9 +49412,6 @@ L'Aquila E Il Leone</title>
   </channel>
   <channel id="tabletennisteamworldchampionshipswedenvschina">
     <display-name>Table Tennis Team World Championship : Sweden vs China</display-name>
-  </channel>
-  <channel id="ladieseuropeantourmcbladiesclassicmauritius">
-    <display-name>Ladies European Tour MCB Ladies Classic Mauritius</display-name>
   </channel>
   <channel id="dpworldtourturkishairlinesopen">
     <display-name>DP World Tour Turkish Airlines Open</display-name>
@@ -49533,9 +49515,6 @@ L'Aquila E Il Leone</title>
   <channel id="minorleaguebaseballcolumbiafirefliesvsmyrtlebeachpelicans">
     <display-name>Minor League Baseball : Columbia Fireflies vs Myrtle Beach Pelicans</display-name>
   </channel>
-  <channel id="vtbunitedleagueeniseyvscskamoscow">
-    <display-name>VTB United League : Enisey vs CSKA Moscow</display-name>
-  </channel>
   <channel id="sperligimerkezefendiatbuyukcekmece">
     <display-name>Süper Ligi : Merkezefendi at Buyukcekmece</display-name>
   </channel>
@@ -49628,9 +49607,6 @@ L'Aquila E Il Leone</title>
   </channel>
   <channel id="nbaclevelandcavaliersvstorontoraptors">
     <display-name>NBA :Cleveland Cavaliers vs Toronto Raptors</display-name>
-  </channel>
-  <channel id="tourofturkiyestage8menankara1084km">
-    <display-name>Tour of Turkiye | Stage 8 Men | Ankara (108.4km)</display-name>
   </channel>
   <channel id="thewomenstourstage1marinsalvaterrademio113km">
     <display-name>The Women's Tour | Stage 1 Marin - Salvaterra de Mi?o (113km)</display-name>
@@ -49745,9 +49721,6 @@ L'Aquila E Il Leone</title>
   </channel>
   <channel id="netballsuperleaguelondonpulsevsloughboroughlightning">
     <display-name>Netball Superleague : London Pulse vs. Loughborough Lightning</display-name>
-  </channel>
-  <channel id="nationalrugbyleaguepenrithpanthersvsmanlyseaeagles">
-    <display-name>National Rugby League : Penrith Panthers vs Manly Sea Eagles</display-name>
   </channel>
   <channel id="superleaguerugbyhullfcvstoulouse">
     <display-name>Super League Rugby : Hull FC vs Toulouse</display-name>
@@ -50027,36 +50000,6 @@ L'Aquila E Il Leone</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">NHRA Drag Racing Southern Nationals</desc>
     <category lang="it">TV Shows</category>
-  </programme>
-  <programme start="20260503000000 +0200" stop="20260503103000 +0200" channel="indonesiasuperleaguepersikkedirivsarema">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">Indonesia - Super League : Persik Kediri vs Arema.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503103000 +0200" stop="20260503123000 +0200" channel="indonesiasuperleaguepersikkedirivsarema">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Indonesia - Super League : Persik Kediri vs Arema</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260503000000 +0200" stop="20260503103000 +0200" channel="slovakia2futbalovligapetralkaakadmiavsduklabanskbystrica">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">Slovakia - 2. Futbalová Liga : Petržalka akadémia vs Dukla Banská Bystrica.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503103000 +0200" stop="20260503123000 +0200" channel="slovakia2futbalovligapetralkaakadmiavsduklabanskbystrica">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Slovakia - 2. Futbalová Liga : Petržalka akadémia vs Dukla Banská Bystrica</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260503000000 +0200" stop="20260503110000 +0200" channel="u19dfbnachwuchsligatsghoffenheimu19vsfcschalke04u19">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">U19 DFB Nachwuchsliga : TSG Hoffenheim U19 vs FC Schalke 04 U19.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503110000 +0200" stop="20260503130000 +0200" channel="u19dfbnachwuchsligatsghoffenheimu19vsfcschalke04u19">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">U19 DFB Nachwuchsliga : TSG Hoffenheim U19 vs FC Schalke 04 U19</desc>
-    <category lang="it">Soccer</category>
   </programme>
   <programme start="20260503000000 +0200" stop="20260503113000 +0200" channel="denmarkaligabrndbyvsfortunahjrring">
     <title lang="it">Inizia alle 11:30.</title>
@@ -58788,256 +58731,6 @@ L'Aquila E Il Leone</title>
     <desc lang="it">Indian Premier League : Gujarat Titans vs Kings XI Punjab</desc>
     <category lang="it">Cricket</category>
   </programme>
-  <programme start="20260503000000 +0200" stop="20260503110000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503110000 +0200" stop="20260503130000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20260503000000 +0200" stop="20260503110000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503110000 +0200" stop="20260503130000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20260503000000 +0200" stop="20260503110000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503110000 +0200" stop="20260503130000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20260503000000 +0200" stop="20260503110000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503110000 +0200" stop="20260503130000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20260503000000 +0200" stop="20260503110000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503110000 +0200" stop="20260503130000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20260503000000 +0200" stop="20260503110000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503110000 +0200" stop="20260503130000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20260503000000 +0200" stop="20260503110000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503110000 +0200" stop="20260503130000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20260503000000 +0200" stop="20260503110000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503110000 +0200" stop="20260503130000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20260503000000 +0200" stop="20260503110000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503110000 +0200" stop="20260503130000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20260503000000 +0200" stop="20260503110000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503110000 +0200" stop="20260503130000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20260503000000 +0200" stop="20260503110000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503110000 +0200" stop="20260503130000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20260503000000 +0200" stop="20260503110000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503110000 +0200" stop="20260503130000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20260503000000 +0200" stop="20260503110000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503110000 +0200" stop="20260503130000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20260503000000 +0200" stop="20260503110000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503110000 +0200" stop="20260503130000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20260503000000 +0200" stop="20260503110000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503110000 +0200" stop="20260503130000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20260503000000 +0200" stop="20260503110000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503110000 +0200" stop="20260503130000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20260503000000 +0200" stop="20260503110000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503110000 +0200" stop="20260503130000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20260503000000 +0200" stop="20260503110000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503110000 +0200" stop="20260503130000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20260503000000 +0200" stop="20260503110000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503110000 +0200" stop="20260503130000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20260503000000 +0200" stop="20260503110000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503110000 +0200" stop="20260503130000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20260503000000 +0200" stop="20260503110000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503110000 +0200" stop="20260503130000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20260503000000 +0200" stop="20260503110000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503110000 +0200" stop="20260503130000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20260503000000 +0200" stop="20260503110000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503110000 +0200" stop="20260503130000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20260503000000 +0200" stop="20260503110000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503110000 +0200" stop="20260503130000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20260503000000 +0200" stop="20260503110000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503110000 +0200" stop="20260503130000 +0200" channel="2026mutuamadridopentennisatpwtasinglesampdoublesfinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals</desc>
-    <category lang="it">Tennis</category>
-  </programme>
   <programme start="20260503000000 +0200" stop="20260503140000 +0200" channel="wta1000madridcouplesfinalmirraaleksandrovnaandreevadianamaximovnashnaidervssiniakovakkateinasiniakovtaylortownsend">
     <title lang="it">Inizia alle 14:00.</title>
     <desc lang="it">WTA 1000 Madrid: (couples) - FINAL: Mirra Aleksandrovna Andreeva/Diana Maximovna Shnaider vs Siniakova K. Kateřina Siniaková/Taylor Townsend.</desc>
@@ -59117,26 +58810,6 @@ L'Aquila E Il Leone</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">ATP Masters Madrid: FINAL: Jannik Sinner vs Alexander Zverev</desc>
     <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20260503000000 +0200" stop="20260503110000 +0200" channel="worldsbkround4hungarysuperpolerace">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">WorldSBK | Round 4 | Hungary Superpole Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503110000 +0200" stop="20260503130000 +0200" channel="worldsbkround4hungarysuperpolerace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WorldSBK | Round 4 | Hungary Superpole Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260503000000 +0200" stop="20260503110000 +0200" channel="worldsbkround4hungarysuperpolerace">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">WorldSBK | Round 4 | Hungary Superpole Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503110000 +0200" stop="20260503130000 +0200" channel="worldsbkround4hungarysuperpolerace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WorldSBK | Round 4 | Hungary Superpole Race</desc>
-    <category lang="it">Motorsport</category>
   </programme>
   <programme start="20260503000000 +0200" stop="20260503113000 +0200" channel="fiaformulaeberlineprixqualifying">
     <title lang="it">Inizia alle 11:30.</title>
@@ -60037,16 +59710,6 @@ L'Aquila E Il Leone</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Table Tennis Team World Championship : Sweden vs China</desc>
     <category lang="it">Table Tennis</category>
-  </programme>
-  <programme start="20260503000000 +0200" stop="20260503110000 +0200" channel="ladieseuropeantourmcbladiesclassicmauritius">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">Ladies European Tour MCB Ladies Classic Mauritius.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503110000 +0200" stop="20260503130000 +0200" channel="ladieseuropeantourmcbladiesclassicmauritius">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Ladies European Tour MCB Ladies Classic Mauritius</desc>
-    <category lang="it">Golf</category>
   </programme>
   <programme start="20260503000000 +0200" stop="20260503130000 +0200" channel="dpworldtourturkishairlinesopen">
     <title lang="it">Inizia alle 13:00.</title>
@@ -61398,16 +61061,6 @@ L'Aquila E Il Leone</title>
     <desc lang="it">Minor League Baseball : Columbia Fireflies vs Myrtle Beach Pelicans</desc>
     <category lang="it">Minor League Baseball</category>
   </programme>
-  <programme start="20260503000000 +0200" stop="20260503110000 +0200" channel="vtbunitedleagueeniseyvscskamoscow">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">VTB United League : Enisey vs CSKA Moscow.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503110000 +0200" stop="20260503130000 +0200" channel="vtbunitedleagueeniseyvscskamoscow">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">VTB United League : Enisey vs CSKA Moscow</desc>
-    <category lang="it">Basketball</category>
-  </programme>
   <programme start="20260503000000 +0200" stop="20260503120000 +0200" channel="sperligimerkezefendiatbuyukcekmece">
     <title lang="it">Inizia alle 12:00.</title>
     <desc lang="it">Süper Ligi : Merkezefendi at Buyukcekmece.</desc>
@@ -62018,96 +61671,6 @@ L'Aquila E Il Leone</title>
     <desc lang="it">NBA :Cleveland Cavaliers vs Toronto Raptors</desc>
     <category lang="it">NBA</category>
   </programme>
-  <programme start="20260503000000 +0200" stop="20260503103000 +0200" channel="tourofturkiyestage8menankara1084km">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">Tour of Turkiye | Stage 8 Men | Ankara (108.4km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503103000 +0200" stop="20260503123000 +0200" channel="tourofturkiyestage8menankara1084km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of Turkiye | Stage 8 Men | Ankara (108.4km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260503000000 +0200" stop="20260503103000 +0200" channel="tourofturkiyestage8menankara1084km">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">Tour of Turkiye | Stage 8 Men | Ankara (108.4km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503103000 +0200" stop="20260503123000 +0200" channel="tourofturkiyestage8menankara1084km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of Turkiye | Stage 8 Men | Ankara (108.4km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260503000000 +0200" stop="20260503103000 +0200" channel="tourofturkiyestage8menankara1084km">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">Tour of Turkiye | Stage 8 Men | Ankara (108.4km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503103000 +0200" stop="20260503123000 +0200" channel="tourofturkiyestage8menankara1084km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of Turkiye | Stage 8 Men | Ankara (108.4km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260503000000 +0200" stop="20260503103000 +0200" channel="tourofturkiyestage8menankara1084km">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">Tour of Turkiye | Stage 8 Men | Ankara (108.4km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503103000 +0200" stop="20260503123000 +0200" channel="tourofturkiyestage8menankara1084km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of Turkiye | Stage 8 Men | Ankara (108.4km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260503000000 +0200" stop="20260503103000 +0200" channel="tourofturkiyestage8menankara1084km">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">Tour of Turkiye | Stage 8 Men | Ankara (108.4km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503103000 +0200" stop="20260503123000 +0200" channel="tourofturkiyestage8menankara1084km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of Turkiye | Stage 8 Men | Ankara (108.4km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260503000000 +0200" stop="20260503103000 +0200" channel="tourofturkiyestage8menankara1084km">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">Tour of Turkiye | Stage 8 Men | Ankara (108.4km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503103000 +0200" stop="20260503123000 +0200" channel="tourofturkiyestage8menankara1084km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of Turkiye | Stage 8 Men | Ankara (108.4km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260503000000 +0200" stop="20260503103000 +0200" channel="tourofturkiyestage8menankara1084km">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">Tour of Turkiye | Stage 8 Men | Ankara (108.4km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503103000 +0200" stop="20260503123000 +0200" channel="tourofturkiyestage8menankara1084km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of Turkiye | Stage 8 Men | Ankara (108.4km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260503000000 +0200" stop="20260503103000 +0200" channel="tourofturkiyestage8menankara1084km">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">Tour of Turkiye | Stage 8 Men | Ankara (108.4km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503103000 +0200" stop="20260503123000 +0200" channel="tourofturkiyestage8menankara1084km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of Turkiye | Stage 8 Men | Ankara (108.4km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260503000000 +0200" stop="20260503103000 +0200" channel="tourofturkiyestage8menankara1084km">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">Tour of Turkiye | Stage 8 Men | Ankara (108.4km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503103000 +0200" stop="20260503123000 +0200" channel="tourofturkiyestage8menankara1084km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of Turkiye | Stage 8 Men | Ankara (108.4km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
   <programme start="20260503000000 +0200" stop="20260503124500 +0200" channel="thewomenstourstage1marinsalvaterrademio113km">
     <title lang="it">Inizia alle 12:45.</title>
     <desc lang="it">The Women's Tour | Stage 1 Marin - Salvaterra de Mi?o (113km).</desc>
@@ -62657,56 +62220,6 @@ L'Aquila E Il Leone</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Netball Superleague : London Pulse vs. Loughborough Lightning</desc>
     <category lang="it">Netball</category>
-  </programme>
-  <programme start="20260503000000 +0200" stop="20260503101500 +0200" channel="nationalrugbyleaguepenrithpanthersvsmanlyseaeagles">
-    <title lang="it">Inizia alle 10:15.</title>
-    <desc lang="it">National Rugby League : Penrith Panthers vs Manly Sea Eagles.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503101500 +0200" stop="20260503121500 +0200" channel="nationalrugbyleaguepenrithpanthersvsmanlyseaeagles">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">National Rugby League : Penrith Panthers vs Manly Sea Eagles</desc>
-    <category lang="it">Rugby League</category>
-  </programme>
-  <programme start="20260503000000 +0200" stop="20260503101500 +0200" channel="nationalrugbyleaguepenrithpanthersvsmanlyseaeagles">
-    <title lang="it">Inizia alle 10:15.</title>
-    <desc lang="it">National Rugby League : Penrith Panthers vs Manly Sea Eagles.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503101500 +0200" stop="20260503121500 +0200" channel="nationalrugbyleaguepenrithpanthersvsmanlyseaeagles">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">National Rugby League : Penrith Panthers vs Manly Sea Eagles</desc>
-    <category lang="it">Rugby League</category>
-  </programme>
-  <programme start="20260503000000 +0200" stop="20260503101500 +0200" channel="nationalrugbyleaguepenrithpanthersvsmanlyseaeagles">
-    <title lang="it">Inizia alle 10:15.</title>
-    <desc lang="it">National Rugby League : Penrith Panthers vs Manly Sea Eagles.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503101500 +0200" stop="20260503121500 +0200" channel="nationalrugbyleaguepenrithpanthersvsmanlyseaeagles">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">National Rugby League : Penrith Panthers vs Manly Sea Eagles</desc>
-    <category lang="it">Rugby League</category>
-  </programme>
-  <programme start="20260503000000 +0200" stop="20260503101500 +0200" channel="nationalrugbyleaguepenrithpanthersvsmanlyseaeagles">
-    <title lang="it">Inizia alle 10:15.</title>
-    <desc lang="it">National Rugby League : Penrith Panthers vs Manly Sea Eagles.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503101500 +0200" stop="20260503121500 +0200" channel="nationalrugbyleaguepenrithpanthersvsmanlyseaeagles">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">National Rugby League : Penrith Panthers vs Manly Sea Eagles</desc>
-    <category lang="it">Rugby League</category>
-  </programme>
-  <programme start="20260503000000 +0200" stop="20260503101500 +0200" channel="nationalrugbyleaguepenrithpanthersvsmanlyseaeagles">
-    <title lang="it">Inizia alle 10:15.</title>
-    <desc lang="it">National Rugby League : Penrith Panthers vs Manly Sea Eagles.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503101500 +0200" stop="20260503121500 +0200" channel="nationalrugbyleaguepenrithpanthersvsmanlyseaeagles">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">National Rugby League : Penrith Panthers vs Manly Sea Eagles</desc>
-    <category lang="it">Rugby League</category>
   </programme>
   <programme start="20260503000000 +0200" stop="20260503160000 +0200" channel="superleaguerugbyhullfcvstoulouse">
     <title lang="it">Inizia alle 16:00.</title>
